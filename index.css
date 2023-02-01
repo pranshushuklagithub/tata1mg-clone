@@ -1,0 +1,34 @@
+
+  #slider {
+    position: absolute;
+    display: flex;
+    width: 70%;
+    height: 250px;
+    background-color: aqua;
+    cursor: pointer;
+  }
+  #slider > img {
+    width: 100%;
+    height: 250px;
+  }
+  
+
+  
+  #flexBox-1 {
+    display: flex;
+    position: fixed;
+    width: 100%;
+    height: 250;
+    background-color: aquamarine;
+  }
+  #fixedImage{
+    margin-right: 10px;
+  }
+  
+
+  
+  
+
+  
+
+  
