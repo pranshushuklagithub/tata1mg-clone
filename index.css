@@ -87,13 +87,10 @@
   }
   
 
-  #flexBox-2  > button{
-    width: 2%;
-    height: 20%;
-    text-align: center;
-    border-radius: 60%;
-  }
+  
 
+  
+  
 
 
   #flexBox-3 {
@@ -138,6 +135,11 @@
     width: 5%;
     height: 4%;
     margin-right: 3%;
+  }
+
+  #see-all {
+    text-align: center;
+    cursor: pointer;
   }
   
   
