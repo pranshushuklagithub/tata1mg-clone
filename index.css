@@ -59,29 +59,27 @@
     width: 100%;
   }
 
-  #flexBox-2 {
-    display: flex;
-    width: 100%;
+  #gridBox-1 {
+    display: grid;
+    width: 96%;
+    grid-template-columns: repeat(8,1fr);
     align-items: center;
     text-align: center;
-    justify-content: center;
-    height: 250px;
-    /* box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px; */
+    padding: 2%;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
   }
 
-  #flexBox-2 > div {
-    width: 10%;
+  #gridBox-1 > div {
+    width: 60%;
+    height: 170px;
     text-align: center;
     margin-top: 2%;
-    padding: 2%;
-    height: 70%
+    margin-left: 60%;
   }
 
-  #flexBox-2 > div > image {
-    width: 100%;
-  }
+ 
 
-  #flexBox-2 > div:hover{
+  #gridBox-1 > div:hover{
     cursor: pointer;
     box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
   }
@@ -93,47 +91,39 @@
   
 
 
-  #flexBox-3 {
-    display: flex;
-    width: 100%;
+  #gridBox-2 {
+    display: grid;
+    width: 96%;
+    grid-template-columns: repeat(8,1fr);
     align-items: center;
     text-align: center;
-    justify-content: center;
-    height: 250px;
-    /* box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px; */
+    padding: 2%;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
   }
 
-  #flexBox-3 > div {
-    width: 10%;
+  #gridBox-2 > div {
+    width: 60%;
+    height: 170px;
     text-align: center;
     margin-top: 2%;
-    padding: 2%;
-    height: 70%;
+    margin-left: 60%;
   }
 
-  #flexBox-3 > div > image {
-    width: 100%;
-  }
+  
 
-  #flexBox-3 > div:hover{
+  #gridBox-2 > div:hover{
     cursor: pointer;
     box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
   }
   
 
-  #flexBox-3  > button{
-    width: 2%;
-    height: 20%;
-    text-align: center;
-    border-radius: 60%;
-  }
+  
 
   #see-all {
     background-color: #ff6f61;
     color: white;
     border-radius: 5px;
     width: 5%;
-    height: 4%;
     margin-right: 3%;
   }
 
