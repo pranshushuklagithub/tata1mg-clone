@@ -79,6 +79,10 @@ function scrollRight() {
 
     document.getElementById("option-first").style.display = "none";
     document.getElementById("option-second").style.display = "none";
+
+    document.getElementById("option-last").style.display = "block";
+    document.getElementById("option-2ndlast").style.display = "block";
+    
     document.getElementById("right-Scroll").style.display = "none";
     document.getElementById("left-Scroll").style.display = "block";
 
@@ -89,6 +93,10 @@ function scrollLeft() {
 
     document.getElementById("option-last").style.display = "none";
     document.getElementById("option-2ndlast").style.display = "none";
+
+    document.getElementById("option-first").style.display = "block";
+    document.getElementById("option-second").style.display = "block";
+
     document.getElementById("left-Scroll").style.display = "none";
     document.getElementById("right-Scroll").style.display = "block";
 
