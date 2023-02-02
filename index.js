@@ -26,6 +26,10 @@ document.getElementById("option-last-flex3").style.display = "none";
 document.getElementById("option-2ndlast-flex3").style.display = "none";
 document.getElementById("left-Scroll-flex3").style.display = "none";
 
+document.getElementById("option-last-grid").style.display = "none";
+document.getElementById("option-2ndlast-grid").style.display = "none";
+document.getElementById("left-Scroll-grid").style.display = "none";
+
 }
 
 // By this function the slide is getting changed
@@ -95,9 +99,30 @@ function scrollRight(x) {
         document.getElementById("left-Scroll").style.display = "none";
         document.getElementById("right-Scroll").style.display = "block";
     }
-    
+     
+}
 
-    
+function scrollRightgrid(x) {
+    if(x==1) {
+        document.getElementById("option-first-grid").style.display = "none";
+        document.getElementById("option-second-grid").style.display = "none";
+
+        document.getElementById("option-last-grid").style.display = "block";
+        document.getElementById("option-2ndlast-grid").style.display = "block";
+
+        document.getElementById("right-Scroll-grid").style.display = "none";
+        document.getElementById("left-Scroll-grid").style.display = "block";
+    }else {
+        document.getElementById("option-last-grid").style.display = "none";
+        document.getElementById("option-2ndlast-grid").style.display = "none";
+
+        document.getElementById("option-first-grid").style.display = "block";
+        document.getElementById("option-second-grid").style.display = "block";
+
+        document.getElementById("left-Scroll-grid").style.display = "none";
+        document.getElementById("right-Scroll-grid").style.display = "block";
+    }
+     
 }
 
 
@@ -127,6 +152,13 @@ function scrollRightflex(x) {
     }
 
     
+}
+
+
+
+function productSlider() {
+    
+
 }
 
 
