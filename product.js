@@ -2,26 +2,42 @@ import {products} from "./products.js";
 
 var filtersData=products;
 var Dataobj=JSON.parse(localStorage.getItem("1mg-cart"))||[];
-//console.log(products);
+var elemperpage=15;
+var pagenum=1;
+var totalpages=2;
 filterProd("A");
-
+  
 function filterProd(alphabet){
+    elemperpage=15;
+    pagenum=1;
     document.querySelector("#mind").textContent="Medicine Index starting with - "+alphabet;
     filtersData=products.filter((prod)=>{
         return prod.Title.startsWith(alphabet);
     });
+    totalpages=Math.ceil(filtersData.length/elemperpage);
     DisplayData();
 }
 function DisplayData(){
     console.log(filtersData);
+    var sindex=(pagenum-1)*elemperpage;
+    document.querySelector("#sindex").textContent=sindex;
+    var eindex=sindex+elemperpage;
+    document.querySelector("#eindex").textContent=eindex;
+    document.querySelector("#tlength").textContent=filtersData.length;
+    document.querySelector("#pageno").textContent=pagenum;
+    var perpagedata=filtersData.slice(sindex,eindex);
     var grid=document.querySelector("#gridcon");
     grid.textContent="";
-    filtersData.forEach((data)=>{
+    perpagedata.forEach((data)=>{
         console.log(data.Title);
         var div=document.createElement("div");
         div.setAttribute("id","items");
         var div4=document.createElement("div");
         div4.setAttribute("id","div4");
+        div4.addEventListener("click",()=>{
+            localStorage.setItem("1mg-prod",JSON.stringify(data));
+            window.location="perproduct.html";
+        });
         var div1=document.createElement("div");
         div1.setAttribute("id","div1");
         var image=document.createElement("img");
@@ -52,12 +68,38 @@ function DisplayData(){
         add.setAttribute("id","cartbutton");
         add.textContent="ADD"
         add.addEventListener("click",()=>{
-            Addcart(data);
+            add.textContent="ADDING..."
+            setTimeout(()=>{
+                Addcart(data);
+                add.textContent="✔ ADDED";
+                setTimeout(()=>{
+                    add.textContent="ADD";
+                },1500);
+            },1500);
+            
+            //Addcart(data);
         });
+        add.textContent="ADD";
         div3.append(price,add);
         div.append(div4,div3);
         grid.append(div);
     });
+    var prv=document.querySelector("#prev");
+    if(pagenum===1){
+        prv.disabled=true;
+        prv.style.color="#666";
+    }else{
+        prv.disabled=false;
+        prv.style.color="#ff6f61";
+    }
+    var nxt=document.querySelector("#next");
+    if(pagenum===totalpages){
+        nxt.disabled=true;
+        nxt.style.color="#666";
+    }else{
+        nxt.disabled=false;
+        nxt.style.color="#ff6f61";
+    }
 }
 var filters=document.querySelectorAll(".filter");
 filters.forEach((filter)=>{
@@ -77,5 +119,17 @@ function Addcart(elem){
     Dataobj=JSON.parse(localStorage.getItem("1mg-cart"))||[];
     Dataobj.push(elem);
     localStorage.setItem("1mg-cart",JSON.stringify(Dataobj));
-    
 }
+var previous=document.querySelector("#prev");
+var next=document.querySelector("#next");
+previous.addEventListener("click",()=>{
+    pagenum--;
+    window.scrollTo(0, 0);
+    DisplayData();
+});
+next.addEventListener("click",()=>{
+    pagenum++;
+    window.scrollTo(0, 0);
+    DisplayData();
+
+});

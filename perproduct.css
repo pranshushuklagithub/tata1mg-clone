@@ -1,0 +1,89 @@
+body{
+    font-family: "Clear Sans","Helvetica Neue",Helvetica,Arial,sans-serif;
+}
+#content{
+    display: flex;
+    justify-content: space-around;
+}
+#right{
+    width: 12%;
+}
+#center{
+    width: 60%;
+    overflow: hidden;
+    padding: 20px;
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+}
+#left{
+    width: 25%;
+}
+#overview{
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+    display: flex;
+    flex-direction: column;
+}
+#overview>button{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border: none;
+    background-color: transparent;
+    font-size: large;
+    margin: 0 10px;
+    overflow: hidden;
+    text-align: left;
+}
+#overview>button:hover{
+    font-size: larger;
+    font-weight: 800;
+}
+button.active{
+    font-weight: 600;
+}
+.DrugOverview__content___22ZBX{
+    color: #666;
+    font-size: large;
+    line-height: 1.5;
+}
+#pdes{
+    padding: 10px;
+}
+#center>hr{
+    color: #666;
+}
+#ptitle{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+#ptitle>img{
+    height: 30px;
+    width: 30px;
+}
+#plist{
+    display: flex;
+    flex-direction: column;
+}
+#plist>h4{
+    color: #666;
+    margin-bottom: 0;
+    font-weight: 600;
+    line-height: 1.3;
+}
+#plist>p{
+    font-size: medium;
+    font-weight: 500;
+}
+#presdiv{
+    display: flex;
+    align-items: center;
+    margin-bottom: 0;
+    
+}
+#presdiv>img{
+    height: 20px;
+}
+#div4{
+    display: flex;
+    justify-content: space-between;
+}

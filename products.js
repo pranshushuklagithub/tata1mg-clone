@@ -7,7 +7,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 10 tablets",
     "Like2": "Glaxo SmithKline Pharmaceuticals Ltd",
-    "Keywords": "Amoxycillin (500mg) + Clavulanic Acid (125mg) ADD",
+    "Keywords": "Amoxycillin (500mg) + Clavulanic Acid (125mg)",
     "quantity": "1" 
   },
   {
@@ -18,7 +18,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "bottle of 100 ml Syrup",
     "Like2": "Glenmark Pharmaceuticals Ltd",
-    "Keywords": "Ambroxol (30mg/5ml) + Levosalbutamol (1mg/5ml) + Guaifenesin (50mg/5ml) ADD",
+    "Keywords": "Ambroxol (30mg/5ml) + Levosalbutamol (1mg/5ml) + Guaifenesin (50mg/5ml)",
     "quantity": "1" 
   },
   {
@@ -29,7 +29,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 5 tablets",
     "Like2": "Alembic Pharmaceuticals Ltd",
-    "Keywords": "Azithromycin (500mg) ADD",
+    "Keywords": "Azithromycin (500mg)",
     "quantity": "1" 
   },
   {
@@ -40,7 +40,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 10 tablets",
     "Like2": "Sanofi India  Ltd",
-    "Keywords": "Fexofenadine (120mg) ADD",
+    "Keywords": "Fexofenadine (120mg)",
     "quantity": "1" 
   },
   {
@@ -51,7 +51,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 10 tablets",
     "Like2": "Abbott",
-    "Keywords": "Amoxycillin (500mg) + Clavulanic Acid (125mg) ADD",
+    "Keywords": "Amoxycillin (500mg) + Clavulanic Acid (125mg)",
     "quantity": "1" 
   },
   {
@@ -62,7 +62,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 15 tablets",
     "Like2": "Sanofi India  Ltd",
-    "Keywords": "Pheniramine (25mg) ADD",
+    "Keywords": "Pheniramine (25mg)",
     "quantity": "1" 
   },
   {
@@ -73,7 +73,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "bottle of 100 ml Syrup",
     "Like2": "Glenmark Pharmaceuticals Ltd",
-    "Keywords": "Phenylephrine (5mg) + Chlorpheniramine Maleate (2mg) + Dextromethorphan Hydrobromide (10mg) ADD",
+    "Keywords": "Phenylephrine (5mg) + Chlorpheniramine Maleate (2mg) + Dextromethorphan Hydrobromide (10mg)",
     "quantity": "1" 
   },
   {
@@ -84,7 +84,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 5 tablets",
     "Like2": "Cipla Ltd",
-    "Keywords": "Azithromycin (500mg) ADD",
+    "Keywords": "Azithromycin (500mg)",
     "quantity": "1" 
   },
   {
@@ -95,7 +95,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "bottle of 100 ml Syrup",
     "Like2": "Glenmark Pharmaceuticals Ltd",
-    "Keywords": "Phenylephrine (5mg/5ml) + Chlorpheniramine Maleate (2mg/5ml) + Dextromethorphan Hydrobromide (10mg/5ml) ADD",
+    "Keywords": "Phenylephrine (5mg/5ml) + Chlorpheniramine Maleate (2mg/5ml) + Dextromethorphan Hydrobromide (10mg/5ml)",
     "quantity": "1" 
   },
   {
@@ -106,7 +106,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 10 tablets",
     "Like2": "Sanofi India  Ltd",
-    "Keywords": "Montelukast (10mg) + Fexofenadine (120mg) ADD",
+    "Keywords": "Montelukast (10mg) + Fexofenadine (120mg)",
     "quantity": "1" 
   },
   {
@@ -117,7 +117,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 30 tablets",
     "Like2": "Cadila Pharmaceuticals Ltd",
-    "Keywords": "Ranitidine (150mg) ADD",
+    "Keywords": "Ranitidine (150mg)",
     "quantity": "1" 
   },
   {
@@ -128,7 +128,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "tube of 20 gm Cream",
     "Like2": "USV Ltd",
-    "Keywords": "Phenylephrine (0.10% w/w) + Beclometasone (0.025% w/w) + Lidocaine (2.50% w/w) ADD",
+    "Keywords": "Phenylephrine (0.10% w/w) + Beclometasone (0.025% w/w) + Lidocaine (2.50% w/w)",
     "quantity": "1" 
   },
   {
@@ -139,7 +139,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 15 tablets",
     "Like2": "Dr Reddy's Laboratories Ltd",
-    "Keywords": "Hydroxyzine (25mg) ADD",
+    "Keywords": "Hydroxyzine (25mg)",
     "quantity": "1" 
   },
   {
@@ -150,7 +150,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "bottle of 100 ml Syrup",
     "Like2": "Aristo Pharmaceuticals Pvt Ltd",
-    "Keywords": "Ambroxol (15mg/5ml) + Salbutamol (1mg/5ml) ADD",
+    "Keywords": "Ambroxol (15mg/5ml) + Salbutamol (1mg/5ml)",
     "quantity": "1" 
   },
   {
@@ -161,7 +161,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "bottle of 60 ml Syrup",
     "Like2": "Mankind Pharma Ltd",
-    "Keywords": "Phenylephrine (5mg/5ml) + Chlorpheniramine Maleate (2mg/5ml) + Dextromethorphan Hydrobromide (15mg/5ml) ADD",
+    "Keywords": "Phenylephrine (5mg/5ml) + Chlorpheniramine Maleate (2mg/5ml) + Dextromethorphan Hydrobromide (15mg/5ml)",
     "quantity": "1" 
   },
   {
@@ -172,7 +172,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 30 tablets",
     "Like2": "Torrent Pharmaceuticals Ltd",
-    "Keywords": "Clonidine (100mcg) ADD",
+    "Keywords": "Clonidine (100mcg)",
     "quantity": "1" 
   },
   {
@@ -183,7 +183,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "bottle of 30 ml Oral Suspension",
     "Like2": "Glaxo SmithKline Pharmaceuticals Ltd",
-    "Keywords": "Amoxycillin (200mg) + Clavulanic Acid (28.5mg) ADD",
+    "Keywords": "Amoxycillin (200mg) + Clavulanic Acid (28.5mg)",
     "quantity": "1" 
   },
   {
@@ -205,7 +205,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "bottle of 100 ml Syrup",
     "Like2": "Cipla Ltd",
-    "Keywords": "Salbutamol (2mg/5ml) ADD",
+    "Keywords": "Salbutamol (2mg/5ml)",
     "quantity": "1" 
   },
   {
@@ -238,7 +238,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 10 tablets",
     "Like2": "Sanofi India  Ltd",
-    "Keywords": "Fexofenadine (180mg) ADD",
+    "Keywords": "Fexofenadine (180mg)",
     "quantity": "1" 
   },
   {
@@ -249,7 +249,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "packet of 200 MDI Inhaler",
     "Like2": "Cipla Ltd",
-    "Keywords": "Salbutamol (100mcg) ADD",
+    "Keywords": "Salbutamol (100mcg)",
     "quantity": "1" 
   },
   {
@@ -271,7 +271,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 10 capsule sr",
     "Like2": "Sun Pharmaceutical Industries Ltd",
-    "Keywords": "Aceclofenac (200mg) + Rabeprazole (20mg) ADD",
+    "Keywords": "Aceclofenac (200mg) + Rabeprazole (20mg)",
     "quantity": "1" 
   },
   {
@@ -282,7 +282,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 15 tablets",
     "Like2": "RPG Life Sciences Ltd",
-    "Keywords": "Spironolactone (25mg) ADD",
+    "Keywords": "Spironolactone (25mg)",
     "quantity": "1" 
   },
   {
@@ -293,7 +293,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 15 tablets",
     "Like2": "Mankind Pharma Ltd",
-    "Keywords": "Amlodipine (5mg) + Atenolol (50mg) ADD",
+    "Keywords": "Amlodipine (5mg) + Atenolol (50mg)",
     "quantity": "1" 
   },
   {
@@ -304,7 +304,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 14 tablets",
     "Like2": "J B Chemicals and Pharmaceuticals Ltd",
-    "Keywords": "Sacubitril (24mg) + Valsartan (26mg) ADD",
+    "Keywords": "Sacubitril (24mg) + Valsartan (26mg)",
     "quantity": "1" 
   },
   {
@@ -315,7 +315,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 10 capsules",
     "Like2": "Sun Pharmaceutical Industries Ltd",
-    "Keywords": "Acebrophylline (100mg) ADD",
+    "Keywords": "Acebrophylline (100mg)",
     "quantity": "1" 
   },
   {
@@ -326,7 +326,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 10 capsules",
     "Like2": "Alkem Laboratories Ltd",
-    "Keywords": "Amoxycillin (500mg) ADD",
+    "Keywords": "Amoxycillin (500mg)",
     "quantity": "1" 
   },
   {
@@ -337,7 +337,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 15 tablets",
     "Like2": "Cadila Pharmaceuticals Ltd",
-    "Keywords": "Domperidone (10mg) + Omeprazole (20mg) ADD",
+    "Keywords": "Domperidone (10mg) + Omeprazole (20mg)",
     "quantity": "1" 
   },
   {
@@ -348,7 +348,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 10 lozenges",
     "Like2": "Glenmark Pharmaceuticals Ltd",
-    "Keywords": "Dextromethorphan Hydrobromide (5mg) ADD",
+    "Keywords": "Dextromethorphan Hydrobromide (5mg)",
     "quantity": "1" 
   },
   {
@@ -359,7 +359,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 14 tablets",
     "Like2": "Sun Pharmaceutical Industries Ltd",
-    "Keywords": "Ticagrelor (90mg) ADD",
+    "Keywords": "Ticagrelor (90mg)",
     "quantity": "1" 
   },
   {
@@ -370,7 +370,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 15 tablets",
     "Like2": "Dr Reddy's Laboratories Ltd",
-    "Keywords": "Hydroxyzine (10mg) ADD",
+    "Keywords": "Hydroxyzine (10mg)",
     "quantity": "1" 
   },
   {
@@ -414,7 +414,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "bottle of 30 ml Oral Suspension",
     "Like2": "Glaxo SmithKline Pharmaceuticals Ltd",
-    "Keywords": "Amoxycillin (400mg/5ml) + Clavulanic Acid (57mg/5ml) ADD",
+    "Keywords": "Amoxycillin (400mg/5ml) + Clavulanic Acid (57mg/5ml)",
     "quantity": "1" 
   },
   {
@@ -425,7 +425,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "bottle of 60 ml Syrup",
     "Like2": "Glenmark Pharmaceuticals Ltd",
-    "Keywords": "Chlorpheniramine Maleate (2mg/5ml) + Dextromethorphan Hydrobromide (5mg/5ml) ADD",
+    "Keywords": "Chlorpheniramine Maleate (2mg/5ml) + Dextromethorphan Hydrobromide (5mg/5ml)",
     "quantity": "1" 
   },
   {
@@ -436,7 +436,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "bottle of 100 ml Oral Suspension",
     "Like2": "Sanofi India  Ltd",
-    "Keywords": "Fexofenadine (30mg/5ml) ADD",
+    "Keywords": "Fexofenadine (30mg/5ml)",
     "quantity": "1" 
   },
   {
@@ -447,7 +447,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "bottle of 15 ml Oral Suspension",
     "Like2": "Alembic Pharmaceuticals Ltd",
-    "Keywords": "Azithromycin (200mg/5ml) ADD",
+    "Keywords": "Azithromycin (200mg/5ml)",
     "quantity": "1" 
   },
   {
@@ -458,7 +458,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 10 tablets",
     "Like2": "Alembic Pharmaceuticals Ltd",
-    "Keywords": "Erythromycin (500mg) ADD",
+    "Keywords": "Erythromycin (500mg)",
     "quantity": "1" 
   },
   {
@@ -469,7 +469,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 10 tablets",
     "Like2": "Alkem Laboratories Ltd",
-    "Keywords": "Aceclofenac (100mg) + Paracetamol (325mg) + Serratiopeptidase (10mg) ADD",
+    "Keywords": "Aceclofenac (100mg) + Paracetamol (325mg) + Serratiopeptidase (10mg)",
     "quantity": "1" 
   },
   {
@@ -480,7 +480,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "bottle of 100 ml Syrup",
     "Like2": "Dr Reddy's Laboratories Ltd",
-    "Keywords": "Hydroxyzine (10mg) ADD",
+    "Keywords": "Hydroxyzine (10mg)",
     "quantity": "1" 
   },
   {
@@ -491,7 +491,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 10 tablets",
     "Like2": "Lupin Ltd",
-    "Keywords": "Acebrophylline (100mg) + Acetylcysteine (600mg) ADD",
+    "Keywords": "Acebrophylline (100mg) + Acetylcysteine (600mg)",
     "quantity": "1" 
   },
   {
@@ -502,7 +502,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "bottle of 60 ml Syrup",
     "Like2": "Glenmark Pharmaceuticals Ltd",
-    "Keywords": "Ambroxol (15mg/5ml) + Levosalbutamol (0.5mg/5ml) + Guaifenesin (50mg/5ml) ADD",
+    "Keywords": "Ambroxol (15mg/5ml) + Levosalbutamol (0.5mg/5ml) + Guaifenesin (50mg/5ml)",
     "quantity": "1" 
   },
   {
@@ -513,7 +513,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 10 tablets",
     "Like2": "Lupin Ltd",
-    "Keywords": "Aceclofenac (100mg) + Paracetamol (325mg) ADD",
+    "Keywords": "Aceclofenac (100mg) + Paracetamol (325mg)",
     "quantity": "1" 
   },
   {
@@ -535,7 +535,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "bottle of 15 ml Oral Drops",
     "Like2": "Glenmark Pharmaceuticals Ltd",
-    "Keywords": "Ambroxol (7.5mg/ml) + Levosalbutamol (0.25mg/ml) + Guaifenesin (12.5mg/ml) ADD",
+    "Keywords": "Ambroxol (7.5mg/ml) + Levosalbutamol (0.25mg/ml) + Guaifenesin (12.5mg/ml)",
     "quantity": "1" 
   },
   {
@@ -546,7 +546,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 15 tablets",
     "Like2": "Abbott",
-    "Keywords": "Camylofin (25mg) + Paracetamol (300mg) ADD",
+    "Keywords": "Camylofin (25mg) + Paracetamol (300mg)",
     "quantity": "1" 
   },
   {
@@ -557,7 +557,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 30 Tablet pr",
     "Like2": "Dr Reddy's Laboratories Ltd",
-    "Keywords": "Alfuzosin (10mg) ADD",
+    "Keywords": "Alfuzosin (10mg)",
     "quantity": "1" 
   },
   {
@@ -568,7 +568,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "bottle of 60 ml Syrup",
     "Like2": "Glenmark Pharmaceuticals Ltd",
-    "Keywords": "Phenylephrine (5mg/5ml) + Chlorpheniramine Maleate (2mg/5ml) + Dextromethorphan Hydrobromide (10mg/5ml) ADD",
+    "Keywords": "Phenylephrine (5mg/5ml) + Chlorpheniramine Maleate (2mg/5ml) + Dextromethorphan Hydrobromide (10mg/5ml)",
     "quantity": "1" 
   },
   {
@@ -579,7 +579,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "packet of 6 injections",
     "Like2": "Abbott",
-    "Keywords": "Vitamin D3 (600000IU) ADD",
+    "Keywords": "Vitamin D3 (600000IU)",
     "quantity": "1" 
   },
   {
@@ -601,7 +601,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "bottle of 15 ml Oral Suspension",
     "Like2": "Cipla Ltd",
-    "Keywords": "Azithromycin (200mg/5ml) ADD",
+    "Keywords": "Azithromycin (200mg/5ml)",
     "quantity": "1" 
   },
   {
@@ -612,7 +612,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 4 tablets",
     "Like2": "Systopic Laboratories Pvt Ltd",
-    "Keywords": "Azithromycin (1000mg) + Ornidazole (750mg) + Fluconazole (150mg) ADD",
+    "Keywords": "Azithromycin (1000mg) + Ornidazole (750mg) + Fluconazole (150mg)",
     "quantity": "1" 
   },
   {
@@ -623,7 +623,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "packet of 2.5 ml Respules",
     "Like2": "Cipla Ltd",
-    "Keywords": "Salbutamol (2.5mg) ADD",
+    "Keywords": "Salbutamol (2.5mg)",
     "quantity": "1" 
   },
   {
@@ -634,7 +634,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 15 tablets",
     "Like2": "Aristo Pharmaceuticals Pvt Ltd",
-    "Keywords": "Aceclofenac (100mg) + Paracetamol (325mg) ADD",
+    "Keywords": "Aceclofenac (100mg) + Paracetamol (325mg)",
     "quantity": "1" 
   },
   {
@@ -645,7 +645,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "bottle of 60 ml Expectorant",
     "Like2": "Mankind Pharma Ltd",
-    "Keywords": "Guaifenesin (50mg) + Terbutaline (1.25mg) + Bromhexine (2mg) ADD",
+    "Keywords": "Guaifenesin (50mg) + Terbutaline (1.25mg) + Bromhexine (2mg)",
     "quantity": "1" 
   },
   {
@@ -656,7 +656,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "tube of 30 gm Rectal Cream",
     "Like2": "Samarth Life Sciences Pvt Ltd",
-    "Keywords": "Lidocaine (1.5% w/w) + Nifedipine (0.3% w/w) ADD",
+    "Keywords": "Lidocaine (1.5% w/w) + Nifedipine (0.3% w/w)",
     "quantity": "1" 
   },
   {
@@ -667,7 +667,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 15 tablets",
     "Like2": "Zydus Cadila",
-    "Keywords": "Atorvastatin (10mg) ADD",
+    "Keywords": "Atorvastatin (10mg)",
     "quantity": "1" 
   },
   {
@@ -678,7 +678,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 15 tablets",
     "Like2": "Mankind Pharma Ltd",
-    "Keywords": "Amlodipine (5mg) ADD",
+    "Keywords": "Amlodipine (5mg)",
     "quantity": "1" 
   },
   {
@@ -689,7 +689,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "bottle of 100 ml Expectorant",
     "Like2": "Mankind Pharma Ltd",
-    "Keywords": "Ambroxol (30mg/5ml) + Levosalbutamol (1mg/5ml) + Guaifenesin (50mg/5ml) ADD",
+    "Keywords": "Ambroxol (30mg/5ml) + Levosalbutamol (1mg/5ml) + Guaifenesin (50mg/5ml)",
     "quantity": "1" 
   },
   {
@@ -700,7 +700,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 10 tablet sr",
     "Like2": "Sun Pharmaceutical Industries Ltd",
-    "Keywords": "Acebrophylline (200mg) ADD",
+    "Keywords": "Acebrophylline (200mg)",
     "quantity": "1" 
   },
   {
@@ -711,7 +711,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 10 tablets",
     "Like2": "Zydus Cadila",
-    "Keywords": "Atorvastatin (40mg) ADD",
+    "Keywords": "Atorvastatin (40mg)",
     "quantity": "1" 
   },
   {
@@ -744,7 +744,7 @@ var products=[
     "Prescription": "",
     "Like1": "bottle of 100 ml Syrup",
     "Like2": "Aristo Pharmaceuticals Pvt Ltd",
-    "Keywords": "Ambroxol (30mg/5ml) ADD",
+    "Keywords": "Ambroxol (30mg/5ml)",
     "quantity": "1" 
   },
   {
@@ -755,7 +755,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 3 tablets",
     "Like2": "Sun Pharmaceutical Industries Ltd",
-    "Keywords": "Azithromycin (500mg) ADD",
+    "Keywords": "Azithromycin (500mg)",
     "quantity": "1" 
   },
   {
@@ -766,7 +766,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 10 tablets",
     "Like2": "Intas Pharmaceuticals Ltd",
-    "Keywords": "Amitriptyline (10mg) ADD",
+    "Keywords": "Amitriptyline (10mg)",
     "quantity": "1" 
   },
   {
@@ -777,7 +777,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 10 tablets",
     "Like2": "Sun Pharmaceutical Industries Ltd",
-    "Keywords": "Acebrophylline (100mg) + Acetylcysteine (600mg) ADD",
+    "Keywords": "Acebrophylline (100mg) + Acetylcysteine (600mg)",
     "quantity": "1" 
   },
   {
@@ -788,7 +788,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "bottle of 100 ml Syrup",
     "Like2": "Aristo Pharmaceuticals Pvt Ltd",
-    "Keywords": "Ambroxol (30mg/5ml) + Levosalbutamol (1mg/5ml) + Guaifenesin (50mg/5ml) ADD",
+    "Keywords": "Ambroxol (30mg/5ml) + Levosalbutamol (1mg/5ml) + Guaifenesin (50mg/5ml)",
     "quantity": "1" 
   },
   {
@@ -799,7 +799,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 15 tablets",
     "Like2": "Sun Pharmaceutical Industries Ltd",
-    "Keywords": "Atorvastatin (10mg) ADD",
+    "Keywords": "Atorvastatin (10mg)",
     "quantity": "1" 
   },
   {
@@ -810,7 +810,7 @@ var products=[
     "Prescription": "",
     "Like1": "bottle of 30 capsules",
     "Like2": "USV Ltd",
-    "Keywords": "Vitamin A (25000IU) ADD",
+    "Keywords": "Vitamin A (25000IU)",
     "quantity": "1" 
   },
   {
@@ -876,7 +876,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 10 tablets",
     "Like2": "Glaxo SmithKline Pharmaceuticals Ltd",
-    "Keywords": "Amoxycillin (875mg) + Clavulanic Acid (125mg) ADD",
+    "Keywords": "Amoxycillin (875mg) + Clavulanic Acid (125mg)",
     "quantity": "1" 
   },
   {
@@ -887,7 +887,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 3 tablets",
     "Like2": "Alkem Laboratories Ltd",
-    "Keywords": "Azithromycin (500mg) ADD",
+    "Keywords": "Azithromycin (500mg)",
     "quantity": "1" 
   },
   {
@@ -898,7 +898,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 10 tablets",
     "Like2": "Lupin Ltd",
-    "Keywords": "Aceclofenac (100mg) + Paracetamol (325mg) + Chlorzoxazone (250mg) ADD",
+    "Keywords": "Aceclofenac (100mg) + Paracetamol (325mg) + Chlorzoxazone (250mg)",
     "quantity": "1" 
   },
   {
@@ -909,7 +909,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 30 tablets",
     "Like2": "Abbott",
-    "Keywords": "Acenocoumarol (2mg) ADD",
+    "Keywords": "Acenocoumarol (2mg)",
     "quantity": "1" 
   },
   {
@@ -942,7 +942,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "bottle of 25 capsule tr",
     "Like2": "USV Ltd",
-    "Keywords": "Nitroglycerin (2.5mg) ADD",
+    "Keywords": "Nitroglycerin (2.5mg)",
     "quantity": "1" 
   },
   {
@@ -964,7 +964,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 10 capsules",
     "Like2": "Lupin Ltd",
-    "Keywords": "Acebrophylline (100mg) ADD",
+    "Keywords": "Acebrophylline (100mg)",
     "quantity": "1" 
   },
   {
@@ -975,7 +975,7 @@ var products=[
     "Prescription": "",
     "Like1": "strip of 7 tablets",
     "Like2": "GH Vision Care Life Science",
-    "Keywords": "Vitamin D3 (60000IU) ADD",
+    "Keywords": "Vitamin D3 (60000IU)",
     "quantity": "1" 
   },
   {
@@ -986,7 +986,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 14 tablets",
     "Like2": "J B Chemicals and Pharmaceuticals Ltd",
-    "Keywords": "Sacubitril (49mg) + Valsartan (51mg) ADD",
+    "Keywords": "Sacubitril (49mg) + Valsartan (51mg)",
     "quantity": "1" 
   },
   {
@@ -1008,7 +1008,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "tube of 15 gm Gel",
     "Like2": "Galderma India Pvt Ltd",
-    "Keywords": "Adapalene (0.1% w/w) ADD",
+    "Keywords": "Adapalene (0.1% w/w)",
     "quantity": "1" 
   },
   {
@@ -1019,7 +1019,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 30 tablets",
     "Like2": "Sanofi India  Ltd",
-    "Keywords": "Glimepiride (1mg) ADD",
+    "Keywords": "Glimepiride (1mg)",
     "quantity": "1" 
   },
   {
@@ -1030,7 +1030,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "vial of 1 Injection",
     "Like2": "Bharat Serums & Vaccines Ltd",
-    "Keywords": "Anti Rh D Immunoglobulin (300mcg/ml) ADD",
+    "Keywords": "Anti Rh D Immunoglobulin (300mcg/ml)",
     "quantity": "1" 
   },
   {
@@ -1041,7 +1041,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "tube of 15 gm Cream",
     "Like2": "Micro Labs Ltd",
-    "Keywords": "Azelaic Acid (20% w/w) ADD",
+    "Keywords": "Azelaic Acid (20% w/w)",
     "quantity": "1" 
   },
   {
@@ -1052,7 +1052,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "tube of 20 gm Rectal Cream",
     "Like2": "Lekar Pharma Ltd",
-    "Keywords": "Lidocaine (4% w/w) + Metronidazole (1% w/w) + Sucralfate (7% w/w) ADD",
+    "Keywords": "Lidocaine (4% w/w) + Metronidazole (1% w/w) + Sucralfate (7% w/w)",
     "quantity": "1" 
   },
   {
@@ -1063,7 +1063,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 10 tablets",
     "Like2": "Glaxo SmithKline Pharmaceuticals Ltd",
-    "Keywords": "Amoxycillin (250mg) + Clavulanic Acid (125mg) ADD",
+    "Keywords": "Amoxycillin (250mg) + Clavulanic Acid (125mg)",
     "quantity": "1" 
   },
   {
@@ -1096,7 +1096,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "vial of 2 ml Injection",
     "Like2": "Sanofi India  Ltd",
-    "Keywords": "Pheniramine (22.75mg) ADD",
+    "Keywords": "Pheniramine (22.75mg)",
     "quantity": "1" 
   },
   {
@@ -1107,7 +1107,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 5 tablet dt",
     "Like2": "Cipla Ltd",
-    "Keywords": "Acyclovir (400mg) ADD",
+    "Keywords": "Acyclovir (400mg)",
     "quantity": "1" 
   },
   {
@@ -1118,7 +1118,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "packet of 200 MDI Inhaler",
     "Like2": "Cipla Ltd",
-    "Keywords": "Levosalbutamol (50mcg) + Beclometasone (50mcg) ADD",
+    "Keywords": "Levosalbutamol (50mcg) + Beclometasone (50mcg)",
     "quantity": "1" 
   },
   {
@@ -1129,7 +1129,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 10 tablets",
     "Like2": "Aristo Pharmaceuticals Pvt Ltd",
-    "Keywords": "Aceclofenac (100mg) + Paracetamol (325mg) + Chlorzoxazone (500mg) ADD",
+    "Keywords": "Aceclofenac (100mg) + Paracetamol (325mg) + Chlorzoxazone (500mg)",
     "quantity": "1" 
   },
   {
@@ -1140,7 +1140,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 15 tablets",
     "Like2": "RPG Life Sciences Ltd",
-    "Keywords": "Spironolactone (50mg) ADD",
+    "Keywords": "Spironolactone (50mg)",
     "quantity": "1" 
   },
   {
@@ -1151,7 +1151,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 15 tablets",
     "Like2": "Zydus Cadila",
-    "Keywords": "Atorvastatin (20mg) ADD",
+    "Keywords": "Atorvastatin (20mg)",
     "quantity": "1" 
   },
   {
@@ -1173,7 +1173,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 10 tablets",
     "Like2": "Torrent Pharmaceuticals Ltd",
-    "Keywords": "Furosemide (40mg) + Amiloride (5mg) ADD",
+    "Keywords": "Furosemide (40mg) + Amiloride (5mg)",
     "quantity": "1" 
   },
   {
@@ -1184,7 +1184,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 10 tablets",
     "Like2": "Lupin Ltd",
-    "Keywords": "Aceclofenac (100mg) + Paracetamol (325mg) + Serratiopeptidase (15mg) ADD",
+    "Keywords": "Aceclofenac (100mg) + Paracetamol (325mg) + Serratiopeptidase (15mg)",
     "quantity": "1" 
   },
   {
@@ -1195,7 +1195,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 15 tablets",
     "Like2": "Alkem Laboratories Ltd",
-    "Keywords": "Aceclofenac (100mg) + Paracetamol (325mg) ADD",
+    "Keywords": "Aceclofenac (100mg) + Paracetamol (325mg)",
     "quantity": "1" 
   },
   {
@@ -1206,7 +1206,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "bottle of 15 ml Syrup",
     "Like2": "Dr Reddy's Laboratories Ltd",
-    "Keywords": "Hydroxyzine (6mg) ADD",
+    "Keywords": "Hydroxyzine (6mg)",
     "quantity": "1" 
   },
   {
@@ -1217,7 +1217,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 15 tablets",
     "Like2": "Lupin Ltd",
-    "Keywords": "Acotiamide (100mg) ADD",
+    "Keywords": "Acotiamide (100mg)",
     "quantity": "1" 
   },
   {
@@ -1228,7 +1228,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 15 capsules",
     "Like2": "Torrent Pharmaceuticals Ltd",
-    "Keywords": "Ampicillin (250mg) + Cloxacillin (250mg) ADD",
+    "Keywords": "Ampicillin (250mg) + Cloxacillin (250mg)",
     "quantity": "1" 
   },
   {
@@ -1239,7 +1239,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 10 tablets",
     "Like2": "Micro Labs Ltd",
-    "Keywords": "Cetirizine (10mg) + Phenylephrine (10mg) ADD",
+    "Keywords": "Cetirizine (10mg) + Phenylephrine (10mg)",
     "quantity": "1" 
   },
   {
@@ -1250,7 +1250,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 15 tablets",
     "Like2": "Cipla Ltd",
-    "Keywords": "Amlodipine (5mg) + Atenolol (50mg) ADD",
+    "Keywords": "Amlodipine (5mg) + Atenolol (50mg)",
     "quantity": "1" 
   },
   {
@@ -1272,7 +1272,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "bottle of 100 ml Expectorant",
     "Like2": "Tablets India Limited",
-    "Keywords": "Ambroxol (30mg) + Guaifenesin (50mg) + Menthol (0.5mg) + Terbutaline (1.25mg) ADD",
+    "Keywords": "Ambroxol (30mg) + Guaifenesin (50mg) + Menthol (0.5mg) + Terbutaline (1.25mg)",
     "quantity": "1" 
   },
   {
@@ -1283,7 +1283,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "bottle of 200 ml Syrup",
     "Like2": "Mankind Pharma Ltd",
-    "Keywords": "Cyproheptadine (2mg/5ml) + Tricholine Citrate (275mg/5ml) + Sorbitol (2gm/5ml) ADD",
+    "Keywords": "Cyproheptadine (2mg/5ml) + Tricholine Citrate (275mg/5ml) + Sorbitol (2gm/5ml)",
     "quantity": "1" 
   },
   {
@@ -1305,7 +1305,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "bottle of 100 ml Syrup",
     "Like2": "Aristo Pharmaceuticals Pvt Ltd",
-    "Keywords": "Ambroxol (15mg/5ml) + Pseudoephedrine (30mg/5ml) + Chlorpheniramine Maleate (2mg/5ml) ADD",
+    "Keywords": "Ambroxol (15mg/5ml) + Pseudoephedrine (30mg/5ml) + Chlorpheniramine Maleate (2mg/5ml)",
     "quantity": "1" 
   },
   {
@@ -1316,7 +1316,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 10 tablets",
     "Like2": "Bayer Pharmaceuticals Pvt Ltd",
-    "Keywords": "Ambroxol (60mg) + Loratadine (5mg) ADD",
+    "Keywords": "Ambroxol (60mg) + Loratadine (5mg)",
     "quantity": "1" 
   },
   {
@@ -1327,7 +1327,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "bottle of 100 ml Syrup",
     "Like2": "Glenmark Pharmaceuticals Ltd",
-    "Keywords": "Phenylephrine (5mg/5ml) + Chlorpheniramine Maleate (2mg/5ml) + Dextromethorphan Hydrobromide (10mg/5ml) ADD",
+    "Keywords": "Phenylephrine (5mg/5ml) + Chlorpheniramine Maleate (2mg/5ml) + Dextromethorphan Hydrobromide (10mg/5ml)",
     "quantity": "1" 
   },
   {
@@ -1338,7 +1338,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 10 tablets",
     "Like2": "Sun Pharmaceutical Industries Ltd",
-    "Keywords": "Memantine (5mg) ADD",
+    "Keywords": "Memantine (5mg)",
     "quantity": "1" 
   },
   {
@@ -1349,7 +1349,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "bottle of 100 ml Syrup",
     "Like2": "Alkem Laboratories Ltd",
-    "Keywords": "Chlorpheniramine Maleate (4mg) + Dextromethorphan Hydrobromide (10mg) ADD",
+    "Keywords": "Chlorpheniramine Maleate (4mg) + Dextromethorphan Hydrobromide (10mg)",
     "quantity": "1" 
   },
   {
@@ -1360,7 +1360,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 10 tablets",
     "Like2": "Dr Reddy's Laboratories Ltd",
-    "Keywords": "Aceclofenac (100mg) + Paracetamol (325mg) ADD",
+    "Keywords": "Aceclofenac (100mg) + Paracetamol (325mg)",
     "quantity": "1" 
   },
   {
@@ -1371,7 +1371,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 10 tablets",
     "Like2": "Sun Pharmaceutical Industries Ltd",
-    "Keywords": "Diosmin (450mg) + Hesperidin (50mg) ADD",
+    "Keywords": "Diosmin (450mg) + Hesperidin (50mg)",
     "quantity": "1" 
   },
   {
@@ -1382,7 +1382,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "bottle of 100 ml Expectorant",
     "Like2": "Glenmark Pharmaceuticals Ltd",
-    "Keywords": "Guaifenesin (50mg) + Terbutaline (1.25mg) + Bromhexine (2mg) ADD",
+    "Keywords": "Guaifenesin (50mg) + Terbutaline (1.25mg) + Bromhexine (2mg)",
     "quantity": "1" 
   },
   {
@@ -1393,7 +1393,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 15 tablets",
     "Like2": "Macleods Pharmaceuticals Pvt Ltd",
-    "Keywords": "Amlodipine (5mg) ADD",
+    "Keywords": "Amlodipine (5mg)",
     "quantity": "1" 
   },
   {
@@ -1404,7 +1404,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 20 tablets",
     "Like2": "Cadila Pharmaceuticals Ltd",
-    "Keywords": "Ranitidine (300mg) ADD",
+    "Keywords": "Ranitidine (300mg)",
     "quantity": "1" 
   },
   {
@@ -1426,7 +1426,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 10 tablets",
     "Like2": "Cipla Ltd",
-    "Keywords": "Cetirizine (10mg) ADD",
+    "Keywords": "Cetirizine (10mg)",
     "quantity": "1" 
   },
   {
@@ -1437,7 +1437,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "packet of 7 ml Nasal Spray",
     "Like2": "Lupin Ltd",
-    "Keywords": "Fluticasone Propionate (50mcg) + Azelastine (140mcg) ADD",
+    "Keywords": "Fluticasone Propionate (50mcg) + Azelastine (140mcg)",
     "quantity": "1" 
   },
   {
@@ -1448,7 +1448,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 10 tablet ir",
     "Like2": "Apex Laboratories Pvt Ltd",
-    "Keywords": "Paracetamol (300mg) + Paracetamol (700mg) ADD",
+    "Keywords": "Paracetamol (300mg) + Paracetamol (700mg)",
     "quantity": "1" 
   },
   {
@@ -1459,7 +1459,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "bottle of 30 ml Syrup",
     "Like2": "Cipla Ltd",
-    "Keywords": "Amoxycillin (400mg/5ml) + Clavulanic Acid (57mg/5ml) ADD",
+    "Keywords": "Amoxycillin (400mg/5ml) + Clavulanic Acid (57mg/5ml)",
     "quantity": "1" 
   },
   {
@@ -1470,7 +1470,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 30 tablets",
     "Like2": "Abbott",
-    "Keywords": "Acenocoumarol (1mg) ADD",
+    "Keywords": "Acenocoumarol (1mg)",
     "quantity": "1" 
   },
   {
@@ -1481,7 +1481,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 10 tablets",
     "Like2": "Cipla Ltd",
-    "Keywords": "Cetirizine (5mg) + Phenylephrine (10mg) ADD",
+    "Keywords": "Cetirizine (5mg) + Phenylephrine (10mg)",
     "quantity": "1" 
   },
   {
@@ -1492,7 +1492,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "vial of 1 Powder for Injection",
     "Like2": "Glaxo SmithKline Pharmaceuticals Ltd",
-    "Keywords": "Amoxycillin (1000mg) + Clavulanic Acid (200mg) ADD",
+    "Keywords": "Amoxycillin (1000mg) + Clavulanic Acid (200mg)",
     "quantity": "1" 
   },
   {
@@ -1503,7 +1503,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 30 tablets",
     "Like2": "Zydus Cadila",
-    "Keywords": "Amlodipine (5mg) ADD",
+    "Keywords": "Amlodipine (5mg)",
     "quantity": "1" 
   },
   {
@@ -1536,7 +1536,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "bottle of 100 ml Syrup",
     "Like2": "Tablets India Limited",
-    "Keywords": "Phenylephrine (5mg/5ml) + Chlorpheniramine Maleate (2mg/5ml) + Dextromethorphan Hydrobromide (10mg/5ml) ADD",
+    "Keywords": "Phenylephrine (5mg/5ml) + Chlorpheniramine Maleate (2mg/5ml) + Dextromethorphan Hydrobromide (10mg/5ml)",
     "quantity": "1" 
   },
   {
@@ -1547,7 +1547,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 10 tablets",
     "Like2": "Sun Pharmaceutical Industries Ltd",
-    "Keywords": "Hydrochlorothiazide (12.5mg) ADD",
+    "Keywords": "Hydrochlorothiazide (12.5mg)",
     "quantity": "1" 
   },
   {
@@ -1580,7 +1580,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 10 tablets",
     "Like2": "Sun Pharmaceutical Industries Ltd",
-    "Keywords": "Atorvastatin (10mg) + Clopidogrel (75mg) ADD",
+    "Keywords": "Atorvastatin (10mg) + Clopidogrel (75mg)",
     "quantity": "1" 
   },
   {
@@ -1602,7 +1602,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "bottle of 30 ml Syrup",
     "Like2": "Cipla Ltd",
-    "Keywords": "Cetirizine (5mg/5ml) ADD",
+    "Keywords": "Cetirizine (5mg/5ml)",
     "quantity": "1" 
   },
   {
@@ -1613,7 +1613,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "bottle of 30 ml Oral Suspension",
     "Like2": "Alembic Pharmaceuticals Ltd",
-    "Keywords": "Azithromycin (200mg/5ml) ADD",
+    "Keywords": "Azithromycin (200mg/5ml)",
     "quantity": "1" 
   },
   {
@@ -1635,7 +1635,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 10 tablet sr",
     "Like2": "Lupin Ltd",
-    "Keywords": "Acebrophylline (200mg) ADD",
+    "Keywords": "Acebrophylline (200mg)",
     "quantity": "1" 
   },
   {
@@ -1646,7 +1646,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 20 Tablet pr",
     "Like2": "Sanofi India  Ltd",
-    "Keywords": "Glimepiride (2mg) + Metformin (500mg) ADD",
+    "Keywords": "Glimepiride (2mg) + Metformin (500mg)",
     "quantity": "1" 
   },
   {
@@ -1668,7 +1668,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 15 capsules",
     "Like2": "Biochem Pharmaceutical Industries",
-    "Keywords": "Ampicillin (250mg) + Dicloxacillin (250mg) ADD",
+    "Keywords": "Ampicillin (250mg) + Dicloxacillin (250mg)",
     "quantity": "1" 
   },
   {
@@ -1690,7 +1690,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 10 tablets",
     "Like2": "Medley Pharmaceuticals",
-    "Keywords": "Thiocolchicoside (4mg) + Aceclofenac (100mg) + Paracetamol (325mg) ADD",
+    "Keywords": "Thiocolchicoside (4mg) + Aceclofenac (100mg) + Paracetamol (325mg)",
     "quantity": "1" 
   },
   {
@@ -1701,7 +1701,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 15 tablets",
     "Like2": "Cipla Ltd",
-    "Keywords": "Atorvastatin (10mg) + Fenofibrate (145mg) ADD",
+    "Keywords": "Atorvastatin (10mg) + Fenofibrate (145mg)",
     "quantity": "1" 
   },
   {
@@ -1712,7 +1712,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "bottle of 60 ml Expectorant",
     "Like2": "Leeford Healthcare Ltd",
-    "Keywords": "Ambroxol (30mg) + Levosalbutamol (1mg) + Guaifenesin (50mg) ADD",
+    "Keywords": "Ambroxol (30mg) + Levosalbutamol (1mg) + Guaifenesin (50mg)",
     "quantity": "1" 
   },
   {
@@ -1723,7 +1723,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 15 tablet sr",
     "Like2": "Eris Lifesciences Ltd",
-    "Keywords": "Ambroxol (75mg) + Levocetirizine (5mg) + Montelukast (10mg) ADD",
+    "Keywords": "Ambroxol (75mg) + Levocetirizine (5mg) + Montelukast (10mg)",
     "quantity": "1" 
   },
   {
@@ -1734,7 +1734,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 30 tablets",
     "Like2": "Sanofi India  Ltd",
-    "Keywords": "Glimepiride (2mg) ADD",
+    "Keywords": "Glimepiride (2mg)",
     "quantity": "1" 
   },
   {
@@ -1745,7 +1745,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 10 tablets",
     "Like2": "Alembic Pharmaceuticals Ltd",
-    "Keywords": "Erythromycin (250mg) ADD",
+    "Keywords": "Erythromycin (250mg)",
     "quantity": "1" 
   },
   {
@@ -1756,7 +1756,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 10 tablets",
     "Like2": "Systopic Laboratories Pvt Ltd",
-    "Keywords": "Montelukast (10mg) + Fexofenadine (120mg) ADD",
+    "Keywords": "Montelukast (10mg) + Fexofenadine (120mg)",
     "quantity": "1" 
   },
   {
@@ -1767,7 +1767,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 1 Tablet DT",
     "Like2": "Systopic Laboratories Pvt Ltd",
-    "Keywords": "Fluconazole (150mg) ADD",
+    "Keywords": "Fluconazole (150mg)",
     "quantity": "1" 
   },
   {
@@ -1778,7 +1778,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 10 tablet er",
     "Like2": "Lupin Ltd",
-    "Keywords": "Acotiamide (300mg) ADD",
+    "Keywords": "Acotiamide (300mg)",
     "quantity": "1" 
   },
   {
@@ -1789,7 +1789,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 15 tablets",
     "Like2": "Sun Pharmaceutical Industries Ltd",
-    "Keywords": "Atorvastatin (40mg) ADD",
+    "Keywords": "Atorvastatin (40mg)",
     "quantity": "1" 
   },
   {
@@ -1800,7 +1800,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 5 tablet dt",
     "Like2": "Cipla Ltd",
-    "Keywords": "Acyclovir (800mg) ADD",
+    "Keywords": "Acyclovir (800mg)",
     "quantity": "1" 
   },
   {
@@ -1811,7 +1811,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "bottle of 100 ml Syrup",
     "Like2": "Alkem Laboratories Ltd",
-    "Keywords": "Guaifenesin (50mg) + Terbutaline (1.25mg) + Bromhexine (2mg) ADD",
+    "Keywords": "Guaifenesin (50mg) + Terbutaline (1.25mg) + Bromhexine (2mg)",
     "quantity": "1" 
   },
   {
@@ -1833,7 +1833,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 15 tablets",
     "Like2": "Cipla Ltd",
-    "Keywords": "Amantadine (100mg) ADD",
+    "Keywords": "Amantadine (100mg)",
     "quantity": "1" 
   },
   {
@@ -1855,7 +1855,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 10 tablets",
     "Like2": "Sun Pharmaceutical Industries Ltd",
-    "Keywords": "Diosmin (900mg) + Hesperidin (100mg) ADD",
+    "Keywords": "Diosmin (900mg) + Hesperidin (100mg)",
     "quantity": "1" 
   },
   {
@@ -1888,7 +1888,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "bottle of 60 ml Syrup",
     "Like2": "Mankind Pharma Ltd",
-    "Keywords": "Phenylephrine (2.5mg/5ml) + Chlorpheniramine Maleate (1mg/5ml) + Dextromethorphan Hydrobromide (5mg/5ml) ADD",
+    "Keywords": "Phenylephrine (2.5mg/5ml) + Chlorpheniramine Maleate (1mg/5ml) + Dextromethorphan Hydrobromide (5mg/5ml)",
     "quantity": "1" 
   },
   {
@@ -1899,7 +1899,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 20 Tablet pr",
     "Like2": "Sanofi India  Ltd",
-    "Keywords": "Glimepiride (1mg) + Metformin (500mg) ADD",
+    "Keywords": "Glimepiride (1mg) + Metformin (500mg)",
     "quantity": "1" 
   },
   {
@@ -1910,7 +1910,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 5 tablets",
     "Like2": "Dr Reddy's Laboratories Ltd",
-    "Keywords": "Azithromycin (500mg) ADD",
+    "Keywords": "Azithromycin (500mg)",
     "quantity": "1" 
   },
   {
@@ -1921,7 +1921,7 @@ var products=[
     "Prescription": "",
     "Like1": "bottle of 100 ml Syrup",
     "Like2": "Tablets India Limited",
-    "Keywords": "Ambroxol (30mg/5ml) ADD",
+    "Keywords": "Ambroxol (30mg/5ml)",
     "quantity": "1" 
   },
   {
@@ -1932,7 +1932,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "bottle of 120 MDI Nasal Spray",
     "Like2": "Sanofi India  Ltd",
-    "Keywords": "Fluticasone Furoate (27.5mcg) ADD",
+    "Keywords": "Fluticasone Furoate (27.5mcg)",
     "quantity": "1" 
   },
   {
@@ -1954,7 +1954,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 15 tablets",
     "Like2": "Macleods Pharmaceuticals Pvt Ltd",
-    "Keywords": "Amlodipine (5mg) + Atenolol (50mg) ADD",
+    "Keywords": "Amlodipine (5mg) + Atenolol (50mg)",
     "quantity": "1" 
   },
   {
@@ -1976,7 +1976,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 5 tablets",
     "Like2": "Ipca Laboratories Ltd",
-    "Keywords": "Azithromycin (500mg) ADD",
+    "Keywords": "Azithromycin (500mg)",
     "quantity": "1" 
   },
   {
@@ -1987,7 +1987,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "packet of 15 ml Oral Drops",
     "Like2": "Mankind Pharma Ltd",
-    "Keywords": "Ambroxol (7.5mg) + Guaifenesin (12.5mg) + Terbutaline (0.25mg) ADD",
+    "Keywords": "Ambroxol (7.5mg) + Guaifenesin (12.5mg) + Terbutaline (0.25mg)",
     "quantity": "1" 
   },
   {
@@ -1998,7 +1998,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 14 tablets",
     "Like2": "Zydus Cadila",
-    "Keywords": "Atenolol (50mg) ADD",
+    "Keywords": "Atenolol (50mg)",
     "quantity": "1" 
   },
   {
@@ -2009,7 +2009,7 @@ var products=[
     "Prescription": "",
     "Like1": "bottle of 100 ml Oral Solution",
     "Like2": "Stadmed Pvt Ltd",
-    "Keywords": "Disodium Hydrogen Citrate (1.4gm/5ml) ADD",
+    "Keywords": "Disodium Hydrogen Citrate (1.4gm/5ml)",
     "quantity": "1" 
   },
   {
@@ -2020,7 +2020,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "bottle of 120 ml Expectorant",
     "Like2": "Glenmark Pharmaceuticals Ltd",
-    "Keywords": "Bromhexine (2mg/5ml) + Guaifenesin (50mg/5ml) + Menthol (0.5mg/5ml) + Terbutaline (1.25mg/5ml) ADD",
+    "Keywords": "Bromhexine (2mg/5ml) + Guaifenesin (50mg/5ml) + Menthol (0.5mg/5ml) + Terbutaline (1.25mg/5ml)",
     "quantity": "1" 
   },
   {
@@ -2042,7 +2042,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 30 tablets",
     "Like2": "Cipla Ltd",
-    "Keywords": "Amlodipine (5mg) ADD",
+    "Keywords": "Amlodipine (5mg)",
     "quantity": "1" 
   },
   {
@@ -2053,7 +2053,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 10 tablets",
     "Like2": "Lupin Ltd",
-    "Keywords": "Empagliflozin (25mg) + Linagliptin (5mg) ADD",
+    "Keywords": "Empagliflozin (25mg) + Linagliptin (5mg)",
     "quantity": "1" 
   },
   {
@@ -2075,7 +2075,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 1 Tablet",
     "Like2": "Systopic Laboratories Pvt Ltd",
-    "Keywords": "Fluconazole (400mg) ADD",
+    "Keywords": "Fluconazole (400mg)",
     "quantity": "1" 
   },
   {
@@ -2108,7 +2108,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "bottle of 100 ml Syrup",
     "Like2": "Cipla Ltd",
-    "Keywords": "Ambroxol (30mg/5ml) + Levosalbutamol (1mg/5ml) + Guaifenesin (50mg/5ml) ADD",
+    "Keywords": "Ambroxol (30mg/5ml) + Levosalbutamol (1mg/5ml) + Guaifenesin (50mg/5ml)",
     "quantity": "1" 
   },
   {
@@ -2119,7 +2119,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 10 tablets",
     "Like2": "Cadila Pharmaceuticals Ltd",
-    "Keywords": "Aceclofenac (100mg) + Paracetamol (325mg) ADD",
+    "Keywords": "Aceclofenac (100mg) + Paracetamol (325mg)",
     "quantity": "1" 
   },
   {
@@ -2141,7 +2141,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 15 tablet sr",
     "Like2": "Sanofi India  Ltd",
-    "Keywords": "Glimepiride (2mg) + Metformin (500mg) + Voglibose (0.2mg) ADD",
+    "Keywords": "Glimepiride (2mg) + Metformin (500mg) + Voglibose (0.2mg)",
     "quantity": "1" 
   },
   {
@@ -2152,7 +2152,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 7 tablets",
     "Like2": "Aristo Pharmaceuticals Pvt Ltd",
-    "Keywords": "Telmisartan (40mg) + Amlodipine (5mg) + Hydrochlorothiazide (12.5mg) ADD",
+    "Keywords": "Telmisartan (40mg) + Amlodipine (5mg) + Hydrochlorothiazide (12.5mg)",
     "quantity": "1" 
   },
   {
@@ -2163,7 +2163,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 5 tablets",
     "Like2": "Indoco Remedies Ltd",
-    "Keywords": "Azithromycin (500mg) ADD",
+    "Keywords": "Azithromycin (500mg)",
     "quantity": "1" 
   },
   {
@@ -2174,7 +2174,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 15 tablets",
     "Like2": "Emcure Pharmaceuticals Ltd",
-    "Keywords": "S-Amlodipine (2.5mg) ADD",
+    "Keywords": "S-Amlodipine (2.5mg)",
     "quantity": "1" 
   },
   {
@@ -2185,7 +2185,7 @@ var products=[
     "Prescription": "",
     "Like1": "tube of 20 gm Gel",
     "Like2": "A. Menarini India Pvt Ltd",
-    "Keywords": "Tretinoin (0.1% w/w) ADD",
+    "Keywords": "Tretinoin (0.1% w/w)",
     "quantity": "1" 
   },
   {
@@ -2196,7 +2196,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "bottle of 25 capsule tr",
     "Like2": "Micro Labs Ltd",
-    "Keywords": "Nitroglycerin (2.5mg) ADD",
+    "Keywords": "Nitroglycerin (2.5mg)",
     "quantity": "1" 
   },
   {
@@ -2207,7 +2207,7 @@ var products=[
     "Prescription": "",
     "Like1": "strip of 10 tablets",
     "Like2": "Alniche Life Sciences Pvt Ltd",
-    "Keywords": "Thiamine(Vitamin B1) (250mg) + Vitamin B2 (4mg) + Vitamin B6 (Pyridoxine) (50mg) ADD",
+    "Keywords": "Thiamine(Vitamin B1) (250mg) + Vitamin B2 (4mg) + Vitamin B6 (Pyridoxine) (50mg)",
     "quantity": "1" 
   },
   {
@@ -2251,7 +2251,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 14 tablets",
     "Like2": "Zydus Cadila",
-    "Keywords": "Atenolol (25mg) ADD",
+    "Keywords": "Atenolol (25mg)",
     "quantity": "1" 
   },
   {
@@ -2262,7 +2262,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 10 tablets",
     "Like2": "Mankind Pharma Ltd",
-    "Keywords": "Acebrophylline (100mg) + Acetylcysteine (600mg) ADD",
+    "Keywords": "Acebrophylline (100mg) + Acetylcysteine (600mg)",
     "quantity": "1" 
   },
   {
@@ -2273,7 +2273,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "vial of 1 Injection",
     "Like2": "Abbott",
-    "Keywords": "Testosterone (25mg) ADD",
+    "Keywords": "Testosterone (25mg)",
     "quantity": "1" 
   },
   {
@@ -2284,7 +2284,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 10 tablet sr",
     "Like2": "Alembic Pharmaceuticals Ltd",
-    "Keywords": "Methylcobalamin (1500mcg) + Pregabalin (75mg) ADD",
+    "Keywords": "Methylcobalamin (1500mcg) + Pregabalin (75mg)",
     "quantity": "1" 
   },
   {
@@ -2295,7 +2295,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 10 tablets",
     "Like2": "Cipla Ltd",
-    "Keywords": "Amoxycillin (500mg) + Clavulanic Acid (125mg) ADD",
+    "Keywords": "Amoxycillin (500mg) + Clavulanic Acid (125mg)",
     "quantity": "1" 
   },
   {
@@ -2306,7 +2306,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 10 tablet cr",
     "Like2": "Dr Reddy's Laboratories Ltd",
-    "Keywords": "Aceclofenac (200mg) + Rabeprazole (20mg) ADD",
+    "Keywords": "Aceclofenac (200mg) + Rabeprazole (20mg)",
     "quantity": "1" 
   },
   {
@@ -2328,7 +2328,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 10 tablets",
     "Like2": "Akumentis Healthcare Ltd",
-    "Keywords": "Sildenafil (25mg) ADD",
+    "Keywords": "Sildenafil (25mg)",
     "quantity": "1" 
   },
   {
@@ -2339,7 +2339,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 10 tablets",
     "Like2": "Micro Labs Ltd",
-    "Keywords": "Levocetirizine (5mg) + Phenylephrine (10mg) + Paracetamol (500mg) ADD",
+    "Keywords": "Levocetirizine (5mg) + Phenylephrine (10mg) + Paracetamol (500mg)",
     "quantity": "1" 
   },
   {
@@ -2350,7 +2350,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "bottle of 150 ml Syrup",
     "Like2": "Johnson & Johnson Ltd",
-    "Keywords": "Diphenhydramine (14.08mg/5ml) + Ammonium Chloride (138mg/5ml) + Sodium Citrate (57.03mg/5ml) ADD",
+    "Keywords": "Diphenhydramine (14.08mg/5ml) + Ammonium Chloride (138mg/5ml) + Sodium Citrate (57.03mg/5ml)",
     "quantity": "1" 
   },
   {
@@ -2361,7 +2361,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "tube of 25 gm Cream",
     "Like2": "Glaxo SmithKline Pharmaceuticals Ltd",
-    "Keywords": "Betamethasone (0.1% w/w) + Neomycin (0.5% w/w) ADD",
+    "Keywords": "Betamethasone (0.1% w/w) + Neomycin (0.5% w/w)",
     "quantity": "1" 
   },
   {
@@ -2372,7 +2372,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 20 tablets",
     "Like2": "Glaxo SmithKline Pharmaceuticals Ltd",
-    "Keywords": "Betamethasone (0.5mg) ADD",
+    "Keywords": "Betamethasone (0.5mg)",
     "quantity": "1" 
   },
   {
@@ -2394,7 +2394,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 14 tablets",
     "Like2": "AstraZeneca",
-    "Keywords": "Ticagrelor (90mg) ADD",
+    "Keywords": "Ticagrelor (90mg)",
     "quantity": "1" 
   },
   {
@@ -2405,7 +2405,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 1 Chewable Tablet",
     "Like2": "Mankind Pharma Ltd",
-    "Keywords": "Ivermectin (6mg) + Albendazole (400mg) ADD",
+    "Keywords": "Ivermectin (6mg) + Albendazole (400mg)",
     "quantity": "1" 
   },
   {
@@ -2416,7 +2416,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 10 tablets",
     "Like2": "Sun Pharmaceutical Industries Ltd",
-    "Keywords": "Bilastine (20mg) + Montelukast (10mg) ADD",
+    "Keywords": "Bilastine (20mg) + Montelukast (10mg)",
     "quantity": "1" 
   },
   {
@@ -2427,7 +2427,7 @@ var products=[
     "Prescription": "",
     "Like1": "bottle of 50 ml Gargle",
     "Like2": "Win-Medicare Pvt Ltd",
-    "Keywords": "Povidone Iodine (2% w/v) ADD",
+    "Keywords": "Povidone Iodine (2% w/v)",
     "quantity": "1" 
   },
   {
@@ -2438,7 +2438,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "tube of 20 gm Cream",
     "Like2": "Glaxo SmithKline Pharmaceuticals Ltd",
-    "Keywords": "Betamethasone (0.1% w/w) ADD",
+    "Keywords": "Betamethasone (0.1% w/w)",
     "quantity": "1" 
   },
   {
@@ -2449,7 +2449,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 30 tablets",
     "Like2": "Glaxo SmithKline Pharmaceuticals Ltd",
-    "Keywords": "Diethylcarbamazine (100mg) ADD",
+    "Keywords": "Diethylcarbamazine (100mg)",
     "quantity": "1" 
   },
   {
@@ -2471,7 +2471,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 10 capsule pr",
     "Like2": "Sun Pharmaceutical Industries Ltd",
-    "Keywords": "Propranolol (40mg) ADD",
+    "Keywords": "Propranolol (40mg)",
     "quantity": "1" 
   },
   {
@@ -2482,7 +2482,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "bottle of 100 ml Syrup",
     "Like2": "Johnson & Johnson Ltd",
-    "Keywords": "Dextromethorphan Hydrobromide (15mg/5ml) ADD",
+    "Keywords": "Dextromethorphan Hydrobromide (15mg/5ml)",
     "quantity": "1" 
   },
   {
@@ -2493,7 +2493,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "bottle of 100 ml Syrup",
     "Like2": "Alembic Pharmaceuticals Ltd",
-    "Keywords": "Ambroxol (15mg) + Levosalbutamol (0.5mg) + Guaifenesin (50mg) ADD",
+    "Keywords": "Ambroxol (15mg) + Levosalbutamol (0.5mg) + Guaifenesin (50mg)",
     "quantity": "1" 
   },
   {
@@ -2504,7 +2504,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "box of 45 tablets",
     "Like2": "Zydus Cadila",
-    "Keywords": "Saroglitazar (4mg) ADD",
+    "Keywords": "Saroglitazar (4mg)",
     "quantity": "1" 
   },
   {
@@ -2515,7 +2515,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 10 tablets",
     "Like2": "Intas Pharmaceuticals Ltd",
-    "Keywords": "Acebrophylline (100mg) + Acetylcysteine (600mg) ADD",
+    "Keywords": "Acebrophylline (100mg) + Acetylcysteine (600mg)",
     "quantity": "1" 
   },
   {
@@ -2526,7 +2526,7 @@ var products=[
     "Prescription": "",
     "Like1": "tube of 30 gm Gel",
     "Like2": "Galderma India Pvt Ltd",
-    "Keywords": "Benzoyl Peroxide (2.5% w/w) ADD",
+    "Keywords": "Benzoyl Peroxide (2.5% w/w)",
     "quantity": "1" 
   },
   {
@@ -2537,7 +2537,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 10 tablets",
     "Like2": "Abbott",
-    "Keywords": "Sulfamethoxazole (800mg) + Trimethoprim (160mg) ADD",
+    "Keywords": "Sulfamethoxazole (800mg) + Trimethoprim (160mg)",
     "quantity": "1" 
   },
   {
@@ -2548,7 +2548,7 @@ var products=[
     "Prescription": "",
     "Like1": "bottle of 100 ml Solution",
     "Like2": "Win-Medicare Pvt Ltd",
-    "Keywords": "Povidone Iodine (10% w/v) ADD",
+    "Keywords": "Povidone Iodine (10% w/v)",
     "quantity": "1" 
   },
   {
@@ -2559,7 +2559,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "tube of 20 gm Cream",
     "Like2": "Glaxo SmithKline Pharmaceuticals Ltd",
-    "Keywords": "Betamethasone (0.1% w/w) + Gentamicin (0.1% w/w) + Miconazole (2% w/w) ADD",
+    "Keywords": "Betamethasone (0.1% w/w) + Gentamicin (0.1% w/w) + Miconazole (2% w/w)",
     "quantity": "1" 
   },
   {
@@ -2570,7 +2570,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "packet of 200 MDI Inhaler",
     "Like2": "Cipla Ltd",
-    "Keywords": "Budesonide (200mcg) ADD",
+    "Keywords": "Budesonide (200mcg)",
     "quantity": "1" 
   },
   {
@@ -2581,7 +2581,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 30 tablets",
     "Like2": "AstraZeneca",
-    "Keywords": "Metoprolol Tartrate (25mg) ADD",
+    "Keywords": "Metoprolol Tartrate (25mg)",
     "quantity": "1" 
   },
   {
@@ -2603,7 +2603,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "bottle of 10 ml Solution",
     "Like2": "Juggat Pharma",
-    "Keywords": "Hemocoagulase (0.2CU) ADD",
+    "Keywords": "Hemocoagulase (0.2CU)",
     "quantity": "1" 
   },
   {
@@ -2625,7 +2625,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 10 tablets",
     "Like2": "Intas Pharmaceuticals Ltd",
-    "Keywords": "Baclofen (10mg) ADD",
+    "Keywords": "Baclofen (10mg)",
     "quantity": "1" 
   },
   {
@@ -2647,7 +2647,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "bottle of 10 ml Oral Suspension",
     "Like2": "Mankind Pharma Ltd",
-    "Keywords": "Albendazole (200mg) ADD",
+    "Keywords": "Albendazole (200mg)",
     "quantity": "1" 
   },
   {
@@ -2669,7 +2669,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "packet of 120 MDI Transhaler",
     "Like2": "Lupin Ltd",
-    "Keywords": "Formoterol (6mcg) + Budesonide (200mcg) ADD",
+    "Keywords": "Formoterol (6mcg) + Budesonide (200mcg)",
     "quantity": "1" 
   },
   {
@@ -2680,7 +2680,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 10 tablets",
     "Like2": "Sun Pharmaceutical Industries Ltd",
-    "Keywords": "Bilastine (20mg) ADD",
+    "Keywords": "Bilastine (20mg)",
     "quantity": "1" 
   },
   {
@@ -2691,7 +2691,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 10 tablets",
     "Like2": "Abbott",
-    "Keywords": "Bilastine (20mg) ADD",
+    "Keywords": "Bilastine (20mg)",
     "quantity": "1" 
   },
   {
@@ -2702,7 +2702,7 @@ var products=[
     "Prescription": "",
     "Like1": "bottle of 5 ml Oral Suspension",
     "Like2": "Abbott",
-    "Keywords": "Bacillus Clausii (NA) ADD",
+    "Keywords": "Bacillus Clausii (NA)",
     "quantity": "1" 
   },
   {
@@ -2713,7 +2713,7 @@ var products=[
     "Prescription": "",
     "Like1": "tube of 20 gm Ointment",
     "Like2": "Win-Medicare Pvt Ltd",
-    "Keywords": "Povidone Iodine (10% w/w) ADD",
+    "Keywords": "Povidone Iodine (10% w/w)",
     "quantity": "1" 
   },
   {
@@ -2724,7 +2724,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 10 tablets",
     "Like2": "Sun Pharmaceutical Industries Ltd",
-    "Keywords": "Brivaracetam (50mg) ADD",
+    "Keywords": "Brivaracetam (50mg)",
     "quantity": "1" 
   },
   {
@@ -2735,7 +2735,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "bottle of 10 ml Oral Suspension",
     "Like2": "Mankind Pharma Ltd",
-    "Keywords": "Ivermectin (1.5mg) + Albendazole (200mg) ADD",
+    "Keywords": "Ivermectin (1.5mg) + Albendazole (200mg)",
     "quantity": "1" 
   },
   {
@@ -2746,7 +2746,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "tube of 25 gm Cream",
     "Like2": "Merck Ltd",
-    "Keywords": "Betamethasone (0.05% w/w) + Gentamicin (0.1% w/w) + Miconazole (2% w/w) ADD",
+    "Keywords": "Betamethasone (0.05% w/w) + Gentamicin (0.1% w/w) + Miconazole (2% w/w)",
     "quantity": "1" 
   },
   {
@@ -2757,7 +2757,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 10 tablets",
     "Like2": "Mankind Pharma Ltd",
-    "Keywords": "Etoricoxib (60mg) + Thiocolchicoside (4mg) ADD",
+    "Keywords": "Etoricoxib (60mg) + Thiocolchicoside (4mg)",
     "quantity": "1" 
   },
   {
@@ -2768,7 +2768,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 10 tablets",
     "Like2": "Franco-Indian Pharmaceuticals Pvt Ltd",
-    "Keywords": "Ofloxacin (200mg) + Ornidazole (500mg) ADD",
+    "Keywords": "Ofloxacin (200mg) + Ornidazole (500mg)",
     "quantity": "1" 
   },
   {
@@ -2779,7 +2779,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 20 tablets",
     "Like2": "Glaxo SmithKline Pharmaceuticals Ltd",
-    "Keywords": "Betamethasone (1mg) ADD",
+    "Keywords": "Betamethasone (1mg)",
     "quantity": "1" 
   },
   {
@@ -2790,7 +2790,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "bottle of 100 ml Syrup",
     "Like2": "Dr Reddy's Laboratories Ltd",
-    "Keywords": "Guaifenesin (50mg/5ml) + Terbutaline (1.25mg/5ml) + Bromhexine (4mg/5ml) ADD",
+    "Keywords": "Guaifenesin (50mg/5ml) + Terbutaline (1.25mg/5ml) + Bromhexine (4mg/5ml)",
     "quantity": "1" 
   },
   {
@@ -2801,7 +2801,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "ampoule of 1 ml Injection",
     "Like2": "Juggat Pharma",
-    "Keywords": "Hemocoagulase (1IU) ADD",
+    "Keywords": "Hemocoagulase (1IU)",
     "quantity": "1" 
   },
   {
@@ -2812,7 +2812,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 10 tablets",
     "Like2": "Alembic Pharmaceuticals Ltd",
-    "Keywords": "Bilastine (20mg) + Montelukast (10mg) ADD",
+    "Keywords": "Bilastine (20mg) + Montelukast (10mg)",
     "quantity": "1" 
   },
   {
@@ -2823,7 +2823,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "packet of 15 ml Oral Drops",
     "Like2": "Glaxo SmithKline Pharmaceuticals Ltd",
-    "Keywords": "Betamethasone (0.5mg) ADD",
+    "Keywords": "Betamethasone (0.5mg)",
     "quantity": "1" 
   },
   {
@@ -2834,7 +2834,7 @@ var products=[
     "Prescription": "",
     "Like1": "strip of 10 tablets",
     "Like2": "Franco-Indian Pharmaceuticals Pvt Ltd",
-    "Keywords": "Benfotiamine (100mg) ADD",
+    "Keywords": "Benfotiamine (100mg)",
     "quantity": "1" 
   },
   {
@@ -2856,7 +2856,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 10 tablets",
     "Like2": "Glenmark Pharmaceuticals Ltd",
-    "Keywords": "Bilastine (20mg) + Montelukast (10mg) ADD",
+    "Keywords": "Bilastine (20mg) + Montelukast (10mg)",
     "quantity": "1" 
   },
   {
@@ -2867,7 +2867,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 10 tablet mr",
     "Like2": "Sun Pharmaceutical Industries Ltd",
-    "Keywords": "Bupropion (150mg) ADD",
+    "Keywords": "Bupropion (150mg)",
     "quantity": "1" 
   },
   {
@@ -2878,7 +2878,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 10 tablets",
     "Like2": "Micro Labs Ltd",
-    "Keywords": "Bilastine (20mg) + Montelukast (10mg) ADD",
+    "Keywords": "Bilastine (20mg) + Montelukast (10mg)",
     "quantity": "1" 
   },
   {
@@ -2889,7 +2889,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 10 capsule pr",
     "Like2": "Sun Pharmaceutical Industries Ltd",
-    "Keywords": "Propranolol (20mg) ADD",
+    "Keywords": "Propranolol (20mg)",
     "quantity": "1" 
   },
   {
@@ -2911,7 +2911,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 10 tablets",
     "Like2": "Sun Pharmaceutical Industries Ltd",
-    "Keywords": "Bilastine (20mg) ADD",
+    "Keywords": "Bilastine (20mg)",
     "quantity": "1" 
   },
   {
@@ -2922,7 +2922,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 5 respules",
     "Like2": "Cipla Ltd",
-    "Keywords": "Budesonide (1mg) ADD",
+    "Keywords": "Budesonide (1mg)",
     "quantity": "1" 
   },
   {
@@ -2933,7 +2933,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 10 tablets",
     "Like2": "Mankind Pharma Ltd",
-    "Keywords": "Bisoprolol (2.5mg) ADD",
+    "Keywords": "Bisoprolol (2.5mg)",
     "quantity": "1" 
   },
   {
@@ -2955,7 +2955,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 10 tablets",
     "Like2": "Aristo Pharmaceuticals Pvt Ltd",
-    "Keywords": "Bilastine (20mg) + Montelukast (10mg) ADD",
+    "Keywords": "Bilastine (20mg) + Montelukast (10mg)",
     "quantity": "1" 
   },
   {
@@ -2966,7 +2966,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "bottle of 30 transcaps",
     "Like2": "Lupin Ltd",
-    "Keywords": "Formoterol (6mcg) + Budesonide (400mcg) ADD",
+    "Keywords": "Formoterol (6mcg) + Budesonide (400mcg)",
     "quantity": "1" 
   },
   {
@@ -2999,7 +2999,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 10 tablets",
     "Like2": "Sun Pharmaceutical Industries Ltd",
-    "Keywords": "Betahistine (16mg) ADD",
+    "Keywords": "Betahistine (16mg)",
     "quantity": "1" 
   },
   {
@@ -3010,7 +3010,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "tube of 15 gm Cream",
     "Like2": "Cipla Ltd",
-    "Keywords": "Chlorhexidine Gluconate (0.20% w/w) + Silver Nitrate (0.20% w/w) ADD",
+    "Keywords": "Chlorhexidine Gluconate (0.20% w/w) + Silver Nitrate (0.20% w/w)",
     "quantity": "1" 
   },
   {
@@ -3021,7 +3021,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 10 capsule sr",
     "Like2": "Sun Pharmaceutical Industries Ltd",
-    "Keywords": "Propranolol (40mg) + Flunarizine (10mg) ADD",
+    "Keywords": "Propranolol (40mg) + Flunarizine (10mg)",
     "quantity": "1" 
   },
   {
@@ -3032,7 +3032,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "bottle of 100 ml Syrup",
     "Like2": "Dr Reddy's Laboratories Ltd",
-    "Keywords": "Levosalbutamol (1mg/5ml) + Ambroxol (30mg/5ml) + Guaifenesin (50mg/5ml) ADD",
+    "Keywords": "Levosalbutamol (1mg/5ml) + Ambroxol (30mg/5ml) + Guaifenesin (50mg/5ml)",
     "quantity": "1" 
   },
   {
@@ -3043,7 +3043,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 10 tablets",
     "Like2": "Cipla Ltd",
-    "Keywords": "Bilastine (20mg) + Montelukast (10mg) ADD",
+    "Keywords": "Bilastine (20mg) + Montelukast (10mg)",
     "quantity": "1" 
   },
   {
@@ -3054,7 +3054,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 1 Tablet",
     "Like2": "Mankind Pharma Ltd",
-    "Keywords": "Ivermectin (12mg) + Albendazole (400mg) ADD",
+    "Keywords": "Ivermectin (12mg) + Albendazole (400mg)",
     "quantity": "1" 
   },
   {
@@ -3065,7 +3065,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 10 tablets",
     "Like2": "Abbott",
-    "Keywords": "Bilastine (20mg) + Montelukast (10mg) ADD",
+    "Keywords": "Bilastine (20mg) + Montelukast (10mg)",
     "quantity": "1" 
   },
   {
@@ -3076,7 +3076,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "packet of 5 ml Eye/Ear Drops",
     "Like2": "Glaxo SmithKline Pharmaceuticals Ltd",
-    "Keywords": "Betamethasone (0.1% w/v) + Neomycin (0.5% w/v) ADD",
+    "Keywords": "Betamethasone (0.1% w/v) + Neomycin (0.5% w/v)",
     "quantity": "1" 
   },
   {
@@ -3087,7 +3087,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "cartridge of 3 ml Solution for Injection",
     "Like2": "Sun Pharmaceutical Industries Ltd",
-    "Keywords": "Teriparatide (250mcg/ml) ADD",
+    "Keywords": "Teriparatide (250mcg/ml)",
     "quantity": "1" 
   },
   {
@@ -3098,7 +3098,7 @@ var products=[
     "Prescription": "",
     "Like1": "bottle of 100 ml Gargle",
     "Like2": "Win-Medicare Pvt Ltd",
-    "Keywords": "Povidone Iodine (2% w/v) ADD",
+    "Keywords": "Povidone Iodine (2% w/v)",
     "quantity": "1" 
   },
   {
@@ -3120,7 +3120,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 15 tablets",
     "Like2": "Abbott",
-    "Keywords": "Ibuprofen (200mg) ADD",
+    "Keywords": "Ibuprofen (200mg)",
     "quantity": "1" 
   },
   {
@@ -3131,7 +3131,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "bottle of 60 ml Expectorant",
     "Like2": "Dr Reddy's Laboratories Ltd",
-    "Keywords": "Ambroxol (30mg/5ml) + Levosalbutamol (1mg/5ml) + Guaifenesin (50mg/5ml) ADD",
+    "Keywords": "Ambroxol (30mg/5ml) + Levosalbutamol (1mg/5ml) + Guaifenesin (50mg/5ml)",
     "quantity": "1" 
   },
   {
@@ -3142,7 +3142,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 10 tablets",
     "Like2": "Lupin Ltd",
-    "Keywords": "Bilastine (20mg) + Montelukast (10mg) ADD",
+    "Keywords": "Bilastine (20mg) + Montelukast (10mg)",
     "quantity": "1" 
   },
   {
@@ -3153,7 +3153,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "packet of 5 respules",
     "Like2": "Macleods Pharmaceuticals Pvt Ltd",
-    "Keywords": "Budesonide (0.5mg) ADD",
+    "Keywords": "Budesonide (0.5mg)",
     "quantity": "1" 
   },
   {
@@ -3164,7 +3164,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 10 tablets",
     "Like2": "Ipca Laboratories Ltd",
-    "Keywords": "Bromhexine (8mg) ADD",
+    "Keywords": "Bromhexine (8mg)",
     "quantity": "1" 
   },
   {
@@ -3175,7 +3175,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 10 tablets",
     "Like2": "Mankind Pharma Ltd",
-    "Keywords": "Bisoprolol (5mg) ADD",
+    "Keywords": "Bisoprolol (5mg)",
     "quantity": "1" 
   },
   {
@@ -3197,7 +3197,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 10 tablets",
     "Like2": "Sun Pharmaceutical Industries Ltd",
-    "Keywords": "Propranolol (20mg) ADD",
+    "Keywords": "Propranolol (20mg)",
     "quantity": "1" 
   },
   {
@@ -3208,7 +3208,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 10 capsules",
     "Like2": "Dr Reddy's Laboratories Ltd",
-    "Keywords": "Diclofenac (50mg) + Paracetamol (325mg) ADD",
+    "Keywords": "Diclofenac (50mg) + Paracetamol (325mg)",
     "quantity": "1" 
   },
   {
@@ -3219,7 +3219,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 10 tablets",
     "Like2": "Mankind Pharma Ltd",
-    "Keywords": "Etoricoxib (90mg) ADD",
+    "Keywords": "Etoricoxib (90mg)",
     "quantity": "1" 
   },
   {
@@ -3252,7 +3252,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "bottle of 200 ml Syrup",
     "Like2": "Geno Pharmaceuticals Ltd",
-    "Keywords": "Cyproheptadine (2mg/5ml) + Tricholine Citrate (275mg/5ml) + Sorbitol (2gm/5ml) ADD",
+    "Keywords": "Cyproheptadine (2mg/5ml) + Tricholine Citrate (275mg/5ml) + Sorbitol (2gm/5ml)",
     "quantity": "1" 
   },
   {
@@ -3263,7 +3263,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 10 tablets",
     "Like2": "Merck Ltd",
-    "Keywords": "Bisoprolol (5mg) ADD",
+    "Keywords": "Bisoprolol (5mg)",
     "quantity": "1" 
   },
   {
@@ -3274,7 +3274,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 10 tablets",
     "Like2": "Cipla Ltd",
-    "Keywords": "Ciprofloxacin (500mg) + Tinidazole (600mg) ADD",
+    "Keywords": "Ciprofloxacin (500mg) + Tinidazole (600mg)",
     "quantity": "1" 
   },
   {
@@ -3285,7 +3285,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 10 tablet cr",
     "Like2": "Alembic Pharmaceuticals Ltd",
-    "Keywords": "Norethisterone (10mg) ADD",
+    "Keywords": "Norethisterone (10mg)",
     "quantity": "1" 
   },
   {
@@ -3296,7 +3296,7 @@ var products=[
     "Prescription": "",
     "Like1": "bottle of 25 ml Mouth Paint",
     "Like2": "Glenmark Pharmaceuticals Ltd",
-    "Keywords": "Clotrimazole (1% w/v) ADD",
+    "Keywords": "Clotrimazole (1% w/v)",
     "quantity": "1" 
   },
   {
@@ -3307,7 +3307,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "tube of 10 gm Cream",
     "Like2": "Laborate Pharmaceuticals India Ltd",
-    "Keywords": "Clobetasol (0.05% w/w) + Neomycin (0.5% w/w) + Miconazole (2% w/w) + Zinc Oxide (2.5% w/w) + Borax (0.05% w/w) ADD",
+    "Keywords": "Clobetasol (0.05% w/w) + Neomycin (0.5% w/w) + Miconazole (2% w/w) + Zinc Oxide (2.5% w/w) + Borax (0.05% w/w)",
     "quantity": "1" 
   },
   {
@@ -3318,7 +3318,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "bottle of 50 ml Syrup",
     "Like2": "Pfizer Ltd",
-    "Keywords": "Chlorpheniramine Maleate (4mg/5ml) + Dextromethorphan Hydrobromide (10mg/5ml) ADD",
+    "Keywords": "Chlorpheniramine Maleate (4mg/5ml) + Dextromethorphan Hydrobromide (10mg/5ml)",
     "quantity": "1" 
   },
   {
@@ -3329,7 +3329,7 @@ var products=[
     "Prescription": "",
     "Like1": "strip of 15 tablets",
     "Like2": "Glaxo SmithKline Pharmaceuticals Ltd",
-    "Keywords": "Paracetamol (650mg) ADD",
+    "Keywords": "Paracetamol (650mg)",
     "quantity": "1" 
   },
   {
@@ -3340,7 +3340,7 @@ var products=[
     "Prescription": "",
     "Like1": "bottle of 100 ml Syrup",
     "Like2": "Pfizer Ltd",
-    "Keywords": "Disodium Hydrogen Citrate (1.53gm/5ml) ADD",
+    "Keywords": "Disodium Hydrogen Citrate (1.53gm/5ml)",
     "quantity": "1" 
   },
   {
@@ -3351,7 +3351,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 10 tablets",
     "Like2": "Sun Pharmaceutical Industries Ltd",
-    "Keywords": "Carvedilol (3.125mg) ADD",
+    "Keywords": "Carvedilol (3.125mg)",
     "quantity": "1" 
   },
   {
@@ -3362,7 +3362,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "bottle of 100 ml Syrup",
     "Like2": "Mankind Pharma Ltd",
-    "Keywords": "Chlorpheniramine Maleate (4mg/5ml) + Dextromethorphan Hydrobromide (10mg/5ml) ADD",
+    "Keywords": "Chlorpheniramine Maleate (4mg/5ml) + Dextromethorphan Hydrobromide (10mg/5ml)",
     "quantity": "1" 
   },
   {
@@ -3373,7 +3373,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "packet of 10 ml Eye/Ear Drops",
     "Like2": "Cipla Ltd",
-    "Keywords": "Ciprofloxacin (0.3% w/v) + Dexamethasone (0.1% w/v) ADD",
+    "Keywords": "Ciprofloxacin (0.3% w/v) + Dexamethasone (0.1% w/v)",
     "quantity": "1" 
   },
   {
@@ -3395,7 +3395,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 15 tablets",
     "Like2": "Cipla Ltd",
-    "Keywords": "Propranolol (10mg) ADD",
+    "Keywords": "Propranolol (10mg)",
     "quantity": "1" 
   },
   {
@@ -3406,7 +3406,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 4 tablets",
     "Like2": "Sun Pharmaceutical Industries Ltd",
-    "Keywords": "Cabergoline (0.5mg) ADD",
+    "Keywords": "Cabergoline (0.5mg)",
     "quantity": "1" 
   },
   {
@@ -3417,7 +3417,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 10 tablets",
     "Like2": "Sun Pharmaceutical Industries Ltd",
-    "Keywords": "Ciprofloxacin (500mg) ADD",
+    "Keywords": "Ciprofloxacin (500mg)",
     "quantity": "1" 
   },
   {
@@ -3439,7 +3439,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 10 tablets",
     "Like2": "Intas Pharmaceuticals Ltd",
-    "Keywords": "Cefixime (200mg) ADD",
+    "Keywords": "Cefixime (200mg)",
     "quantity": "1" 
   },
   {
@@ -3472,7 +3472,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 7 capsules",
     "Like2": "Mankind Pharma Ltd",
-    "Keywords": "Itraconazole (200mg) ADD",
+    "Keywords": "Itraconazole (200mg)",
     "quantity": "1" 
   },
   {
@@ -3483,7 +3483,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "packet of 7 Vaginal Capsules",
     "Like2": "Aristo Pharmaceuticals Pvt Ltd",
-    "Keywords": "Clindamycin (100mg) + Clotrimazole (100mg) + Tinidazole (100mg) ADD",
+    "Keywords": "Clindamycin (100mg) + Clotrimazole (100mg) + Tinidazole (100mg)",
     "quantity": "1" 
   },
   {
@@ -3494,7 +3494,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 15 tablets",
     "Like2": "Cipla Ltd",
-    "Keywords": "Propranolol (40mg) ADD",
+    "Keywords": "Propranolol (40mg)",
     "quantity": "1" 
   },
   {
@@ -3505,7 +3505,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 10 tablets",
     "Like2": "Torrent Pharmaceuticals Ltd",
-    "Keywords": "Aceclofenac (100mg) + Paracetamol (325mg) + Trypsin Chymotrypsin (50000AU) ADD",
+    "Keywords": "Aceclofenac (100mg) + Paracetamol (325mg) + Trypsin Chymotrypsin (50000AU)",
     "quantity": "1" 
   },
   {
@@ -3516,7 +3516,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 6 tablets",
     "Like2": "Cipla Ltd",
-    "Keywords": "Chlorzoxazone (500mg) + Diclofenac (50mg) + Paracetamol (325mg) ADD",
+    "Keywords": "Chlorzoxazone (500mg) + Diclofenac (50mg) + Paracetamol (325mg)",
     "quantity": "1" 
   },
   {
@@ -3527,7 +3527,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "packet of 5 ml Ear Drop",
     "Like2": "Glenmark Pharmaceuticals Ltd",
-    "Keywords": "Beclometasone (0.025% w/v) + Neomycin (0.5% w/v) + Clotrimazole (1% w/v) ADD",
+    "Keywords": "Beclometasone (0.025% w/v) + Neomycin (0.5% w/v) + Clotrimazole (1% w/v)",
     "quantity": "1" 
   },
   {
@@ -3549,7 +3549,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 15 tablets",
     "Like2": "Dr Reddy's Laboratories Ltd",
-    "Keywords": "Cetirizine (10mg) ADD",
+    "Keywords": "Cetirizine (10mg)",
     "quantity": "1" 
   },
   {
@@ -3571,7 +3571,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 15 tablets",
     "Like2": "Ipca Laboratories Ltd",
-    "Keywords": "Chlorthalidone (6.25mg) ADD",
+    "Keywords": "Chlorthalidone (6.25mg)",
     "quantity": "1" 
   },
   {
@@ -3582,7 +3582,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 15 tablets",
     "Like2": "Torrent Pharmaceuticals Ltd",
-    "Keywords": "Diclofenac (50mg) + Trypsin Chymotrypsin (50000IU) ADD",
+    "Keywords": "Diclofenac (50mg) + Trypsin Chymotrypsin (50000IU)",
     "quantity": "1" 
   },
   {
@@ -3615,7 +3615,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "prefilled syringe of 1 Injection",
     "Like2": "Sanofi India  Ltd",
-    "Keywords": "Enoxaparin (40mg) ADD",
+    "Keywords": "Enoxaparin (40mg)",
     "quantity": "1" 
   },
   {
@@ -3626,7 +3626,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 10 tablets",
     "Like2": "Mankind Pharma Ltd",
-    "Keywords": "Cefuroxime (500mg) + Clavulanic Acid (125mg) ADD",
+    "Keywords": "Cefuroxime (500mg) + Clavulanic Acid (125mg)",
     "quantity": "1" 
   },
   {
@@ -3648,7 +3648,7 @@ var products=[
     "Prescription": "",
     "Like1": "tube of 10 gm Cream",
     "Like2": "Ind Swift Laboratories Ltd",
-    "Keywords": "Clobetasol (0.05% w/w) + Gentamicin (0.1% w/w) + Miconazole (2% w/w) ADD",
+    "Keywords": "Clobetasol (0.05% w/w) + Gentamicin (0.1% w/w) + Miconazole (2% w/w)",
     "quantity": "1" 
   },
   {
@@ -3659,7 +3659,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 15 tablets",
     "Like2": "Sanofi India  Ltd",
-    "Keywords": "Ramipril (2.5mg) ADD",
+    "Keywords": "Ramipril (2.5mg)",
     "quantity": "1" 
   },
   {
@@ -3681,7 +3681,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "bottle of 50 ml Syrup",
     "Like2": "Biological E Ltd",
-    "Keywords": "Ammonium Chloride (7mg/5ml) + Noscapine (1.83mg/5ml) + Sodium Citrate (0.67mg/5ml) ADD",
+    "Keywords": "Ammonium Chloride (7mg/5ml) + Noscapine (1.83mg/5ml) + Sodium Citrate (0.67mg/5ml)",
     "quantity": "1" 
   },
   {
@@ -3692,7 +3692,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 14 tablets",
     "Like2": "Dr Reddy's Laboratories Ltd",
-    "Keywords": "Sacubitril (49mg) + Valsartan (51mg) ADD",
+    "Keywords": "Sacubitril (49mg) + Valsartan (51mg)",
     "quantity": "1" 
   },
   {
@@ -3703,7 +3703,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "packet of 3 Vaginal Suppository",
     "Like2": "Glenmark Pharmaceuticals Ltd",
-    "Keywords": "Clindamycin (100mg) + Clotrimazole (200mg) ADD",
+    "Keywords": "Clindamycin (100mg) + Clotrimazole (200mg)",
     "quantity": "1" 
   },
   {
@@ -3747,7 +3747,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "tube of 30 gm Vaginal gel",
     "Like2": "Glenmark Pharmaceuticals Ltd",
-    "Keywords": "Clotrimazole (2% w/w) ADD",
+    "Keywords": "Clotrimazole (2% w/w)",
     "quantity": "1" 
   },
   {
@@ -3758,7 +3758,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 10 tablets",
     "Like2": "Macleods Pharmaceuticals Pvt Ltd",
-    "Keywords": "Cefixime (200mg) ADD",
+    "Keywords": "Cefixime (200mg)",
     "quantity": "1" 
   },
   {
@@ -3769,7 +3769,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 15 capsules",
     "Like2": "Lupin Ltd",
-    "Keywords": "Aspirin (75mg) + Clopidogrel (75mg) ADD",
+    "Keywords": "Aspirin (75mg) + Clopidogrel (75mg)",
     "quantity": "1" 
   },
   {
@@ -3780,7 +3780,7 @@ var products=[
     "Prescription": "",
     "Like1": "bottle of 100 ml Oral Liquid",
     "Like2": "Indoco Remedies Ltd",
-    "Keywords": "Disodium Hydrogen Citrate (1.37gm/5ml) ADD",
+    "Keywords": "Disodium Hydrogen Citrate (1.37gm/5ml)",
     "quantity": "1" 
   },
   {
@@ -3791,7 +3791,7 @@ var products=[
     "Prescription": "",
     "Like1": "strip of 15 tablets",
     "Like2": "GlaxoSmithKline Consumer Healthcare",
-    "Keywords": "Caffeine (50mg) + Paracetamol (650mg) ADD",
+    "Keywords": "Caffeine (50mg) + Paracetamol (650mg)",
     "quantity": "1" 
   },
   {
@@ -3813,7 +3813,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 10 tablets",
     "Like2": "Lupin Ltd",
-    "Keywords": "Cefuroxime (500mg) ADD",
+    "Keywords": "Cefuroxime (500mg)",
     "quantity": "1" 
   },
   {
@@ -3824,7 +3824,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 15 tablets",
     "Like2": "Ipca Laboratories Ltd",
-    "Keywords": "Chlorthalidone (12.5mg) ADD",
+    "Keywords": "Chlorthalidone (12.5mg)",
     "quantity": "1" 
   },
   {
@@ -3835,7 +3835,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 15 tablets",
     "Like2": "Abbott",
-    "Keywords": "Mebeverine (135mg) ADD",
+    "Keywords": "Mebeverine (135mg)",
     "quantity": "1" 
   },
   {
@@ -3868,7 +3868,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 10 tablets",
     "Like2": "Systopic Laboratories Pvt Ltd",
-    "Keywords": "Rabeprazole (20mg) ADD",
+    "Keywords": "Rabeprazole (20mg)",
     "quantity": "1" 
   },
   {
@@ -3879,7 +3879,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 15 tablets",
     "Like2": "Torrent Pharmaceuticals Ltd",
-    "Keywords": "Bisoprolol (2.5mg) ADD",
+    "Keywords": "Bisoprolol (2.5mg)",
     "quantity": "1" 
   },
   {
@@ -3890,7 +3890,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "bottle of 100 ml Syrup",
     "Like2": "Sun Pharmaceutical Industries Ltd",
-    "Keywords": "Ambroxol (30mg/5ml) + Levosalbutamol (1mg/5ml) + Guaifenesin (50mg/5ml) ADD",
+    "Keywords": "Ambroxol (30mg/5ml) + Levosalbutamol (1mg/5ml) + Guaifenesin (50mg/5ml)",
     "quantity": "1" 
   },
   {
@@ -3901,7 +3901,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 10 tablets",
     "Like2": "Abbott",
-    "Keywords": "Clarithromycin (250mg) ADD",
+    "Keywords": "Clarithromycin (250mg)",
     "quantity": "1" 
   },
   {
@@ -3923,7 +3923,7 @@ var products=[
     "Prescription": "",
     "Like1": "bottle of 60 ml Oral Suspension",
     "Like2": "Glaxo SmithKline Pharmaceuticals Ltd",
-    "Keywords": "Paracetamol (250mg/5ml) ADD",
+    "Keywords": "Paracetamol (250mg/5ml)",
     "quantity": "1" 
   },
   {
@@ -3945,7 +3945,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "tube of 15 gm Gel",
     "Like2": "Leeford Healthcare Ltd",
-    "Keywords": "Clindamycin (1% w/w) + Nicotinamide (4% w/w) ADD",
+    "Keywords": "Clindamycin (1% w/w) + Nicotinamide (4% w/w)",
     "quantity": "1" 
   },
   {
@@ -3967,7 +3967,7 @@ var products=[
     "Prescription": "",
     "Like1": "strip of 15 tablets",
     "Like2": "Micro Labs Ltd",
-    "Keywords": "Paracetamol (650mg) ADD",
+    "Keywords": "Paracetamol (650mg)",
     "quantity": "1" 
   },
   {
@@ -3978,7 +3978,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 10 tablets",
     "Like2": "Abbott",
-    "Keywords": "Dydrogesterone (10mg) ADD",
+    "Keywords": "Dydrogesterone (10mg)",
     "quantity": "1" 
   },
   {
@@ -3989,7 +3989,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "packet of 5 respules",
     "Like2": "Cipla Ltd",
-    "Keywords": "Levosalbutamol (1.25mg) + Ipratropium (500mcg) ADD",
+    "Keywords": "Levosalbutamol (1.25mg) + Ipratropium (500mcg)",
     "quantity": "1" 
   },
   {
@@ -4000,7 +4000,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 30 tablets",
     "Like2": "Maneesh Pharmaceuticals Ltd",
-    "Keywords": "Doxylamine (10mg) + Vitamin B6 (Pyridoxine) (10mg) ADD",
+    "Keywords": "Doxylamine (10mg) + Vitamin B6 (Pyridoxine) (10mg)",
     "quantity": "1" 
   },
   {
@@ -4011,7 +4011,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 15 tablets",
     "Like2": "Cipla Ltd",
-    "Keywords": "Torasemide (10mg) ADD",
+    "Keywords": "Torasemide (10mg)",
     "quantity": "1" 
   },
   {
@@ -4022,7 +4022,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 10 tablets",
     "Like2": "Macleods Pharmaceuticals Pvt Ltd",
-    "Keywords": "Deflazacort (6mg) ADD",
+    "Keywords": "Deflazacort (6mg)",
     "quantity": "1" 
   },
   {
@@ -4033,7 +4033,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 15 tablets",
     "Like2": "Cipla Ltd",
-    "Keywords": "Spironolactone (50mg) + Torasemide (10mg) ADD",
+    "Keywords": "Spironolactone (50mg) + Torasemide (10mg)",
     "quantity": "1" 
   },
   {
@@ -4044,7 +4044,7 @@ var products=[
     "Prescription": "",
     "Like1": "bottle of 450 ml Oral Solution",
     "Like2": "Abbott",
-    "Keywords": "Lactulose (3.335gm/5ml) ADD",
+    "Keywords": "Lactulose (3.335gm/5ml)",
     "quantity": "1" 
   },
   {
@@ -4055,7 +4055,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 30 tablets",
     "Like2": "Zydus Cadila",
-    "Keywords": "Etofylline (77mg) + Theophylline (23mg) ADD",
+    "Keywords": "Etofylline (77mg) + Theophylline (23mg)",
     "quantity": "1" 
   },
   {
@@ -4066,7 +4066,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 10 tablets",
     "Like2": "Walter Bushnell",
-    "Keywords": "Drotaverine (80mg) + Mefenamic Acid (250mg) ADD",
+    "Keywords": "Drotaverine (80mg) + Mefenamic Acid (250mg)",
     "quantity": "1" 
   },
   {
@@ -4077,7 +4077,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 10 tablets",
     "Like2": "Serdia Pharmaceuticals India Pvt Ltd",
-    "Keywords": "Diosmin (450mg) + Hesperidin (50mg) ADD",
+    "Keywords": "Diosmin (450mg) + Hesperidin (50mg)",
     "quantity": "1" 
   },
   {
@@ -4088,7 +4088,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 15 tablet dt",
     "Like2": "Pfizer Ltd",
-    "Keywords": "Piroxicam (20mg) ADD",
+    "Keywords": "Piroxicam (20mg)",
     "quantity": "1" 
   },
   {
@@ -4099,7 +4099,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 30 tablets",
     "Like2": "Zydus Cadila",
-    "Keywords": "Dexamethasone (0.5mg) ADD",
+    "Keywords": "Dexamethasone (0.5mg)",
     "quantity": "1" 
   },
   {
@@ -4110,7 +4110,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 10 capsules",
     "Like2": "Dr Reddy's Laboratories Ltd",
-    "Keywords": "Doxycycline (100mg) + Lactobacillus (5Billion Spores) ADD",
+    "Keywords": "Doxycycline (100mg) + Lactobacillus (5Billion Spores)",
     "quantity": "1" 
   },
   {
@@ -4121,7 +4121,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 15 tablets",
     "Like2": "Walter Bushnell",
-    "Keywords": "Drotaverine (80mg) ADD",
+    "Keywords": "Drotaverine (80mg)",
     "quantity": "1" 
   },
   {
@@ -4132,7 +4132,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 10 tablets",
     "Like2": "Torrent Pharmaceuticals Ltd",
-    "Keywords": "Medroxyprogesterone acetate (10mg) ADD",
+    "Keywords": "Medroxyprogesterone acetate (10mg)",
     "quantity": "1" 
   },
   {
@@ -4143,7 +4143,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 30 Tablet pr",
     "Like2": "Zydus Cadila",
-    "Keywords": "Etofylline (115mg) + Theophylline (35mg) ADD",
+    "Keywords": "Etofylline (115mg) + Theophylline (35mg)",
     "quantity": "1" 
   },
   {
@@ -4154,7 +4154,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "ampoule of 1 ml Injection",
     "Like2": "Zydus Cadila",
-    "Keywords": "Nandrolone Decanoate (50mg) ADD",
+    "Keywords": "Nandrolone Decanoate (50mg)",
     "quantity": "1" 
   },
   {
@@ -4165,7 +4165,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 10 tablets",
     "Like2": "Mankind Pharma Ltd",
-    "Keywords": "Dydrogesterone (10mg) ADD",
+    "Keywords": "Dydrogesterone (10mg)",
     "quantity": "1" 
   },
   {
@@ -4176,7 +4176,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 30 tablets",
     "Like2": "Zydus Cadila",
-    "Keywords": "Doxofylline (400mg) ADD",
+    "Keywords": "Doxofylline (400mg)",
     "quantity": "1" 
   },
   {
@@ -4187,7 +4187,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 15 tablets",
     "Like2": "Sun Pharmaceutical Industries Ltd",
-    "Keywords": "Acetazolamide (250mg) ADD",
+    "Keywords": "Acetazolamide (250mg)",
     "quantity": "1" 
   },
   {
@@ -4198,7 +4198,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 15 tablets",
     "Like2": "Walter Bushnell",
-    "Keywords": "Drotaverine (40mg) ADD",
+    "Keywords": "Drotaverine (40mg)",
     "quantity": "1" 
   },
   {
@@ -4209,7 +4209,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "vial of 1 ml Injection",
     "Like2": "Troikaa Pharmaceuticals Ltd",
-    "Keywords": "Diclofenac (75mg) ADD",
+    "Keywords": "Diclofenac (75mg)",
     "quantity": "1" 
   },
   {
@@ -4231,7 +4231,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 15 tablets",
     "Like2": "Cipla Ltd",
-    "Keywords": "Torasemide (5mg) ADD",
+    "Keywords": "Torasemide (5mg)",
     "quantity": "1" 
   },
   {
@@ -4253,7 +4253,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 4 tablets",
     "Like2": "Sun Pharmaceutical Industries Ltd",
-    "Keywords": "Dapoxetine (30mg) ADD",
+    "Keywords": "Dapoxetine (30mg)",
     "quantity": "1" 
   },
   {
@@ -4264,7 +4264,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 10 capsules",
     "Like2": "USV Ltd",
-    "Keywords": "Doxycycline (100mg) + Lactobacillus (5Billion Spores) ADD",
+    "Keywords": "Doxycycline (100mg) + Lactobacillus (5Billion Spores)",
     "quantity": "1" 
   },
   {
@@ -4275,7 +4275,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 21 tablets",
     "Like2": "Bayer Zydus Pharma Pvt Ltd",
-    "Keywords": "Cyproterone (2mg) + Ethinyl Estradiol (0.035mg) ADD",
+    "Keywords": "Cyproterone (2mg) + Ethinyl Estradiol (0.035mg)",
     "quantity": "1" 
   },
   {
@@ -4286,7 +4286,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 10 capsules",
     "Like2": "Pfizer Ltd",
-    "Keywords": "Clindamycin (300mg) ADD",
+    "Keywords": "Clindamycin (300mg)",
     "quantity": "1" 
   },
   {
@@ -4308,7 +4308,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 15 tablets",
     "Like2": "Torrent Pharmaceuticals Ltd",
-    "Keywords": "Aspirin (75mg) + Clopidogrel (75mg) ADD",
+    "Keywords": "Aspirin (75mg) + Clopidogrel (75mg)",
     "quantity": "1" 
   },
   {
@@ -4341,7 +4341,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "tube of 15 gm Cream",
     "Like2": "Universal Twin Labs",
-    "Keywords": "Clobetasol (0.05% w/w) + Gentamicin (0.1% w/w) + Clotrimazole (1% w/w) + Clioquinol (Iodochlorhydroxyquin) (1% w/w) + Tolnaftate (1% w/w) ADD",
+    "Keywords": "Clobetasol (0.05% w/w) + Gentamicin (0.1% w/w) + Clotrimazole (1% w/w) + Clioquinol (Iodochlorhydroxyquin) (1% w/w) + Tolnaftate (1% w/w)",
     "quantity": "1" 
   },
   {
@@ -4352,7 +4352,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "packet of 7 gm Nasal Spray",
     "Like2": "Cipla Ltd",
-    "Keywords": "Fluticasone Propionate (50mcg) + Azelastine (140mcg) ADD",
+    "Keywords": "Fluticasone Propionate (50mcg) + Azelastine (140mcg)",
     "quantity": "1" 
   },
   {
@@ -4363,7 +4363,7 @@ var products=[
     "Prescription": "",
     "Like1": "tube of 15 gm Gel",
     "Like2": "Glenmark Pharmaceuticals Ltd",
-    "Keywords": "Adapalene (0.1% w/w) + Clindamycin (1% w/w) ADD",
+    "Keywords": "Adapalene (0.1% w/w) + Clindamycin (1% w/w)",
     "quantity": "1" 
   },
   {
@@ -4374,7 +4374,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 50 tablets",
     "Like2": "Abbott",
-    "Keywords": "Isoxsuprine (10mg) ADD",
+    "Keywords": "Isoxsuprine (10mg)",
     "quantity": "1" 
   },
   {
@@ -4385,7 +4385,7 @@ var products=[
     "Prescription": "",
     "Like1": "tube of 30 gm Ointment",
     "Like2": "USV Ltd",
-    "Keywords": "Salicylic Acid (1.15% w/w) + Dithranol (1.15% w/w) + Coal Tar (5.3% w/w) ADD",
+    "Keywords": "Salicylic Acid (1.15% w/w) + Dithranol (1.15% w/w) + Coal Tar (5.3% w/w)",
     "quantity": "1" 
   },
   {
@@ -4396,7 +4396,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "ampoule of 2 ml Injection",
     "Like2": "Zydus Cadila",
-    "Keywords": "Dexamethasone (4mg/ml) ADD",
+    "Keywords": "Dexamethasone (4mg/ml)",
     "quantity": "1" 
   },
   {
@@ -4407,7 +4407,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 10 tablets",
     "Like2": "Serdia Pharmaceuticals India Pvt Ltd",
-    "Keywords": "Diosmin (900mg) + Hesperidin (100mg) ADD",
+    "Keywords": "Diosmin (900mg) + Hesperidin (100mg)",
     "quantity": "1" 
   },
   {
@@ -4418,7 +4418,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "packet of 200 MDI Inhaler",
     "Like2": "Cipla Ltd",
-    "Keywords": "Levosalbutamol (50mcg) + Ipratropium (20mcg) ADD",
+    "Keywords": "Levosalbutamol (50mcg) + Ipratropium (20mcg)",
     "quantity": "1" 
   },
   {
@@ -4429,7 +4429,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 10 tablets",
     "Like2": "Ozone Pharmaceuticals Ltd",
-    "Keywords": "Disulfiram (250mg) ADD",
+    "Keywords": "Disulfiram (250mg)",
     "quantity": "1" 
   },
   {
@@ -4440,7 +4440,7 @@ var products=[
     "Prescription": "",
     "Like1": "packet of 2 gm Sachet",
     "Like2": "Aristo Pharmaceuticals Pvt Ltd",
-    "Keywords": "Lactobacillus (2.5Billion cells) ADD",
+    "Keywords": "Lactobacillus (2.5Billion cells)",
     "quantity": "1" 
   },
   {
@@ -4451,7 +4451,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 30 tablets",
     "Like2": "Maneesh Pharmaceuticals Ltd",
-    "Keywords": "Doxylamine (10mg) + Vitamin B6 (Pyridoxine) (10mg) + Folic Acid (2.5mg) ADD",
+    "Keywords": "Doxylamine (10mg) + Vitamin B6 (Pyridoxine) (10mg) + Folic Acid (2.5mg)",
     "quantity": "1" 
   },
   {
@@ -4462,7 +4462,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 10 tablets",
     "Like2": "Aksigen Hospital Care",
-    "Keywords": "Bromelain (180mg) + Trypsin (96mg) + Rutoside (200mg) ADD",
+    "Keywords": "Bromelain (180mg) + Trypsin (96mg) + Rutoside (200mg)",
     "quantity": "1" 
   },
   {
@@ -4484,7 +4484,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 21 tablets",
     "Like2": "Sun Pharmaceutical Industries Ltd",
-    "Keywords": "Ethinyl Estradiol (0.03mg) + Drospirenone (3mg) ADD",
+    "Keywords": "Ethinyl Estradiol (0.03mg) + Drospirenone (3mg)",
     "quantity": "1" 
   },
   {
@@ -4495,7 +4495,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 14 tablet xr",
     "Like2": "Serdia Pharmaceuticals India Pvt Ltd",
-    "Keywords": "Gliclazide (60mg) ADD",
+    "Keywords": "Gliclazide (60mg)",
     "quantity": "1" 
   },
   {
@@ -4506,7 +4506,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 10 tablets",
     "Like2": "West-Coast Pharmaceutical Works Ltd",
-    "Keywords": "Dextromethorphan Hydrobromide (30mg) ADD",
+    "Keywords": "Dextromethorphan Hydrobromide (30mg)",
     "quantity": "1" 
   },
   {
@@ -4517,7 +4517,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 10 tablets",
     "Like2": "Koye Pharmaceuticals Pvt ltd",
-    "Keywords": "Dienogest (2mg) ADD",
+    "Keywords": "Dienogest (2mg)",
     "quantity": "1" 
   },
   {
@@ -4539,7 +4539,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 10 tablets",
     "Like2": "Wings Biotech Ltd",
-    "Keywords": "Diclofenac (50mg) + Paracetamol (325mg) ADD",
+    "Keywords": "Diclofenac (50mg) + Paracetamol (325mg)",
     "quantity": "1" 
   },
   {
@@ -4550,7 +4550,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 10 tablets",
     "Like2": "Win-Medicare Pvt Ltd",
-    "Keywords": "Diclofenac (50mg) + Paracetamol (325mg) ADD",
+    "Keywords": "Diclofenac (50mg) + Paracetamol (325mg)",
     "quantity": "1" 
   },
   {
@@ -4583,7 +4583,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 15 tablets",
     "Like2": "Sun Pharmaceutical Industries Ltd",
-    "Keywords": "Desloratadine (5mg) ADD",
+    "Keywords": "Desloratadine (5mg)",
     "quantity": "1" 
   },
   {
@@ -4594,7 +4594,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 4 tablets",
     "Like2": "Zee Laboratories",
-    "Keywords": "Sildenafil (50mg) + Dapoxetine (30mg) ADD",
+    "Keywords": "Sildenafil (50mg) + Dapoxetine (30mg)",
     "quantity": "1" 
   },
   {
@@ -4605,7 +4605,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 10 tablets",
     "Like2": "Integrace Pvt Ltd",
-    "Keywords": "Pregabalin (75mg) + Nortriptyline (10mg) + Methylcobalamin (1500mcg) ADD",
+    "Keywords": "Pregabalin (75mg) + Nortriptyline (10mg) + Methylcobalamin (1500mcg)",
     "quantity": "1" 
   },
   {
@@ -4616,7 +4616,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "packet of 5 respules",
     "Like2": "Cipla Ltd",
-    "Keywords": "Levosalbutamol (0.63mg) + Ipratropium (500mcg) ADD",
+    "Keywords": "Levosalbutamol (0.63mg) + Ipratropium (500mcg)",
     "quantity": "1" 
   },
   {
@@ -4638,7 +4638,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "bottle of 30 ml Suspension",
     "Like2": "Torrent Pharmaceuticals Ltd",
-    "Keywords": "Domperidone (1mg/ml) ADD",
+    "Keywords": "Domperidone (1mg/ml)",
     "quantity": "1" 
   },
   {
@@ -4649,7 +4649,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 10 Capsule DR",
     "Like2": "Sun Pharmaceutical Industries Ltd",
-    "Keywords": "Duloxetine (20mg) ADD",
+    "Keywords": "Duloxetine (20mg)",
     "quantity": "1" 
   },
   {
@@ -4660,7 +4660,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 10 tablets",
     "Like2": "Alkem Laboratories Ltd",
-    "Keywords": "Dapagliflozin (10mg) ADD",
+    "Keywords": "Dapagliflozin (10mg)",
     "quantity": "1" 
   },
   {
@@ -4671,7 +4671,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 10 tablets",
     "Like2": "Medley Pharmaceuticals",
-    "Keywords": "Domperidone (10mg) + Pantoprazole (20mg) ADD",
+    "Keywords": "Domperidone (10mg) + Pantoprazole (20mg)",
     "quantity": "1" 
   },
   {
@@ -4682,7 +4682,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 10 tablet sr",
     "Like2": "Mankind Pharma Ltd",
-    "Keywords": "Metformin (500mg) + Teneligliptin (20mg) ADD",
+    "Keywords": "Metformin (500mg) + Teneligliptin (20mg)",
     "quantity": "1" 
   },
   {
@@ -4693,7 +4693,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 4 tablets",
     "Like2": "SunGlow Lifescience Pvt Ltd",
-    "Keywords": "Tadalafil (10mg) + Dapoxetine (30mg) ADD",
+    "Keywords": "Tadalafil (10mg) + Dapoxetine (30mg)",
     "quantity": "1" 
   },
   {
@@ -4715,7 +4715,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 15 tablet cr",
     "Like2": "Torrent Pharmaceuticals Ltd",
-    "Keywords": "Diltiazem (30mg) ADD",
+    "Keywords": "Diltiazem (30mg)",
     "quantity": "1" 
   },
   {
@@ -4726,7 +4726,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 10 tablets",
     "Like2": "Wallace Pharmaceuticals Pvt Ltd",
-    "Keywords": "Deflazacort (6mg) ADD",
+    "Keywords": "Deflazacort (6mg)",
     "quantity": "1" 
   },
   {
@@ -4737,7 +4737,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 10 tablets",
     "Like2": "Mankind Pharma Ltd",
-    "Keywords": "Teneligliptin (20mg) ADD",
+    "Keywords": "Teneligliptin (20mg)",
     "quantity": "1" 
   },
   {
@@ -4748,7 +4748,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 21 tablets",
     "Like2": "Zydus Cadila",
-    "Keywords": "Ethinyl Estradiol (0.05mg) + Levonorgestrel (0.25mg) ADD",
+    "Keywords": "Ethinyl Estradiol (0.05mg) + Levonorgestrel (0.25mg)",
     "quantity": "1" 
   },
   {
@@ -4759,7 +4759,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "ampoule of 10 injections",
     "Like2": "Walter Bushnell",
-    "Keywords": "Drotaverine (40mg) ADD",
+    "Keywords": "Drotaverine (40mg)",
     "quantity": "1" 
   },
   {
@@ -4770,7 +4770,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "tube of 15 gm Cream",
     "Like2": "Alkem Laboratories Ltd",
-    "Keywords": "Clobetasol (NA) + Miconazole (NA) + Neomycin (NA) ADD",
+    "Keywords": "Clobetasol (NA) + Miconazole (NA) + Neomycin (NA)",
     "quantity": "1" 
   },
   {
@@ -4781,7 +4781,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 15 tablets",
     "Like2": "Cipla Ltd",
-    "Keywords": "Spironolactone (50mg) + Torasemide (5mg) ADD",
+    "Keywords": "Spironolactone (50mg) + Torasemide (5mg)",
     "quantity": "1" 
   },
   {
@@ -4803,7 +4803,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 30 capsules",
     "Like2": "Zydus Cadila",
-    "Keywords": "Nifedipine (10mg) ADD",
+    "Keywords": "Nifedipine (10mg)",
     "quantity": "1" 
   },
   {
@@ -4814,7 +4814,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "bottle of 30 ml Oral Suspension",
     "Like2": "Macleods Pharmaceuticals Pvt Ltd",
-    "Keywords": "Deflazacort (6mg/5ml) ADD",
+    "Keywords": "Deflazacort (6mg/5ml)",
     "quantity": "1" 
   },
   {
@@ -4825,7 +4825,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 15 tablets",
     "Like2": "Mankind Pharma Ltd",
-    "Keywords": "Aceclofenac (100mg) + Paracetamol (325mg) ADD",
+    "Keywords": "Aceclofenac (100mg) + Paracetamol (325mg)",
     "quantity": "1" 
   },
   {
@@ -4836,7 +4836,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 10 tablets",
     "Like2": "Sun Pharmaceutical Industries Ltd",
-    "Keywords": "Cinnarizine (20mg) + Dimenhydrinate (40mg) ADD",
+    "Keywords": "Cinnarizine (20mg) + Dimenhydrinate (40mg)",
     "quantity": "1" 
   },
   {
@@ -4847,7 +4847,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 10 tablets",
     "Like2": "German Remedies",
-    "Keywords": "Dydrogesterone (10mg) ADD",
+    "Keywords": "Dydrogesterone (10mg)",
     "quantity": "1" 
   },
   {
@@ -4858,7 +4858,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "tube of 10 gm Cream",
     "Like2": "Galderma India Pvt Ltd",
-    "Keywords": "Desonide (0.05% w/w) ADD",
+    "Keywords": "Desonide (0.05% w/w)",
     "quantity": "1" 
   },
   {
@@ -4869,7 +4869,7 @@ var products=[
     "Prescription": "",
     "Like1": "tube of 10 gm Dental Gel",
     "Like2": "Dr Reddy's Laboratories Ltd",
-    "Keywords": "Choline Salicylate (8.7% w/w) + Lidocaine (2% w/w) ADD",
+    "Keywords": "Choline Salicylate (8.7% w/w) + Lidocaine (2% w/w)",
     "quantity": "1" 
   },
   {
@@ -4880,7 +4880,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 10 tablet er",
     "Like2": "Alkem Laboratories Ltd",
-    "Keywords": "Dapagliflozin (10mg) + Metformin (500mg) + Sitagliptin (100mg) ADD",
+    "Keywords": "Dapagliflozin (10mg) + Metformin (500mg) + Sitagliptin (100mg)",
     "quantity": "1" 
   },
   {
@@ -4891,7 +4891,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 10 tablet er",
     "Like2": "Sun Pharmaceutical Industries Ltd",
-    "Keywords": "Desvenlafaxine (50mg) ADD",
+    "Keywords": "Desvenlafaxine (50mg)",
     "quantity": "1" 
   },
   {
@@ -4902,7 +4902,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 10 capsules",
     "Like2": "Sun Pharmaceutical Industries Ltd",
-    "Keywords": "Calcium Dobesilate (500mg) ADD",
+    "Keywords": "Calcium Dobesilate (500mg)",
     "quantity": "1" 
   },
   {
@@ -4913,7 +4913,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 10 tablets",
     "Like2": "Lupin Ltd",
-    "Keywords": "Cefpodoxime Proxetil (200mg) ADD",
+    "Keywords": "Cefpodoxime Proxetil (200mg)",
     "quantity": "1" 
   },
   {
@@ -4924,7 +4924,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 10 tablets",
     "Like2": "Intas Pharmaceuticals Ltd",
-    "Keywords": "Dapagliflozin (10mg) ADD",
+    "Keywords": "Dapagliflozin (10mg)",
     "quantity": "1" 
   },
   {
@@ -4935,7 +4935,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 10 tablets",
     "Like2": "Alkem Laboratories Ltd",
-    "Keywords": "Dydrogesterone (10mg) ADD",
+    "Keywords": "Dydrogesterone (10mg)",
     "quantity": "1" 
   },
   {
@@ -4946,7 +4946,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "bottle of 5 ml Oral Drops",
     "Like2": "Torrent Pharmaceuticals Ltd",
-    "Keywords": "Domperidone (10mg/ml) ADD",
+    "Keywords": "Domperidone (10mg/ml)",
     "quantity": "1" 
   },
   {
@@ -4957,7 +4957,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 14 tablets",
     "Like2": "USV Ltd",
-    "Keywords": "Aspirin (75mg) ADD",
+    "Keywords": "Aspirin (75mg)",
     "quantity": "1" 
   },
   {
@@ -4968,7 +4968,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 15 capsules",
     "Like2": "USV Ltd",
-    "Keywords": "Atorvastatin (10mg) + Aspirin (75mg) ADD",
+    "Keywords": "Atorvastatin (10mg) + Aspirin (75mg)",
     "quantity": "1" 
   },
   {
@@ -4979,7 +4979,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 10 tablets",
     "Like2": "Alkem Laboratories Ltd",
-    "Keywords": "Diclofenac (50mg) + Paracetamol (325mg) + Serratiopeptidase (15mg) ADD",
+    "Keywords": "Diclofenac (50mg) + Paracetamol (325mg) + Serratiopeptidase (15mg)",
     "quantity": "1" 
   },
   {
@@ -4990,7 +4990,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 10 tablets",
     "Like2": "Merck Ltd",
-    "Keywords": "Levo-carnitine (150mg) + Vitamin E (200mg) ADD",
+    "Keywords": "Levo-carnitine (150mg) + Vitamin E (200mg)",
     "quantity": "1" 
   },
   {
@@ -5001,7 +5001,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 10 tablets",
     "Like2": "Sun Pharmaceutical Industries Ltd",
-    "Keywords": "Etoricoxib (60mg) + Thiocolchicoside (4mg) ADD",
+    "Keywords": "Etoricoxib (60mg) + Thiocolchicoside (4mg)",
     "quantity": "1" 
   },
   {
@@ -5012,7 +5012,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 10 capsules",
     "Like2": "USV Ltd",
-    "Keywords": "Atorvastatin (20mg) + Aspirin (75mg) ADD",
+    "Keywords": "Atorvastatin (20mg) + Aspirin (75mg)",
     "quantity": "1" 
   },
   {
@@ -5023,7 +5023,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 15 capsules",
     "Like2": "USV Ltd",
-    "Keywords": "Aspirin (75mg) + Atorvastatin (20mg) + Clopidogrel (75mg) ADD",
+    "Keywords": "Aspirin (75mg) + Atorvastatin (20mg) + Clopidogrel (75mg)",
     "quantity": "1" 
   },
   {
@@ -5034,7 +5034,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 10 tablets",
     "Like2": "Cipla Ltd",
-    "Keywords": "Ondansetron (4mg) ADD",
+    "Keywords": "Ondansetron (4mg)",
     "quantity": "1" 
   },
   {
@@ -5045,7 +5045,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 10 tablets",
     "Like2": "Sun Pharmaceutical Industries Ltd",
-    "Keywords": "Etoricoxib (90mg) ADD",
+    "Keywords": "Etoricoxib (90mg)",
     "quantity": "1" 
   },
   {
@@ -5067,7 +5067,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 14 tablets",
     "Like2": "USV Ltd",
-    "Keywords": "Aspirin (150mg) ADD",
+    "Keywords": "Aspirin (150mg)",
     "quantity": "1" 
   },
   {
@@ -5078,7 +5078,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 10 tablets",
     "Like2": "Macleods Pharmaceuticals Pvt Ltd",
-    "Keywords": "Trypsin (48mg) + Bromelain (90mg) + Rutoside (100mg) + Diclofenac (50mg) ADD",
+    "Keywords": "Trypsin (48mg) + Bromelain (90mg) + Rutoside (100mg) + Diclofenac (50mg)",
     "quantity": "1" 
   },
   {
@@ -5089,7 +5089,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 10 tablets",
     "Like2": "Emcure Pharmaceuticals Ltd",
-    "Keywords": "Diclofenac (50mg) + Serratiopeptidase (10mg) ADD",
+    "Keywords": "Diclofenac (50mg) + Serratiopeptidase (10mg)",
     "quantity": "1" 
   },
   {
@@ -5100,7 +5100,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "bottle of 120 tablets",
     "Like2": "Abbott",
-    "Keywords": "Phenytoin (100mg) ADD",
+    "Keywords": "Phenytoin (100mg)",
     "quantity": "1" 
   },
   {
@@ -5122,7 +5122,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 15 tablets",
     "Like2": "Torrent Pharmaceuticals Ltd",
-    "Keywords": "Pancreatin (170mg) + Sodium Tauroglycocholate (65mg) ADD",
+    "Keywords": "Pancreatin (170mg) + Sodium Tauroglycocholate (65mg)",
     "quantity": "1" 
   },
   {
@@ -5133,7 +5133,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 10 capsules",
     "Like2": "Micro Labs Ltd",
-    "Keywords": "Loperamide (2mg) ADD",
+    "Keywords": "Loperamide (2mg)",
     "quantity": "1" 
   },
   {
@@ -5155,7 +5155,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 15 capsules",
     "Like2": "USV Ltd",
-    "Keywords": "Aspirin (75mg) + Atorvastatin (10mg) + Clopidogrel (75mg) ADD",
+    "Keywords": "Aspirin (75mg) + Atorvastatin (10mg) + Clopidogrel (75mg)",
     "quantity": "1" 
   },
   {
@@ -5177,7 +5177,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "bottle of 30 ml Syrup",
     "Like2": "Cipla Ltd",
-    "Keywords": "Ondansetron (2mg/5ml) ADD",
+    "Keywords": "Ondansetron (2mg/5ml)",
     "quantity": "1" 
   },
   {
@@ -5188,7 +5188,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "tube of 15 gm Cream",
     "Like2": "Glaxo SmithKline Pharmaceuticals Ltd",
-    "Keywords": "Clobetasone (0.05% w/w) + Miconazole (2% w/w) ADD",
+    "Keywords": "Clobetasone (0.05% w/w) + Miconazole (2% w/w)",
     "quantity": "1" 
   },
   {
@@ -5199,7 +5199,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 10 tablets",
     "Like2": "Ipca Laboratories Ltd",
-    "Keywords": "Etodolac (400mg) + Thiocolchicoside (4mg) ADD",
+    "Keywords": "Etodolac (400mg) + Thiocolchicoside (4mg)",
     "quantity": "1" 
   },
   {
@@ -5210,7 +5210,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 15 tablets",
     "Like2": "Macleods Pharmaceuticals Pvt Ltd",
-    "Keywords": "Bromelain (90mg) + Trypsin (48mg) + Rutoside (100mg) ADD",
+    "Keywords": "Bromelain (90mg) + Trypsin (48mg) + Rutoside (100mg)",
     "quantity": "1" 
   },
   {
@@ -5221,7 +5221,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 10 tablets",
     "Like2": "Micro Labs Ltd",
-    "Keywords": "Ebastine (10mg) + Montelukast (10mg) ADD",
+    "Keywords": "Ebastine (10mg) + Montelukast (10mg)",
     "quantity": "1" 
   },
   {
@@ -5232,7 +5232,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 10 tablets",
     "Like2": "Micro Labs Ltd",
-    "Keywords": "Ebastine (10mg) + Phenylephrine (10mg) ADD",
+    "Keywords": "Ebastine (10mg) + Phenylephrine (10mg)",
     "quantity": "1" 
   },
   {
@@ -5243,7 +5243,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 10 tablets",
     "Like2": "Sun Pharmaceutical Industries Ltd",
-    "Keywords": "Amitriptyline (10mg) ADD",
+    "Keywords": "Amitriptyline (10mg)",
     "quantity": "1" 
   },
   {
@@ -5254,7 +5254,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 10 tablets",
     "Like2": "Pfizer Ltd",
-    "Keywords": "Apixaban (2.5mg) ADD",
+    "Keywords": "Apixaban (2.5mg)",
     "quantity": "1" 
   },
   {
@@ -5276,7 +5276,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "bottle of 120 tablets",
     "Like2": "Glaxo SmithKline Pharmaceuticals Ltd",
-    "Keywords": "Thyroxine (100mcg) ADD",
+    "Keywords": "Thyroxine (100mcg)",
     "quantity": "1" 
   },
   {
@@ -5298,7 +5298,7 @@ var products=[
     "Prescription": "",
     "Like1": "tube of 20 gm Gel",
     "Like2": "USV Ltd",
-    "Keywords": "Clindamycin (1% w/w) ADD",
+    "Keywords": "Clindamycin (1% w/w)",
     "quantity": "1" 
   },
   {
@@ -5309,7 +5309,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 10 tablets",
     "Like2": "Sanzyme Ltd",
-    "Keywords": "Tadalafil (2.5mg) ADD",
+    "Keywords": "Tadalafil (2.5mg)",
     "quantity": "1" 
   },
   {
@@ -5320,7 +5320,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 30 tablet er",
     "Like2": "Intas Pharmaceuticals Ltd",
-    "Keywords": "Metoprolol Succinate (23.75mg) ADD",
+    "Keywords": "Metoprolol Succinate (23.75mg)",
     "quantity": "1" 
   },
   {
@@ -5331,7 +5331,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "vial of 1 Injection",
     "Like2": "Elder Pharmaceuticals Ltd",
-    "Keywords": "Folic Acid (0.7mg) + Methylcobalamin (2500mcg) + Niacinamide (12mg) + Vitamin C (150mg) ADD",
+    "Keywords": "Folic Acid (0.7mg) + Methylcobalamin (2500mcg) + Niacinamide (12mg) + Vitamin C (150mg)",
     "quantity": "1" 
   },
   {
@@ -5342,7 +5342,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "tube of 15 gm Vaginal Cream",
     "Like2": "Torrent Pharmaceuticals Ltd",
-    "Keywords": "Estriol (1mg) ADD",
+    "Keywords": "Estriol (1mg)",
     "quantity": "1" 
   },
   {
@@ -5353,7 +5353,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 10 tablet er",
     "Like2": "Ipca Laboratories Ltd",
-    "Keywords": "Etodolac (600mg) ADD",
+    "Keywords": "Etodolac (600mg)",
     "quantity": "1" 
   },
   {
@@ -5364,7 +5364,7 @@ var products=[
     "Prescription": "",
     "Like1": "bottle of 10 ml Ophthalmic Solution",
     "Like2": "Sun Pharmaceutical Industries Ltd",
-    "Keywords": "Hydroxypropylmethylcellulose (0.3% w/v) ADD",
+    "Keywords": "Hydroxypropylmethylcellulose (0.3% w/v)",
     "quantity": "1" 
   },
   {
@@ -5375,7 +5375,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 15 tablets",
     "Like2": "Glenmark Pharmaceuticals Ltd",
-    "Keywords": "Eplerenone (25mg) ADD",
+    "Keywords": "Eplerenone (25mg)",
     "quantity": "1" 
   },
   {
@@ -5386,7 +5386,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "packet of 10 injections",
     "Like2": "Cipla Ltd",
-    "Keywords": "Ondansetron (4mg) ADD",
+    "Keywords": "Ondansetron (4mg)",
     "quantity": "1" 
   },
   {
@@ -5397,7 +5397,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "ampoule of 1 ml Injection",
     "Like2": "TTK Healthcare Ltd",
-    "Keywords": "Valethamate (8mg) ADD",
+    "Keywords": "Valethamate (8mg)",
     "quantity": "1" 
   },
   {
@@ -5408,7 +5408,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "bottle of 120 tablets",
     "Like2": "Glaxo SmithKline Pharmaceuticals Ltd",
-    "Keywords": "Thyroxine (50mcg) ADD",
+    "Keywords": "Thyroxine (50mcg)",
     "quantity": "1" 
   },
   {
@@ -5430,7 +5430,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 10 tablets",
     "Like2": "Lupin Ltd",
-    "Keywords": "Ezetimibe (10mg) ADD",
+    "Keywords": "Ezetimibe (10mg)",
     "quantity": "1" 
   },
   {
@@ -5441,7 +5441,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 10 tablets",
     "Like2": "Dr Reddy's Laboratories Ltd",
-    "Keywords": "Montelukast (10mg) + Fexofenadine (120mg) ADD",
+    "Keywords": "Montelukast (10mg) + Fexofenadine (120mg)",
     "quantity": "1" 
   },
   {
@@ -5452,7 +5452,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 30 tablet er",
     "Like2": "Intas Pharmaceuticals Ltd",
-    "Keywords": "Metoprolol Succinate (47.5mg) ADD",
+    "Keywords": "Metoprolol Succinate (47.5mg)",
     "quantity": "1" 
   },
   {
@@ -5463,7 +5463,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 10 tablets",
     "Like2": "Ipca Laboratories Ltd",
-    "Keywords": "Etodolac (400mg) ADD",
+    "Keywords": "Etodolac (400mg)",
     "quantity": "1" 
   },
   {
@@ -5485,7 +5485,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 10 tablets",
     "Like2": "Systopic Laboratories Pvt Ltd",
-    "Keywords": "Etoricoxib (60mg) + Thiocolchicoside (4mg) ADD",
+    "Keywords": "Etoricoxib (60mg) + Thiocolchicoside (4mg)",
     "quantity": "1" 
   },
   {
@@ -5507,7 +5507,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "tube of 15 gm Cream",
     "Like2": "Leeford Healthcare Ltd",
-    "Keywords": "Hydroquinone (2% w/w) + Mometasone (0.1% w/w) + Tretinoin (0.025% w/w) ADD",
+    "Keywords": "Hydroquinone (2% w/w) + Mometasone (0.1% w/w) + Tretinoin (0.025% w/w)",
     "quantity": "1" 
   },
   {
@@ -5518,7 +5518,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "box of 20 tablets",
     "Like2": "Pfizer Ltd",
-    "Keywords": "Apixaban (5mg) ADD",
+    "Keywords": "Apixaban (5mg)",
     "quantity": "1" 
   },
   {
@@ -5529,7 +5529,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 28 tablets",
     "Like2": "Abbott",
-    "Keywords": "Estradiol (2mg) ADD",
+    "Keywords": "Estradiol (2mg)",
     "quantity": "1" 
   },
   {
@@ -5551,7 +5551,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "tube of 15 gm Cream",
     "Like2": "Glaxo SmithKline Pharmaceuticals Ltd",
-    "Keywords": "Clobetasone (0.05% w/w) ADD",
+    "Keywords": "Clobetasone (0.05% w/w)",
     "quantity": "1" 
   },
   {
@@ -5562,7 +5562,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 10 capsule sr",
     "Like2": "Micro Labs Ltd",
-    "Keywords": "Domperidone (30mg) + Esomeprazole (40mg) ADD",
+    "Keywords": "Domperidone (30mg) + Esomeprazole (40mg)",
     "quantity": "1" 
   },
   {
@@ -5573,7 +5573,7 @@ var products=[
     "Prescription": "",
     "Like1": "bottle of 200 ml Oral Solution",
     "Like2": "Albert David Ltd",
-    "Keywords": "Lactulose (10gm) ADD",
+    "Keywords": "Lactulose (10gm)",
     "quantity": "1" 
   },
   {
@@ -5584,7 +5584,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 10 capsule sr",
     "Like2": "La Renon Healthcare Pvt Ltd",
-    "Keywords": "Domperidone (30mg) + Esomeprazole (40mg) ADD",
+    "Keywords": "Domperidone (30mg) + Esomeprazole (40mg)",
     "quantity": "1" 
   },
   {
@@ -5595,7 +5595,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 15 tablets",
     "Like2": "Macleods Pharmaceuticals Pvt Ltd",
-    "Keywords": "Bromelain (90mg) + Trypsin (48mg) + Rutoside (100mg) ADD",
+    "Keywords": "Bromelain (90mg) + Trypsin (48mg) + Rutoside (100mg)",
     "quantity": "1" 
   },
   {
@@ -5606,7 +5606,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 10 tablets",
     "Like2": "Macleods Pharmaceuticals Pvt Ltd",
-    "Keywords": "Bromelain (180mg) + Trypsin (96mg) + Rutoside (200mg) ADD",
+    "Keywords": "Bromelain (180mg) + Trypsin (96mg) + Rutoside (200mg)",
     "quantity": "1" 
   },
   {
@@ -5617,7 +5617,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 10 tablets",
     "Like2": "Sun Pharmaceutical Industries Ltd",
-    "Keywords": "Etoricoxib (60mg) ADD",
+    "Keywords": "Etoricoxib (60mg)",
     "quantity": "1" 
   },
   {
@@ -5628,7 +5628,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 15 tablets",
     "Like2": "Eris Lifesciences Ltd",
-    "Keywords": "Cilnidipine (10mg) + Telmisartan (40mg) ADD",
+    "Keywords": "Cilnidipine (10mg) + Telmisartan (40mg)",
     "quantity": "1" 
   },
   {
@@ -5639,7 +5639,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 10 capsules",
     "Like2": "USV Ltd",
-    "Keywords": "Atorvastatin (20mg) + Aspirin (150mg) ADD",
+    "Keywords": "Atorvastatin (20mg) + Aspirin (150mg)",
     "quantity": "1" 
   },
   {
@@ -5650,7 +5650,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 10 tablets",
     "Like2": "Micro Labs Ltd",
-    "Keywords": "Ebastine (20mg) ADD",
+    "Keywords": "Ebastine (20mg)",
     "quantity": "1" 
   },
   {
@@ -5661,7 +5661,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 10 tablet cr",
     "Like2": "Sun Pharmaceutical Industries Ltd",
-    "Keywords": "Sodium Valproate (333mg) + Valproic Acid (145mg) ADD",
+    "Keywords": "Sodium Valproate (333mg) + Valproic Acid (145mg)",
     "quantity": "1" 
   },
   {
@@ -5672,7 +5672,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 15 tablets",
     "Like2": "Lupin Ltd",
-    "Keywords": "Levetiracetam (500mg) ADD",
+    "Keywords": "Levetiracetam (500mg)",
     "quantity": "1" 
   },
   {
@@ -5694,7 +5694,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 15 tablets",
     "Like2": "Cipla Ltd",
-    "Keywords": "Esomeprazole (40mg) ADD",
+    "Keywords": "Esomeprazole (40mg)",
     "quantity": "1" 
   },
   {
@@ -5705,7 +5705,7 @@ var products=[
     "Prescription": "",
     "Like1": "strip of 6 capsules",
     "Like2": "Dr Reddy's Laboratories Ltd",
-    "Keywords": "Saccharomyces boulardii (250mg) ADD",
+    "Keywords": "Saccharomyces boulardii (250mg)",
     "quantity": "1" 
   },
   {
@@ -5716,7 +5716,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 10 tablets",
     "Like2": "Cipla Ltd",
-    "Keywords": "Entecavir (0.5mg) ADD",
+    "Keywords": "Entecavir (0.5mg)",
     "quantity": "1" 
   },
   {
@@ -5727,7 +5727,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "tube of 30 gm Rectal Cream",
     "Like2": "DWD Pharmaceuticals Ltd",
-    "Keywords": "Lidocaine (1.5% w/w) + Nifedipine (0.3% w/w) ADD",
+    "Keywords": "Lidocaine (1.5% w/w) + Nifedipine (0.3% w/w)",
     "quantity": "1" 
   },
   {
@@ -5749,7 +5749,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 10 capsule sr",
     "Like2": "Cipla Ltd",
-    "Keywords": "Domperidone (30mg) + Esomeprazole (40mg) ADD",
+    "Keywords": "Domperidone (30mg) + Esomeprazole (40mg)",
     "quantity": "1" 
   },
   {
@@ -5760,7 +5760,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 10 tablets",
     "Like2": "Alkem Laboratories Ltd",
-    "Keywords": "Aceclofenac (100mg) + Paracetamol (325mg) + Serratiopeptidase (15mg) ADD",
+    "Keywords": "Aceclofenac (100mg) + Paracetamol (325mg) + Serratiopeptidase (15mg)",
     "quantity": "1" 
   },
   {
@@ -5771,7 +5771,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 10 tablets",
     "Like2": "Sun Pharmaceutical Industries Ltd",
-    "Keywords": "Etoricoxib (60mg) + Thiocolchicoside (4mg) ADD",
+    "Keywords": "Etoricoxib (60mg) + Thiocolchicoside (4mg)",
     "quantity": "1" 
   },
   {
@@ -5782,7 +5782,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 10 tablets",
     "Like2": "Micro Labs Ltd",
-    "Keywords": "Ebastine (10mg) ADD",
+    "Keywords": "Ebastine (10mg)",
     "quantity": "1" 
   },
   {
@@ -5793,7 +5793,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "bottle of 120 tablets",
     "Like2": "Glaxo SmithKline Pharmaceuticals Ltd",
-    "Keywords": "Thyroxine (25mcg) ADD",
+    "Keywords": "Thyroxine (25mcg)",
     "quantity": "1" 
   },
   {
@@ -5804,7 +5804,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 10 tablet cr",
     "Like2": "Sun Pharmaceutical Industries Ltd",
-    "Keywords": "Sodium Valproate (200mg) + Valproic Acid (87mg) ADD",
+    "Keywords": "Sodium Valproate (200mg) + Valproic Acid (87mg)",
     "quantity": "1" 
   },
   {
@@ -5815,7 +5815,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 10 tablets",
     "Like2": "Elder Pharmaceuticals Ltd",
-    "Keywords": "Ivermectin (12mg) ADD",
+    "Keywords": "Ivermectin (12mg)",
     "quantity": "1" 
   },
   {
@@ -5826,7 +5826,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 21 tablets",
     "Like2": "Alembic Pharmaceuticals Ltd",
-    "Keywords": "Ethinyl Estradiol (30mcg) + Dienogest (2mg) ADD",
+    "Keywords": "Ethinyl Estradiol (30mcg) + Dienogest (2mg)",
     "quantity": "1" 
   },
   {
@@ -5837,7 +5837,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "packet of 120 MDI Inhaler",
     "Like2": "Cipla Ltd",
-    "Keywords": "Formoterol (6mcg) + Budesonide (400mcg) ADD",
+    "Keywords": "Formoterol (6mcg) + Budesonide (400mcg)",
     "quantity": "1" 
   },
   {
@@ -5848,7 +5848,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "bottle of 10 ml Nasal Spray",
     "Like2": "Cipla Ltd",
-    "Keywords": "Fluticasone Propionate (0.005% w/v) ADD",
+    "Keywords": "Fluticasone Propionate (0.005% w/v)",
     "quantity": "1" 
   },
   {
@@ -5870,7 +5870,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 14 tablets",
     "Like2": "Sun Pharmaceutical Industries Ltd",
-    "Keywords": "Famotidine (40mg) ADD",
+    "Keywords": "Famotidine (40mg)",
     "quantity": "1" 
   },
   {
@@ -5914,7 +5914,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 10 capsule pr",
     "Like2": "Aristo Pharmaceuticals Pvt Ltd",
-    "Keywords": "Tamsulosin (0.4mg) + Dutasteride (0.5mg) ADD",
+    "Keywords": "Tamsulosin (0.4mg) + Dutasteride (0.5mg)",
     "quantity": "1" 
   },
   {
@@ -5925,7 +5925,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "tube of 10 gm Cream",
     "Like2": "Cipla Ltd",
-    "Keywords": "Chlorhexidine Gluconate (0.20% w/w) + Clobetasol (0.05% w/w) + Miconazole (2% w/w) + Neomycin (0.5% w/w) ADD",
+    "Keywords": "Chlorhexidine Gluconate (0.20% w/w) + Clobetasol (0.05% w/w) + Miconazole (2% w/w) + Neomycin (0.5% w/w)",
     "quantity": "1" 
   },
   {
@@ -5936,7 +5936,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 10 tablets",
     "Like2": "Ipca Laboratories Ltd",
-    "Keywords": "Methotrexate (7.5mg) ADD",
+    "Keywords": "Methotrexate (7.5mg)",
     "quantity": "1" 
   },
   {
@@ -5947,7 +5947,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "packet of 30 rotacaps",
     "Like2": "Cipla Ltd",
-    "Keywords": "Formoterol (6mcg) + Budesonide (200mcg) ADD",
+    "Keywords": "Formoterol (6mcg) + Budesonide (200mcg)",
     "quantity": "1" 
   },
   {
@@ -5980,7 +5980,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 10 tablets",
     "Like2": "Wallace Pharmaceuticals Pvt Ltd",
-    "Keywords": "Chlorpheniramine Maleate (2mg) + Paracetamol (500mg) + Phenylephrine (10mg) ADD",
+    "Keywords": "Chlorpheniramine Maleate (2mg) + Paracetamol (500mg) + Phenylephrine (10mg)",
     "quantity": "1" 
   },
   {
@@ -5991,7 +5991,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 10 tablets",
     "Like2": "Sun Pharmaceutical Industries Ltd",
-    "Keywords": "Diclofenac (50mg) + Paracetamol (325mg) ADD",
+    "Keywords": "Diclofenac (50mg) + Paracetamol (325mg)",
     "quantity": "1" 
   },
   {
@@ -6002,7 +6002,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 10 tablets",
     "Like2": "Ipca Laboratories Ltd",
-    "Keywords": "Methotrexate (15mg) ADD",
+    "Keywords": "Methotrexate (15mg)",
     "quantity": "1" 
   },
   {
@@ -6024,7 +6024,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 10 tablets",
     "Like2": "Mankind Pharma Ltd",
-    "Keywords": "Aceclofenac (100mg) + Paracetamol (325mg) + Serratiopeptidase (15mg) ADD",
+    "Keywords": "Aceclofenac (100mg) + Paracetamol (325mg) + Serratiopeptidase (15mg)",
     "quantity": "1" 
   },
   {
@@ -6046,7 +6046,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 21 tablets",
     "Like2": "Sun Pharmaceutical Industries Ltd",
-    "Keywords": "Ethinyl Estradiol (30mcg) + Dienogest (2mg) ADD",
+    "Keywords": "Ethinyl Estradiol (30mcg) + Dienogest (2mg)",
     "quantity": "1" 
   },
   {
@@ -6057,7 +6057,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 10 tablets",
     "Like2": "Lupin Ltd",
-    "Keywords": "Furosemide (20mg) + Spironolactone (50mg) ADD",
+    "Keywords": "Furosemide (20mg) + Spironolactone (50mg)",
     "quantity": "1" 
   },
   {
@@ -6068,7 +6068,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "sachet of 8 gm Powder",
     "Like2": "Cipla Ltd",
-    "Keywords": "Fosfomycin (3gm) ADD",
+    "Keywords": "Fosfomycin (3gm)",
     "quantity": "1" 
   },
   {
@@ -6090,7 +6090,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 15 tablets",
     "Like2": "Ajanta Pharma Ltd",
-    "Keywords": "Febuxostat (40mg) ADD",
+    "Keywords": "Febuxostat (40mg)",
     "quantity": "1" 
   },
   {
@@ -6112,7 +6112,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "packet of 6 gm Nasal Spray",
     "Like2": "Zydus Cadila",
-    "Keywords": "Fluticasone Furoate (27.5mcg) ADD",
+    "Keywords": "Fluticasone Furoate (27.5mcg)",
     "quantity": "1" 
   },
   {
@@ -6123,7 +6123,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 10 capsules",
     "Like2": "Intas Pharmaceuticals Ltd",
-    "Keywords": "Fluoxetine (20mg) ADD",
+    "Keywords": "Fluoxetine (20mg)",
     "quantity": "1" 
   },
   {
@@ -6145,7 +6145,7 @@ var products=[
     "Prescription": "",
     "Like1": "tube of 10 gm Ointment",
     "Like2": "Glaxo SmithKline Pharmaceuticals Ltd",
-    "Keywords": "Fluticasone Propionate (0.005% w/w) + Mupirocin (2% w/w) ADD",
+    "Keywords": "Fluticasone Propionate (0.005% w/w) + Mupirocin (2% w/w)",
     "quantity": "1" 
   },
   {
@@ -6156,7 +6156,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 15 tablets",
     "Like2": "Cipla Ltd",
-    "Keywords": "Finasteride (1mg) ADD",
+    "Keywords": "Finasteride (1mg)",
     "quantity": "1" 
   },
   {
@@ -6167,7 +6167,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 1 Tablet",
     "Like2": "Cipla Ltd",
-    "Keywords": "Fluconazole (150mg) ADD",
+    "Keywords": "Fluconazole (150mg)",
     "quantity": "1" 
   },
   {
@@ -6178,7 +6178,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 30 Tablet pr",
     "Like2": "Sun Pharmaceutical Industries Ltd",
-    "Keywords": "Alfuzosin (10mg) ADD",
+    "Keywords": "Alfuzosin (10mg)",
     "quantity": "1" 
   },
   {
@@ -6211,7 +6211,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 10 tablets",
     "Like2": "Ipca Laboratories Ltd",
-    "Keywords": "Methotrexate (10mg) ADD",
+    "Keywords": "Methotrexate (10mg)",
     "quantity": "1" 
   },
   {
@@ -6222,7 +6222,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "tube of 20 gm Gel",
     "Like2": "Abbott",
-    "Keywords": "Clindamycin (1% w/w) + Nicotinamide (4% w/w) ADD",
+    "Keywords": "Clindamycin (1% w/w) + Nicotinamide (4% w/w)",
     "quantity": "1" 
   },
   {
@@ -6233,7 +6233,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "bottle of 60 ml Oral Suspension",
     "Like2": "Abbott",
-    "Keywords": "Metronidazole (200mg/5ml) ADD",
+    "Keywords": "Metronidazole (200mg/5ml)",
     "quantity": "1" 
   },
   {
@@ -6255,7 +6255,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "bottle of 6 gm Nasal Spray",
     "Like2": "Cipla Ltd",
-    "Keywords": "Fluticasone Furoate (27.5mcg) ADD",
+    "Keywords": "Fluticasone Furoate (27.5mcg)",
     "quantity": "1" 
   },
   {
@@ -6266,7 +6266,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 10 tablets",
     "Like2": "Torrent Pharmaceuticals Ltd",
-    "Keywords": "Flavoxate (200mg) ADD",
+    "Keywords": "Flavoxate (200mg)",
     "quantity": "1" 
   },
   {
@@ -6277,7 +6277,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "bottle of 5 ml Opthalmic Suspension",
     "Like2": "Allergan India Pvt Ltd",
-    "Keywords": "Fluorometholone (0.1% w/v) ADD",
+    "Keywords": "Fluorometholone (0.1% w/v)",
     "quantity": "1" 
   },
   {
@@ -6288,7 +6288,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "packet of 30 rotacaps",
     "Like2": "Cipla Ltd",
-    "Keywords": "Formoterol (6mcg) + Budesonide (400mcg) ADD",
+    "Keywords": "Formoterol (6mcg) + Budesonide (400mcg)",
     "quantity": "1" 
   },
   {
@@ -6299,7 +6299,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "packet of 1 Sachet",
     "Like2": "Aristo Pharmaceuticals Pvt Ltd",
-    "Keywords": "Fosfomycin (3gm) ADD",
+    "Keywords": "Fosfomycin (3gm)",
     "quantity": "1" 
   },
   {
@@ -6321,7 +6321,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 10 tablets",
     "Like2": "Mankind Pharma Ltd",
-    "Keywords": "Diclofenac (50mg) + Paracetamol (325mg) + Serratiopeptidase (15mg) ADD",
+    "Keywords": "Diclofenac (50mg) + Paracetamol (325mg) + Serratiopeptidase (15mg)",
     "quantity": "1" 
   },
   {
@@ -6332,7 +6332,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 10 tablet sr",
     "Like2": "Macleods Pharmaceuticals Pvt Ltd",
-    "Keywords": "Cyclobenzaprine (15mg) + Aceclofenac (200mg) ADD",
+    "Keywords": "Cyclobenzaprine (15mg) + Aceclofenac (200mg)",
     "quantity": "1" 
   },
   {
@@ -6343,7 +6343,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 10 capsule er",
     "Like2": "Serdia Pharmaceuticals India Pvt Ltd",
-    "Keywords": "Trimetazidine (80mg) ADD",
+    "Keywords": "Trimetazidine (80mg)",
     "quantity": "1" 
   },
   {
@@ -6354,7 +6354,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "vial of 10 ml Solution for Injection",
     "Like2": "Lupin Ltd",
-    "Keywords": "Ferric Carboxymaltose (50mg/ml) ADD",
+    "Keywords": "Ferric Carboxymaltose (50mg/ml)",
     "quantity": "1" 
   },
   {
@@ -6365,7 +6365,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 10 tablets",
     "Like2": "Cipla Ltd",
-    "Keywords": "Fenofibrate (145mg) ADD",
+    "Keywords": "Fenofibrate (145mg)",
     "quantity": "1" 
   },
   {
@@ -6376,7 +6376,7 @@ var products=[
     "Prescription": "",
     "Like1": "tube of 10 gm Cream",
     "Like2": "Hegde and Hegde Pharmaceutical LLP",
-    "Keywords": "Fusidic Acid (2% w/w) ADD",
+    "Keywords": "Fusidic Acid (2% w/w)",
     "quantity": "1" 
   },
   {
@@ -6387,7 +6387,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 10 tablets",
     "Like2": "Intas Pharmaceuticals Ltd",
-    "Keywords": "Finasteride (1mg) ADD",
+    "Keywords": "Finasteride (1mg)",
     "quantity": "1" 
   },
   {
@@ -6398,7 +6398,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "tube of 30 gm Rectal Cream",
     "Like2": "Abbott",
-    "Keywords": "Lidocaine (1.5% w/w) + Nifedipine (0.3% w/w) ADD",
+    "Keywords": "Lidocaine (1.5% w/w) + Nifedipine (0.3% w/w)",
     "quantity": "1" 
   },
   {
@@ -6409,7 +6409,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 14 tablets",
     "Like2": "Sun Pharmaceutical Industries Ltd",
-    "Keywords": "Famotidine (20mg) ADD",
+    "Keywords": "Famotidine (20mg)",
     "quantity": "1" 
   },
   {
@@ -6420,7 +6420,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 30 tablets",
     "Like2": "Ar-Ex Laboratories Pvt Ltd",
-    "Keywords": "Clomiphene (25mg) ADD",
+    "Keywords": "Clomiphene (25mg)",
     "quantity": "1" 
   },
   {
@@ -6442,7 +6442,7 @@ var products=[
     "Prescription": "",
     "Like1": "bottle of 10 ml Eye Drop",
     "Like2": "Cipla Ltd",
-    "Keywords": "Carboxymethylcellulose (1% w/v) ADD",
+    "Keywords": "Carboxymethylcellulose (1% w/v)",
     "quantity": "1" 
   },
   {
@@ -6464,7 +6464,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "bottle of 60 ml Syrup",
     "Like2": "Wallace Pharmaceuticals Pvt Ltd",
-    "Keywords": "Chlorpheniramine Maleate (1mg) + Phenylephrine (5mg) + Paracetamol (125mg) + Sodium Citrate (60mg) ADD",
+    "Keywords": "Chlorpheniramine Maleate (1mg) + Phenylephrine (5mg) + Paracetamol (125mg) + Sodium Citrate (60mg)",
     "quantity": "1" 
   },
   {
@@ -6486,7 +6486,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "packet of 12 ml Nasal Spray",
     "Like2": "Zydus Cadila",
-    "Keywords": "Fluticasone Propionate (0.05% w/v) ADD",
+    "Keywords": "Fluticasone Propionate (0.05% w/v)",
     "quantity": "1" 
   },
   {
@@ -6497,7 +6497,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "packet of 120 MDI Inhaler",
     "Like2": "Zydus Cadila",
-    "Keywords": "Formoterol (6mcg) + Budesonide (200mcg) ADD",
+    "Keywords": "Formoterol (6mcg) + Budesonide (200mcg)",
     "quantity": "1" 
   },
   {
@@ -6508,7 +6508,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 10 tablets",
     "Like2": "Sanofi India  Ltd",
-    "Keywords": "Pancreatin (212.5mg) ADD",
+    "Keywords": "Pancreatin (212.5mg)",
     "quantity": "1" 
   },
   {
@@ -6519,7 +6519,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "packet of 5 respules",
     "Like2": "Cipla Ltd",
-    "Keywords": "Formoterol (20mcg) + Budesonide (1mg) ADD",
+    "Keywords": "Formoterol (20mcg) + Budesonide (1mg)",
     "quantity": "1" 
   },
   {
@@ -6541,7 +6541,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 15 tablets",
     "Like2": "Lupin Ltd",
-    "Keywords": "Iron (30mg) + Zinc (10mg) + Folic Acid (1.5mg) + Vitamin B12 (15mcg) ADD",
+    "Keywords": "Iron (30mg) + Zinc (10mg) + Folic Acid (1.5mg) + Vitamin B12 (15mcg)",
     "quantity": "1" 
   },
   {
@@ -6563,7 +6563,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 10 tablets",
     "Like2": "Cipla Ltd",
-    "Keywords": "Letrozole (2.5mg) ADD",
+    "Keywords": "Letrozole (2.5mg)",
     "quantity": "1" 
   },
   {
@@ -6574,7 +6574,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 10 tablets",
     "Like2": "Sun Pharmaceutical Industries Ltd",
-    "Keywords": "Atorvastatin (10mg) + Fenofibrate (145mg) ADD",
+    "Keywords": "Atorvastatin (10mg) + Fenofibrate (145mg)",
     "quantity": "1" 
   },
   {
@@ -6585,7 +6585,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 6 tablets",
     "Like2": "Aristo Pharmaceuticals Pvt Ltd",
-    "Keywords": "Cefuroxime (500mg) + Clavulanic Acid (125mg) ADD",
+    "Keywords": "Cefuroxime (500mg) + Clavulanic Acid (125mg)",
     "quantity": "1" 
   },
   {
@@ -6607,7 +6607,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "bottle of 100 ml Syrup",
     "Like2": "Franco-Indian Pharmaceuticals Pvt Ltd",
-    "Keywords": "Ammonium Chloride (60mg/5ml) + Chlorpheniramine Maleate (2.5mg/5ml) + Dextromethorphan Hydrobromide (5mg/5ml) + Guaifenesin (50mg/5ml) ADD",
+    "Keywords": "Ammonium Chloride (60mg/5ml) + Chlorpheniramine Maleate (2.5mg/5ml) + Dextromethorphan Hydrobromide (5mg/5ml) + Guaifenesin (50mg/5ml)",
     "quantity": "1" 
   },
   {
@@ -6618,7 +6618,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 15 tablets",
     "Like2": "Intas Pharmaceuticals Ltd",
-    "Keywords": "Gabapentin (400mg) + Nortriptyline (10mg) ADD",
+    "Keywords": "Gabapentin (400mg) + Nortriptyline (10mg)",
     "quantity": "1" 
   },
   {
@@ -6629,7 +6629,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "bottle of 100 ml Syrup",
     "Like2": "Franco-Indian Pharmaceuticals Pvt Ltd",
-    "Keywords": "Terbutaline (2.5mg/5ml) + Bromhexine (8mg/5ml) ADD",
+    "Keywords": "Terbutaline (2.5mg/5ml) + Bromhexine (8mg/5ml)",
     "quantity": "1" 
   },
   {
@@ -6640,7 +6640,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 20 tablet sr",
     "Like2": "USV Ltd",
-    "Keywords": "Metformin (500mg) ADD",
+    "Keywords": "Metformin (500mg)",
     "quantity": "1" 
   },
   {
@@ -6651,7 +6651,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 10 tablets",
     "Like2": "Mankind Pharma Ltd",
-    "Keywords": "Cefpodoxime Proxetil (200mg) ADD",
+    "Keywords": "Cefpodoxime Proxetil (200mg)",
     "quantity": "1" 
   },
   {
@@ -6662,7 +6662,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 10 tablets",
     "Like2": "Mankind Pharma Ltd",
-    "Keywords": "Cefpodoxime Proxetil (200mg) + Clavulanic Acid (125mg) ADD",
+    "Keywords": "Cefpodoxime Proxetil (200mg) + Clavulanic Acid (125mg)",
     "quantity": "1" 
   },
   {
@@ -6673,7 +6673,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 15 Tablet pr",
     "Like2": "USV Ltd",
-    "Keywords": "Glimepiride (1mg) + Metformin (500mg) ADD",
+    "Keywords": "Glimepiride (1mg) + Metformin (500mg)",
     "quantity": "1" 
   },
   {
@@ -6684,7 +6684,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 15 tablets",
     "Like2": "Intas Pharmaceuticals Ltd",
-    "Keywords": "Gabapentin (100mg) + Nortriptyline (10mg) ADD",
+    "Keywords": "Gabapentin (100mg) + Nortriptyline (10mg)",
     "quantity": "1" 
   },
   {
@@ -6695,7 +6695,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 15 Tablet pr",
     "Like2": "USV Ltd",
-    "Keywords": "Glimepiride (2mg) + Metformin (500mg) ADD",
+    "Keywords": "Glimepiride (2mg) + Metformin (500mg)",
     "quantity": "1" 
   },
   {
@@ -6706,7 +6706,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 15 tablets",
     "Like2": "Intas Pharmaceuticals Ltd",
-    "Keywords": "Gabapentin (100mg) ADD",
+    "Keywords": "Gabapentin (100mg)",
     "quantity": "1" 
   },
   {
@@ -6717,7 +6717,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 10 tablet sr",
     "Like2": "Franco-Indian Pharmaceuticals Pvt Ltd",
-    "Keywords": "Metformin (500mg) ADD",
+    "Keywords": "Metformin (500mg)",
     "quantity": "1" 
   },
   {
@@ -6728,7 +6728,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 10 tablets",
     "Like2": "Abbott",
-    "Keywords": "Itopride (50mg) ADD",
+    "Keywords": "Itopride (50mg)",
     "quantity": "1" 
   },
   {
@@ -6739,7 +6739,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "bottle of 100 ml Oral Suspension",
     "Like2": "Franco-Indian Pharmaceuticals Pvt Ltd",
-    "Keywords": "Levocloperastine (20mg/5ml) ADD",
+    "Keywords": "Levocloperastine (20mg/5ml)",
     "quantity": "1" 
   },
   {
@@ -6750,7 +6750,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 15 Tablet pr",
     "Like2": "Sun Pharmaceutical Industries Ltd",
-    "Keywords": "Glimepiride (2mg) + Metformin (500mg) ADD",
+    "Keywords": "Glimepiride (2mg) + Metformin (500mg)",
     "quantity": "1" 
   },
   {
@@ -6761,7 +6761,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 15 tablets",
     "Like2": "Novartis India Ltd",
-    "Keywords": "Metformin (500mg) + Vildagliptin (50mg) ADD",
+    "Keywords": "Metformin (500mg) + Vildagliptin (50mg)",
     "quantity": "1" 
   },
   {
@@ -6772,7 +6772,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "bottle of 100 ml Syrup",
     "Like2": "Wardex Pharmaceutical Pvt. Ltd.",
-    "Keywords": "Ambroxol (30mg/5ml) + Levosalbutamol (1mg/5ml) + Guaifenesin (50mg/5ml) ADD",
+    "Keywords": "Ambroxol (30mg/5ml) + Levosalbutamol (1mg/5ml) + Guaifenesin (50mg/5ml)",
     "quantity": "1" 
   },
   {
@@ -6783,7 +6783,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 10 tablets",
     "Like2": "USV Ltd",
-    "Keywords": "Glipizide (5mg) + Metformin (500mg) ADD",
+    "Keywords": "Glipizide (5mg) + Metformin (500mg)",
     "quantity": "1" 
   },
   {
@@ -6794,7 +6794,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 10 tablets",
     "Like2": "Karnataka Antibiotics & Pharmaceuticals Ltd",
-    "Keywords": "Domperidone (20mg) + Paracetamol (500mg) ADD",
+    "Keywords": "Domperidone (20mg) + Paracetamol (500mg)",
     "quantity": "1" 
   },
   {
@@ -6805,7 +6805,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 10 capsule sr",
     "Like2": "Abbott",
-    "Keywords": "Pantoprazole (40mg) + Itopride (150mg) ADD",
+    "Keywords": "Pantoprazole (40mg) + Itopride (150mg)",
     "quantity": "1" 
   },
   {
@@ -6827,7 +6827,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 10 tablet sr",
     "Like2": "USV Ltd",
-    "Keywords": "Glimepiride (2mg) + Metformin (500mg) + Voglibose (0.2mg) ADD",
+    "Keywords": "Glimepiride (2mg) + Metformin (500mg) + Voglibose (0.2mg)",
     "quantity": "1" 
   },
   {
@@ -6849,7 +6849,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 10 tablet sr",
     "Like2": "USV Ltd",
-    "Keywords": "Glimepiride (0.5mg) + Metformin (500mg) ADD",
+    "Keywords": "Glimepiride (0.5mg) + Metformin (500mg)",
     "quantity": "1" 
   },
   {
@@ -6860,7 +6860,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 15 tablets",
     "Like2": "Aristo Pharmaceuticals Pvt Ltd",
-    "Keywords": "Gabapentin (300mg) + Nortriptyline (10mg) ADD",
+    "Keywords": "Gabapentin (300mg) + Nortriptyline (10mg)",
     "quantity": "1" 
   },
   {
@@ -6871,7 +6871,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 15 tablets",
     "Like2": "Panacea Biotec Ltd",
-    "Keywords": "Gliclazide (80mg) + Metformin (500mg) ADD",
+    "Keywords": "Gliclazide (80mg) + Metformin (500mg)",
     "quantity": "1" 
   },
   {
@@ -6882,7 +6882,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 10 tablets",
     "Like2": "USV Ltd",
-    "Keywords": "Metformin (500mg) ADD",
+    "Keywords": "Metformin (500mg)",
     "quantity": "1" 
   },
   {
@@ -6893,7 +6893,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 10 Tablet pr",
     "Like2": "Mankind Pharma Ltd",
-    "Keywords": "Glimepiride (1mg) + Metformin (500mg) ADD",
+    "Keywords": "Glimepiride (1mg) + Metformin (500mg)",
     "quantity": "1" 
   },
   {
@@ -6904,7 +6904,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 15 tablet sr",
     "Like2": "USV Ltd",
-    "Keywords": "Metformin (1000mg) ADD",
+    "Keywords": "Metformin (1000mg)",
     "quantity": "1" 
   },
   {
@@ -6915,7 +6915,7 @@ var products=[
     "Prescription": "",
     "Like1": "strip of 15 tablets",
     "Like2": "Alkem Laboratories Ltd",
-    "Keywords": "Calcium (500mg) + Vitamin D3 (500IU) ADD",
+    "Keywords": "Calcium (500mg) + Vitamin D3 (500IU)",
     "quantity": "1" 
   },
   {
@@ -6926,7 +6926,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "packet of 10 ml Eye Drop",
     "Like2": "Alcon Laboratories",
-    "Keywords": "Hydroxypropylmethylcellulose (0.3% w/v) ADD",
+    "Keywords": "Hydroxypropylmethylcellulose (0.3% w/v)",
     "quantity": "1" 
   },
   {
@@ -6937,7 +6937,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 15 tablets",
     "Like2": "Aristo Pharmaceuticals Pvt Ltd",
-    "Keywords": "Gabapentin (300mg) + Methylcobalamin (500mcg) ADD",
+    "Keywords": "Gabapentin (300mg) + Methylcobalamin (500mcg)",
     "quantity": "1" 
   },
   {
@@ -6948,7 +6948,7 @@ var products=[
     "Prescription": "",
     "Like1": "strip of 10 tablets",
     "Like2": "Zydus Cadila",
-    "Keywords": "Bisacodyl (5mg) ADD",
+    "Keywords": "Bisacodyl (5mg)",
     "quantity": "1" 
   },
   {
@@ -6959,7 +6959,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 10 tablets",
     "Like2": "Corona Remedies Pvt Ltd",
-    "Keywords": "Pregabalin (75mg) + Nortriptyline (10mg) + Methylcobalamin (1500mcg) ADD",
+    "Keywords": "Pregabalin (75mg) + Nortriptyline (10mg) + Methylcobalamin (1500mcg)",
     "quantity": "1" 
   },
   {
@@ -6970,7 +6970,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 15 capsules",
     "Like2": "Intas Pharmaceuticals Ltd",
-    "Keywords": "Gabapentin (300mg) ADD",
+    "Keywords": "Gabapentin (300mg)",
     "quantity": "1" 
   },
   {
@@ -6981,7 +6981,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "bottle of 110 ml Oral Suspension",
     "Like2": "Mankind Pharma Ltd",
-    "Keywords": "Sodium Picosulfate (3.33mg) + Liquid Paraffin (1.25ml) + Milk Of Magnesia (3.75ml) ADD",
+    "Keywords": "Sodium Picosulfate (3.33mg) + Liquid Paraffin (1.25ml) + Milk Of Magnesia (3.75ml)",
     "quantity": "1" 
   },
   {
@@ -6992,7 +6992,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 10 tablet sr",
     "Like2": "USV Ltd",
-    "Keywords": "Glimepiride (2mg) + Metformin (1000mg) ADD",
+    "Keywords": "Glimepiride (2mg) + Metformin (1000mg)",
     "quantity": "1" 
   },
   {
@@ -7003,7 +7003,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 15 Tablet pr",
     "Like2": "Lupin Ltd",
-    "Keywords": "Glimepiride (1mg) + Metformin (500mg) ADD",
+    "Keywords": "Glimepiride (1mg) + Metformin (500mg)",
     "quantity": "1" 
   },
   {
@@ -7014,7 +7014,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 10 tablets",
     "Like2": "Mankind Pharma Ltd",
-    "Keywords": "Gliclazide (80mg) + Metformin (500mg) ADD",
+    "Keywords": "Gliclazide (80mg) + Metformin (500mg)",
     "quantity": "1" 
   },
   {
@@ -7025,7 +7025,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 15 Tablet pr",
     "Like2": "Lupin Ltd",
-    "Keywords": "Glimepiride (2mg) + Metformin (500mg) ADD",
+    "Keywords": "Glimepiride (2mg) + Metformin (500mg)",
     "quantity": "1" 
   },
   {
@@ -7036,7 +7036,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "vial of 0.5 ml Injection",
     "Like2": "MSD Pharmaceuticals Pvt Ltd",
-    "Keywords": "Human Papillomavirus Quadrivalent (Types 6, 11, 16, and 18) Vaccine, Recombinant (NA) ADD",
+    "Keywords": "Human Papillomavirus Quadrivalent (Types 6, 11, 16, and 18) Vaccine, Recombinant (NA)",
     "quantity": "1" 
   },
   {
@@ -7080,7 +7080,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "bottle of 30 tablet cr",
     "Like2": "Abbott",
-    "Keywords": "Nitroglycerin (2.6mg) ADD",
+    "Keywords": "Nitroglycerin (2.6mg)",
     "quantity": "1" 
   },
   {
@@ -7091,7 +7091,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 10 tablets",
     "Like2": "Mankind Pharma Ltd",
-    "Keywords": "Metformin (500mg) + Vildagliptin (50mg) ADD",
+    "Keywords": "Metformin (500mg) + Vildagliptin (50mg)",
     "quantity": "1" 
   },
   {
@@ -7102,7 +7102,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 10 tablet er",
     "Like2": "Mankind Pharma Ltd",
-    "Keywords": "Glimepiride (2mg) + Metformin (500mg) + Pioglitazone (15mg) ADD",
+    "Keywords": "Glimepiride (2mg) + Metformin (500mg) + Pioglitazone (15mg)",
     "quantity": "1" 
   },
   {
@@ -7113,7 +7113,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 15 tablets",
     "Like2": "Intas Pharmaceuticals Ltd",
-    "Keywords": "Gabapentin (200mg) + Nortriptyline (10mg) ADD",
+    "Keywords": "Gabapentin (200mg) + Nortriptyline (10mg)",
     "quantity": "1" 
   },
   {
@@ -7124,7 +7124,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 10 tablets",
     "Like2": "Boehringer Ingelheim",
-    "Keywords": "Empagliflozin (25mg) + Linagliptin (5mg) ADD",
+    "Keywords": "Empagliflozin (25mg) + Linagliptin (5mg)",
     "quantity": "1" 
   },
   {
@@ -7135,7 +7135,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 15 tablets",
     "Like2": "Novartis India Ltd",
-    "Keywords": "Vildagliptin (50mg) ADD",
+    "Keywords": "Vildagliptin (50mg)",
     "quantity": "1" 
   },
   {
@@ -7146,7 +7146,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 10 Tablet pr",
     "Like2": "Mankind Pharma Ltd",
-    "Keywords": "Glimepiride (2mg) + Metformin (500mg) ADD",
+    "Keywords": "Glimepiride (2mg) + Metformin (500mg)",
     "quantity": "1" 
   },
   {
@@ -7157,7 +7157,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 20 tablets",
     "Like2": "Bluemed Pharma Pvt Ltd",
-    "Keywords": "Midodrine (2.5mg) ADD",
+    "Keywords": "Midodrine (2.5mg)",
     "quantity": "1" 
   },
   {
@@ -7168,7 +7168,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 10 tablets",
     "Like2": "Sun Pharmaceutical Industries Ltd",
-    "Keywords": "Gabapentin (400mg) + Nortriptyline (10mg) ADD",
+    "Keywords": "Gabapentin (400mg) + Nortriptyline (10mg)",
     "quantity": "1" 
   },
   {
@@ -7190,7 +7190,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "packet of 7 respules",
     "Like2": "Cipla Ltd",
-    "Keywords": "Glycopyrrolate (25mcg) ADD",
+    "Keywords": "Glycopyrrolate (25mcg)",
     "quantity": "1" 
   },
   {
@@ -7201,7 +7201,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 10 tablets",
     "Like2": "Sun Pharmaceutical Industries Ltd",
-    "Keywords": "Glibenclamide (5mg) + Metformin (500mg) ADD",
+    "Keywords": "Glibenclamide (5mg) + Metformin (500mg)",
     "quantity": "1" 
   },
   {
@@ -7212,7 +7212,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 10 tablet sr",
     "Like2": "Alembic Pharmaceuticals Ltd",
-    "Keywords": "Progesterone (Natural Micronized) (200mg) ADD",
+    "Keywords": "Progesterone (Natural Micronized) (200mg)",
     "quantity": "1" 
   },
   {
@@ -7223,7 +7223,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 10 tablets",
     "Like2": "Torrent Pharmaceuticals Ltd",
-    "Keywords": "Dapagliflozin (10mg) ADD",
+    "Keywords": "Dapagliflozin (10mg)",
     "quantity": "1" 
   },
   {
@@ -7256,7 +7256,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 21 tablets",
     "Like2": "Cipla Ltd",
-    "Keywords": "Cyproterone (2mg) + Ethinyl Estradiol (0.035mg) ADD",
+    "Keywords": "Cyproterone (2mg) + Ethinyl Estradiol (0.035mg)",
     "quantity": "1" 
   },
   {
@@ -7267,7 +7267,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 10 Tablet pr",
     "Like2": "Sun Pharmaceutical Industries Ltd",
-    "Keywords": "Glimepiride (0.5mg) + Metformin (500mg) ADD",
+    "Keywords": "Glimepiride (0.5mg) + Metformin (500mg)",
     "quantity": "1" 
   },
   {
@@ -7278,7 +7278,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 10 rotacaps",
     "Like2": "Cipla Ltd",
-    "Keywords": "Glycopyrrolate (25mcg) + Formoterol (12mcg) + Budesonide (400mcg) ADD",
+    "Keywords": "Glycopyrrolate (25mcg) + Formoterol (12mcg) + Budesonide (400mcg)",
     "quantity": "1" 
   },
   {
@@ -7289,7 +7289,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 10 capsules",
     "Like2": "Aristo Pharmaceuticals Pvt Ltd",
-    "Keywords": "Benfotiamine (7.5mg) + Folic Acid (0.75mg) + Methylcobalamin (750mcg) + Pregabalin (75mg) + Vitamin B6 (Pyridoxine) (1.5mg) ADD",
+    "Keywords": "Benfotiamine (7.5mg) + Folic Acid (0.75mg) + Methylcobalamin (750mcg) + Pregabalin (75mg) + Vitamin B6 (Pyridoxine) (1.5mg)",
     "quantity": "1" 
   },
   {
@@ -7300,7 +7300,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 10 tablets",
     "Like2": "Lupin Ltd",
-    "Keywords": "Empagliflozin (25mg) ADD",
+    "Keywords": "Empagliflozin (25mg)",
     "quantity": "1" 
   },
   {
@@ -7311,7 +7311,7 @@ var products=[
     "Prescription": "",
     "Like1": "tube of 10 gm Eye Gel",
     "Like2": "Alcon Laboratories",
-    "Keywords": "Hydroxypropylmethylcellulose (0.3% w/w) ADD",
+    "Keywords": "Hydroxypropylmethylcellulose (0.3% w/w)",
     "quantity": "1" 
   },
   {
@@ -7322,7 +7322,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 10 tablets",
     "Like2": "Bayer Zydus Pharma Pvt Ltd",
-    "Keywords": "Acarbose (50mg) ADD",
+    "Keywords": "Acarbose (50mg)",
     "quantity": "1" 
   },
   {
@@ -7333,7 +7333,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 10 capsules",
     "Like2": "Sun Pharmaceutical Industries Ltd",
-    "Keywords": "Gabapentin (100mg) ADD",
+    "Keywords": "Gabapentin (100mg)",
     "quantity": "1" 
   },
   {
@@ -7344,7 +7344,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 10 tablets",
     "Like2": "Eris Lifesciences Ltd",
-    "Keywords": "Dapagliflozin (10mg) ADD",
+    "Keywords": "Dapagliflozin (10mg)",
     "quantity": "1" 
   },
   {
@@ -7355,7 +7355,7 @@ var products=[
     "Prescription": "",
     "Like1": "bottle of 5 ml Oral Suspension",
     "Like2": "Apex Laboratories Pvt Ltd",
-    "Keywords": "Bacillus Clausii (2Billion Spores) ADD",
+    "Keywords": "Bacillus Clausii (2Billion Spores)",
     "quantity": "1" 
   },
   {
@@ -7366,7 +7366,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 10 tablets",
     "Like2": "Mankind Pharma Ltd",
-    "Keywords": "Cefpodoxime Proxetil (200mg) + Ofloxacin (200mg) ADD",
+    "Keywords": "Cefpodoxime Proxetil (200mg) + Ofloxacin (200mg)",
     "quantity": "1" 
   },
   {
@@ -7377,7 +7377,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 10 tablet sr",
     "Like2": "USV Ltd",
-    "Keywords": "Glimepiride (1mg) + Metformin (1000mg) ADD",
+    "Keywords": "Glimepiride (1mg) + Metformin (1000mg)",
     "quantity": "1" 
   },
   {
@@ -7410,7 +7410,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 10 tablets",
     "Like2": "USV Ltd",
-    "Keywords": "Glipizide (5mg) ADD",
+    "Keywords": "Glipizide (5mg)",
     "quantity": "1" 
   },
   {
@@ -7421,7 +7421,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 10 tablets",
     "Like2": "Mankind Pharma Ltd",
-    "Keywords": "Norethisterone (5mg) ADD",
+    "Keywords": "Norethisterone (5mg)",
     "quantity": "1" 
   },
   {
@@ -7432,7 +7432,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 10 tablet sr",
     "Like2": "USV Ltd",
-    "Keywords": "Glimepiride (1mg) + Metformin (500mg) + Voglibose (0.2mg) ADD",
+    "Keywords": "Glimepiride (1mg) + Metformin (500mg) + Voglibose (0.2mg)",
     "quantity": "1" 
   },
   {
@@ -7443,7 +7443,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 10 tablet er",
     "Like2": "Sun Pharmaceutical Industries Ltd",
-    "Keywords": "Glimepiride (2mg) + Metformin (500mg) + Pioglitazone (15mg) ADD",
+    "Keywords": "Glimepiride (2mg) + Metformin (500mg) + Pioglitazone (15mg)",
     "quantity": "1" 
   },
   {
@@ -7454,7 +7454,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 15 Tablet pr",
     "Like2": "Sun Pharmaceutical Industries Ltd",
-    "Keywords": "Glimepiride (1mg) + Metformin (500mg) ADD",
+    "Keywords": "Glimepiride (1mg) + Metformin (500mg)",
     "quantity": "1" 
   },
   {
@@ -7465,7 +7465,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 15 tablets",
     "Like2": "Novartis India Ltd",
-    "Keywords": "Metformin (1000mg) + Vildagliptin (50mg) ADD",
+    "Keywords": "Metformin (1000mg) + Vildagliptin (50mg)",
     "quantity": "1" 
   },
   {
@@ -7476,7 +7476,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 15 Tablet pr",
     "Like2": "Lupin Ltd",
-    "Keywords": "Glimepiride (2mg) + Metformin (1000mg) ADD",
+    "Keywords": "Glimepiride (2mg) + Metformin (1000mg)",
     "quantity": "1" 
   },
   {
@@ -7509,7 +7509,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 10 tablets",
     "Like2": "Sun Pharmaceutical Industries Ltd",
-    "Keywords": "Pyridostigmine (60mg) ADD",
+    "Keywords": "Pyridostigmine (60mg)",
     "quantity": "1" 
   },
   {
@@ -7520,7 +7520,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 10 Tablet pr",
     "Like2": "Aristo Pharmaceuticals Pvt Ltd",
-    "Keywords": "Glimepiride (1mg) + Metformin (500mg) ADD",
+    "Keywords": "Glimepiride (1mg) + Metformin (500mg)",
     "quantity": "1" 
   },
   {
@@ -7531,7 +7531,7 @@ var products=[
     "Prescription": "",
     "Like1": "bottle of 200 ml Syrup",
     "Like2": "Zuventus Healthcare Ltd",
-    "Keywords": "Lactitol (66.67% w/v) ADD",
+    "Keywords": "Lactitol (66.67% w/v)",
     "quantity": "1" 
   },
   {
@@ -7542,7 +7542,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 10 Tablet pr",
     "Like2": "Sun Pharmaceutical Industries Ltd",
-    "Keywords": "Glimepiride (2mg) + Metformin (1000mg) ADD",
+    "Keywords": "Glimepiride (2mg) + Metformin (1000mg)",
     "quantity": "1" 
   },
   {
@@ -7553,7 +7553,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 10 tablet sr",
     "Like2": "Alembic Pharmaceuticals Ltd",
-    "Keywords": "Progesterone (Natural Micronized) (300mg) ADD",
+    "Keywords": "Progesterone (Natural Micronized) (300mg)",
     "quantity": "1" 
   },
   {
@@ -7575,7 +7575,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 10 tablets",
     "Like2": "Aristo Pharmaceuticals Pvt Ltd",
-    "Keywords": "Pregabalin (75mg) + Nortriptyline (10mg) ADD",
+    "Keywords": "Pregabalin (75mg) + Nortriptyline (10mg)",
     "quantity": "1" 
   },
   {
@@ -7586,7 +7586,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 10 tablets",
     "Like2": "USV Ltd",
-    "Keywords": "Glimepiride (1mg) ADD",
+    "Keywords": "Glimepiride (1mg)",
     "quantity": "1" 
   },
   {
@@ -7597,7 +7597,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 15 tablets",
     "Like2": "Intas Pharmaceuticals Ltd",
-    "Keywords": "Aceclofenac (100mg) + Paracetamol (325mg) ADD",
+    "Keywords": "Aceclofenac (100mg) + Paracetamol (325mg)",
     "quantity": "1" 
   },
   {
@@ -7608,7 +7608,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 30 tablets",
     "Like2": "Pfizer Ltd",
-    "Keywords": "Diethylcarbamazine (100mg) ADD",
+    "Keywords": "Diethylcarbamazine (100mg)",
     "quantity": "1" 
   },
   {
@@ -7619,7 +7619,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 15 tablets",
     "Like2": "Ipca Laboratories Ltd",
-    "Keywords": "Hydroxychloroquine (200mg) ADD",
+    "Keywords": "Hydroxychloroquine (200mg)",
     "quantity": "1" 
   },
   {
@@ -7641,7 +7641,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 10 tablets",
     "Like2": "Intas Pharmaceuticals Ltd",
-    "Keywords": "Aceclofenac (100mg) + Paracetamol (325mg) + Chlorzoxazone (500mg) ADD",
+    "Keywords": "Aceclofenac (100mg) + Paracetamol (325mg) + Chlorzoxazone (500mg)",
     "quantity": "1" 
   },
   {
@@ -7652,7 +7652,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 2 tablets",
     "Like2": "Lupin Ltd",
-    "Keywords": "Sumatriptan (85mg) + Naproxen (500mg) ADD",
+    "Keywords": "Sumatriptan (85mg) + Naproxen (500mg)",
     "quantity": "1" 
   },
   {
@@ -7663,7 +7663,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "packet of 1 Kit",
     "Like2": "Sun Pharmaceutical Industries Ltd",
-    "Keywords": "Omeprazole (20mg) + Tinidazole (500mg) + Amoxycillin (750mg) ADD",
+    "Keywords": "Omeprazole (20mg) + Tinidazole (500mg) + Amoxycillin (750mg)",
     "quantity": "1" 
   },
   {
@@ -7674,7 +7674,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 10 tablets",
     "Like2": "Mankind Pharma Ltd",
-    "Keywords": "Montelukast (10mg) + Fexofenadine (120mg) ADD",
+    "Keywords": "Montelukast (10mg) + Fexofenadine (120mg)",
     "quantity": "1" 
   },
   {
@@ -7685,7 +7685,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 10 tablets",
     "Like2": "Win-Medicare Pvt Ltd",
-    "Keywords": "L-Ornithine L-Aspartate (150mg) + Pancreatin (100mg) ADD",
+    "Keywords": "L-Ornithine L-Aspartate (150mg) + Pancreatin (100mg)",
     "quantity": "1" 
   },
   {
@@ -7696,7 +7696,7 @@ var products=[
     "Prescription": "",
     "Like1": "box of 7 respules",
     "Like2": "Cipla Ltd",
-    "Keywords": "Sodium Chloride (3% w/v) ADD",
+    "Keywords": "Sodium Chloride (3% w/v)",
     "quantity": "1" 
   },
   {
@@ -7707,7 +7707,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 10 tablets",
     "Like2": "Abbott",
-    "Keywords": "Ademetionine (400mg) ADD",
+    "Keywords": "Ademetionine (400mg)",
     "quantity": "1" 
   },
   {
@@ -7718,7 +7718,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "vial of 1 ml Injection",
     "Like2": "Bharat Serums & Vaccines Ltd",
-    "Keywords": "Human chorionic gonadotropin (hCG) (5000IU) ADD",
+    "Keywords": "Human chorionic gonadotropin (hCG) (5000IU)",
     "quantity": "1" 
   },
   {
@@ -7729,7 +7729,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "bottle of 100 ml Oral Solution",
     "Like2": "Mankind Pharma Ltd",
-    "Keywords": "Hydroxyzine (10mg) ADD",
+    "Keywords": "Hydroxyzine (10mg)",
     "quantity": "1" 
   },
   {
@@ -7740,7 +7740,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "vial of 10 ml Solution for Injection",
     "Like2": "Novo Nordisk India Pvt Ltd",
-    "Keywords": "Human insulin (40IU) ADD",
+    "Keywords": "Human insulin (40IU)",
     "quantity": "1" 
   },
   {
@@ -7751,7 +7751,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 10 disintegrating strips",
     "Like2": "Zydus Cadila",
-    "Keywords": "Hyoscyamine (0.125mg) ADD",
+    "Keywords": "Hyoscyamine (0.125mg)",
     "quantity": "1" 
   },
   {
@@ -7762,7 +7762,7 @@ var products=[
     "Prescription": "",
     "Like1": "bottle of 10 ml Eye Drop",
     "Like2": "Ajanta Pharma Ltd",
-    "Keywords": "Sodium Hyaluronate (0.18% w/v) ADD",
+    "Keywords": "Sodium Hyaluronate (0.18% w/v)",
     "quantity": "1" 
   },
   {
@@ -7784,7 +7784,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 10 tablets",
     "Like2": "Mankind Pharma Ltd",
-    "Keywords": "Fexofenadine (120mg) ADD",
+    "Keywords": "Fexofenadine (120mg)",
     "quantity": "1" 
   },
   {
@@ -7795,7 +7795,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "packet of 5 injections",
     "Like2": "Win-Medicare Pvt Ltd",
-    "Keywords": "L-Ornithine L-Aspartate (5gm) ADD",
+    "Keywords": "L-Ornithine L-Aspartate (5gm)",
     "quantity": "1" 
   },
   {
@@ -7806,7 +7806,7 @@ var products=[
     "Prescription": "",
     "Like1": "tube of 15 gm Mouth Paint",
     "Like2": "Icpa Health Products Ltd",
-    "Keywords": "Chlorhexidine Gluconate (1% w/w) ADD",
+    "Keywords": "Chlorhexidine Gluconate (1% w/w)",
     "quantity": "1" 
   },
   {
@@ -7817,7 +7817,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "bottle of 60 ml Suspension",
     "Like2": "Mankind Pharma Ltd",
-    "Keywords": "Fexofenadine (30mg/5ml) ADD",
+    "Keywords": "Fexofenadine (30mg/5ml)",
     "quantity": "1" 
   },
   {
@@ -7839,7 +7839,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 10 tablets",
     "Like2": "Zydus Cadila",
-    "Keywords": "Tolvaptan (15mg) ADD",
+    "Keywords": "Tolvaptan (15mg)",
     "quantity": "1" 
   },
   {
@@ -7861,7 +7861,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 10 tablets",
     "Like2": "Intas Pharmaceuticals Ltd",
-    "Keywords": "Aceclofenac (100mg) ADD",
+    "Keywords": "Aceclofenac (100mg)",
     "quantity": "1" 
   },
   {
@@ -7872,7 +7872,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 15 capsule sr",
     "Like2": "Zydus Cadila",
-    "Keywords": "Domperidone (30mg) + Rabeprazole (20mg) ADD",
+    "Keywords": "Domperidone (30mg) + Rabeprazole (20mg)",
     "quantity": "1" 
   },
   {
@@ -7883,7 +7883,7 @@ var products=[
     "Prescription": "",
     "Like1": "packet of 10 ml Eye Drop",
     "Like2": "Neomedix Healthcare India Private Limited",
-    "Keywords": "Sodium Hyaluronate (0.1% w/v) ADD",
+    "Keywords": "Sodium Hyaluronate (0.1% w/v)",
     "quantity": "1" 
   },
   {
@@ -7894,7 +7894,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 10 tablets",
     "Like2": "Intas Pharmaceuticals Ltd",
-    "Keywords": "Aceclofenac (100mg) + Paracetamol (325mg) + Serratiopeptidase (15mg) ADD",
+    "Keywords": "Aceclofenac (100mg) + Paracetamol (325mg) + Serratiopeptidase (15mg)",
     "quantity": "1" 
   },
   {
@@ -7905,7 +7905,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "bottle of 100 ml Infusion",
     "Like2": "Bharat Serums & Vaccines Ltd",
-    "Keywords": "Albumin (20%) ADD",
+    "Keywords": "Albumin (20%)",
     "quantity": "1" 
   },
   {
@@ -7927,7 +7927,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "tube of 40 gm Ointment",
     "Like2": "Dollar",
-    "Keywords": "Lanolin (100% w/w) + Lidocaine (1% w/w) + Menthol (1% w/w) + Thymol (0.5% w/w) ADD",
+    "Keywords": "Lanolin (100% w/w) + Lidocaine (1% w/w) + Menthol (1% w/w) + Thymol (0.5% w/w)",
     "quantity": "1" 
   },
   {
@@ -7938,7 +7938,7 @@ var products=[
     "Prescription": "",
     "Like1": "bottle of 80 ml Mouth Wash",
     "Like2": "Icpa Health Products Ltd",
-    "Keywords": "Chlorhexidine Gluconate (0.2% w/v) ADD",
+    "Keywords": "Chlorhexidine Gluconate (0.2% w/v)",
     "quantity": "1" 
   },
   {
@@ -7949,7 +7949,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "vial of 1 Injection",
     "Like2": "Abbott",
-    "Keywords": "Hydrocortisone (100mg) ADD",
+    "Keywords": "Hydrocortisone (100mg)",
     "quantity": "1" 
   },
   {
@@ -7960,7 +7960,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 10 tablets",
     "Like2": "Ipca Laboratories Ltd",
-    "Keywords": "Hydroxychloroquine (300mg) ADD",
+    "Keywords": "Hydroxychloroquine (300mg)",
     "quantity": "1" 
   },
   {
@@ -7971,7 +7971,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 10 tablets",
     "Like2": "Intas Pharmaceuticals Ltd",
-    "Keywords": "Aceclofenac (100mg) + Paracetamol (325mg) + Serratiopeptidase (15mg) ADD",
+    "Keywords": "Aceclofenac (100mg) + Paracetamol (325mg) + Serratiopeptidase (15mg)",
     "quantity": "1" 
   },
   {
@@ -7982,7 +7982,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "tube of 10 gm Cream",
     "Like2": "Hegde and Hegde Pharmaceutical LLP",
-    "Keywords": "Mometasone (0.1% w/w) ADD",
+    "Keywords": "Mometasone (0.1% w/w)",
     "quantity": "1" 
   },
   {
@@ -7993,7 +7993,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "packet of 5 ml Eye Drop",
     "Like2": "Indoco Remedies Ltd",
-    "Keywords": "Homatropine (2% w/v) ADD",
+    "Keywords": "Homatropine (2% w/v)",
     "quantity": "1" 
   },
   {
@@ -8004,7 +8004,7 @@ var products=[
     "Prescription": "",
     "Like1": "box of 7 respules",
     "Like2": "Cipla Ltd",
-    "Keywords": "Sodium Chloride (7% w/v) ADD",
+    "Keywords": "Sodium Chloride (7% w/v)",
     "quantity": "1" 
   },
   {
@@ -8015,7 +8015,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 15 tablets",
     "Like2": "Mankind Pharma Ltd",
-    "Keywords": "Hydroxyzine (25mg) ADD",
+    "Keywords": "Hydroxyzine (25mg)",
     "quantity": "1" 
   },
   {
@@ -8026,7 +8026,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "tube of 10 gm Cream",
     "Like2": "Hegde and Hegde Pharmaceutical LLP",
-    "Keywords": "Mometasone (0.1% w/w) + Fusidic Acid (2% w/w) ADD",
+    "Keywords": "Mometasone (0.1% w/w) + Fusidic Acid (2% w/w)",
     "quantity": "1" 
   },
   {
@@ -8037,7 +8037,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "tube of 5 gm Cream",
     "Like2": "Torrent Pharmaceuticals Ltd",
-    "Keywords": "Acyclovir (5% w/w) ADD",
+    "Keywords": "Acyclovir (5% w/w)",
     "quantity": "1" 
   },
   {
@@ -8059,7 +8059,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "packet of 15 ml Oral Solution",
     "Like2": "Mankind Pharma Ltd",
-    "Keywords": "Hydroxyzine (6mg) ADD",
+    "Keywords": "Hydroxyzine (6mg)",
     "quantity": "1" 
   },
   {
@@ -8070,7 +8070,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "bottle of 500 ml Infusion",
     "Like2": "Abbott",
-    "Keywords": "Calcium Chloride (0.070gm) + Potassium Chloride (0.038gm) + Sodium Chloride (0.85gm) ADD",
+    "Keywords": "Calcium Chloride (0.070gm) + Potassium Chloride (0.038gm) + Sodium Chloride (0.85gm)",
     "quantity": "1" 
   },
   {
@@ -8081,7 +8081,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 10 tablet dt",
     "Like2": "Hetero Drugs Ltd",
-    "Keywords": "Cefixime (200mg) ADD",
+    "Keywords": "Cefixime (200mg)",
     "quantity": "1" 
   },
   {
@@ -8092,7 +8092,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 10 tablet sr",
     "Like2": "Intas Pharmaceuticals Ltd",
-    "Keywords": "Aceclofenac (200mg) ADD",
+    "Keywords": "Aceclofenac (200mg)",
     "quantity": "1" 
   },
   {
@@ -8114,7 +8114,7 @@ var products=[
     "Prescription": "",
     "Like1": "tube of 30 gm Cream",
     "Like2": "Hegde and Hegde Pharmaceutical LLP",
-    "Keywords": "Permethrin (5% w/w) ADD",
+    "Keywords": "Permethrin (5% w/w)",
     "quantity": "1" 
   },
   {
@@ -8125,7 +8125,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "tube of 10 gm Cream",
     "Like2": "Hegde and Hegde Pharmaceutical LLP",
-    "Keywords": "Mometasone (0.1% w/w) + Clotrimazole (1% w/w) ADD",
+    "Keywords": "Mometasone (0.1% w/w) + Clotrimazole (1% w/w)",
     "quantity": "1" 
   },
   {
@@ -8136,7 +8136,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "bottle of 100 ml Expectorant",
     "Like2": "Hegde and Hegde Pharmaceutical LLP",
-    "Keywords": "Chlorpheniramine Maleate (4mg/5ml) + Dextromethorphan Hydrobromide (10mg/5ml) ADD",
+    "Keywords": "Chlorpheniramine Maleate (4mg/5ml) + Dextromethorphan Hydrobromide (10mg/5ml)",
     "quantity": "1" 
   },
   {
@@ -8147,7 +8147,7 @@ var products=[
     "Prescription": "",
     "Like1": "sachet of 5 gm Granules",
     "Like2": "Win-Medicare Pvt Ltd",
-    "Keywords": "L-Ornithine L-Aspartate (3gm) ADD",
+    "Keywords": "L-Ornithine L-Aspartate (3gm)",
     "quantity": "1" 
   },
   {
@@ -8158,7 +8158,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "cartridge of 3 ml Solution for Injection",
     "Like2": "Eli Lilly and Company India Pvt Ltd",
-    "Keywords": "Insulin Lispro (100IU) ADD",
+    "Keywords": "Insulin Lispro (100IU)",
     "quantity": "1" 
   },
   {
@@ -8180,7 +8180,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 10 tablets",
     "Like2": "Intas Pharmaceuticals Ltd",
-    "Keywords": "Aceclofenac (100mg) + Thiocolchicoside (4mg) ADD",
+    "Keywords": "Aceclofenac (100mg) + Thiocolchicoside (4mg)",
     "quantity": "1" 
   },
   {
@@ -8191,7 +8191,7 @@ var products=[
     "Prescription": "",
     "Like1": "packet of 10 ml Ophthalmic Solution",
     "Like2": "Jawa Pharmaceuticals  Pvt Ltd",
-    "Keywords": "Phenyl Mercuric Nitrate (0.001% w/v) + Sodium Chloride (5% w/v) ADD",
+    "Keywords": "Phenyl Mercuric Nitrate (0.001% w/v) + Sodium Chloride (5% w/v)",
     "quantity": "1" 
   },
   {
@@ -8213,7 +8213,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "tube of 20 gm Cream",
     "Like2": "Hegde and Hegde Pharmaceutical LLP",
-    "Keywords": "Hydroquinone (2% w/w) + Mometasone (0.1% w/w) + Tretinoin (0.025% w/w) ADD",
+    "Keywords": "Hydroquinone (2% w/w) + Mometasone (0.1% w/w) + Tretinoin (0.025% w/w)",
     "quantity": "1" 
   },
   {
@@ -8224,7 +8224,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "tube of 30 gm Cream",
     "Like2": "Glenmark Pharmaceuticals Ltd",
-    "Keywords": "Halobetasol (0.05% w/w) ADD",
+    "Keywords": "Halobetasol (0.05% w/w)",
     "quantity": "1" 
   },
   {
@@ -8246,7 +8246,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 15 tablets",
     "Like2": "Zydus Cadila",
-    "Keywords": "Rabeprazole (20mg) ADD",
+    "Keywords": "Rabeprazole (20mg)",
     "quantity": "1" 
   },
   {
@@ -8268,7 +8268,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "vial of 1 ml Injection",
     "Like2": "Bharat Serums & Vaccines Ltd",
-    "Keywords": "Human Normal Immunoglobulin (12mg) + Histamine Dihydrochloride (0.15mcg) + Sodium Thiosulphate (32mg) ADD",
+    "Keywords": "Human Normal Immunoglobulin (12mg) + Histamine Dihydrochloride (0.15mcg) + Sodium Thiosulphate (32mg)",
     "quantity": "1" 
   },
   {
@@ -8279,7 +8279,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 10 tablets",
     "Like2": "Ipca Laboratories Ltd",
-    "Keywords": "Hydroxychloroquine (400mg) ADD",
+    "Keywords": "Hydroxychloroquine (400mg)",
     "quantity": "1" 
   },
   {
@@ -8290,7 +8290,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "bottle of 60 ml Solution",
     "Like2": "Glenmark Pharmaceuticals Ltd",
-    "Keywords": "Minoxidil (5% w/v) + Finasteride (0.1% w/v) ADD",
+    "Keywords": "Minoxidil (5% w/v) + Finasteride (0.1% w/v)",
     "quantity": "1" 
   },
   {
@@ -8301,7 +8301,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "cartridge of 3 ml Injection",
     "Like2": "Eli Lilly and Company India Pvt Ltd",
-    "Keywords": "Insulin Lispro (25%) + Insulin Lispro Protamine (75%) ADD",
+    "Keywords": "Insulin Lispro (25%) + Insulin Lispro Protamine (75%)",
     "quantity": "1" 
   },
   {
@@ -8312,7 +8312,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "tube of 20 gm Gel",
     "Like2": "A. Menarini India Pvt Ltd",
-    "Keywords": "Allium Cepa (0.1gm) + Allantoin (0.01gm) + Heparin (50IU) ADD",
+    "Keywords": "Allium Cepa (0.1gm) + Allantoin (0.01gm) + Heparin (50IU)",
     "quantity": "1" 
   },
   {
@@ -8334,7 +8334,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 10 tablets",
     "Like2": "Mankind Pharma Ltd",
-    "Keywords": "Montelukast (10mg) + Fexofenadine (120mg) ADD",
+    "Keywords": "Montelukast (10mg) + Fexofenadine (120mg)",
     "quantity": "1" 
   },
   {
@@ -8345,7 +8345,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 10 tablet dt",
     "Like2": "Mankind Pharma Ltd",
-    "Keywords": "Acyclovir (400mg) ADD",
+    "Keywords": "Acyclovir (400mg)",
     "quantity": "1" 
   },
   {
@@ -8356,7 +8356,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 10 tablets",
     "Like2": "Zydus Cadila",
-    "Keywords": "Hyoscine butylbromide (10mg) + Mefenamic Acid (250mg) ADD",
+    "Keywords": "Hyoscine butylbromide (10mg) + Mefenamic Acid (250mg)",
     "quantity": "1" 
   },
   {
@@ -8367,7 +8367,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "bottle of 60 ml Oral Suspension",
     "Like2": "Aristo Pharmaceuticals Pvt Ltd",
-    "Keywords": "Paracetamol (125mg) + Pseudoephedrine (15mg) + Chlorpheniramine Maleate (1mg) ADD",
+    "Keywords": "Paracetamol (125mg) + Pseudoephedrine (15mg) + Chlorpheniramine Maleate (1mg)",
     "quantity": "1" 
   },
   {
@@ -8378,7 +8378,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "vial of 1 Injection",
     "Like2": "Shreya Life Sciences Pvt Ltd",
-    "Keywords": "Hyaluronidase (1500IU) ADD",
+    "Keywords": "Hyaluronidase (1500IU)",
     "quantity": "1" 
   },
   {
@@ -8389,7 +8389,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 10 tablets",
     "Like2": "Samarth Life Sciences Pvt Ltd",
-    "Keywords": "Hydrocortisone (10mg) ADD",
+    "Keywords": "Hydrocortisone (10mg)",
     "quantity": "1" 
   },
   {
@@ -8400,7 +8400,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 10 tablets",
     "Like2": "Hegde and Hegde Pharmaceutical LLP",
-    "Keywords": "Levocetirizine (5mg) ADD",
+    "Keywords": "Levocetirizine (5mg)",
     "quantity": "1" 
   },
   {
@@ -8411,7 +8411,7 @@ var products=[
     "Prescription": "",
     "Like1": "bottle of 10 ml Eye Drop",
     "Like2": "Vibgyor Vision Care",
-    "Keywords": "Sodium Hyaluronate (0.1% w/v) ADD",
+    "Keywords": "Sodium Hyaluronate (0.1% w/v)",
     "quantity": "1" 
   },
   {
@@ -8422,7 +8422,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 10 tablets",
     "Like2": "Micro Labs Ltd",
-    "Keywords": "Cetirizine (10mg) + Phenylephrine (10mg) ADD",
+    "Keywords": "Cetirizine (10mg) + Phenylephrine (10mg)",
     "quantity": "1" 
   },
   {
@@ -8433,7 +8433,7 @@ var products=[
     "Prescription": "",
     "Like1": "tube of 14 gm Cream",
     "Like2": "Oaknet Healthcare Pvt Ltd",
-    "Keywords": "Mucopolysaccharide Polysulfate (250IU/gm) ADD",
+    "Keywords": "Mucopolysaccharide Polysulfate (250IU/gm)",
     "quantity": "1" 
   },
   {
@@ -8455,7 +8455,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "tube of 10 gm Cream",
     "Like2": "Hegde and Hegde Pharmaceutical LLP",
-    "Keywords": "Clotrimazole (1% w/w) + Fusidic Acid (2% w/w) + Mometasone (0.1% w/w) ADD",
+    "Keywords": "Clotrimazole (1% w/w) + Fusidic Acid (2% w/w) + Mometasone (0.1% w/w)",
     "quantity": "1" 
   },
   {
@@ -8466,7 +8466,7 @@ var products=[
     "Prescription": "",
     "Like1": "bottle of 200 ml Mouth Wash",
     "Like2": "Sandika Pharmaceuticals Pvt Ltd",
-    "Keywords": "Hydrogen Peroxide (1.5% w/v) ADD",
+    "Keywords": "Hydrogen Peroxide (1.5% w/v)",
     "quantity": "1" 
   },
   {
@@ -8477,7 +8477,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "tube of 30 gm Rectal Cream",
     "Like2": "Macleods Pharmaceuticals Pvt Ltd",
-    "Keywords": "Lidocaine (3% w/w) + Calcium Dobesilate (0.25% w/w) + Hydrocortisone (0.25% w/w) + Phenylephrine (0.1% w/w) + Zinc Oxide (5% w/w) + Troxerutin (2% w/w) ADD",
+    "Keywords": "Lidocaine (3% w/w) + Calcium Dobesilate (0.25% w/w) + Hydrocortisone (0.25% w/w) + Phenylephrine (0.1% w/w) + Zinc Oxide (5% w/w) + Troxerutin (2% w/w)",
     "quantity": "1" 
   },
   {
@@ -8488,7 +8488,7 @@ var products=[
     "Prescription": "",
     "Like1": "bottle of 10 ml Eye Drop",
     "Like2": "IRx pharmaceuticals Pvt Ltd.",
-    "Keywords": "Sodium Hyaluronate (0.1% w/v) ADD",
+    "Keywords": "Sodium Hyaluronate (0.1% w/v)",
     "quantity": "1" 
   },
   {
@@ -8499,7 +8499,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 15 tablets",
     "Like2": "Mankind Pharma Ltd",
-    "Keywords": "Hydroxyzine (10mg) ADD",
+    "Keywords": "Hydroxyzine (10mg)",
     "quantity": "1" 
   },
   {
@@ -8510,7 +8510,7 @@ var products=[
     "Prescription": "",
     "Like1": "bottle of 5 ml Eye Drop",
     "Like2": "Santen India Pvt Ltd",
-    "Keywords": "Sodium Hyaluronate (0.1% w/v) ADD",
+    "Keywords": "Sodium Hyaluronate (0.1% w/v)",
     "quantity": "1" 
   },
   {
@@ -8521,7 +8521,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 10 tablets",
     "Like2": "Intas Pharmaceuticals Ltd",
-    "Keywords": "Thiocolchicoside (4mg) + Aceclofenac (100mg) + Paracetamol (325mg) ADD",
+    "Keywords": "Thiocolchicoside (4mg) + Aceclofenac (100mg) + Paracetamol (325mg)",
     "quantity": "1" 
   },
   {
@@ -8532,7 +8532,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 10 tablets",
     "Like2": "Hetero Drugs Ltd",
-    "Keywords": "Cefixime (200mg) + Ofloxacin (200mg) ADD",
+    "Keywords": "Cefixime (200mg) + Ofloxacin (200mg)",
     "quantity": "1" 
   },
   {
@@ -8543,7 +8543,7 @@ var products=[
     "Prescription": "",
     "Like1": "bottle of 10 ml Eye Drop",
     "Like2": "Ocuris Pharmaceuticals Pvt Ltd",
-    "Keywords": "Sodium Hyaluronate (1.8mg/ml) ADD",
+    "Keywords": "Sodium Hyaluronate (1.8mg/ml)",
     "quantity": "1" 
   },
   {
@@ -8576,7 +8576,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 10 tablets",
     "Like2": "Mankind Pharma Ltd",
-    "Keywords": "Ursodeoxycholic Acid (150mg) ADD",
+    "Keywords": "Ursodeoxycholic Acid (150mg)",
     "quantity": "1" 
   },
   {
@@ -8587,7 +8587,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "bottle of 60 ml Oral Suspension",
     "Like2": "Cipla Ltd",
-    "Keywords": "Ibuprofen (100mg) + Paracetamol (162.5mg) ADD",
+    "Keywords": "Ibuprofen (100mg) + Paracetamol (162.5mg)",
     "quantity": "1" 
   },
   {
@@ -8598,7 +8598,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 10 tablets",
     "Like2": "Intas Pharmaceuticals Ltd",
-    "Keywords": "Chlorzoxazone (250mg) + Diclofenac (50mg) + Paracetamol (325mg) ADD",
+    "Keywords": "Chlorzoxazone (250mg) + Diclofenac (50mg) + Paracetamol (325mg)",
     "quantity": "1" 
   },
   {
@@ -8609,7 +8609,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 15 tablets",
     "Like2": "Sun Pharmaceutical Industries Ltd",
-    "Keywords": "Sitagliptin (50mg) + Metformin (500mg) ADD",
+    "Keywords": "Sitagliptin (50mg) + Metformin (500mg)",
     "quantity": "1" 
   },
   {
@@ -8620,7 +8620,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 15 tablets",
     "Like2": "Lupin Ltd",
-    "Keywords": "Ivabradine (5mg) ADD",
+    "Keywords": "Ivabradine (5mg)",
     "quantity": "1" 
   },
   {
@@ -8631,7 +8631,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 15 tablets",
     "Like2": "Abbott",
-    "Keywords": "Propranolol (10mg) ADD",
+    "Keywords": "Propranolol (10mg)",
     "quantity": "1" 
   },
   {
@@ -8642,7 +8642,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 10 capsule sr",
     "Like2": "Jagsonpal Pharmaceuticals Ltd",
-    "Keywords": "Indomethacin (75mg) ADD",
+    "Keywords": "Indomethacin (75mg)",
     "quantity": "1" 
   },
   {
@@ -8697,7 +8697,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 10 capsules",
     "Like2": "Cipla Ltd",
-    "Keywords": "Itraconazole (200mg) ADD",
+    "Keywords": "Itraconazole (200mg)",
     "quantity": "1" 
   },
   {
@@ -8708,7 +8708,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 7 tablets",
     "Like2": "Sun Pharmaceutical Industries Ltd",
-    "Keywords": "Sitagliptin (100mg) ADD",
+    "Keywords": "Sitagliptin (100mg)",
     "quantity": "1" 
   },
   {
@@ -8719,7 +8719,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 8 capsules",
     "Like2": "Macleods Pharmaceuticals Pvt Ltd",
-    "Keywords": "Itraconazole (200mg) ADD",
+    "Keywords": "Itraconazole (200mg)",
     "quantity": "1" 
   },
   {
@@ -8730,7 +8730,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 15 tablets",
     "Like2": "Sun Pharmaceutical Industries Ltd",
-    "Keywords": "Dapagliflozin (10mg) + Sitagliptin (100mg) ADD",
+    "Keywords": "Dapagliflozin (10mg) + Sitagliptin (100mg)",
     "quantity": "1" 
   },
   {
@@ -8741,7 +8741,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 10 tablets",
     "Like2": "Zydus Cadila",
-    "Keywords": "Ibuprofen (400mg) + Paracetamol (325mg) + Caffeine (25mg) ADD",
+    "Keywords": "Ibuprofen (400mg) + Paracetamol (325mg) + Caffeine (25mg)",
     "quantity": "1" 
   },
   {
@@ -8763,7 +8763,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 10 tablet er",
     "Like2": "Sun Pharmaceutical Industries Ltd",
-    "Keywords": "Sitagliptin (100mg) + Metformin (1000mg) ADD",
+    "Keywords": "Sitagliptin (100mg) + Metformin (1000mg)",
     "quantity": "1" 
   },
   {
@@ -8774,7 +8774,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 30 Tablet pr",
     "Like2": "AstraZeneca",
-    "Keywords": "Isosorbide Mononitrate (30mg) ADD",
+    "Keywords": "Isosorbide Mononitrate (30mg)",
     "quantity": "1" 
   },
   {
@@ -8796,7 +8796,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 15 tablets",
     "Like2": "Sun Pharmaceutical Industries Ltd",
-    "Keywords": "Sitagliptin (50mg) + Metformin (1000mg) ADD",
+    "Keywords": "Sitagliptin (50mg) + Metformin (1000mg)",
     "quantity": "1" 
   },
   {
@@ -8807,7 +8807,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 15 tablets",
     "Like2": "Abbott",
-    "Keywords": "Propranolol (40mg) ADD",
+    "Keywords": "Propranolol (40mg)",
     "quantity": "1" 
   },
   {
@@ -8818,7 +8818,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 15 tablet sr",
     "Like2": "Abbott",
-    "Keywords": "Propranolol (20mg) ADD",
+    "Keywords": "Propranolol (20mg)",
     "quantity": "1" 
   },
   {
@@ -8840,7 +8840,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "vial of 5 injections",
     "Like2": "Serum Institute Of India Ltd",
-    "Keywords": "Inactivated influenza vaccine (NA) ADD",
+    "Keywords": "Inactivated influenza vaccine (NA)",
     "quantity": "1" 
   },
   {
@@ -8851,7 +8851,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 20 tablets",
     "Like2": "Cipla Ltd",
-    "Keywords": "Ibuprofen (400mg) + Paracetamol (325mg) ADD",
+    "Keywords": "Ibuprofen (400mg) + Paracetamol (325mg)",
     "quantity": "1" 
   },
   {
@@ -8873,7 +8873,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "bottle of 30 ml Shampoo",
     "Like2": "Ajanta Pharma Ltd",
-    "Keywords": "Ivermectin (0.5% w/v) ADD",
+    "Keywords": "Ivermectin (0.5% w/v)",
     "quantity": "1" 
   },
   {
@@ -8884,7 +8884,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 3 tablets",
     "Like2": "Sun Pharmaceutical Industries Ltd",
-    "Keywords": "Ibandronic Acid (150mg) ADD",
+    "Keywords": "Ibandronic Acid (150mg)",
     "quantity": "1" 
   },
   {
@@ -8895,7 +8895,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 7 tablets",
     "Like2": "Sun Pharmaceutical Industries Ltd",
-    "Keywords": "Sitagliptin (50mg) ADD",
+    "Keywords": "Sitagliptin (50mg)",
     "quantity": "1" 
   },
   {
@@ -8906,7 +8906,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 10 tablets",
     "Like2": "Alembic Pharmaceuticals Ltd",
-    "Keywords": "Dydrogesterone (10mg) ADD",
+    "Keywords": "Dydrogesterone (10mg)",
     "quantity": "1" 
   },
   {
@@ -8950,7 +8950,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "bottle of 100 ml Oral Suspension",
     "Like2": "Cipla Ltd",
-    "Keywords": "Ibuprofen (100mg/5ml) ADD",
+    "Keywords": "Ibuprofen (100mg/5ml)",
     "quantity": "1" 
   },
   {
@@ -8961,7 +8961,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 10 Sublingual tablet",
     "Like2": "Ipca Laboratories Ltd",
-    "Keywords": "Isosorbide Dinitrate (5mg) ADD",
+    "Keywords": "Isosorbide Dinitrate (5mg)",
     "quantity": "1" 
   },
   {
@@ -8972,7 +8972,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 10 capsules",
     "Like2": "Jagsonpal Pharmaceuticals Ltd",
-    "Keywords": "Indomethacin (25mg) ADD",
+    "Keywords": "Indomethacin (25mg)",
     "quantity": "1" 
   },
   {
@@ -8983,7 +8983,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 5 respules",
     "Like2": "Cipla Ltd",
-    "Keywords": "Ipratropium (500mcg) ADD",
+    "Keywords": "Ipratropium (500mcg)",
     "quantity": "1" 
   },
   {
@@ -9005,7 +9005,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 10 tablets",
     "Like2": "Ipca Laboratories Ltd",
-    "Keywords": "Iguratimod (25mg) ADD",
+    "Keywords": "Iguratimod (25mg)",
     "quantity": "1" 
   },
   {
@@ -9016,7 +9016,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 15 tablet sr",
     "Like2": "Abbott",
-    "Keywords": "Propranolol (40mg) ADD",
+    "Keywords": "Propranolol (40mg)",
     "quantity": "1" 
   },
   {
@@ -9038,7 +9038,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 10 tablets",
     "Like2": "Sun Pharmaceutical Industries Ltd",
-    "Keywords": "Methylprednisolone (4mg) ADD",
+    "Keywords": "Methylprednisolone (4mg)",
     "quantity": "1" 
   },
   {
@@ -9049,7 +9049,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 10 tablets",
     "Like2": "Johnson & Johnson Ltd",
-    "Keywords": "Canagliflozin (100mg) ADD",
+    "Keywords": "Canagliflozin (100mg)",
     "quantity": "1" 
   },
   {
@@ -9060,7 +9060,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 10 tablets",
     "Like2": "Sun Pharmaceutical Industries Ltd",
-    "Keywords": "Ivabradine (5mg) ADD",
+    "Keywords": "Ivabradine (5mg)",
     "quantity": "1" 
   },
   {
@@ -9071,7 +9071,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 21 tablets",
     "Like2": "Aristo Pharmaceuticals Pvt Ltd",
-    "Keywords": "Ethinyl Estradiol (0.02mg) + Desogestrel (0.15mg) ADD",
+    "Keywords": "Ethinyl Estradiol (0.02mg) + Desogestrel (0.15mg)",
     "quantity": "1" 
   },
   {
@@ -9082,7 +9082,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "bottle of 5 ml Eye Drop",
     "Like2": "FDC Ltd",
-    "Keywords": "Timolol (0.5% w/v) ADD",
+    "Keywords": "Timolol (0.5% w/v)",
     "quantity": "1" 
   },
   {
@@ -9104,7 +9104,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 15 tablets",
     "Like2": "Lupin Ltd",
-    "Keywords": "Isosorbide Dinitrate (20mg) + Hydralazine (37.5mg) ADD",
+    "Keywords": "Isosorbide Dinitrate (20mg) + Hydralazine (37.5mg)",
     "quantity": "1" 
   },
   {
@@ -9115,7 +9115,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 15 tablets",
     "Like2": "Abbott",
-    "Keywords": "Propranolol (20mg) ADD",
+    "Keywords": "Propranolol (20mg)",
     "quantity": "1" 
   },
   {
@@ -9126,7 +9126,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 10 tablets",
     "Like2": "Cipla Ltd",
-    "Keywords": "Aceclofenac (100mg) + Paracetamol (325mg) + Serratiopeptidase (15mg) ADD",
+    "Keywords": "Aceclofenac (100mg) + Paracetamol (325mg) + Serratiopeptidase (15mg)",
     "quantity": "1" 
   },
   {
@@ -9159,7 +9159,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 10 capsules",
     "Like2": "Macleods Pharmaceuticals Pvt Ltd",
-    "Keywords": "Itraconazole (100mg) ADD",
+    "Keywords": "Itraconazole (100mg)",
     "quantity": "1" 
   },
   {
@@ -9170,7 +9170,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 10 tablets",
     "Like2": "Intas Pharmaceuticals Ltd",
-    "Keywords": "Etoricoxib (90mg) ADD",
+    "Keywords": "Etoricoxib (90mg)",
     "quantity": "1" 
   },
   {
@@ -9181,7 +9181,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 30 tablets",
     "Like2": "Abbott",
-    "Keywords": "Isosorbide Mononitrate (20mg) ADD",
+    "Keywords": "Isosorbide Mononitrate (20mg)",
     "quantity": "1" 
   },
   {
@@ -9192,7 +9192,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "box of 0.5 ml Injection",
     "Like2": "Glaxo SmithKline Pharmaceuticals Ltd",
-    "Keywords": "Diphtheria Toxoid (30IU) + Tetanus Toxoid (40IU) + Pertussis Toxoid (25mcg) + Filamentous Haemagglutinin (25mcg) + Pertactin (8mcg) + Hepatitis B Vaccine (rDNA) (10mcg) + Poliomyelitis Virus Type 1 (40D Antigen Unit) + Poliomyelitis Virus Type 2 (8D Antigen Unit) + Poliomyelitis virus type 3 (32D Antigen Unit) + Haemophilus Influenzae Type B Capsular Polysaccharide (10mcg) ADD",
+    "Keywords": "Diphtheria Toxoid (30IU) + Tetanus Toxoid (40IU) + Pertussis Toxoid (25mcg) + Filamentous Haemagglutinin (25mcg) + Pertactin (8mcg) + Hepatitis B Vaccine (rDNA) (10mcg) + Poliomyelitis Virus Type 1 (40D Antigen Unit) + Poliomyelitis Virus Type 2 (8D Antigen Unit) + Poliomyelitis virus type 3 (32D Antigen Unit) + Haemophilus Influenzae Type B Capsular Polysaccharide (10mcg)",
     "quantity": "1" 
   },
   {
@@ -9203,7 +9203,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 10 tablets",
     "Like2": "Sun Pharmaceutical Industries Ltd",
-    "Keywords": "Methylprednisolone (8mg) ADD",
+    "Keywords": "Methylprednisolone (8mg)",
     "quantity": "1" 
   },
   {
@@ -9214,7 +9214,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 10 tablets",
     "Like2": "Torrent Pharmaceuticals Ltd",
-    "Keywords": "Imeglimin (500mg) ADD",
+    "Keywords": "Imeglimin (500mg)",
     "quantity": "1" 
   },
   {
@@ -9225,7 +9225,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 10 tablets",
     "Like2": "Intas Pharmaceuticals Ltd",
-    "Keywords": "Metformin (500mg) + Vildagliptin (50mg) ADD",
+    "Keywords": "Metformin (500mg) + Vildagliptin (50mg)",
     "quantity": "1" 
   },
   {
@@ -9236,7 +9236,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 15 soft gelatin capsules",
     "Like2": "Cipla Ltd",
-    "Keywords": "Isotretinoin (20mg) ADD",
+    "Keywords": "Isotretinoin (20mg)",
     "quantity": "1" 
   },
   {
@@ -9247,7 +9247,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 15 tablet dt",
     "Like2": "Cipla Ltd",
-    "Keywords": "Lansoprazole (15mg) ADD",
+    "Keywords": "Lansoprazole (15mg)",
     "quantity": "1" 
   },
   {
@@ -9258,7 +9258,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 15 tablets",
     "Like2": "MSD Pharmaceuticals Pvt Ltd",
-    "Keywords": "Sitagliptin (50mg) + Metformin (500mg) ADD",
+    "Keywords": "Sitagliptin (50mg) + Metformin (500mg)",
     "quantity": "1" 
   },
   {
@@ -9269,7 +9269,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 10 tablets",
     "Like2": "Boehringer Ingelheim",
-    "Keywords": "Empagliflozin (25mg) ADD",
+    "Keywords": "Empagliflozin (25mg)",
     "quantity": "1" 
   },
   {
@@ -9280,7 +9280,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 15 tablets",
     "Like2": "MSD Pharmaceuticals Pvt Ltd",
-    "Keywords": "Sitagliptin (50mg) + Metformin (1000mg) ADD",
+    "Keywords": "Sitagliptin (50mg) + Metformin (1000mg)",
     "quantity": "1" 
   },
   {
@@ -9291,7 +9291,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 7 tablets",
     "Like2": "MSD Pharmaceuticals Pvt Ltd",
-    "Keywords": "Sitagliptin (100mg) ADD",
+    "Keywords": "Sitagliptin (100mg)",
     "quantity": "1" 
   },
   {
@@ -9302,7 +9302,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 15 tablets",
     "Like2": "USV Ltd",
-    "Keywords": "Metformin (500mg) + Vildagliptin (50mg) ADD",
+    "Keywords": "Metformin (500mg) + Vildagliptin (50mg)",
     "quantity": "1" 
   },
   {
@@ -9313,7 +9313,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 10 tablets",
     "Like2": "Boehringer Ingelheim",
-    "Keywords": "Empagliflozin (10mg) ADD",
+    "Keywords": "Empagliflozin (10mg)",
     "quantity": "1" 
   },
   {
@@ -9324,7 +9324,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 15 tablets",
     "Like2": "USV Ltd",
-    "Keywords": "Vildagliptin (50mg) ADD",
+    "Keywords": "Vildagliptin (50mg)",
     "quantity": "1" 
   },
   {
@@ -9335,7 +9335,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 10 tablet dt",
     "Like2": "Cipla Ltd",
-    "Keywords": "Lansoprazole (30mg) ADD",
+    "Keywords": "Lansoprazole (30mg)",
     "quantity": "1" 
   },
   {
@@ -9357,7 +9357,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 7 tablets",
     "Like2": "MSD Pharmaceuticals Pvt Ltd",
-    "Keywords": "Sitagliptin (50mg) ADD",
+    "Keywords": "Sitagliptin (50mg)",
     "quantity": "1" 
   },
   {
@@ -9368,7 +9368,7 @@ var products=[
     "Prescription": "",
     "Like1": "bottle of 10 ml Eye Drop",
     "Like2": "Sunways India Pvt Ltd",
-    "Keywords": "Carboxymethylcellulose (0.5% w/v) ADD",
+    "Keywords": "Carboxymethylcellulose (0.5% w/v)",
     "quantity": "1" 
   },
   {
@@ -9379,7 +9379,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 10 tablet sr",
     "Like2": "USV Ltd",
-    "Keywords": "Dapagliflozin (10mg) + Vildagliptin (100mg) ADD",
+    "Keywords": "Dapagliflozin (10mg) + Vildagliptin (100mg)",
     "quantity": "1" 
   },
   {
@@ -9390,7 +9390,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 15 tablets",
     "Like2": "Meyer Organics Pvt Ltd",
-    "Keywords": "Glucosamine (750mg) + Diacerein (50mg) + Methyl Sulfonyl Methane (250mg) ADD",
+    "Keywords": "Glucosamine (750mg) + Diacerein (50mg) + Methyl Sulfonyl Methane (250mg)",
     "quantity": "1" 
   },
   {
@@ -9401,7 +9401,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 10 tablets",
     "Like2": "Boehringer Ingelheim",
-    "Keywords": "Empagliflozin (12.5mg) + Metformin (500mg) ADD",
+    "Keywords": "Empagliflozin (12.5mg) + Metformin (500mg)",
     "quantity": "1" 
   },
   {
@@ -9412,7 +9412,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 14 tablet sr",
     "Like2": "MSD Pharmaceuticals Pvt Ltd",
-    "Keywords": "Sitagliptin (100mg) + Metformin (1000mg) ADD",
+    "Keywords": "Sitagliptin (100mg) + Metformin (1000mg)",
     "quantity": "1" 
   },
   {
@@ -9434,7 +9434,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 15 tablets",
     "Like2": "Alkem Laboratories Ltd",
-    "Keywords": "Rosuvastatin (10mg) ADD",
+    "Keywords": "Rosuvastatin (10mg)",
     "quantity": "1" 
   },
   {
@@ -9467,7 +9467,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 15 tablets",
     "Like2": "Mankind Pharma Ltd",
-    "Keywords": "Dapagliflozin (10mg) ADD",
+    "Keywords": "Dapagliflozin (10mg)",
     "quantity": "1" 
   },
   {
@@ -9489,7 +9489,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 15 tablets",
     "Like2": "USV Ltd",
-    "Keywords": "Metformin (1000mg) + Vildagliptin (50mg) ADD",
+    "Keywords": "Metformin (1000mg) + Vildagliptin (50mg)",
     "quantity": "1" 
   },
   {
@@ -9500,7 +9500,7 @@ var products=[
     "Prescription": "",
     "Like1": "packet of 5 suppositories",
     "Like2": "Neon Laboratories Ltd",
-    "Keywords": "Diclofenac (100mg) ADD",
+    "Keywords": "Diclofenac (100mg)",
     "quantity": "1" 
   },
   {
@@ -9511,7 +9511,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "packet of 5 ampules",
     "Like2": "Oaknet Healthcare Pvt Ltd",
-    "Keywords": "Iron (50mg) + Cyanocobalamin (50mcg) + Folic Acid (500mcg) ADD",
+    "Keywords": "Iron (50mg) + Cyanocobalamin (50mcg) + Folic Acid (500mcg)",
     "quantity": "1" 
   },
   {
@@ -9522,7 +9522,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "prefilled syringe of 0.4 ml Injection",
     "Like2": "La Renon Healthcare Pvt Ltd",
-    "Keywords": "Darbepoetin alfa (40mcg) ADD",
+    "Keywords": "Darbepoetin alfa (40mcg)",
     "quantity": "1" 
   },
   {
@@ -9533,7 +9533,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 10 tablet er",
     "Like2": "Mankind Pharma Ltd",
-    "Keywords": "Dapagliflozin (10mg) + Metformin (500mg) ADD",
+    "Keywords": "Dapagliflozin (10mg) + Metformin (500mg)",
     "quantity": "1" 
   },
   {
@@ -9544,7 +9544,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "bottle of 60 tablets",
     "Like2": "Hetero Drugs Ltd",
-    "Keywords": "Tofacitinib (5mg) ADD",
+    "Keywords": "Tofacitinib (5mg)",
     "quantity": "1" 
   },
   {
@@ -9566,7 +9566,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 10 tablets",
     "Like2": "Boehringer Ingelheim",
-    "Keywords": "Empagliflozin (12.5mg) + Metformin (1000mg) ADD",
+    "Keywords": "Empagliflozin (12.5mg) + Metformin (1000mg)",
     "quantity": "1" 
   },
   {
@@ -9577,7 +9577,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 10 capsules",
     "Like2": "Alkem Laboratories Ltd",
-    "Keywords": "Rosuvastatin (10mg) + Aspirin (75mg) ADD",
+    "Keywords": "Rosuvastatin (10mg) + Aspirin (75mg)",
     "quantity": "1" 
   },
   {
@@ -9588,7 +9588,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 15 tablet sr",
     "Like2": "USV Ltd",
-    "Keywords": "Vildagliptin (100mg) ADD",
+    "Keywords": "Vildagliptin (100mg)",
     "quantity": "1" 
   },
   {
@@ -9599,7 +9599,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "prefilled syringe of 0.5 ml Injection",
     "Like2": "Bharat Biotech",
-    "Keywords": "Inactivated Japanese Encephalitis virus protein (5mcg) ADD",
+    "Keywords": "Inactivated Japanese Encephalitis virus protein (5mcg)",
     "quantity": "1" 
   },
   {
@@ -9610,7 +9610,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 10 tablets",
     "Like2": "Alkem Laboratories Ltd",
-    "Keywords": "Fenofibrate (160mg) + Rosuvastatin (10mg) ADD",
+    "Keywords": "Fenofibrate (160mg) + Rosuvastatin (10mg)",
     "quantity": "1" 
   },
   {
@@ -9621,7 +9621,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "vial of 1 ml Injection",
     "Like2": "Neon Laboratories Ltd",
-    "Keywords": "Diclofenac (75mg) ADD",
+    "Keywords": "Diclofenac (75mg)",
     "quantity": "1" 
   },
   {
@@ -9632,7 +9632,7 @@ var products=[
     "Prescription": "",
     "Like1": "strip of 15 tablets",
     "Like2": "Meyer Organics Pvt Ltd",
-    "Keywords": "Glucosamine (1500mg) ADD",
+    "Keywords": "Glucosamine (1500mg)",
     "quantity": "1" 
   },
   {
@@ -9654,7 +9654,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 10 tablets",
     "Like2": "J B Chemicals and Pharmaceuticals Ltd",
-    "Keywords": "Torasemide (10mg) ADD",
+    "Keywords": "Torasemide (10mg)",
     "quantity": "1" 
   },
   {
@@ -9676,7 +9676,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "vial of 5 ml Solution for Injection",
     "Like2": "Lupin Ltd",
-    "Keywords": "Iron Isomaltoside (100mg/ml) ADD",
+    "Keywords": "Iron Isomaltoside (100mg/ml)",
     "quantity": "1" 
   },
   {
@@ -9687,7 +9687,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 10 tablets",
     "Like2": "Natco Pharma Ltd",
-    "Keywords": "Tofacitinib (5mg) ADD",
+    "Keywords": "Tofacitinib (5mg)",
     "quantity": "1" 
   },
   {
@@ -9698,7 +9698,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 15 tablet er",
     "Like2": "Mankind Pharma Ltd",
-    "Keywords": "Dapagliflozin (10mg) + Metformin (500mg) ADD",
+    "Keywords": "Dapagliflozin (10mg) + Metformin (500mg)",
     "quantity": "1" 
   },
   {
@@ -9709,7 +9709,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 10 capsules",
     "Like2": "Alkem Laboratories Ltd",
-    "Keywords": "Rosuvastatin (10mg) + Clopidogrel (75mg) ADD",
+    "Keywords": "Rosuvastatin (10mg) + Clopidogrel (75mg)",
     "quantity": "1" 
   },
   {
@@ -9720,7 +9720,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 10 tablets",
     "Like2": "J B Chemicals and Pharmaceuticals Ltd",
-    "Keywords": "Spironolactone (50mg) + Torasemide (10mg) ADD",
+    "Keywords": "Spironolactone (50mg) + Torasemide (10mg)",
     "quantity": "1" 
   },
   {
@@ -9742,7 +9742,7 @@ var products=[
     "Prescription": "",
     "Like1": "bottle of 100 ml Oral Solution",
     "Like2": "Lincoln Pharmaceuticals Ltd",
-    "Keywords": "Zinc Gluconate (20mg) ADD",
+    "Keywords": "Zinc Gluconate (20mg)",
     "quantity": "1" 
   },
   {
@@ -9753,7 +9753,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 10 capsules",
     "Like2": "Alkem Laboratories Ltd",
-    "Keywords": "Aspirin (75mg) + Rosuvastatin (10mg) + Clopidogrel (75mg) ADD",
+    "Keywords": "Aspirin (75mg) + Rosuvastatin (10mg) + Clopidogrel (75mg)",
     "quantity": "1" 
   },
   {
@@ -9764,7 +9764,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 21 tablets",
     "Like2": "Zydus Cadila",
-    "Keywords": "Ethinyl Estradiol (0.02mg) + Desogestrel (0.15mg) ADD",
+    "Keywords": "Ethinyl Estradiol (0.02mg) + Desogestrel (0.15mg)",
     "quantity": "1" 
   },
   {
@@ -9786,7 +9786,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 10 capsules",
     "Like2": "Alkem Laboratories Ltd",
-    "Keywords": "Aspirin (75mg) + Rosuvastatin (20mg) + Clopidogrel (75mg) ADD",
+    "Keywords": "Aspirin (75mg) + Rosuvastatin (20mg) + Clopidogrel (75mg)",
     "quantity": "1" 
   },
   {
@@ -9808,7 +9808,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 14 tablets",
     "Like2": "Novartis India Ltd",
-    "Keywords": "Ruxolitinib (5mg) ADD",
+    "Keywords": "Ruxolitinib (5mg)",
     "quantity": "1" 
   },
   {
@@ -9819,7 +9819,7 @@ var products=[
     "Prescription": "",
     "Like1": "packet of 10 ml Eye Drop",
     "Like2": "Sunways India Pvt Ltd",
-    "Keywords": "Carboxymethylcellulose (1% w/v) ADD",
+    "Keywords": "Carboxymethylcellulose (1% w/v)",
     "quantity": "1" 
   },
   {
@@ -9830,7 +9830,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 10 tablets",
     "Like2": "Boehringer Ingelheim",
-    "Keywords": "Empagliflozin (5mg) + Metformin (500mg) ADD",
+    "Keywords": "Empagliflozin (5mg) + Metformin (500mg)",
     "quantity": "1" 
   },
   {
@@ -9852,7 +9852,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 10 tablet dt",
     "Like2": "Alkem Laboratories Ltd",
-    "Keywords": "Amisulpride (100mg) ADD",
+    "Keywords": "Amisulpride (100mg)",
     "quantity": "1" 
   },
   {
@@ -9863,7 +9863,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 15 tablets",
     "Like2": "Jubilant Life Sciences",
-    "Keywords": "Fenofibrate (160mg) + Rosuvastatin (10mg) ADD",
+    "Keywords": "Fenofibrate (160mg) + Rosuvastatin (10mg)",
     "quantity": "1" 
   },
   {
@@ -9874,7 +9874,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 15 tablets",
     "Like2": "Alkem Laboratories Ltd",
-    "Keywords": "Rosuvastatin (20mg) ADD",
+    "Keywords": "Rosuvastatin (20mg)",
     "quantity": "1" 
   },
   {
@@ -9885,7 +9885,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "vial of 1 ml Injection",
     "Like2": "Oaknet Healthcare Pvt Ltd",
-    "Keywords": "Iron (50mg) ADD",
+    "Keywords": "Iron (50mg)",
     "quantity": "1" 
   },
   {
@@ -9896,7 +9896,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 15 tablets",
     "Like2": "Alkem Laboratories Ltd",
-    "Keywords": "Rosuvastatin (5mg) ADD",
+    "Keywords": "Rosuvastatin (5mg)",
     "quantity": "1" 
   },
   {
@@ -9918,7 +9918,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "vial of 1 ml Injection",
     "Like2": "Abbott",
-    "Keywords": "Triamcinolone (40mg/ml) ADD",
+    "Keywords": "Triamcinolone (40mg/ml)",
     "quantity": "1" 
   },
   {
@@ -9940,7 +9940,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 21 tablets",
     "Like2": "Sun Pharmaceutical Industries Ltd",
-    "Keywords": "Cyproterone (2mg) + Ethinyl Estradiol (0.035mg) ADD",
+    "Keywords": "Cyproterone (2mg) + Ethinyl Estradiol (0.035mg)",
     "quantity": "1" 
   },
   {
@@ -9962,7 +9962,7 @@ var products=[
     "Prescription": "",
     "Like1": "bottle of 75 ml Shampoo",
     "Like2": "Ipca Laboratories Ltd",
-    "Keywords": "Ketoconazole (2% w/v) ADD",
+    "Keywords": "Ketoconazole (2% w/v)",
     "quantity": "1" 
   },
   {
@@ -9973,7 +9973,7 @@ var products=[
     "Prescription": "",
     "Like1": "bottle of 110 ml Shampoo",
     "Like2": "Torque Pharmaceuticals Pvt Ltd",
-    "Keywords": "Ketoconazole (2% w/v) ADD",
+    "Keywords": "Ketoconazole (2% w/v)",
     "quantity": "1" 
   },
   {
@@ -9984,7 +9984,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "packet of 15 gm Powder",
     "Like2": "Zydus Cadila",
-    "Keywords": "Calcium Polystyrene Sulphonate (15gm) ADD",
+    "Keywords": "Calcium Polystyrene Sulphonate (15gm)",
     "quantity": "1" 
   },
   {
@@ -9995,7 +9995,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "bottle of 100 ml Syrup",
     "Like2": "Med Manor Organics Pvt Ltd",
-    "Keywords": "Ambroxol (15mg/5ml) + Levosalbutamol (0.5mg/5ml) + Guaifenesin (50mg/5ml) ADD",
+    "Keywords": "Ambroxol (15mg/5ml) + Levosalbutamol (0.5mg/5ml) + Guaifenesin (50mg/5ml)",
     "quantity": "1" 
   },
   {
@@ -10006,7 +10006,7 @@ var products=[
     "Prescription": "",
     "Like1": "packet of 50 gm Soap",
     "Like2": "Med Manor Organics Pvt Ltd",
-    "Keywords": "Ketoconazole (2% w/w) ADD",
+    "Keywords": "Ketoconazole (2% w/w)",
     "quantity": "1" 
   },
   {
@@ -10017,7 +10017,7 @@ var products=[
     "Prescription": "",
     "Like1": "bottle of 60 ml Lotion",
     "Like2": "KLM Laboratories Pvt Ltd",
-    "Keywords": "Ketoconazole (2% w/v) + Salicylic Acid (2% w/v) ADD",
+    "Keywords": "Ketoconazole (2% w/v) + Salicylic Acid (2% w/v)",
     "quantity": "1" 
   },
   {
@@ -10028,7 +10028,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 10 tablets",
     "Like2": "Intas Pharmaceuticals Ltd",
-    "Keywords": "Bromhexine (8mg) + Chlorpheniramine Maleate (2mg) + Guaifenesin (100mg) + Phenylephrine (10mg) + Paracetamol (325mg) ADD",
+    "Keywords": "Bromhexine (8mg) + Chlorpheniramine Maleate (2mg) + Guaifenesin (100mg) + Phenylephrine (10mg) + Paracetamol (325mg)",
     "quantity": "1" 
   },
   {
@@ -10050,7 +10050,7 @@ var products=[
     "Prescription": "",
     "Like1": "bottle of 50 ml Lotion",
     "Like2": "Hegde and Hegde Pharmaceutical LLP",
-    "Keywords": "Ketoconazole (2% w/v) ADD",
+    "Keywords": "Ketoconazole (2% w/v)",
     "quantity": "1" 
   },
   {
@@ -10072,7 +10072,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 10 tablets",
     "Like2": "Sun Pharmaceutical Industries Ltd",
-    "Keywords": "Nicorandil (5mg) ADD",
+    "Keywords": "Nicorandil (5mg)",
     "quantity": "1" 
   },
   {
@@ -10083,7 +10083,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 14 tablets",
     "Like2": "Bayer Zydus Pharma Pvt Ltd",
-    "Keywords": "Finerenone (10mg) ADD",
+    "Keywords": "Finerenone (10mg)",
     "quantity": "1" 
   },
   {
@@ -10094,7 +10094,7 @@ var products=[
     "Prescription": "",
     "Like1": "bottle of 60 ml Lotion",
     "Like2": "Talent India ",
-    "Keywords": "Ketoconazole (2% w/v) + Zinc pyrithione (1% w/v) ADD",
+    "Keywords": "Ketoconazole (2% w/v) + Zinc pyrithione (1% w/v)",
     "quantity": "1" 
   },
   {
@@ -10116,7 +10116,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 4 tablets",
     "Like2": "Hetero Drugs Ltd",
-    "Keywords": "Sildenafil (50mg) + Dapoxetine (30mg) ADD",
+    "Keywords": "Sildenafil (50mg) + Dapoxetine (30mg)",
     "quantity": "1" 
   },
   {
@@ -10127,7 +10127,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "bottle of 20 tablets",
     "Like2": "Macleods Pharmaceuticals Pvt Ltd",
-    "Keywords": "Nicorandil (5mg) ADD",
+    "Keywords": "Nicorandil (5mg)",
     "quantity": "1" 
   },
   {
@@ -10149,7 +10149,7 @@ var products=[
     "Prescription": "",
     "Like1": "bottle of 170 ml Oral Suspension",
     "Like2": "Kedarnath Healthcare pvt Ltd",
-    "Keywords": "Magaldrate (480mg) + Simethicone (20mg) ADD",
+    "Keywords": "Magaldrate (480mg) + Simethicone (20mg)",
     "quantity": "1" 
   },
   {
@@ -10160,7 +10160,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "tube of 10 gm Cream",
     "Like2": "Med Manor Organics Pvt Ltd",
-    "Keywords": "Beclometasone (0.025% w/w) + Ketoconazole (2% w/w) ADD",
+    "Keywords": "Beclometasone (0.025% w/w) + Ketoconazole (2% w/w)",
     "quantity": "1" 
   },
   {
@@ -10171,7 +10171,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 15 tablets",
     "Like2": "Abbott",
-    "Keywords": "Triamcinolone (4mg) ADD",
+    "Keywords": "Triamcinolone (4mg)",
     "quantity": "1" 
   },
   {
@@ -10182,7 +10182,7 @@ var products=[
     "Prescription": "",
     "Like1": "tube of 30 gm Cream",
     "Like2": "Hegde and Hegde Pharmaceutical LLP",
-    "Keywords": "Ketoconazole (2% w/w) ADD",
+    "Keywords": "Ketoconazole (2% w/w)",
     "quantity": "1" 
   },
   {
@@ -10193,7 +10193,7 @@ var products=[
     "Prescription": "",
     "Like1": "bottle of 100 ml Shampoo",
     "Like2": "Cipla Ltd",
-    "Keywords": "Ketoconazole (1% w/v) ADD",
+    "Keywords": "Ketoconazole (1% w/v)",
     "quantity": "1" 
   },
   {
@@ -10204,7 +10204,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 10 tablets",
     "Like2": "Sun Pharmaceutical Industries Ltd",
-    "Keywords": "Ketorolac (10mg) ADD",
+    "Keywords": "Ketorolac (10mg)",
     "quantity": "1" 
   },
   {
@@ -10215,7 +10215,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 10 tablet dt",
     "Like2": "Leeford Healthcare Ltd",
-    "Keywords": "Ketorolac (10mg) ADD",
+    "Keywords": "Ketorolac (10mg)",
     "quantity": "1" 
   },
   {
@@ -10226,7 +10226,7 @@ var products=[
     "Prescription": "",
     "Like1": "bottle of 450 ml Oral Solution",
     "Like2": "Dr Reddy's Laboratories Ltd",
-    "Keywords": "Citric Acid (334mg/5ml) + Potassium Citrate (1100mg/5ml) ADD",
+    "Keywords": "Citric Acid (334mg/5ml) + Potassium Citrate (1100mg/5ml)",
     "quantity": "1" 
   },
   {
@@ -10237,7 +10237,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "packet of 100 tablets",
     "Like2": "Fresenius Kabi India Pvt Ltd",
-    "Keywords": "Alpha Ketoanalogue (NA) ADD",
+    "Keywords": "Alpha Ketoanalogue (NA)",
     "quantity": "1" 
   },
   {
@@ -10248,7 +10248,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "vial of 10 ml Injection",
     "Like2": "Hindustan Antibiotics Ltd",
-    "Keywords": "Potassium Chloride (NA) ADD",
+    "Keywords": "Potassium Chloride (NA)",
     "quantity": "1" 
   },
   {
@@ -10259,7 +10259,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "packet of 15 ml Oral Drops",
     "Like2": "Med Manor Organics Pvt Ltd",
-    "Keywords": "Ambroxol (7.5mg/ml) + Levosalbutamol (0.25mg/ml) + Guaifenesin (12.5mg/ml) ADD",
+    "Keywords": "Ambroxol (7.5mg/ml) + Levosalbutamol (0.25mg/ml) + Guaifenesin (12.5mg/ml)",
     "quantity": "1" 
   },
   {
@@ -10270,7 +10270,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 10 tablets",
     "Like2": "Dr Reddy's Laboratories Ltd",
-    "Keywords": "Aceclofenac (100mg) + Paracetamol (325mg) + Serratiopeptidase (15mg) ADD",
+    "Keywords": "Aceclofenac (100mg) + Paracetamol (325mg) + Serratiopeptidase (15mg)",
     "quantity": "1" 
   },
   {
@@ -10281,7 +10281,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 10 tablets",
     "Like2": "Glenmark Pharmaceuticals Ltd",
-    "Keywords": "Cefpodoxime Proxetil (200mg) + Clavulanic Acid (125mg) ADD",
+    "Keywords": "Cefpodoxime Proxetil (200mg) + Clavulanic Acid (125mg)",
     "quantity": "1" 
   },
   {
@@ -10292,7 +10292,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 10 tablets",
     "Like2": "Lupin Ltd",
-    "Keywords": "Flupirtine (100mg) + Paracetamol (325mg) ADD",
+    "Keywords": "Flupirtine (100mg) + Paracetamol (325mg)",
     "quantity": "1" 
   },
   {
@@ -10314,7 +10314,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 10 tablets",
     "Like2": "Intas Pharmaceuticals Ltd",
-    "Keywords": "Bromhexine (8mg) + Chlorpheniramine Maleate (2mg) + Guaifenesin (100mg) + Phenylephrine (10mg) + Paracetamol (325mg) ADD",
+    "Keywords": "Bromhexine (8mg) + Chlorpheniramine Maleate (2mg) + Guaifenesin (100mg) + Phenylephrine (10mg) + Paracetamol (325mg)",
     "quantity": "1" 
   },
   {
@@ -10325,7 +10325,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "tube of 7.5 gm Oral Paste",
     "Like2": "Abbott",
-    "Keywords": "Triamcinolone Acetonide (0.1% w/w) ADD",
+    "Keywords": "Triamcinolone Acetonide (0.1% w/w)",
     "quantity": "1" 
   },
   {
@@ -10358,7 +10358,7 @@ var products=[
     "Prescription": "",
     "Like1": "packet of 50 gm Soap",
     "Like2": "Mankind Pharma Ltd",
-    "Keywords": "Cetrimide (0.5% w/w) + Ketoconazole (2% w/w) ADD",
+    "Keywords": "Cetrimide (0.5% w/w) + Ketoconazole (2% w/w)",
     "quantity": "1" 
   },
   {
@@ -10369,7 +10369,7 @@ var products=[
     "Prescription": "",
     "Like1": "tube of 30 gm Cream",
     "Like2": "Mankind Pharma Ltd",
-    "Keywords": "Ketoconazole (2% w/w) ADD",
+    "Keywords": "Ketoconazole (2% w/w)",
     "quantity": "1" 
   },
   {
@@ -10380,7 +10380,7 @@ var products=[
     "Prescription": "",
     "Like1": "tube of 15 gm Ointment",
     "Like2": "East India Pharmaceutical Works Ltd",
-    "Keywords": "Benzoic Acid (12% w/w) + Hydrocortisone (0.5% w/w) + Salicylic Acid (6% w/w) ADD",
+    "Keywords": "Benzoic Acid (12% w/w) + Hydrocortisone (0.5% w/w) + Salicylic Acid (6% w/w)",
     "quantity": "1" 
   },
   {
@@ -10391,7 +10391,7 @@ var products=[
     "Prescription": "",
     "Like1": "tube of 50 ml Lotion",
     "Like2": "Mankind Pharma Ltd",
-    "Keywords": "Ketoconazole (2% w/v) + Zinc pyrithione (1% w/v) ADD",
+    "Keywords": "Ketoconazole (2% w/v) + Zinc pyrithione (1% w/v)",
     "quantity": "1" 
   },
   {
@@ -10413,7 +10413,7 @@ var products=[
     "Prescription": "",
     "Like1": "bottle of 75 ml Lotion",
     "Like2": "Hegde and Hegde Pharmaceutical LLP",
-    "Keywords": "Ketoconazole (2% w/v) + Zinc pyrithione (1% w/v) ADD",
+    "Keywords": "Ketoconazole (2% w/v) + Zinc pyrithione (1% w/v)",
     "quantity": "1" 
   },
   {
@@ -10424,7 +10424,7 @@ var products=[
     "Prescription": "",
     "Like1": "tube of 50 gm Cream",
     "Like2": "Hegde and Hegde Pharmaceutical LLP",
-    "Keywords": "Ketoconazole (2% w/w) ADD",
+    "Keywords": "Ketoconazole (2% w/w)",
     "quantity": "1" 
   },
   {
@@ -10446,7 +10446,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "bottle of 5 ml Ophthalmic Solution",
     "Like2": "Sun Pharmaceutical Industries Ltd",
-    "Keywords": "Atropine (0.01% w/v) ADD",
+    "Keywords": "Atropine (0.01% w/v)",
     "quantity": "1" 
   },
   {
@@ -10457,7 +10457,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 10 tablets",
     "Like2": "Dr Reddy's Laboratories Ltd",
-    "Keywords": "Cinitapride (1mg) ADD",
+    "Keywords": "Cinitapride (1mg)",
     "quantity": "1" 
   },
   {
@@ -10501,7 +10501,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 10 tablets",
     "Like2": "Blue Cross Laboratories Ltd",
-    "Keywords": "Cetirizine (5mg) + Paracetamol (325mg) + Phenylephrine (5mg) ADD",
+    "Keywords": "Cetirizine (5mg) + Paracetamol (325mg) + Phenylephrine (5mg)",
     "quantity": "1" 
   },
   {
@@ -10512,7 +10512,7 @@ var products=[
     "Prescription": "",
     "Like1": "packet of 75 gm Soap",
     "Like2": "Leeford Healthcare Ltd",
-    "Keywords": "Ketoconazole (2% w/w) ADD",
+    "Keywords": "Ketoconazole (2% w/w)",
     "quantity": "1" 
   },
   {
@@ -10523,7 +10523,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 10 tablets",
     "Like2": "Sun Pharmaceutical Industries Ltd",
-    "Keywords": "Ketotifen (1mg) ADD",
+    "Keywords": "Ketotifen (1mg)",
     "quantity": "1" 
   },
   {
@@ -10534,7 +10534,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 15 Tablet pr",
     "Like2": "Blue Cross Laboratories Ltd",
-    "Keywords": "Glimepiride (1mg) + Metformin (500mg) ADD",
+    "Keywords": "Glimepiride (1mg) + Metformin (500mg)",
     "quantity": "1" 
   },
   {
@@ -10545,7 +10545,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 10 tablets",
     "Like2": "Dr Reddy's Laboratories Ltd",
-    "Keywords": "Levetiracetam (500mg) ADD",
+    "Keywords": "Levetiracetam (500mg)",
     "quantity": "1" 
   },
   {
@@ -10556,7 +10556,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "vial of 1 ml Injection",
     "Like2": "Samarth Life Sciences Pvt Ltd",
-    "Keywords": "Vitamin K (10mg) ADD",
+    "Keywords": "Vitamin K (10mg)",
     "quantity": "1" 
   },
   {
@@ -10567,7 +10567,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "bottle of 100 ml Syrup",
     "Like2": "Cipla Ltd",
-    "Keywords": "Levosalbutamol (1mg/5ml) ADD",
+    "Keywords": "Levosalbutamol (1mg/5ml)",
     "quantity": "1" 
   },
   {
@@ -10578,7 +10578,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 10 tablets",
     "Like2": "Cipla Ltd",
-    "Keywords": "Levofloxacin (500mg) ADD",
+    "Keywords": "Levofloxacin (500mg)",
     "quantity": "1" 
   },
   {
@@ -10589,7 +10589,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 10 tablets",
     "Like2": "Sanofi India  Ltd",
-    "Keywords": "Furosemide (20mg) + Spironolactone (50mg) ADD",
+    "Keywords": "Furosemide (20mg) + Spironolactone (50mg)",
     "quantity": "1" 
   },
   {
@@ -10600,7 +10600,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 15 tablets",
     "Like2": "Sanofi India  Ltd",
-    "Keywords": "Furosemide (40mg) ADD",
+    "Keywords": "Furosemide (40mg)",
     "quantity": "1" 
   },
   {
@@ -10633,7 +10633,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 10 tablets",
     "Like2": "Hetero Healthcare Limited",
-    "Keywords": "Levocetirizine (5mg) ADD",
+    "Keywords": "Levocetirizine (5mg)",
     "quantity": "1" 
   },
   {
@@ -10644,7 +10644,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 10 tablets",
     "Like2": "Hetero Drugs Ltd",
-    "Keywords": "Levocetirizine (5mg) + Montelukast (10mg) ADD",
+    "Keywords": "Levocetirizine (5mg) + Montelukast (10mg)",
     "quantity": "1" 
   },
   {
@@ -10655,7 +10655,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 5 respules",
     "Like2": "Cipla Ltd",
-    "Keywords": "Levosalbutamol (0.63mg) ADD",
+    "Keywords": "Levosalbutamol (0.63mg)",
     "quantity": "1" 
   },
   {
@@ -10666,7 +10666,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 5 tablets",
     "Like2": "Sun Pharmaceutical Industries Ltd",
-    "Keywords": "Letrozole (2.5mg) ADD",
+    "Keywords": "Letrozole (2.5mg)",
     "quantity": "1" 
   },
   {
@@ -10677,7 +10677,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 10 tablets",
     "Like2": "Zydus Cadila",
-    "Keywords": "Saroglitazar (4mg) ADD",
+    "Keywords": "Saroglitazar (4mg)",
     "quantity": "1" 
   },
   {
@@ -10688,7 +10688,7 @@ var products=[
     "Prescription": "",
     "Like1": "strip of 10 tablet er",
     "Like2": "Hetero Drugs Ltd",
-    "Keywords": "Paracetamol (650mg) ADD",
+    "Keywords": "Paracetamol (650mg)",
     "quantity": "1" 
   },
   {
@@ -10699,7 +10699,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 15 tablets",
     "Like2": "Intas Pharmaceuticals Ltd",
-    "Keywords": "Levetiracetam (500mg) ADD",
+    "Keywords": "Levetiracetam (500mg)",
     "quantity": "1" 
   },
   {
@@ -10721,7 +10721,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 10 tablets",
     "Like2": "Sun Pharmaceutical Industries Ltd",
-    "Keywords": "Baclofen (10mg) ADD",
+    "Keywords": "Baclofen (10mg)",
     "quantity": "1" 
   },
   {
@@ -10743,7 +10743,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 10 tablets",
     "Like2": "Integrace Pvt Ltd",
-    "Keywords": "Linezolid (600mg) ADD",
+    "Keywords": "Linezolid (600mg)",
     "quantity": "1" 
   },
   {
@@ -10765,7 +10765,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "bottle of 100 ml Oral Suspension",
     "Like2": "Lupin Ltd",
-    "Keywords": "Levocloperastine (20mg/5ml) ADD",
+    "Keywords": "Levocloperastine (20mg/5ml)",
     "quantity": "1" 
   },
   {
@@ -10776,7 +10776,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "cartridge of 3 ml Solution for Injection",
     "Like2": "Sanofi India  Ltd",
-    "Keywords": "Insulin Glargine (100IU) ADD",
+    "Keywords": "Insulin Glargine (100IU)",
     "quantity": "1" 
   },
   {
@@ -10787,7 +10787,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 10 tablets",
     "Like2": "Alkem Laboratories Ltd",
-    "Keywords": "Levocetirizine (5mg) + Montelukast (10mg) ADD",
+    "Keywords": "Levocetirizine (5mg) + Montelukast (10mg)",
     "quantity": "1" 
   },
   {
@@ -10798,7 +10798,7 @@ var products=[
     "Prescription": "",
     "Like1": "bottle of 10 ml Eye Drop",
     "Like2": "Medicom International Eyetech Pvt Ltd",
-    "Keywords": "Sodium Hyaluronate (0.18% w/v) ADD",
+    "Keywords": "Sodium Hyaluronate (0.18% w/v)",
     "quantity": "1" 
   },
   {
@@ -10809,7 +10809,7 @@ var products=[
     "Prescription": "",
     "Like1": "tube of 30 gm Gel",
     "Like2": "Neon Laboratories Ltd",
-    "Keywords": "Lidocaine (2% w/v) ADD",
+    "Keywords": "Lidocaine (2% w/v)",
     "quantity": "1" 
   },
   {
@@ -10831,7 +10831,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 14 capsules",
     "Like2": "Pfizer Ltd",
-    "Keywords": "Pregabalin (75mg) ADD",
+    "Keywords": "Pregabalin (75mg)",
     "quantity": "1" 
   },
   {
@@ -10842,7 +10842,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "vial of 4 ml Injection",
     "Like2": "Sanofi India  Ltd",
-    "Keywords": "Furosemide (10mg/ml) ADD",
+    "Keywords": "Furosemide (10mg/ml)",
     "quantity": "1" 
   },
   {
@@ -10853,7 +10853,7 @@ var products=[
     "Prescription": "",
     "Like1": "bottle of 10 ml Eye Drop",
     "Like2": "Micro Labs Ltd",
-    "Keywords": "Carboxymethylcellulose (0.5% w/v) ADD",
+    "Keywords": "Carboxymethylcellulose (0.5% w/v)",
     "quantity": "1" 
   },
   {
@@ -10875,7 +10875,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 10 tablets",
     "Like2": "Cachet Pharmaceuticals Pvt Ltd",
-    "Keywords": "Diclofenac (50mg) + Paracetamol (325mg) + Trypsin Chymotrypsin (50000AU) ADD",
+    "Keywords": "Diclofenac (50mg) + Paracetamol (325mg) + Trypsin Chymotrypsin (50000AU)",
     "quantity": "1" 
   },
   {
@@ -10897,7 +10897,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 10 tablets",
     "Like2": "Sun Pharmaceutical Industries Ltd",
-    "Keywords": "Levosulpiride (25mg) ADD",
+    "Keywords": "Levosulpiride (25mg)",
     "quantity": "1" 
   },
   {
@@ -10919,7 +10919,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 10 tablets",
     "Like2": "Lupin Ltd",
-    "Keywords": "Levofloxacin (500mg) ADD",
+    "Keywords": "Levofloxacin (500mg)",
     "quantity": "1" 
   },
   {
@@ -10930,7 +10930,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 15 tablets",
     "Like2": "Sun Pharmaceutical Industries Ltd",
-    "Keywords": "Levetiracetam (500mg) ADD",
+    "Keywords": "Levetiracetam (500mg)",
     "quantity": "1" 
   },
   {
@@ -10941,7 +10941,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "vial of 1 Injection",
     "Like2": "Lupin Ltd",
-    "Keywords": "Human chorionic gonadotropin (hCG) (5000IU) ADD",
+    "Keywords": "Human chorionic gonadotropin (hCG) (5000IU)",
     "quantity": "1" 
   },
   {
@@ -10963,7 +10963,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "bottle of 100 ml Syrup",
     "Like2": "Cipla Ltd",
-    "Keywords": "Ambroxol (30mg/5ml) + Levosalbutamol (1mg/5ml) + Guaifenesin (50mg/5ml) ADD",
+    "Keywords": "Ambroxol (30mg/5ml) + Levosalbutamol (1mg/5ml) + Guaifenesin (50mg/5ml)",
     "quantity": "1" 
   },
   {
@@ -10985,7 +10985,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "packet of 200 MDI Inhaler",
     "Like2": "Cipla Ltd",
-    "Keywords": "Levosalbutamol (50mcg) ADD",
+    "Keywords": "Levosalbutamol (50mcg)",
     "quantity": "1" 
   },
   {
@@ -11007,7 +11007,7 @@ var products=[
     "Prescription": "",
     "Like1": "bottle of 450 ml Syrup",
     "Like2": "Sun Pharmaceutical Industries Ltd",
-    "Keywords": "Lactitol (66.67% w/v) ADD",
+    "Keywords": "Lactitol (66.67% w/v)",
     "quantity": "1" 
   },
   {
@@ -11029,7 +11029,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 10 tablets",
     "Like2": "Zydus Cadila",
-    "Keywords": "Linezolid (600mg) ADD",
+    "Keywords": "Linezolid (600mg)",
     "quantity": "1" 
   },
   {
@@ -11040,7 +11040,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "tube of 20 gm Cream",
     "Like2": "Sun Pharmaceutical Industries Ltd",
-    "Keywords": "Luliconazole (1% w/w) ADD",
+    "Keywords": "Luliconazole (1% w/w)",
     "quantity": "1" 
   },
   {
@@ -11051,7 +11051,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 10 tablets",
     "Like2": "Mankind Pharma Ltd",
-    "Keywords": "Atorvastatin (10mg) + Fenofibrate (160mg) ADD",
+    "Keywords": "Atorvastatin (10mg) + Fenofibrate (160mg)",
     "quantity": "1" 
   },
   {
@@ -11073,7 +11073,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 10 tablets",
     "Like2": "Rapross Pharmaceuticals Pvt Ltd",
-    "Keywords": "Levocetirizine (5mg) ADD",
+    "Keywords": "Levocetirizine (5mg)",
     "quantity": "1" 
   },
   {
@@ -11084,7 +11084,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 15 tablets",
     "Like2": "Torrent Pharmaceuticals Ltd",
-    "Keywords": "Losartan (50mg) ADD",
+    "Keywords": "Losartan (50mg)",
     "quantity": "1" 
   },
   {
@@ -11095,7 +11095,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 15 tablets",
     "Like2": "Fourrts India Laboratories Pvt Ltd",
-    "Keywords": "Levocetirizine (5mg) + Montelukast (10mg) ADD",
+    "Keywords": "Levocetirizine (5mg) + Montelukast (10mg)",
     "quantity": "1" 
   },
   {
@@ -11117,7 +11117,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "bottle of 60 ml Syrup",
     "Like2": "Hetero Healthcare Limited",
-    "Keywords": "Levocetirizine (2.5mg/5ml) ADD",
+    "Keywords": "Levocetirizine (2.5mg/5ml)",
     "quantity": "1" 
   },
   {
@@ -11139,7 +11139,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 10 tablets",
     "Like2": "Cadila Pharmaceuticals Ltd",
-    "Keywords": "Ambroxol (60mg) + Loratadine (5mg) ADD",
+    "Keywords": "Ambroxol (60mg) + Loratadine (5mg)",
     "quantity": "1" 
   },
   {
@@ -11150,7 +11150,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 15 tablets",
     "Like2": "Torrent Pharmaceuticals Ltd",
-    "Keywords": "Losartan (50mg) + Hydrochlorothiazide (12.5mg) ADD",
+    "Keywords": "Losartan (50mg) + Hydrochlorothiazide (12.5mg)",
     "quantity": "1" 
   },
   {
@@ -11161,7 +11161,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 10 tablets",
     "Like2": "Mankind Pharma Ltd",
-    "Keywords": "Levocetirizine (5mg) ADD",
+    "Keywords": "Levocetirizine (5mg)",
     "quantity": "1" 
   },
   {
@@ -11172,7 +11172,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 15 tablets",
     "Like2": "Systopic Laboratories Pvt Ltd",
-    "Keywords": "Levocetirizine (5mg) + Montelukast (10mg) ADD",
+    "Keywords": "Levocetirizine (5mg) + Montelukast (10mg)",
     "quantity": "1" 
   },
   {
@@ -11194,7 +11194,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 10 tablets",
     "Like2": "Alembic Pharmaceuticals Ltd",
-    "Keywords": "Levocetirizine (5mg) + Montelukast (10mg) ADD",
+    "Keywords": "Levocetirizine (5mg) + Montelukast (10mg)",
     "quantity": "1" 
   },
   {
@@ -11216,7 +11216,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 10 tablets",
     "Like2": "Mankind Pharma Ltd",
-    "Keywords": "Ambroxol (60mg) + Phenylephrine (5mg) + Levocetirizine (5mg) ADD",
+    "Keywords": "Ambroxol (60mg) + Phenylephrine (5mg) + Levocetirizine (5mg)",
     "quantity": "1" 
   },
   {
@@ -11227,7 +11227,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 10 tablets",
     "Like2": "Blue Cross Laboratories Ltd",
-    "Keywords": "Dicyclomine (10mg) + Mefenamic Acid (250mg) ADD",
+    "Keywords": "Dicyclomine (10mg) + Mefenamic Acid (250mg)",
     "quantity": "1" 
   },
   {
@@ -11238,7 +11238,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 10 tablets",
     "Like2": "Sun Pharmaceutical Industries Ltd",
-    "Keywords": "Levocetirizine (5mg) + Montelukast (10mg) ADD",
+    "Keywords": "Levocetirizine (5mg) + Montelukast (10mg)",
     "quantity": "1" 
   },
   {
@@ -11249,7 +11249,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 4 tablets",
     "Like2": "Mankind Pharma Ltd",
-    "Keywords": "Sildenafil (100mg) ADD",
+    "Keywords": "Sildenafil (100mg)",
     "quantity": "1" 
   },
   {
@@ -11260,7 +11260,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 15 tablets",
     "Like2": "Cipla Ltd",
-    "Keywords": "Levocetirizine (5mg) + Montelukast (10mg) ADD",
+    "Keywords": "Levocetirizine (5mg) + Montelukast (10mg)",
     "quantity": "1" 
   },
   {
@@ -11271,7 +11271,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 15 tablets",
     "Like2": "J B Chemicals and Pharmaceuticals Ltd",
-    "Keywords": "Metronidazole (400mg) ADD",
+    "Keywords": "Metronidazole (400mg)",
     "quantity": "1" 
   },
   {
@@ -11282,7 +11282,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 10 tablets",
     "Like2": "Mankind Pharma Ltd",
-    "Keywords": "Amoxycillin (500mg) + Clavulanic Acid (125mg) ADD",
+    "Keywords": "Amoxycillin (500mg) + Clavulanic Acid (125mg)",
     "quantity": "1" 
   },
   {
@@ -11293,7 +11293,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 10 Effervescent Tablet",
     "Like2": "Cipla Ltd",
-    "Keywords": "Acetylcysteine (600mg) ADD",
+    "Keywords": "Acetylcysteine (600mg)",
     "quantity": "1" 
   },
   {
@@ -11304,7 +11304,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "bottle of 60 ml Oral Suspension",
     "Like2": "Blue Cross Laboratories Ltd",
-    "Keywords": "Mefenamic Acid (100mg/5ml) ADD",
+    "Keywords": "Mefenamic Acid (100mg/5ml)",
     "quantity": "1" 
   },
   {
@@ -11315,7 +11315,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 10 tablets",
     "Like2": "Blue Cross Laboratories Ltd",
-    "Keywords": "Mefenamic Acid (500mg) + Paracetamol (325mg) ADD",
+    "Keywords": "Mefenamic Acid (500mg) + Paracetamol (325mg)",
     "quantity": "1" 
   },
   {
@@ -11326,7 +11326,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 10 tablets",
     "Like2": "Aristo Pharmaceuticals Pvt Ltd",
-    "Keywords": "Cefpodoxime Proxetil (200mg) ADD",
+    "Keywords": "Cefpodoxime Proxetil (200mg)",
     "quantity": "1" 
   },
   {
@@ -11337,7 +11337,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 9 tablets",
     "Like2": "Mankind Pharma Ltd",
-    "Keywords": "Sildenafil (50mg) ADD",
+    "Keywords": "Sildenafil (50mg)",
     "quantity": "1" 
   },
   {
@@ -11348,7 +11348,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 10 tablets",
     "Like2": "Mankind Pharma Ltd",
-    "Keywords": "Levocetirizine (5mg) + Montelukast (10mg) ADD",
+    "Keywords": "Levocetirizine (5mg) + Montelukast (10mg)",
     "quantity": "1" 
   },
   {
@@ -11359,7 +11359,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "bottle of 60 ml Syrup",
     "Like2": "Zuventus Healthcare Ltd",
-    "Keywords": "Chlorpheniramine Maleate (2mg/5ml) + Phenylephrine (5mg/5ml) ADD",
+    "Keywords": "Chlorpheniramine Maleate (2mg/5ml) + Phenylephrine (5mg/5ml)",
     "quantity": "1" 
   },
   {
@@ -11370,7 +11370,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 10 tablets",
     "Like2": "Aristo Pharmaceuticals Pvt Ltd",
-    "Keywords": "Levocetirizine (5mg) + Montelukast (10mg) ADD",
+    "Keywords": "Levocetirizine (5mg) + Montelukast (10mg)",
     "quantity": "1" 
   },
   {
@@ -11381,7 +11381,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "bottle of 60 ml Syrup",
     "Like2": "Cipla Ltd",
-    "Keywords": "Levocetirizine (2.5mg/5ml) + Montelukast (4mg/5ml) ADD",
+    "Keywords": "Levocetirizine (2.5mg/5ml) + Montelukast (4mg/5ml)",
     "quantity": "1" 
   },
   {
@@ -11392,7 +11392,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 15 tablets",
     "Like2": "Cipla Ltd",
-    "Keywords": "Montelukast (10mg) + Fexofenadine (120mg) ADD",
+    "Keywords": "Montelukast (10mg) + Fexofenadine (120mg)",
     "quantity": "1" 
   },
   {
@@ -11403,7 +11403,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "vial of 1 Injection",
     "Like2": "Aristo Pharmaceuticals Pvt Ltd",
-    "Keywords": "Ceftriaxone (1gm) ADD",
+    "Keywords": "Ceftriaxone (1gm)",
     "quantity": "1" 
   },
   {
@@ -11414,7 +11414,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "bottle of 200 ml Oral Gel",
     "Like2": "Pfizer Ltd",
-    "Keywords": "Oxetacaine (10mg/5ml) + Aluminium Hydroxide (0.291gm/5ml) + Milk Of Magnesia (98mg/5ml) ADD",
+    "Keywords": "Oxetacaine (10mg/5ml) + Aluminium Hydroxide (0.291gm/5ml) + Milk Of Magnesia (98mg/5ml)",
     "quantity": "1" 
   },
   {
@@ -11436,7 +11436,7 @@ var products=[
     "Prescription": "",
     "Like1": "strip of 10 capsules",
     "Like2": "Aristo Pharmaceuticals Pvt Ltd",
-    "Keywords": "Methylcobalamin (1500mcg) + Vitamin B6 (Pyridoxine) (5mg) + Benfotiamine (50mg) + Alpha Lipoic Acid (200mg) + Folic Acid (5mg) + Biotin (5mg) ADD",
+    "Keywords": "Methylcobalamin (1500mcg) + Vitamin B6 (Pyridoxine) (5mg) + Benfotiamine (50mg) + Alpha Lipoic Acid (200mg) + Folic Acid (5mg) + Biotin (5mg)",
     "quantity": "1" 
   },
   {
@@ -11447,7 +11447,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 10 tablets",
     "Like2": "Serum Institute Of India Ltd",
-    "Keywords": "Medroxyprogesterone acetate (10mg) ADD",
+    "Keywords": "Medroxyprogesterone acetate (10mg)",
     "quantity": "1" 
   },
   {
@@ -11469,7 +11469,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 4 tablets",
     "Like2": "Mankind Pharma Ltd",
-    "Keywords": "Sildenafil (50mg) + Dapoxetine (30mg) ADD",
+    "Keywords": "Sildenafil (50mg) + Dapoxetine (30mg)",
     "quantity": "1" 
   },
   {
@@ -11480,7 +11480,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 4 tablets",
     "Like2": "Macleods Pharmaceuticals Pvt Ltd",
-    "Keywords": "Tadalafil (20mg) ADD",
+    "Keywords": "Tadalafil (20mg)",
     "quantity": "1" 
   },
   {
@@ -11491,7 +11491,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 10 tablets",
     "Like2": "Sun Pharmaceutical Industries Ltd",
-    "Keywords": "Chlorzoxazone (500mg) + Diclofenac (50mg) + Paracetamol (325mg) ADD",
+    "Keywords": "Chlorzoxazone (500mg) + Diclofenac (50mg) + Paracetamol (325mg)",
     "quantity": "1" 
   },
   {
@@ -11502,7 +11502,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "bottle of 100 ml Syrup",
     "Like2": "Macleods Pharmaceuticals Pvt Ltd",
-    "Keywords": "Ambroxol (15mg/5ml) + Dextromethorphan Hydrobromide (10mg/5ml) + Phenylephrine (5mg/5ml) + Chlorpheniramine Maleate (2mg/5ml) + Menthol (1.5mg/5ml) ADD",
+    "Keywords": "Ambroxol (15mg/5ml) + Dextromethorphan Hydrobromide (10mg/5ml) + Phenylephrine (5mg/5ml) + Chlorpheniramine Maleate (2mg/5ml) + Menthol (1.5mg/5ml)",
     "quantity": "1" 
   },
   {
@@ -11524,7 +11524,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 10 tablets",
     "Like2": "Sun Pharmaceutical Industries Ltd",
-    "Keywords": "Desloratadine (5mg) + Montelukast (10mg) ADD",
+    "Keywords": "Desloratadine (5mg) + Montelukast (10mg)",
     "quantity": "1" 
   },
   {
@@ -11535,7 +11535,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 10 tablets",
     "Like2": "Win-Medicare Pvt Ltd",
-    "Keywords": "Chlorzoxazone (500mg) + Diclofenac (50mg) + Paracetamol (325mg) ADD",
+    "Keywords": "Chlorzoxazone (500mg) + Diclofenac (50mg) + Paracetamol (325mg)",
     "quantity": "1" 
   },
   {
@@ -11546,7 +11546,7 @@ var products=[
     "Prescription": "",
     "Like1": "bottle of 60 ml Oral Suspension",
     "Like2": "Alembic Pharmaceuticals Ltd",
-    "Keywords": "Paracetamol (250mg/5ml) ADD",
+    "Keywords": "Paracetamol (250mg/5ml)",
     "quantity": "1" 
   },
   {
@@ -11557,7 +11557,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 10 tablets",
     "Like2": "Pfizer Ltd",
-    "Keywords": "Methylprednisolone (4mg) ADD",
+    "Keywords": "Methylprednisolone (4mg)",
     "quantity": "1" 
   },
   {
@@ -11568,7 +11568,7 @@ var products=[
     "Prescription": "",
     "Like1": "bottle of 100 ml Syrup",
     "Like2": "Dr Reddy's Laboratories Ltd",
-    "Keywords": "Ambroxol (30mg/5ml) ADD",
+    "Keywords": "Ambroxol (30mg/5ml)",
     "quantity": "1" 
   },
   {
@@ -11579,7 +11579,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 10 tablets",
     "Like2": "Blue Cross Laboratories Ltd",
-    "Keywords": "Mefenamic Acid (500mg) ADD",
+    "Keywords": "Mefenamic Acid (500mg)",
     "quantity": "1" 
   },
   {
@@ -11590,7 +11590,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 20 tablet er",
     "Like2": "Ajanta Pharma Ltd",
-    "Keywords": "Metoprolol Succinate (23.75mg) ADD",
+    "Keywords": "Metoprolol Succinate (23.75mg)",
     "quantity": "1" 
   },
   {
@@ -11612,7 +11612,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 10 tablets",
     "Like2": "Aristo Pharmaceuticals Pvt Ltd",
-    "Keywords": "Amoxycillin (500mg) + Clavulanic Acid (125mg) ADD",
+    "Keywords": "Amoxycillin (500mg) + Clavulanic Acid (125mg)",
     "quantity": "1" 
   },
   {
@@ -11623,7 +11623,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 10 tablets",
     "Like2": "Intas Pharmaceuticals Ltd",
-    "Keywords": "Levocetirizine (5mg) + Montelukast (10mg) ADD",
+    "Keywords": "Levocetirizine (5mg) + Montelukast (10mg)",
     "quantity": "1" 
   },
   {
@@ -11634,7 +11634,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 15 capsules",
     "Like2": "Sun Pharmaceutical Industries Ltd",
-    "Keywords": "Amoxycillin (500mg) ADD",
+    "Keywords": "Amoxycillin (500mg)",
     "quantity": "1" 
   },
   {
@@ -11645,7 +11645,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "bottle of 60 ml Solution",
     "Like2": "Intas Pharmaceuticals Ltd",
-    "Keywords": "Minoxidil (5% w/v) + Finasteride (0.1% w/v) ADD",
+    "Keywords": "Minoxidil (5% w/v) + Finasteride (0.1% w/v)",
     "quantity": "1" 
   },
   {
@@ -11656,7 +11656,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 10 tablets",
     "Like2": "Mankind Pharma Ltd",
-    "Keywords": "Cefixime (200mg) ADD",
+    "Keywords": "Cefixime (200mg)",
     "quantity": "1" 
   },
   {
@@ -11667,7 +11667,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 30 tablets",
     "Like2": "Pfizer Ltd",
-    "Keywords": "Prazosin (5mg) ADD",
+    "Keywords": "Prazosin (5mg)",
     "quantity": "1" 
   },
   {
@@ -11678,7 +11678,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "bottle of 15 ml Oral Drops",
     "Like2": "Zuventus Healthcare Ltd",
-    "Keywords": "Chlorpheniramine Maleate (2mg/ml) + Phenylephrine (5mg/ml) ADD",
+    "Keywords": "Chlorpheniramine Maleate (2mg/ml) + Phenylephrine (5mg/ml)",
     "quantity": "1" 
   },
   {
@@ -11689,7 +11689,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 10 tablets",
     "Like2": "Aristo Pharmaceuticals Pvt Ltd",
-    "Keywords": "Cefpodoxime Proxetil (200mg) + Clavulanic Acid (125mg) ADD",
+    "Keywords": "Cefpodoxime Proxetil (200mg) + Clavulanic Acid (125mg)",
     "quantity": "1" 
   },
   {
@@ -11711,7 +11711,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 10 capsules",
     "Like2": "Sanofi India  Ltd",
-    "Keywords": "Thiocolchicoside (4mg) ADD",
+    "Keywords": "Thiocolchicoside (4mg)",
     "quantity": "1" 
   },
   {
@@ -11722,7 +11722,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 4 tablets",
     "Like2": "Macleods Pharmaceuticals Pvt Ltd",
-    "Keywords": "Tadalafil (10mg) ADD",
+    "Keywords": "Tadalafil (10mg)",
     "quantity": "1" 
   },
   {
@@ -11733,7 +11733,7 @@ var products=[
     "Prescription": "",
     "Like1": "strip of 15 tablets",
     "Like2": "Wockhardt Ltd",
-    "Keywords": "Methylcobalamin (500mcg) ADD",
+    "Keywords": "Methylcobalamin (500mcg)",
     "quantity": "1" 
   },
   {
@@ -11744,7 +11744,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 10 tablets",
     "Like2": "Win-Medicare Pvt Ltd",
-    "Keywords": "Paracetamol (500mg) + Chlorzoxazone (250mg) ADD",
+    "Keywords": "Paracetamol (500mg) + Chlorzoxazone (250mg)",
     "quantity": "1" 
   },
   {
@@ -11755,7 +11755,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "vial of 1 Injection",
     "Like2": "Pfizer Ltd",
-    "Keywords": "Cefoperazone (1000mg) + Sulbactam (500mg) ADD",
+    "Keywords": "Cefoperazone (1000mg) + Sulbactam (500mg)",
     "quantity": "1" 
   },
   {
@@ -11766,7 +11766,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 15 tablets",
     "Like2": "Cipla Ltd",
-    "Keywords": "Montelukast (10mg) ADD",
+    "Keywords": "Montelukast (10mg)",
     "quantity": "1" 
   },
   {
@@ -11799,7 +11799,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "bottle of 60 ml Solution",
     "Like2": "Dr Reddy's Laboratories Ltd",
-    "Keywords": "Minoxidil (5% w/v) ADD",
+    "Keywords": "Minoxidil (5% w/v)",
     "quantity": "1" 
   },
   {
@@ -11810,7 +11810,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "bottle of 100 ml Expectorant",
     "Like2": "Macleods Pharmaceuticals Pvt Ltd",
-    "Keywords": "Ambroxol (15mg/5ml) + Guaifenesin (50mg/5ml) + Terbutaline (1.25mg/5ml) ADD",
+    "Keywords": "Ambroxol (15mg/5ml) + Guaifenesin (50mg/5ml) + Terbutaline (1.25mg/5ml)",
     "quantity": "1" 
   },
   {
@@ -11821,7 +11821,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "bottle of 5 ml Eye Drop",
     "Like2": "Cipla Ltd",
-    "Keywords": "Moxifloxacin (0.5% w/v) ADD",
+    "Keywords": "Moxifloxacin (0.5% w/v)",
     "quantity": "1" 
   },
   {
@@ -11854,7 +11854,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 10 tablets",
     "Like2": "Aristo Pharmaceuticals Pvt Ltd",
-    "Keywords": "Melatonin (3mg) ADD",
+    "Keywords": "Melatonin (3mg)",
     "quantity": "1" 
   },
   {
@@ -11865,7 +11865,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "tube of 15 gm Dental Gel",
     "Like2": "Icpa Health Products Ltd",
-    "Keywords": "Benzocaine (20% w/w) ADD",
+    "Keywords": "Benzocaine (20% w/w)",
     "quantity": "1" 
   },
   {
@@ -11876,7 +11876,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "bottle of 60 ml Oral Suspension",
     "Like2": "Blue Cross Laboratories Ltd",
-    "Keywords": "Mefenamic Acid (100mg/5ml) + Paracetamol (250mg/5ml) ADD",
+    "Keywords": "Mefenamic Acid (100mg/5ml) + Paracetamol (250mg/5ml)",
     "quantity": "1" 
   },
   {
@@ -11887,7 +11887,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 10 tablets",
     "Like2": "Cipla Ltd",
-    "Keywords": "Norfloxacin (400mg) + Tinidazole (600mg) ADD",
+    "Keywords": "Norfloxacin (400mg) + Tinidazole (600mg)",
     "quantity": "1" 
   },
   {
@@ -11898,7 +11898,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 15 tablets",
     "Like2": "Sun Pharmaceutical Industries Ltd",
-    "Keywords": "Naproxen (500mg) + Domperidone (10mg) ADD",
+    "Keywords": "Naproxen (500mg) + Domperidone (10mg)",
     "quantity": "1" 
   },
   {
@@ -11920,7 +11920,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 15 tablets",
     "Like2": "Mankind Pharma Ltd",
-    "Keywords": "Levo-carnitine (500mg) + Methylcobalamin (1500mcg) + Folic Acid (1.5mg) ADD",
+    "Keywords": "Levo-carnitine (500mg) + Methylcobalamin (1500mcg) + Folic Acid (1.5mg)",
     "quantity": "1" 
   },
   {
@@ -11942,7 +11942,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 10 capsules",
     "Like2": "Mankind Pharma Ltd",
-    "Keywords": "Methylcobalamin (1500mcg) + Alpha Lipoic Acid (100mg) + Vitamin B6 (Pyridoxine) (3mg) + Folic Acid (1.5mg) ADD",
+    "Keywords": "Methylcobalamin (1500mcg) + Alpha Lipoic Acid (100mg) + Vitamin B6 (Pyridoxine) (3mg) + Folic Acid (1.5mg)",
     "quantity": "1" 
   },
   {
@@ -11953,7 +11953,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 10 capsule sr",
     "Like2": "Torrent Pharmaceuticals Ltd",
-    "Keywords": "Domperidone (30mg) + Esomeprazole (40mg) ADD",
+    "Keywords": "Domperidone (30mg) + Esomeprazole (40mg)",
     "quantity": "1" 
   },
   {
@@ -11964,7 +11964,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 10 tablets",
     "Like2": "Cipla Ltd",
-    "Keywords": "Norfloxacin (400mg) + Lactobacillus (120Million spores) ADD",
+    "Keywords": "Norfloxacin (400mg) + Lactobacillus (120Million spores)",
     "quantity": "1" 
   },
   {
@@ -11975,7 +11975,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 10 tablets",
     "Like2": "Zydus Cadila",
-    "Keywords": "Etoricoxib (60mg) + Thiocolchicoside (4mg) ADD",
+    "Keywords": "Etoricoxib (60mg) + Thiocolchicoside (4mg)",
     "quantity": "1" 
   },
   {
@@ -11986,7 +11986,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 10 tablets",
     "Like2": "Sun Pharmaceutical Industries Ltd",
-    "Keywords": "Escitalopram Oxalate (10mg) ADD",
+    "Keywords": "Escitalopram Oxalate (10mg)",
     "quantity": "1" 
   },
   {
@@ -11997,7 +11997,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 15 tablets",
     "Like2": "Fourrts India Laboratories Pvt Ltd",
-    "Keywords": "Taurine (500mg) + Acetylcysteine (150mg) ADD",
+    "Keywords": "Taurine (500mg) + Acetylcysteine (150mg)",
     "quantity": "1" 
   },
   {
@@ -12008,7 +12008,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 10 tablet sr",
     "Like2": "Intas Pharmaceuticals Ltd",
-    "Keywords": "Nitrofurantoin (100mg) ADD",
+    "Keywords": "Nitrofurantoin (100mg)",
     "quantity": "1" 
   },
   {
@@ -12030,7 +12030,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 15 tablets",
     "Like2": "Dr Reddy's Laboratories Ltd",
-    "Keywords": "Nimesulide (100mg) ADD",
+    "Keywords": "Nimesulide (100mg)",
     "quantity": "1" 
   },
   {
@@ -12041,7 +12041,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 15 tablets",
     "Like2": "Torrent Pharmaceuticals Ltd",
-    "Keywords": "Esomeprazole (40mg) ADD",
+    "Keywords": "Esomeprazole (40mg)",
     "quantity": "1" 
   },
   {
@@ -12052,7 +12052,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 15 tablet sr",
     "Like2": "J B Chemicals and Pharmaceuticals Ltd",
-    "Keywords": "Nifedipine (20mg) ADD",
+    "Keywords": "Nifedipine (20mg)",
     "quantity": "1" 
   },
   {
@@ -12063,7 +12063,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 10 tablets",
     "Like2": "Sun Pharmaceutical Industries Ltd",
-    "Keywords": "Escitalopram Oxalate (5mg) ADD",
+    "Keywords": "Escitalopram Oxalate (5mg)",
     "quantity": "1" 
   },
   {
@@ -12074,7 +12074,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "ampoule of 2 ml Injection",
     "Like2": "Procter & Gamble Hygiene and Health Care Ltd",
-    "Keywords": "Methylcobalamin (1000mcg) + Vitamin B6 (Pyridoxine) (100mg) + Nicotinamide (100mg) ADD",
+    "Keywords": "Methylcobalamin (1000mcg) + Vitamin B6 (Pyridoxine) (100mg) + Nicotinamide (100mg)",
     "quantity": "1" 
   },
   {
@@ -12085,7 +12085,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "bottle of 20 tablets",
     "Like2": "Torrent Pharmaceuticals Ltd",
-    "Keywords": "Nicorandil (5mg) ADD",
+    "Keywords": "Nicorandil (5mg)",
     "quantity": "1" 
   },
   {
@@ -12096,7 +12096,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 10 tablets",
     "Like2": "Cipla Ltd",
-    "Keywords": "Nimesulide (100mg) ADD",
+    "Keywords": "Nimesulide (100mg)",
     "quantity": "1" 
   },
   {
@@ -12107,7 +12107,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 15 tablets",
     "Like2": "Steadfast Medishield Pvt Ltd",
-    "Keywords": "Sodium Bicarbonate (500mg) ADD",
+    "Keywords": "Sodium Bicarbonate (500mg)",
     "quantity": "1" 
   },
   {
@@ -12129,7 +12129,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 14 tablets",
     "Like2": "Mankind Pharma Ltd",
-    "Keywords": "Sacubitril (24mg) + Valsartan (26mg) ADD",
+    "Keywords": "Sacubitril (24mg) + Valsartan (26mg)",
     "quantity": "1" 
   },
   {
@@ -12140,7 +12140,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 15 tablets",
     "Like2": "Zydus Cadila",
-    "Keywords": "Etoricoxib (90mg) ADD",
+    "Keywords": "Etoricoxib (90mg)",
     "quantity": "1" 
   },
   {
@@ -12162,7 +12162,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 21 tablets",
     "Like2": "Organon (India) Ltd",
-    "Keywords": "Ethinyl Estradiol (0.03mg) + Desogestrel (0.15mg) ADD",
+    "Keywords": "Ethinyl Estradiol (0.03mg) + Desogestrel (0.15mg)",
     "quantity": "1" 
   },
   {
@@ -12195,7 +12195,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "tube of 20 gm Cream",
     "Like2": "Torque Pharmaceuticals Pvt Ltd",
-    "Keywords": "Hydroquinone (2% w/w) + Mometasone (0.1% w/w) + Tretinoin (0.025% w/w) ADD",
+    "Keywords": "Hydroquinone (2% w/w) + Mometasone (0.1% w/w) + Tretinoin (0.025% w/w)",
     "quantity": "1" 
   },
   {
@@ -12217,7 +12217,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 30 tablet cr",
     "Like2": "Modi Mundi Pharma Pvt Ltd",
-    "Keywords": "Nitroglycerin (2.6mg) ADD",
+    "Keywords": "Nitroglycerin (2.6mg)",
     "quantity": "1" 
   },
   {
@@ -12228,7 +12228,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 15 capsules",
     "Like2": "Cipla Ltd",
-    "Keywords": "Amoxycillin (500mg) ADD",
+    "Keywords": "Amoxycillin (500mg)",
     "quantity": "1" 
   },
   {
@@ -12250,7 +12250,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 15 tablets",
     "Like2": "Macleods Pharmaceuticals Pvt Ltd",
-    "Keywords": "Cilnidipine (10mg) ADD",
+    "Keywords": "Cilnidipine (10mg)",
     "quantity": "1" 
   },
   {
@@ -12272,7 +12272,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 10 tablets",
     "Like2": "Torrent Pharmaceuticals Ltd",
-    "Keywords": "Nebivolol (5mg) ADD",
+    "Keywords": "Nebivolol (5mg)",
     "quantity": "1" 
   },
   {
@@ -12283,7 +12283,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 10 tablets",
     "Like2": "Intas Pharmaceuticals Ltd",
-    "Keywords": "Naproxen (500mg) + Domperidone (10mg) ADD",
+    "Keywords": "Naproxen (500mg) + Domperidone (10mg)",
     "quantity": "1" 
   },
   {
@@ -12294,7 +12294,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 14 tablets",
     "Like2": "Mankind Pharma Ltd",
-    "Keywords": "Sacubitril (49mg) + Valsartan (51mg) ADD",
+    "Keywords": "Sacubitril (49mg) + Valsartan (51mg)",
     "quantity": "1" 
   },
   {
@@ -12305,7 +12305,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "bottle of 10 capsules",
     "Like2": "Sun Pharmaceutical Industries Ltd",
-    "Keywords": "Nitrofurantoin (100mg) ADD",
+    "Keywords": "Nitrofurantoin (100mg)",
     "quantity": "1" 
   },
   {
@@ -12316,7 +12316,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 4 tablets",
     "Like2": "Sun Pharmaceutical Industries Ltd",
-    "Keywords": "Tolvaptan (15mg) ADD",
+    "Keywords": "Tolvaptan (15mg)",
     "quantity": "1" 
   },
   {
@@ -12327,7 +12327,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 10 capsules",
     "Like2": "La Renon Healthcare Pvt Ltd",
-    "Keywords": "Methylcobalamin (1500mcg) + Alpha Lipoic Acid (100mg) + Myo-Inositol (100mg) + Folic Acid (1.5mg) + Chromium Picolinate (200mcg) + Selenium (55mcg) + Benfotiamine (150mg) ADD",
+    "Keywords": "Methylcobalamin (1500mcg) + Alpha Lipoic Acid (100mg) + Myo-Inositol (100mg) + Folic Acid (1.5mg) + Chromium Picolinate (200mcg) + Selenium (55mcg) + Benfotiamine (150mg)",
     "quantity": "1" 
   },
   {
@@ -12349,7 +12349,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 10 tablets",
     "Like2": "Alkem Laboratories Ltd",
-    "Keywords": "Ondansetron (4mg) ADD",
+    "Keywords": "Ondansetron (4mg)",
     "quantity": "1" 
   },
   {
@@ -12360,7 +12360,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 15 capsule sr",
     "Like2": "Dr Reddy's Laboratories Ltd",
-    "Keywords": "Domperidone (30mg) + Omeprazole (20mg) ADD",
+    "Keywords": "Domperidone (30mg) + Omeprazole (20mg)",
     "quantity": "1" 
   },
   {
@@ -12371,7 +12371,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 10 tablets",
     "Like2": "Lupin Ltd",
-    "Keywords": "Linagliptin (5mg) ADD",
+    "Keywords": "Linagliptin (5mg)",
     "quantity": "1" 
   },
   {
@@ -12382,7 +12382,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 10 tablets",
     "Like2": "Lupin Ltd",
-    "Keywords": "Metformin (500mg) + Linagliptin (2.5mg) ADD",
+    "Keywords": "Metformin (500mg) + Linagliptin (2.5mg)",
     "quantity": "1" 
   },
   {
@@ -12393,7 +12393,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 20 tablets",
     "Like2": "Pfizer Ltd",
-    "Keywords": "Norgestrel (0.5mg) + Ethinyl Estradiol (0.05mg) ADD",
+    "Keywords": "Norgestrel (0.5mg) + Ethinyl Estradiol (0.05mg)",
     "quantity": "1" 
   },
   {
@@ -12404,7 +12404,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 10 tablets",
     "Like2": "Cipla Ltd",
-    "Keywords": "Ofloxacin (200mg) ADD",
+    "Keywords": "Ofloxacin (200mg)",
     "quantity": "1" 
   },
   {
@@ -12415,7 +12415,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "ampoule of 3 ml Injection",
     "Like2": "Lupin Ltd",
-    "Keywords": "Thiamine(Vitamin B1) (100mg) + Vitamin B6 (Pyridoxine) (100mg) + Cyanocobalamin (1000mcg) + Vitamin B2 (5mg) + Nicotinamide (100mg) + D-Panthenol (50mg) ADD",
+    "Keywords": "Thiamine(Vitamin B1) (100mg) + Vitamin B6 (Pyridoxine) (100mg) + Cyanocobalamin (1000mcg) + Vitamin B2 (5mg) + Nicotinamide (100mg) + D-Panthenol (50mg)",
     "quantity": "1" 
   },
   {
@@ -12426,7 +12426,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 10 tablet dt",
     "Like2": "Macleods Pharmaceuticals Pvt Ltd",
-    "Keywords": "Prednisolone (5mg) ADD",
+    "Keywords": "Prednisolone (5mg)",
     "quantity": "1" 
   },
   {
@@ -12437,7 +12437,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 10 tablets",
     "Like2": "Aristo Pharmaceuticals Pvt Ltd",
-    "Keywords": "Ofloxacin (200mg) + Ornidazole (500mg) ADD",
+    "Keywords": "Ofloxacin (200mg) + Ornidazole (500mg)",
     "quantity": "1" 
   },
   {
@@ -12459,7 +12459,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 10 tablets",
     "Like2": "Intas Pharmaceuticals Ltd",
-    "Keywords": "Ofloxacin (200mg) + Ornidazole (500mg) ADD",
+    "Keywords": "Ofloxacin (200mg) + Ornidazole (500mg)",
     "quantity": "1" 
   },
   {
@@ -12470,7 +12470,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 10 tablet sr",
     "Like2": "Medley Pharmaceuticals",
-    "Keywords": "Montelukast (10mg) + Fexofenadine (120mg) + Acebrophylline (200mg) ADD",
+    "Keywords": "Montelukast (10mg) + Fexofenadine (120mg) + Acebrophylline (200mg)",
     "quantity": "1" 
   },
   {
@@ -12481,7 +12481,7 @@ var products=[
     "Prescription": "",
     "Like1": "packet of 10 ml Ear Drop",
     "Like2": "Eris Lifesciences Ltd",
-    "Keywords": "Dibucaine (1.1% w/w) ADD",
+    "Keywords": "Dibucaine (1.1% w/w)",
     "quantity": "1" 
   },
   {
@@ -12492,7 +12492,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 10 tablets",
     "Like2": "Cipla Ltd",
-    "Keywords": "Levocetirizine (5mg) ADD",
+    "Keywords": "Levocetirizine (5mg)",
     "quantity": "1" 
   },
   {
@@ -12503,7 +12503,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 10 tablets",
     "Like2": "Sun Pharmaceutical Industries Ltd",
-    "Keywords": "Oxcarbazepine (300mg) ADD",
+    "Keywords": "Oxcarbazepine (300mg)",
     "quantity": "1" 
   },
   {
@@ -12514,7 +12514,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 10 tablet dt",
     "Like2": "Macleods Pharmaceuticals Pvt Ltd",
-    "Keywords": "Prednisolone (20mg) ADD",
+    "Keywords": "Prednisolone (20mg)",
     "quantity": "1" 
   },
   {
@@ -12525,7 +12525,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 10 tablets",
     "Like2": "Sun Pharmaceutical Industries Ltd",
-    "Keywords": "Olanzapine (2.5mg) ADD",
+    "Keywords": "Olanzapine (2.5mg)",
     "quantity": "1" 
   },
   {
@@ -12547,7 +12547,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 15 tablets",
     "Like2": "Zydus Cadila",
-    "Keywords": "Levocetirizine (5mg) + Montelukast (10mg) ADD",
+    "Keywords": "Levocetirizine (5mg) + Montelukast (10mg)",
     "quantity": "1" 
   },
   {
@@ -12558,7 +12558,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "bottle of 5 ml Ear Drop",
     "Like2": "FDC Ltd",
-    "Keywords": "Benzocaine (1% w/v) + Chloramphenicol (5% w/v) ADD",
+    "Keywords": "Benzocaine (1% w/v) + Chloramphenicol (5% w/v)",
     "quantity": "1" 
   },
   {
@@ -12580,7 +12580,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 15 tablets",
     "Like2": "Macleods Pharmaceuticals Pvt Ltd",
-    "Keywords": "Glucosamine (750mg) + Diacerein (50mg) + Methyl Sulfonyl Methane (250mg) ADD",
+    "Keywords": "Glucosamine (750mg) + Diacerein (50mg) + Methyl Sulfonyl Methane (250mg)",
     "quantity": "1" 
   },
   {
@@ -12591,7 +12591,7 @@ var products=[
     "Prescription": "",
     "Like1": "packet of 10 ml Ear Drop",
     "Like2": "Indoco Remedies Ltd",
-    "Keywords": "Benzocaine (2.7% w/v) + Chlorbutol (5% w/v) + Paradichlorobenzene (2% w/v) + Turpentine Oil (15% w/v) ADD",
+    "Keywords": "Benzocaine (2.7% w/v) + Chlorbutol (5% w/v) + Paradichlorobenzene (2% w/v) + Turpentine Oil (15% w/v)",
     "quantity": "1" 
   },
   {
@@ -12602,7 +12602,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 4 tablets",
     "Like2": "Cipla Ltd",
-    "Keywords": "Alendronic Acid (70mg) ADD",
+    "Keywords": "Alendronic Acid (70mg)",
     "quantity": "1" 
   },
   {
@@ -12613,7 +12613,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 10 tablets",
     "Like2": "Sun Pharmaceutical Industries Ltd",
-    "Keywords": "Olanzapine (5mg) ADD",
+    "Keywords": "Olanzapine (5mg)",
     "quantity": "1" 
   },
   {
@@ -12635,7 +12635,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 6 tablets",
     "Like2": "Zydus Healthcare Limited",
-    "Keywords": "Desidustat (50mg) ADD",
+    "Keywords": "Desidustat (50mg)",
     "quantity": "1" 
   },
   {
@@ -12646,7 +12646,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 10 tablets",
     "Like2": "Medley Pharmaceuticals",
-    "Keywords": "Cetirizine (5mg) + Paracetamol (500mg) + Phenylephrine (10mg) ADD",
+    "Keywords": "Cetirizine (5mg) + Paracetamol (500mg) + Phenylephrine (10mg)",
     "quantity": "1" 
   },
   {
@@ -12679,7 +12679,7 @@ var products=[
     "Prescription": "",
     "Like1": "strip of 15 tablets",
     "Like2": "Alembic Pharmaceuticals Ltd",
-    "Keywords": "Calcium Carbonate (1250mg) + Vitamin D3 (2000IU) + Methylcobalamin (1500mcg) + L-Methyl Folate Calcium (1mg) + Pyridoxal-5-phosphate (20mg) ADD",
+    "Keywords": "Calcium Carbonate (1250mg) + Vitamin D3 (2000IU) + Methylcobalamin (1500mcg) + L-Methyl Folate Calcium (1mg) + Pyridoxal-5-phosphate (20mg)",
     "quantity": "1" 
   },
   {
@@ -12690,7 +12690,7 @@ var products=[
     "Prescription": "",
     "Like1": "tube of 30 gm Cream",
     "Like2": "Glenmark Pharmaceuticals Ltd",
-    "Keywords": "Sertaconazole (2% w/w) ADD",
+    "Keywords": "Sertaconazole (2% w/w)",
     "quantity": "1" 
   },
   {
@@ -12701,7 +12701,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 15 tablets",
     "Like2": "Sun Pharmaceutical Industries Ltd",
-    "Keywords": "Dapagliflozin (10mg) + Sitagliptin (100mg) ADD",
+    "Keywords": "Dapagliflozin (10mg) + Sitagliptin (100mg)",
     "quantity": "1" 
   },
   {
@@ -12712,7 +12712,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "bottle of 5 ml Ear Drop",
     "Like2": "Centaur Pharmaceuticals Pvt Ltd",
-    "Keywords": "Neomycin (0.5% w/v) + Beclometasone (0.025% w/v) + Clotrimazole (1% w/v) + Lidocaine (2% w/v) ADD",
+    "Keywords": "Neomycin (0.5% w/v) + Beclometasone (0.025% w/v) + Clotrimazole (1% w/v) + Lidocaine (2% w/v)",
     "quantity": "1" 
   },
   {
@@ -12723,7 +12723,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 20 capsules",
     "Like2": "Zydus Cadila",
-    "Keywords": "Omeprazole (20mg) ADD",
+    "Keywords": "Omeprazole (20mg)",
     "quantity": "1" 
   },
   {
@@ -12734,7 +12734,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 10 tablets",
     "Like2": "Zydus Cadila",
-    "Keywords": "Ofloxacin (200mg) + Ornidazole (500mg) ADD",
+    "Keywords": "Ofloxacin (200mg) + Ornidazole (500mg)",
     "quantity": "1" 
   },
   {
@@ -12745,7 +12745,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "bottle of 10 ml Oral Drops",
     "Like2": "Macleods Pharmaceuticals Pvt Ltd",
-    "Keywords": "Prednisolone (5mg/ml) ADD",
+    "Keywords": "Prednisolone (5mg/ml)",
     "quantity": "1" 
   },
   {
@@ -12756,7 +12756,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 15 tablets",
     "Like2": "Zydus Cadila",
-    "Keywords": "Orciprenaline (10mg) ADD",
+    "Keywords": "Orciprenaline (10mg)",
     "quantity": "1" 
   },
   {
@@ -12767,7 +12767,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 10 tablets",
     "Like2": "Sun Pharmaceutical Industries Ltd",
-    "Keywords": "Oxcarbazepine (150mg) ADD",
+    "Keywords": "Oxcarbazepine (150mg)",
     "quantity": "1" 
   },
   {
@@ -12778,7 +12778,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 10 tablets",
     "Like2": "Cipla Ltd",
-    "Keywords": "Cetirizine (5mg) + Paracetamol (325mg) + Phenylephrine (10mg) ADD",
+    "Keywords": "Cetirizine (5mg) + Paracetamol (325mg) + Phenylephrine (10mg)",
     "quantity": "1" 
   },
   {
@@ -12800,7 +12800,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 10 tablets",
     "Like2": "Alkem Laboratories Ltd",
-    "Keywords": "Obeticholic acid (10mg) ADD",
+    "Keywords": "Obeticholic acid (10mg)",
     "quantity": "1" 
   },
   {
@@ -12811,7 +12811,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 7 tablet er",
     "Like2": "Sun Pharmaceutical Industries Ltd",
-    "Keywords": "Dapagliflozin (10mg) + Metformin (1000mg) ADD",
+    "Keywords": "Dapagliflozin (10mg) + Metformin (1000mg)",
     "quantity": "1" 
   },
   {
@@ -12822,7 +12822,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "tube of 5 gm Eye Ointment",
     "Like2": "Centaur Pharmaceuticals Pvt Ltd",
-    "Keywords": "Chloramphenicol (10mg) + Dexamethasone (1mg) + Polymyxin B (10000IU) ADD",
+    "Keywords": "Chloramphenicol (10mg) + Dexamethasone (1mg) + Polymyxin B (10000IU)",
     "quantity": "1" 
   },
   {
@@ -12844,7 +12844,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "tube of 5 gm Eye Ointment",
     "Like2": "Centaur Pharmaceuticals Pvt Ltd",
-    "Keywords": "Polymyxin B (10000IU/gm) + Chloramphenicol (10mg/gm) ADD",
+    "Keywords": "Polymyxin B (10000IU/gm) + Chloramphenicol (10mg/gm)",
     "quantity": "1" 
   },
   {
@@ -12855,7 +12855,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 10 tablets",
     "Like2": "Medley Pharmaceuticals",
-    "Keywords": "Ofloxacin (100mg) + Ornidazole (250mg) ADD",
+    "Keywords": "Ofloxacin (100mg) + Ornidazole (250mg)",
     "quantity": "1" 
   },
   {
@@ -12866,7 +12866,7 @@ var products=[
     "Prescription": "",
     "Like1": "packet of 10 ml Eye Drop",
     "Like2": "Allergan India Pvt Ltd",
-    "Keywords": "Carboxymethylcellulose (5mg/ml) ADD",
+    "Keywords": "Carboxymethylcellulose (5mg/ml)",
     "quantity": "1" 
   },
   {
@@ -12877,7 +12877,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 15 tablets",
     "Like2": "Macleods Pharmaceuticals Pvt Ltd",
-    "Keywords": "Olmesartan Medoxomil (20mg) ADD",
+    "Keywords": "Olmesartan Medoxomil (20mg)",
     "quantity": "1" 
   },
   {
@@ -12888,7 +12888,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 10 tablets",
     "Like2": "Sun Pharmaceutical Industries Ltd",
-    "Keywords": "Olmesartan Medoxomil (20mg) ADD",
+    "Keywords": "Olmesartan Medoxomil (20mg)",
     "quantity": "1" 
   },
   {
@@ -12899,7 +12899,7 @@ var products=[
     "Prescription": "",
     "Like1": "bottle of 15 ml Dental Gel",
     "Like2": "Elan Pharma India Pvt Ltd",
-    "Keywords": "Choline Salicylate (8% w/v) + Tannic Acid (5% w/v) ADD",
+    "Keywords": "Choline Salicylate (8% w/v) + Tannic Acid (5% w/v)",
     "quantity": "1" 
   },
   {
@@ -12910,7 +12910,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 10 tablets",
     "Like2": "Aristo Pharmaceuticals Pvt Ltd",
-    "Keywords": "Cefixime (200mg) ADD",
+    "Keywords": "Cefixime (200mg)",
     "quantity": "1" 
   },
   {
@@ -12921,7 +12921,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 4 tablets",
     "Like2": "Ind Swift Laboratories Ltd",
-    "Keywords": "Sildenafil (100mg) ADD",
+    "Keywords": "Sildenafil (100mg)",
     "quantity": "1" 
   },
   {
@@ -12932,7 +12932,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 15 capsule pr",
     "Like2": "Sun Pharmaceutical Industries Ltd",
-    "Keywords": "Domperidone (30mg) + Pantoprazole (40mg) ADD",
+    "Keywords": "Domperidone (30mg) + Pantoprazole (40mg)",
     "quantity": "1" 
   },
   {
@@ -12943,7 +12943,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 15 tablets",
     "Like2": "Aristo Pharmaceuticals Pvt Ltd",
-    "Keywords": "Pantoprazole (40mg) ADD",
+    "Keywords": "Pantoprazole (40mg)",
     "quantity": "1" 
   },
   {
@@ -12965,7 +12965,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 10 capsule pr",
     "Like2": "Aristo Pharmaceuticals Pvt Ltd",
-    "Keywords": "Domperidone (30mg) + Pantoprazole (40mg) ADD",
+    "Keywords": "Domperidone (30mg) + Pantoprazole (40mg)",
     "quantity": "1" 
   },
   {
@@ -12976,7 +12976,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 10 tablet er",
     "Like2": "Sun Pharmaceutical Industries Ltd",
-    "Keywords": "Metoprolol Succinate (23.75mg) ADD",
+    "Keywords": "Metoprolol Succinate (23.75mg)",
     "quantity": "1" 
   },
   {
@@ -12987,7 +12987,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 10 tablets",
     "Like2": "Ipca Laboratories Ltd",
-    "Keywords": "Metoclopramide (10mg) ADD",
+    "Keywords": "Metoclopramide (10mg)",
     "quantity": "1" 
   },
   {
@@ -12998,7 +12998,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 15 capsules",
     "Like2": "Torrent Pharmaceuticals Ltd",
-    "Keywords": "Pregabalin (75mg) ADD",
+    "Keywords": "Pregabalin (75mg)",
     "quantity": "1" 
   },
   {
@@ -13009,7 +13009,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 10 capsule pr",
     "Like2": "Cipla Ltd",
-    "Keywords": "Domperidone (30mg) + Pantoprazole (40mg) ADD",
+    "Keywords": "Domperidone (30mg) + Pantoprazole (40mg)",
     "quantity": "1" 
   },
   {
@@ -13031,7 +13031,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 30 tablets",
     "Like2": "Pfizer Ltd",
-    "Keywords": "Trihexyphenidyl (2mg) ADD",
+    "Keywords": "Trihexyphenidyl (2mg)",
     "quantity": "1" 
   },
   {
@@ -13042,7 +13042,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "bottle of 100 ml Syrup",
     "Like2": "Glaxo SmithKline Pharmaceuticals Ltd",
-    "Keywords": "Chlorpheniramine Maleate (4mg/5ml) + Dextromethorphan Hydrobromide (10mg/5ml) ADD",
+    "Keywords": "Chlorpheniramine Maleate (4mg/5ml) + Dextromethorphan Hydrobromide (10mg/5ml)",
     "quantity": "1" 
   },
   {
@@ -13053,7 +13053,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 10 capsules",
     "Like2": "Aristo Pharmaceuticals Pvt Ltd",
-    "Keywords": "Domperidone (10mg) + Pantoprazole (20mg) ADD",
+    "Keywords": "Domperidone (10mg) + Pantoprazole (20mg)",
     "quantity": "1" 
   },
   {
@@ -13064,7 +13064,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 15 tablets",
     "Like2": "Sun Pharmaceutical Industries Ltd",
-    "Keywords": "Pantoprazole (40mg) ADD",
+    "Keywords": "Pantoprazole (40mg)",
     "quantity": "1" 
   },
   {
@@ -13075,7 +13075,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 10 tablets",
     "Like2": "Emcure Pharmaceuticals Ltd",
-    "Keywords": "Tranexamic Acid (500mg) ADD",
+    "Keywords": "Tranexamic Acid (500mg)",
     "quantity": "1" 
   },
   {
@@ -13097,7 +13097,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 15 capsules",
     "Like2": "Torrent Pharmaceuticals Ltd",
-    "Keywords": "Methylcobalamin (750mcg) + Pregabalin (75mg) ADD",
+    "Keywords": "Methylcobalamin (750mcg) + Pregabalin (75mg)",
     "quantity": "1" 
   },
   {
@@ -13108,7 +13108,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 15 tablets",
     "Like2": "Intas Pharmaceuticals Ltd",
-    "Keywords": "Pregabalin (75mg) + Nortriptyline (10mg) ADD",
+    "Keywords": "Pregabalin (75mg) + Nortriptyline (10mg)",
     "quantity": "1" 
   },
   {
@@ -13130,7 +13130,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 10 tablets",
     "Like2": "Torrent Pharmaceuticals Ltd",
-    "Keywords": "Pregabalin (75mg) + Nortriptyline (10mg) ADD",
+    "Keywords": "Pregabalin (75mg) + Nortriptyline (10mg)",
     "quantity": "1" 
   },
   {
@@ -13152,7 +13152,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 10 tablet er",
     "Like2": "Sun Pharmaceutical Industries Ltd",
-    "Keywords": "Metoprolol Succinate (47.5mg) ADD",
+    "Keywords": "Metoprolol Succinate (47.5mg)",
     "quantity": "1" 
   },
   {
@@ -13163,7 +13163,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "vial of 2 ml Injection",
     "Like2": "Zydus Cadila",
-    "Keywords": "Hydroxyprogesterone (250mg/ml) ADD",
+    "Keywords": "Hydroxyprogesterone (250mg/ml)",
     "quantity": "1" 
   },
   {
@@ -13174,7 +13174,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "vial of 2 ml Injection",
     "Like2": "Albert David Ltd",
-    "Keywords": "Placenta Extracts (0.1gm) ADD",
+    "Keywords": "Placenta Extracts (0.1gm)",
     "quantity": "1" 
   },
   {
@@ -13185,7 +13185,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 10 tablets",
     "Like2": "Torrent Pharmaceuticals Ltd",
-    "Keywords": "Prucalopride (2mg) ADD",
+    "Keywords": "Prucalopride (2mg)",
     "quantity": "1" 
   },
   {
@@ -13207,7 +13207,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 15 tablets",
     "Like2": "Abbott",
-    "Keywords": "Pancreatin (170mg) + Dimethicone (80mg) ADD",
+    "Keywords": "Pancreatin (170mg) + Dimethicone (80mg)",
     "quantity": "1" 
   },
   {
@@ -13218,7 +13218,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 15 tablets",
     "Like2": "Abbott",
-    "Keywords": "Dosulepin (25mg) ADD",
+    "Keywords": "Dosulepin (25mg)",
     "quantity": "1" 
   },
   {
@@ -13229,7 +13229,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 10 tablets",
     "Like2": "Cipla Ltd",
-    "Keywords": "Pantoprazole (40mg) ADD",
+    "Keywords": "Pantoprazole (40mg)",
     "quantity": "1" 
   },
   {
@@ -13240,7 +13240,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 30 Tablet OPS",
     "Like2": "Sun Pharmaceutical Industries Ltd",
-    "Keywords": "Prazosin (5mg) ADD",
+    "Keywords": "Prazosin (5mg)",
     "quantity": "1" 
   },
   {
@@ -13262,7 +13262,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "vial of 1 Injection",
     "Like2": "Alkem Laboratories Ltd",
-    "Keywords": "Piperacillin (4000mg) + Tazobactum (500mg) ADD",
+    "Keywords": "Piperacillin (4000mg) + Tazobactum (500mg)",
     "quantity": "1" 
   },
   {
@@ -13284,7 +13284,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 10 tablets",
     "Like2": "Abbott",
-    "Keywords": "Penicillin G (400000IU) ADD",
+    "Keywords": "Penicillin G (400000IU)",
     "quantity": "1" 
   },
   {
@@ -13306,7 +13306,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 10 tablets",
     "Like2": "Dr Reddy's Laboratories Ltd",
-    "Keywords": "Cyproheptadine (4mg) ADD",
+    "Keywords": "Cyproheptadine (4mg)",
     "quantity": "1" 
   },
   {
@@ -13328,7 +13328,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 10 tablets",
     "Like2": "Aksigen Hospital Care",
-    "Keywords": "Bromelain (90mg) + Trypsin (48mg) + Rutoside (100mg) ADD",
+    "Keywords": "Bromelain (90mg) + Trypsin (48mg) + Rutoside (100mg)",
     "quantity": "1" 
   },
   {
@@ -13339,7 +13339,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "vial of 2 ml Injection",
     "Like2": "Ipca Laboratories Ltd",
-    "Keywords": "Metoclopramide (5mg/ml) ADD",
+    "Keywords": "Metoclopramide (5mg/ml)",
     "quantity": "1" 
   },
   {
@@ -13350,7 +13350,7 @@ var products=[
     "Prescription": "",
     "Like1": "tube of 20 gm Gel",
     "Like2": "Albert David Ltd",
-    "Keywords": "Placenta Extracts (0.1gm) ADD",
+    "Keywords": "Placenta Extracts (0.1gm)",
     "quantity": "1" 
   },
   {
@@ -13361,7 +13361,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "tube of 15 gm Cream",
     "Like2": "Macleods Pharmaceuticals Pvt Ltd",
-    "Keywords": "Clobetasol (0.05% w/w) + Miconazole (2% w/w) + Neomycin (0.5% w/w) ADD",
+    "Keywords": "Clobetasol (0.05% w/w) + Miconazole (2% w/w) + Neomycin (0.5% w/w)",
     "quantity": "1" 
   },
   {
@@ -13372,7 +13372,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 10 tablets",
     "Like2": "Micro Labs Ltd",
-    "Keywords": "Cefuroxime (500mg) ADD",
+    "Keywords": "Cefuroxime (500mg)",
     "quantity": "1" 
   },
   {
@@ -13383,7 +13383,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 10 capsule pr",
     "Like2": "Mankind Pharma Ltd",
-    "Keywords": "Domperidone (30mg) + Pantoprazole (40mg) ADD",
+    "Keywords": "Domperidone (30mg) + Pantoprazole (40mg)",
     "quantity": "1" 
   },
   {
@@ -13394,7 +13394,7 @@ var products=[
     "Prescription": "",
     "Like1": "tube of 60 gm Cream",
     "Like2": "Curatio Healthcare India Pvt Ltd",
-    "Keywords": "Permethrin (5% w/w) ADD",
+    "Keywords": "Permethrin (5% w/w)",
     "quantity": "1" 
   },
   {
@@ -13405,7 +13405,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 10 tablets",
     "Like2": "A. Menarini India Pvt Ltd",
-    "Keywords": "Phenazopyridine (200mg) ADD",
+    "Keywords": "Phenazopyridine (200mg)",
     "quantity": "1" 
   },
   {
@@ -13427,7 +13427,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "packet of 10 ml Opthalmic Suspension",
     "Like2": "Allergan India Pvt Ltd",
-    "Keywords": "Prednisolone (1% w/v) ADD",
+    "Keywords": "Prednisolone (1% w/v)",
     "quantity": "1" 
   },
   {
@@ -13438,7 +13438,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 10 capsules",
     "Like2": "Sun Pharmaceutical Industries Ltd",
-    "Keywords": "Fluoxetine (20mg) ADD",
+    "Keywords": "Fluoxetine (20mg)",
     "quantity": "1" 
   },
   {
@@ -13449,7 +13449,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 10 capsules",
     "Like2": "Cipla Ltd",
-    "Keywords": "Methylcobalamin (750mcg) + Pregabalin (75mg) ADD",
+    "Keywords": "Methylcobalamin (750mcg) + Pregabalin (75mg)",
     "quantity": "1" 
   },
   {
@@ -13471,7 +13471,7 @@ var products=[
     "Prescription": "",
     "Like1": "strip of 10 tablets",
     "Like2": "Cipla Ltd",
-    "Keywords": "Paracetamol (500mg) ADD",
+    "Keywords": "Paracetamol (500mg)",
     "quantity": "1" 
   },
   {
@@ -13482,7 +13482,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 15 Tablet pr",
     "Like2": "Ipca Laboratories Ltd",
-    "Keywords": "Paroxetine (12.5mg) ADD",
+    "Keywords": "Paroxetine (12.5mg)",
     "quantity": "1" 
   },
   {
@@ -13504,7 +13504,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 10 capsules",
     "Like2": "Aristo Pharmaceuticals Pvt Ltd",
-    "Keywords": "Silodosin (8mg) + Dutasteride (0.5mg) ADD",
+    "Keywords": "Silodosin (8mg) + Dutasteride (0.5mg)",
     "quantity": "1" 
   },
   {
@@ -13526,7 +13526,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "tube of 20 gm Ointment",
     "Like2": "Hegde and Hegde Pharmaceutical LLP",
-    "Keywords": "Clobetasol (0.05% w/w) + Salicylic Acid (3.5% w/w) ADD",
+    "Keywords": "Clobetasol (0.05% w/w) + Salicylic Acid (3.5% w/w)",
     "quantity": "1" 
   },
   {
@@ -13537,7 +13537,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "tube of 10 gm Cream",
     "Like2": "Abbott",
-    "Keywords": "Beclometasone (0.025% w/w) + Neomycin (0.5% w/w) + Clotrimazole (1% w/w) ADD",
+    "Keywords": "Beclometasone (0.025% w/w) + Neomycin (0.5% w/w) + Clotrimazole (1% w/w)",
     "quantity": "1" 
   },
   {
@@ -13548,7 +13548,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 10 tablets",
     "Like2": "Sun Pharmaceutical Industries Ltd",
-    "Keywords": "Quetiapine (25mg) ADD",
+    "Keywords": "Quetiapine (25mg)",
     "quantity": "1" 
   },
   {
@@ -13559,7 +13559,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 10 tablets",
     "Like2": "Intas Pharmaceuticals Ltd",
-    "Keywords": "Quetiapine (25mg) ADD",
+    "Keywords": "Quetiapine (25mg)",
     "quantity": "1" 
   },
   {
@@ -13570,7 +13570,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 10 tablets",
     "Like2": "Sun Pharmaceutical Industries Ltd",
-    "Keywords": "Quetiapine (50mg) ADD",
+    "Keywords": "Quetiapine (50mg)",
     "quantity": "1" 
   },
   {
@@ -13581,7 +13581,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 10 tablets",
     "Like2": "Alkem Laboratories Ltd",
-    "Keywords": "Acebrophylline (100mg) + Acetylcysteine (600mg) ADD",
+    "Keywords": "Acebrophylline (100mg) + Acetylcysteine (600mg)",
     "quantity": "1" 
   },
   {
@@ -13592,7 +13592,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 10 tablets",
     "Like2": "Intas Pharmaceuticals Ltd",
-    "Keywords": "Quetiapine (50mg) ADD",
+    "Keywords": "Quetiapine (50mg)",
     "quantity": "1" 
   },
   {
@@ -13614,7 +13614,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 10 tablets",
     "Like2": "Sun Pharmaceutical Industries Ltd",
-    "Keywords": "Quetiapine (100mg) ADD",
+    "Keywords": "Quetiapine (100mg)",
     "quantity": "1" 
   },
   {
@@ -13625,7 +13625,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 10 tablets",
     "Like2": "Alkem Laboratories Ltd",
-    "Keywords": "Ofloxacin (200mg) ADD",
+    "Keywords": "Ofloxacin (200mg)",
     "quantity": "1" 
   },
   {
@@ -13636,7 +13636,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 10 Effervescent Tablet",
     "Like2": "Alkem Laboratories Ltd",
-    "Keywords": "Acetylcysteine (600mg) ADD",
+    "Keywords": "Acetylcysteine (600mg)",
     "quantity": "1" 
   },
   {
@@ -13658,7 +13658,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "tube of 5 gm Cream",
     "Like2": "Abbott",
-    "Keywords": "Beclometasone (0.025% w/w) + Neomycin (0.5% w/w) + Clotrimazole (1% w/w) ADD",
+    "Keywords": "Beclometasone (0.025% w/w) + Neomycin (0.5% w/w) + Clotrimazole (1% w/w)",
     "quantity": "1" 
   },
   {
@@ -13669,7 +13669,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 10 tablets",
     "Like2": "Intas Pharmaceuticals Ltd",
-    "Keywords": "Quetiapine (100mg) ADD",
+    "Keywords": "Quetiapine (100mg)",
     "quantity": "1" 
   },
   {
@@ -13680,7 +13680,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 10 tablets",
     "Like2": "Nexgen Pharma",
-    "Keywords": "Coenzyme Q10 (100mg) + Levo-carnitine (500mg) + Zinc Oxide (10mg) + Selenium (50mcg) ADD",
+    "Keywords": "Coenzyme Q10 (100mg) + Levo-carnitine (500mg) + Zinc Oxide (10mg) + Selenium (50mcg)",
     "quantity": "1" 
   },
   {
@@ -13691,7 +13691,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 10 tablets",
     "Like2": "Nexgen Pharma",
-    "Keywords": "Coenzyme Q10 (50mg) + Levo-carnitine (500mg) ADD",
+    "Keywords": "Coenzyme Q10 (50mg) + Levo-carnitine (500mg)",
     "quantity": "1" 
   },
   {
@@ -13713,7 +13713,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 14 tablets",
     "Like2": "AstraZeneca",
-    "Keywords": "Saxagliptin (5mg) + Dapagliflozin (10mg) ADD",
+    "Keywords": "Saxagliptin (5mg) + Dapagliflozin (10mg)",
     "quantity": "1" 
   },
   {
@@ -13724,7 +13724,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 10 tablets",
     "Like2": "Ipca Laboratories Ltd",
-    "Keywords": "Quetiapine (25mg) ADD",
+    "Keywords": "Quetiapine (25mg)",
     "quantity": "1" 
   },
   {
@@ -13746,7 +13746,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 10 tablets",
     "Like2": "Sun Pharmaceutical Industries Ltd",
-    "Keywords": "Quetiapine (200mg) ADD",
+    "Keywords": "Quetiapine (200mg)",
     "quantity": "1" 
   },
   {
@@ -13757,7 +13757,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 10 tablets",
     "Like2": "Torrent Pharmaceuticals Ltd",
-    "Keywords": "Quetiapine (25mg) ADD",
+    "Keywords": "Quetiapine (25mg)",
     "quantity": "1" 
   },
   {
@@ -13779,7 +13779,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 10 Tablet pr",
     "Like2": "Sun Pharmaceutical Industries Ltd",
-    "Keywords": "Quetiapine (100mg) ADD",
+    "Keywords": "Quetiapine (100mg)",
     "quantity": "1" 
   },
   {
@@ -13790,7 +13790,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 10 tablets",
     "Like2": "Alkem Laboratories Ltd",
-    "Keywords": "Ofloxacin (200mg) + Ornidazole (500mg) ADD",
+    "Keywords": "Ofloxacin (200mg) + Ornidazole (500mg)",
     "quantity": "1" 
   },
   {
@@ -13801,7 +13801,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 10 Tablet pr",
     "Like2": "Intas Pharmaceuticals Ltd",
-    "Keywords": "Quetiapine (100mg) ADD",
+    "Keywords": "Quetiapine (100mg)",
     "quantity": "1" 
   },
   {
@@ -13812,7 +13812,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 10 Tablet pr",
     "Like2": "Sun Pharmaceutical Industries Ltd",
-    "Keywords": "Quetiapine (200mg) ADD",
+    "Keywords": "Quetiapine (200mg)",
     "quantity": "1" 
   },
   {
@@ -13823,7 +13823,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 10 Tablet pr",
     "Like2": "Sun Pharmaceutical Industries Ltd",
-    "Keywords": "Quetiapine (50mg) ADD",
+    "Keywords": "Quetiapine (50mg)",
     "quantity": "1" 
   },
   {
@@ -13834,7 +13834,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "tube of 5 gm Eye Ointment",
     "Like2": "Sapient Laboratories Pvt Ltd",
-    "Keywords": "Chloramphenicol (10mg) + Hydrocortisone (5mg) ADD",
+    "Keywords": "Chloramphenicol (10mg) + Hydrocortisone (5mg)",
     "quantity": "1" 
   },
   {
@@ -13845,7 +13845,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 10 Tablet pr",
     "Like2": "Sun Pharmaceutical Industries Ltd",
-    "Keywords": "Quetiapine (300mg) ADD",
+    "Keywords": "Quetiapine (300mg)",
     "quantity": "1" 
   },
   {
@@ -13856,7 +13856,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 10 Tablet pr",
     "Like2": "Intas Pharmaceuticals Ltd",
-    "Keywords": "Quetiapine (50mg) ADD",
+    "Keywords": "Quetiapine (50mg)",
     "quantity": "1" 
   },
   {
@@ -13867,7 +13867,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 30 capsules",
     "Like2": "Intas Pharmaceuticals Ltd",
-    "Keywords": "Formoterol (6mcg) + Budesonide (200mcg) ADD",
+    "Keywords": "Formoterol (6mcg) + Budesonide (200mcg)",
     "quantity": "1" 
   },
   {
@@ -13900,7 +13900,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 10 tablets",
     "Like2": "Ipca Laboratories Ltd",
-    "Keywords": "Quetiapine (50mg) ADD",
+    "Keywords": "Quetiapine (50mg)",
     "quantity": "1" 
   },
   {
@@ -13911,7 +13911,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 10 tablet sr",
     "Like2": "Solvate Laboratries Pvt Ltd",
-    "Keywords": "Progesterone (Natural Micronized) (300mg) ADD",
+    "Keywords": "Progesterone (Natural Micronized) (300mg)",
     "quantity": "1" 
   },
   {
@@ -13933,7 +13933,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "prefilled syringe of 0.5 ml Injection",
     "Like2": "Serum Institute Of India Ltd",
-    "Keywords": "Diphtheria Toxoid (25LF) + Haemophilus Type B Conjugate Vaccine (10mcg) + Pertussis Toxoid (16OU) + Tetanus Toxoid (2.5LF) ADD",
+    "Keywords": "Diphtheria Toxoid (25LF) + Haemophilus Type B Conjugate Vaccine (10mcg) + Pertussis Toxoid (16OU) + Tetanus Toxoid (2.5LF)",
     "quantity": "1" 
   },
   {
@@ -13944,7 +13944,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "vial of 1 Injection",
     "Like2": "La Renon Healthcare Pvt Ltd",
-    "Keywords": "Iron Sucrose (20mg/ml) ADD",
+    "Keywords": "Iron Sucrose (20mg/ml)",
     "quantity": "1" 
   },
   {
@@ -13966,7 +13966,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "tube of 10 gm Cream",
     "Like2": "Rockmed Pharma Pvt. Ltd.",
-    "Keywords": "Fluticasone Propionate (0.05% w/w) ADD",
+    "Keywords": "Fluticasone Propionate (0.05% w/w)",
     "quantity": "1" 
   },
   {
@@ -14032,7 +14032,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 10 Tablet pr",
     "Like2": "Intas Pharmaceuticals Ltd",
-    "Keywords": "Quetiapine (200mg) ADD",
+    "Keywords": "Quetiapine (200mg)",
     "quantity": "1" 
   },
   {
@@ -14043,7 +14043,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 10 tablets",
     "Like2": "Intas Pharmaceuticals Ltd",
-    "Keywords": "Quetiapine (200mg) ADD",
+    "Keywords": "Quetiapine (200mg)",
     "quantity": "1" 
   },
   {
@@ -14054,7 +14054,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 10 tablet sr",
     "Like2": "Ipca Laboratories Ltd",
-    "Keywords": "Quetiapine (50mg) ADD",
+    "Keywords": "Quetiapine (50mg)",
     "quantity": "1" 
   },
   {
@@ -14065,7 +14065,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 10 Tablet pr",
     "Like2": "Sun Pharmaceutical Industries Ltd",
-    "Keywords": "Quetiapine (400mg) ADD",
+    "Keywords": "Quetiapine (400mg)",
     "quantity": "1" 
   },
   {
@@ -14076,7 +14076,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "packet of 0.5 ml Injection",
     "Like2": "Serum Institute Of India Ltd",
-    "Keywords": "Diphtheria Toxoid (30IU) + Haemophilus Type B Conjugate Vaccine (10mcg) + Pertussis Toxoid (4IU) + Tetanus Toxoid (40IU) ADD",
+    "Keywords": "Diphtheria Toxoid (30IU) + Haemophilus Type B Conjugate Vaccine (10mcg) + Pertussis Toxoid (4IU) + Tetanus Toxoid (40IU)",
     "quantity": "1" 
   },
   {
@@ -14120,7 +14120,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 10 tablets",
     "Like2": "Torrent Pharmaceuticals Ltd",
-    "Keywords": "Quetiapine (50mg) ADD",
+    "Keywords": "Quetiapine (50mg)",
     "quantity": "1" 
   },
   {
@@ -14175,7 +14175,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "tube of 30 gm Dental Gel",
     "Like2": "Fourrts India Laboratories Pvt Ltd",
-    "Keywords": "Lidocaine (2% w/w) + Chlorhexidine Gluconate (1% w/w) + Metronidazole (1% w/w) ADD",
+    "Keywords": "Lidocaine (2% w/w) + Chlorhexidine Gluconate (1% w/w) + Metronidazole (1% w/w)",
     "quantity": "1" 
   },
   {
@@ -14197,7 +14197,7 @@ var products=[
     "Prescription": "",
     "Like1": "bottle of 10 ml Eye Drop",
     "Like2": "Allergan India Pvt Ltd",
-    "Keywords": "Carboxymethylcellulose (0.5% w/v) ADD",
+    "Keywords": "Carboxymethylcellulose (0.5% w/v)",
     "quantity": "1" 
   },
   {
@@ -14208,7 +14208,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 10 tablets",
     "Like2": "Torrent Pharmaceuticals Ltd",
-    "Keywords": "Norethisterone (5mg) ADD",
+    "Keywords": "Norethisterone (5mg)",
     "quantity": "1" 
   },
   {
@@ -14219,7 +14219,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 10 tablets",
     "Like2": "Sun Pharmaceutical Industries Ltd",
-    "Keywords": "Rifaximin (400mg) ADD",
+    "Keywords": "Rifaximin (400mg)",
     "quantity": "1" 
   },
   {
@@ -14230,7 +14230,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 30 tablets",
     "Like2": "J B Chemicals and Pharmaceuticals Ltd",
-    "Keywords": "Ranitidine (150mg) ADD",
+    "Keywords": "Ranitidine (150mg)",
     "quantity": "1" 
   },
   {
@@ -14241,7 +14241,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "bottle of 120 ml Syrup",
     "Like2": "Dr Reddy's Laboratories Ltd",
-    "Keywords": "Chlorpheniramine Maleate (2mg/5ml) + Levodropropizine (30mg/5ml) ADD",
+    "Keywords": "Chlorpheniramine Maleate (2mg/5ml) + Levodropropizine (30mg/5ml)",
     "quantity": "1" 
   },
   {
@@ -14263,7 +14263,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 15 tablets",
     "Like2": "Sun Pharmaceutical Industries Ltd",
-    "Keywords": "Rosuvastatin (10mg) ADD",
+    "Keywords": "Rosuvastatin (10mg)",
     "quantity": "1" 
   },
   {
@@ -14274,7 +14274,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 15 capsules",
     "Like2": "Dr Reddy's Laboratories Ltd",
-    "Keywords": "Racecadotril (100mg) ADD",
+    "Keywords": "Racecadotril (100mg)",
     "quantity": "1" 
   },
   {
@@ -14285,7 +14285,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "bottle of 60 ml Syrup",
     "Like2": "Dr Reddy's Laboratories Ltd",
-    "Keywords": "Cetirizine (5mg/5ml) + Ambroxol (30mg/5ml) ADD",
+    "Keywords": "Cetirizine (5mg/5ml) + Ambroxol (30mg/5ml)",
     "quantity": "1" 
   },
   {
@@ -14296,7 +14296,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 15 capsule sr",
     "Like2": "Dr Reddy's Laboratories Ltd",
-    "Keywords": "Domperidone (30mg) + Rabeprazole (20mg) ADD",
+    "Keywords": "Domperidone (30mg) + Rabeprazole (20mg)",
     "quantity": "1" 
   },
   {
@@ -14318,7 +14318,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 15 tablets",
     "Like2": "Dr Reddy's Laboratories Ltd",
-    "Keywords": "Cetirizine (5mg) + Ambroxol (60mg) ADD",
+    "Keywords": "Cetirizine (5mg) + Ambroxol (60mg)",
     "quantity": "1" 
   },
   {
@@ -14329,7 +14329,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "bottle of 100 ml Syrup",
     "Like2": "Macleods Pharmaceuticals Pvt Ltd",
-    "Keywords": "Levodropropizine (30mg/5ml) ADD",
+    "Keywords": "Levodropropizine (30mg/5ml)",
     "quantity": "1" 
   },
   {
@@ -14340,7 +14340,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 10 tablets",
     "Like2": "Alembic Pharmaceuticals Ltd",
-    "Keywords": "Roxithromycin (150mg) ADD",
+    "Keywords": "Roxithromycin (150mg)",
     "quantity": "1" 
   },
   {
@@ -14351,7 +14351,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 10 capsules",
     "Like2": "Cipla Ltd",
-    "Keywords": "Loperamide (2mg) ADD",
+    "Keywords": "Loperamide (2mg)",
     "quantity": "1" 
   },
   {
@@ -14362,7 +14362,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 10 tablets",
     "Like2": "Sun Pharmaceutical Industries Ltd",
-    "Keywords": "Rifaximin (550mg) ADD",
+    "Keywords": "Rifaximin (550mg)",
     "quantity": "1" 
   },
   {
@@ -14373,7 +14373,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 15 tablets",
     "Like2": "USV Ltd",
-    "Keywords": "Rosuvastatin (10mg) ADD",
+    "Keywords": "Rosuvastatin (10mg)",
     "quantity": "1" 
   },
   {
@@ -14384,7 +14384,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 10 capsule sr",
     "Like2": "Mankind Pharma Ltd",
-    "Keywords": "Domperidone (30mg) + Rabeprazole (20mg) ADD",
+    "Keywords": "Domperidone (30mg) + Rabeprazole (20mg)",
     "quantity": "1" 
   },
   {
@@ -14395,7 +14395,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "bottle of 100 ml Syrup",
     "Like2": "Cipla Ltd",
-    "Keywords": "Chlorpheniramine Maleate (2mg/5ml) + Dextromethorphan Hydrobromide (10mg/5ml) ADD",
+    "Keywords": "Chlorpheniramine Maleate (2mg/5ml) + Dextromethorphan Hydrobromide (10mg/5ml)",
     "quantity": "1" 
   },
   {
@@ -14406,7 +14406,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "tube of 15 gm Dental Gel",
     "Like2": "Indoco Remedies Ltd",
-    "Keywords": "Lidocaine (2% w/w) + Chlorhexidine Gluconate (1% w/w) + Metronidazole (1% w/w) ADD",
+    "Keywords": "Lidocaine (2% w/w) + Chlorhexidine Gluconate (1% w/w) + Metronidazole (1% w/w)",
     "quantity": "1" 
   },
   {
@@ -14417,7 +14417,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 10 capsule sr",
     "Like2": "Cipla Ltd",
-    "Keywords": "Domperidone (30mg) + Rabeprazole (20mg) ADD",
+    "Keywords": "Domperidone (30mg) + Rabeprazole (20mg)",
     "quantity": "1" 
   },
   {
@@ -14428,7 +14428,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 15 tablets",
     "Like2": "Sun Pharmaceutical Industries Ltd",
-    "Keywords": "Fenofibrate (160mg) + Rosuvastatin (10mg) ADD",
+    "Keywords": "Fenofibrate (160mg) + Rosuvastatin (10mg)",
     "quantity": "1" 
   },
   {
@@ -14450,7 +14450,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 10 tablets",
     "Like2": "Macleods Pharmaceuticals Pvt Ltd",
-    "Keywords": "Rebamipide (100mg) ADD",
+    "Keywords": "Rebamipide (100mg)",
     "quantity": "1" 
   },
   {
@@ -14461,7 +14461,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 10 tablets",
     "Like2": "Sun Pharmaceutical Industries Ltd",
-    "Keywords": "Rosuvastatin (10mg) ADD",
+    "Keywords": "Rosuvastatin (10mg)",
     "quantity": "1" 
   },
   {
@@ -14472,7 +14472,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 15 tablets",
     "Like2": "Dr Reddy's Laboratories Ltd",
-    "Keywords": "Rabeprazole (20mg) ADD",
+    "Keywords": "Rabeprazole (20mg)",
     "quantity": "1" 
   },
   {
@@ -14483,7 +14483,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 10 capsule sr",
     "Like2": "Lupin Ltd",
-    "Keywords": "Domperidone (30mg) + Rabeprazole (20mg) ADD",
+    "Keywords": "Domperidone (30mg) + Rabeprazole (20mg)",
     "quantity": "1" 
   },
   {
@@ -14505,7 +14505,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "bottle of 200 ml Oral Suspension",
     "Like2": "Sun Pharmaceutical Industries Ltd",
-    "Keywords": "Alginic Acid (250mg/5ml) + Calcium Carbonate (80mg/5ml) + Sodium Bicarbonate (133.5mg/5ml) ADD",
+    "Keywords": "Alginic Acid (250mg/5ml) + Calcium Carbonate (80mg/5ml) + Sodium Bicarbonate (133.5mg/5ml)",
     "quantity": "1" 
   },
   {
@@ -14516,7 +14516,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "bottle of 100 ml Syrup",
     "Like2": "Macleods Pharmaceuticals Pvt Ltd",
-    "Keywords": "Chlorpheniramine Maleate (2mg/5ml) + Levodropropizine (30mg/5ml) ADD",
+    "Keywords": "Chlorpheniramine Maleate (2mg/5ml) + Levodropropizine (30mg/5ml)",
     "quantity": "1" 
   },
   {
@@ -14527,7 +14527,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "penfill of 3 ml Solution for Injection",
     "Like2": "Novo Nordisk India Pvt Ltd",
-    "Keywords": "Insulin Degludec (2.56mg/1ml) + Insulin Aspart (1.05mg/1ml) ADD",
+    "Keywords": "Insulin Degludec (2.56mg/1ml) + Insulin Aspart (1.05mg/1ml)",
     "quantity": "1" 
   },
   {
@@ -14538,7 +14538,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 10 tablets",
     "Like2": "Lupin Ltd",
-    "Keywords": "Pregabalin (75mg) + Nortriptyline (10mg) + Methylcobalamin (1500mcg) ADD",
+    "Keywords": "Pregabalin (75mg) + Nortriptyline (10mg) + Methylcobalamin (1500mcg)",
     "quantity": "1" 
   },
   {
@@ -14549,7 +14549,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 15 tablets",
     "Like2": "Lupin Ltd",
-    "Keywords": "Rabeprazole (20mg) ADD",
+    "Keywords": "Rabeprazole (20mg)",
     "quantity": "1" 
   },
   {
@@ -14571,7 +14571,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 15 capsule sr",
     "Like2": "Intas Pharmaceuticals Ltd",
-    "Keywords": "Domperidone (30mg) + Rabeprazole (20mg) ADD",
+    "Keywords": "Domperidone (30mg) + Rabeprazole (20mg)",
     "quantity": "1" 
   },
   {
@@ -14582,7 +14582,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 10 tablet er",
     "Like2": "Sun Pharmaceutical Industries Ltd",
-    "Keywords": "Ranolazine (500mg) ADD",
+    "Keywords": "Ranolazine (500mg)",
     "quantity": "1" 
   },
   {
@@ -14593,7 +14593,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 10 tablets",
     "Like2": "La Renon Healthcare Pvt Ltd",
-    "Keywords": "Alpha Ketoanalogue (NA) ADD",
+    "Keywords": "Alpha Ketoanalogue (NA)",
     "quantity": "1" 
   },
   {
@@ -14604,7 +14604,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 10 tablets",
     "Like2": "Mankind Pharma Ltd",
-    "Keywords": "Metadoxine (500mg) + Silymarin (140mg) + L-Ornithine L-Aspartate (150mg) + Vitamin B6 (Pyridoxine) (3mg) + Folic Acid (1.5mg) ADD",
+    "Keywords": "Metadoxine (500mg) + Silymarin (140mg) + L-Ornithine L-Aspartate (150mg) + Vitamin B6 (Pyridoxine) (3mg) + Folic Acid (1.5mg)",
     "quantity": "1" 
   },
   {
@@ -14615,7 +14615,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 10 tablets",
     "Like2": "Sun Pharmaceutical Industries Ltd",
-    "Keywords": "Rosuvastatin (20mg) ADD",
+    "Keywords": "Rosuvastatin (20mg)",
     "quantity": "1" 
   },
   {
@@ -14626,7 +14626,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 10 tablet cr",
     "Like2": "Torrent Pharmaceuticals Ltd",
-    "Keywords": "Norethisterone (10mg) ADD",
+    "Keywords": "Norethisterone (10mg)",
     "quantity": "1" 
   },
   {
@@ -14659,7 +14659,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 10 tablets",
     "Like2": "Novo Nordisk India Pvt Ltd",
-    "Keywords": "Semaglutide (3mg) ADD",
+    "Keywords": "Semaglutide (3mg)",
     "quantity": "1" 
   },
   {
@@ -14670,7 +14670,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 10 tablets",
     "Like2": "Shreya Life Sciences Pvt Ltd",
-    "Keywords": "Paracetamol (500mg) + Pseudoephedrine (60mg) + Triprolidine (2.5mg) ADD",
+    "Keywords": "Paracetamol (500mg) + Pseudoephedrine (60mg) + Triprolidine (2.5mg)",
     "quantity": "1" 
   },
   {
@@ -14681,7 +14681,7 @@ var products=[
     "Prescription": "",
     "Like1": "strip of 15 tablets",
     "Like2": "Abbott",
-    "Keywords": "Glucosamine (750mg) + Chondroitin (600mg) ADD",
+    "Keywords": "Glucosamine (750mg) + Chondroitin (600mg)",
     "quantity": "1" 
   },
   {
@@ -14703,7 +14703,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 10 capsules",
     "Like2": "Pure and Cure Healthcare Private Limited",
-    "Keywords": "Aspirin (75mg) + Rosuvastatin (20mg) + Clopidogrel (75mg) ADD",
+    "Keywords": "Aspirin (75mg) + Rosuvastatin (20mg) + Clopidogrel (75mg)",
     "quantity": "1" 
   },
   {
@@ -14747,7 +14747,7 @@ var products=[
     "Prescription": "",
     "Like1": "bottle of 10 ml Eye Drop",
     "Like2": "Allergan India Pvt Ltd",
-    "Keywords": "Carboxymethylcellulose (1% w/v) ADD",
+    "Keywords": "Carboxymethylcellulose (1% w/v)",
     "quantity": "1" 
   },
   {
@@ -14758,7 +14758,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 10 tablets",
     "Like2": "Sun Pharmaceutical Industries Ltd",
-    "Keywords": "Rosuvastatin (10mg) + Clopidogrel (75mg) ADD",
+    "Keywords": "Rosuvastatin (10mg) + Clopidogrel (75mg)",
     "quantity": "1" 
   },
   {
@@ -14769,7 +14769,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 10 tablets",
     "Like2": "Alniche Life Sciences Pvt Ltd",
-    "Keywords": "Taurine (500mg) + Acetylcysteine (150mg) ADD",
+    "Keywords": "Taurine (500mg) + Acetylcysteine (150mg)",
     "quantity": "1" 
   },
   {
@@ -14791,7 +14791,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 10 tablets",
     "Like2": "Lupin Ltd",
-    "Keywords": "Rifaximin (400mg) ADD",
+    "Keywords": "Rifaximin (400mg)",
     "quantity": "1" 
   },
   {
@@ -14802,7 +14802,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "pre-filled pen of 3 ml Solution for Injection",
     "Like2": "Novo Nordisk India Pvt Ltd",
-    "Keywords": "Insulin Degludec (2.56mg) + Insulin Aspart (1.05mg) ADD",
+    "Keywords": "Insulin Degludec (2.56mg) + Insulin Aspart (1.05mg)",
     "quantity": "1" 
   },
   {
@@ -14813,7 +14813,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 10 capsules",
     "Like2": "Sun Pharmaceutical Industries Ltd",
-    "Keywords": "Aspirin (75mg) + Rosuvastatin (20mg) + Clopidogrel (75mg) ADD",
+    "Keywords": "Aspirin (75mg) + Rosuvastatin (20mg) + Clopidogrel (75mg)",
     "quantity": "1" 
   },
   {
@@ -14835,7 +14835,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 10 tablets",
     "Like2": "Sun Pharmaceutical Industries Ltd",
-    "Keywords": "Rosuvastatin (10mg) + Clopidogrel (75mg) ADD",
+    "Keywords": "Rosuvastatin (10mg) + Clopidogrel (75mg)",
     "quantity": "1" 
   },
   {
@@ -14857,7 +14857,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 15 tablets",
     "Like2": "Centaur Pharmaceuticals Pvt Ltd",
-    "Keywords": "Chlorpheniramine Maleate (2mg) + Paracetamol (500mg) + Phenylephrine (10mg) ADD",
+    "Keywords": "Chlorpheniramine Maleate (2mg) + Paracetamol (500mg) + Phenylephrine (10mg)",
     "quantity": "1" 
   },
   {
@@ -14868,7 +14868,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 15 tablet md",
     "Like2": "Abbott",
-    "Keywords": "Prochlorperazine (5mg) ADD",
+    "Keywords": "Prochlorperazine (5mg)",
     "quantity": "1" 
   },
   {
@@ -14879,7 +14879,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 10 tablets",
     "Like2": "Lupin Ltd",
-    "Keywords": "Aceclofenac (100mg) + Paracetamol (325mg) + Serratiopeptidase (15mg) ADD",
+    "Keywords": "Aceclofenac (100mg) + Paracetamol (325mg) + Serratiopeptidase (15mg)",
     "quantity": "1" 
   },
   {
@@ -14901,7 +14901,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 10 tablets",
     "Like2": "Ipca Laboratories Ltd",
-    "Keywords": "Chlorpheniramine Maleate (2mg) + Paracetamol (500mg) + Phenylephrine (10mg) ADD",
+    "Keywords": "Chlorpheniramine Maleate (2mg) + Paracetamol (500mg) + Phenylephrine (10mg)",
     "quantity": "1" 
   },
   {
@@ -14912,7 +14912,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 50 Sublingual tablet",
     "Like2": "Abbott",
-    "Keywords": "Isosorbide Dinitrate (5mg) ADD",
+    "Keywords": "Isosorbide Dinitrate (5mg)",
     "quantity": "1" 
   },
   {
@@ -14923,7 +14923,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 15 capsule sr",
     "Like2": "Sun Pharmaceutical Industries Ltd",
-    "Keywords": "Domperidone (30mg) + Esomeprazole (40mg) ADD",
+    "Keywords": "Domperidone (30mg) + Esomeprazole (40mg)",
     "quantity": "1" 
   },
   {
@@ -14934,7 +14934,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 25 tablets",
     "Like2": "Janssen Pharmaceuticals",
-    "Keywords": "Cinnarizine (25mg) ADD",
+    "Keywords": "Cinnarizine (25mg)",
     "quantity": "1" 
   },
   {
@@ -14945,7 +14945,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 15 tablets",
     "Like2": "Sun Pharmaceutical Industries Ltd",
-    "Keywords": "Esomeprazole (40mg) ADD",
+    "Keywords": "Esomeprazole (40mg)",
     "quantity": "1" 
   },
   {
@@ -14956,7 +14956,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 4 tablets",
     "Like2": "Cipla Ltd",
-    "Keywords": "Sildenafil (100mg) ADD",
+    "Keywords": "Sildenafil (100mg)",
     "quantity": "1" 
   },
   {
@@ -14967,7 +14967,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 30 tablets",
     "Like2": "Janssen Pharmaceuticals",
-    "Keywords": "Flunarizine (10mg) ADD",
+    "Keywords": "Flunarizine (10mg)",
     "quantity": "1" 
   },
   {
@@ -14978,7 +14978,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "packet of 120 MDI Inhaler",
     "Like2": "Cipla Ltd",
-    "Keywords": "Salmeterol (25mcg) + Fluticasone Propionate (250mcg) ADD",
+    "Keywords": "Salmeterol (25mcg) + Fluticasone Propionate (250mcg)",
     "quantity": "1" 
   },
   {
@@ -14989,7 +14989,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 30 tablets",
     "Like2": "Dr Reddy's Laboratories Ltd",
-    "Keywords": "Amlodipine (5mg) ADD",
+    "Keywords": "Amlodipine (5mg)",
     "quantity": "1" 
   },
   {
@@ -15000,7 +15000,7 @@ var products=[
     "Prescription": "",
     "Like1": "bottle of 200 ml Syrup",
     "Like2": "Franco-Indian Pharmaceuticals Pvt Ltd",
-    "Keywords": "Tricholine Citrate (0.55gm) + Sorbitol (7.15gm) ADD",
+    "Keywords": "Tricholine Citrate (0.55gm) + Sorbitol (7.15gm)",
     "quantity": "1" 
   },
   {
@@ -15011,7 +15011,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 10 tablet sr",
     "Like2": "Sun Pharmaceutical Industries Ltd",
-    "Keywords": "Progesterone (Natural Micronized) (200mg) ADD",
+    "Keywords": "Progesterone (Natural Micronized) (200mg)",
     "quantity": "1" 
   },
   {
@@ -15044,7 +15044,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 15 tablets",
     "Like2": "Sun Pharmaceutical Industries Ltd",
-    "Keywords": "Levodopa (100mg) + Carbidopa (25mg) ADD",
+    "Keywords": "Levodopa (100mg) + Carbidopa (25mg)",
     "quantity": "1" 
   },
   {
@@ -15055,7 +15055,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "tube of 10 gm Cream",
     "Like2": "Franco-Indian Pharmaceuticals Pvt Ltd",
-    "Keywords": "Beclometasone (0.025% w/w) + Neomycin (3500u/1g) + Clotrimazole (1% w/w) ADD",
+    "Keywords": "Beclometasone (0.025% w/w) + Neomycin (3500u/1g) + Clotrimazole (1% w/w)",
     "quantity": "1" 
   },
   {
@@ -15066,7 +15066,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 10 soft gelatin capsules",
     "Like2": "Sun Pharmaceutical Industries Ltd",
-    "Keywords": "Progesterone (Natural Micronized) (200mg) ADD",
+    "Keywords": "Progesterone (Natural Micronized) (200mg)",
     "quantity": "1" 
   },
   {
@@ -15077,7 +15077,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 10 capsules",
     "Like2": "Sun Pharmaceutical Industries Ltd",
-    "Keywords": "Silodosin (8mg) ADD",
+    "Keywords": "Silodosin (8mg)",
     "quantity": "1" 
   },
   {
@@ -15088,7 +15088,7 @@ var products=[
     "Prescription": "",
     "Like1": "tube of 30 gm Cream",
     "Like2": "Encube Ethicals Private Limited",
-    "Keywords": "Framycetin (1% w/w) ADD",
+    "Keywords": "Framycetin (1% w/w)",
     "quantity": "1" 
   },
   {
@@ -15099,7 +15099,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "bottle of 200 ml Suspension",
     "Like2": "Strassenburg Pharmaceuticals.Ltd",
-    "Keywords": "Sucralfate (1000mg) + Oxetacaine (10mg) ADD",
+    "Keywords": "Sucralfate (1000mg) + Oxetacaine (10mg)",
     "quantity": "1" 
   },
   {
@@ -15110,7 +15110,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "tube of 30 gm Rectal Cream",
     "Like2": "Aristo Pharmaceuticals Pvt Ltd",
-    "Keywords": "Lidocaine (3% w/w) + Calcium Dobesilate (0.25% w/w) + Hydrocortisone (0.25% w/w) + Zinc (5% w/w) ADD",
+    "Keywords": "Lidocaine (3% w/w) + Calcium Dobesilate (0.25% w/w) + Hydrocortisone (0.25% w/w) + Zinc (5% w/w)",
     "quantity": "1" 
   },
   {
@@ -15121,7 +15121,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "bottle of 200 ml Suspension",
     "Like2": "Fourrts India Laboratories Pvt Ltd",
-    "Keywords": "Sucralfate (500mg/5ml) + Oxetacaine (10mg/5ml) ADD",
+    "Keywords": "Sucralfate (500mg/5ml) + Oxetacaine (10mg/5ml)",
     "quantity": "1" 
   },
   {
@@ -15132,7 +15132,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 4 tablets",
     "Like2": "Cipla Ltd",
-    "Keywords": "Sildenafil (50mg) ADD",
+    "Keywords": "Sildenafil (50mg)",
     "quantity": "1" 
   },
   {
@@ -15154,7 +15154,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 10 tablets",
     "Like2": "Koye Pharmaceuticals Pvt ltd",
-    "Keywords": "Sulfamethoxazole (800mg) + Trimethoprim (160mg) ADD",
+    "Keywords": "Sulfamethoxazole (800mg) + Trimethoprim (160mg)",
     "quantity": "1" 
   },
   {
@@ -15165,7 +15165,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 10 capsules",
     "Like2": "Sun Pharmaceutical Industries Ltd",
-    "Keywords": "Silodosin (8mg) + Dutasteride (0.5mg) ADD",
+    "Keywords": "Silodosin (8mg) + Dutasteride (0.5mg)",
     "quantity": "1" 
   },
   {
@@ -15176,7 +15176,7 @@ var products=[
     "Prescription": "",
     "Like1": "jar of 240 gm Cream",
     "Like2": "Sun Pharmaceutical Industries Ltd",
-    "Keywords": "Chlorhexidine Gluconate (0.2% w/w) + Silver Sulfadiazine (0.5% w/w) ADD",
+    "Keywords": "Chlorhexidine Gluconate (0.2% w/w) + Silver Sulfadiazine (0.5% w/w)",
     "quantity": "1" 
   },
   {
@@ -15198,7 +15198,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 10 tablet sr",
     "Like2": "Sun Pharmaceutical Industries Ltd",
-    "Keywords": "Progesterone (Natural Micronized) (300mg) ADD",
+    "Keywords": "Progesterone (Natural Micronized) (300mg)",
     "quantity": "1" 
   },
   {
@@ -15209,7 +15209,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "bottle of 60 ml Syrup",
     "Like2": "Ipca Laboratories Ltd",
-    "Keywords": "Chlorpheniramine Maleate (2mg) + Paracetamol (125mg) + Phenylephrine (5mg) ADD",
+    "Keywords": "Chlorpheniramine Maleate (2mg) + Paracetamol (125mg) + Phenylephrine (5mg)",
     "quantity": "1" 
   },
   {
@@ -15220,7 +15220,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 10 tablets",
     "Like2": "Sun Pharmaceutical Industries Ltd",
-    "Keywords": "Citicoline (500mg) + Piracetam (800mg) ADD",
+    "Keywords": "Citicoline (500mg) + Piracetam (800mg)",
     "quantity": "1" 
   },
   {
@@ -15231,7 +15231,7 @@ var products=[
     "Prescription": "",
     "Like1": "bottle of 10 ml Ear Drop",
     "Like2": "NuLife Pharmaceuticals",
-    "Keywords": "Benzocaine (2.7% w/v) + Chlorbutol (5% w/v) + Paradichlorobenzene (2% w/v) + Turpentine Oil (15% w/v) ADD",
+    "Keywords": "Benzocaine (2.7% w/v) + Chlorbutol (5% w/v) + Paradichlorobenzene (2% w/v) + Turpentine Oil (15% w/v)",
     "quantity": "1" 
   },
   {
@@ -15242,7 +15242,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 10 tablets",
     "Like2": "Centaur Pharmaceuticals Pvt Ltd",
-    "Keywords": "Levocetirizine (2.5mg) + Phenylephrine (10mg) + Paracetamol (500mg) ADD",
+    "Keywords": "Levocetirizine (2.5mg) + Phenylephrine (10mg) + Paracetamol (500mg)",
     "quantity": "1" 
   },
   {
@@ -15253,7 +15253,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 15 tablets",
     "Like2": "Intas Pharmaceuticals Ltd",
-    "Keywords": "Cinnarizine (20mg) + Dimenhydrinate (40mg) ADD",
+    "Keywords": "Cinnarizine (20mg) + Dimenhydrinate (40mg)",
     "quantity": "1" 
   },
   {
@@ -15264,7 +15264,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "tube of 25 gm Cream",
     "Like2": "Zydus Cadila",
-    "Keywords": "Hydroquinone (2% w/w) + Mometasone (0.1% w/w) + Tretinoin (0.025% w/w) ADD",
+    "Keywords": "Hydroquinone (2% w/w) + Mometasone (0.1% w/w) + Tretinoin (0.025% w/w)",
     "quantity": "1" 
   },
   {
@@ -15275,7 +15275,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "bottle of 200 ml Oral Suspension",
     "Like2": "Strassenburg Pharmaceuticals.Ltd",
-    "Keywords": "Sucralfate (1000mg) ADD",
+    "Keywords": "Sucralfate (1000mg)",
     "quantity": "1" 
   },
   {
@@ -15286,7 +15286,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 10 tablets",
     "Like2": "Cipla Ltd",
-    "Keywords": "Dicyclomine (20mg) + Paracetamol (325mg) ADD",
+    "Keywords": "Dicyclomine (20mg) + Paracetamol (325mg)",
     "quantity": "1" 
   },
   {
@@ -15297,7 +15297,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "tube of 20 gm Rectal Cream",
     "Like2": "Strassenburg Pharmaceuticals.Ltd",
-    "Keywords": "Lidocaine (4% w/w) + Metronidazole (1% w/w) + Sucralfate (7% w/w) ADD",
+    "Keywords": "Lidocaine (4% w/w) + Metronidazole (1% w/w) + Sucralfate (7% w/w)",
     "quantity": "1" 
   },
   {
@@ -15308,7 +15308,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "bottle of 200 ml Oral Suspension",
     "Like2": "Fourrts India Laboratories Pvt Ltd",
-    "Keywords": "Sucralfate (500mg/5ml) ADD",
+    "Keywords": "Sucralfate (500mg/5ml)",
     "quantity": "1" 
   },
   {
@@ -15319,7 +15319,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 10 tablets",
     "Like2": "Sun Pharmaceutical Industries Ltd",
-    "Keywords": "Solifenacin (5mg) ADD",
+    "Keywords": "Solifenacin (5mg)",
     "quantity": "1" 
   },
   {
@@ -15352,7 +15352,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 10 tablets",
     "Like2": "Macleods Pharmaceuticals Pvt Ltd",
-    "Keywords": "Amoxycillin (500mg) + Clavulanic Acid (125mg) ADD",
+    "Keywords": "Amoxycillin (500mg) + Clavulanic Acid (125mg)",
     "quantity": "1" 
   },
   {
@@ -15363,7 +15363,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 10 capsules",
     "Like2": "Sun Pharmaceutical Industries Ltd",
-    "Keywords": "Cefalexin (500mg) ADD",
+    "Keywords": "Cefalexin (500mg)",
     "quantity": "1" 
   },
   {
@@ -15374,7 +15374,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 10 tablets",
     "Like2": "Alkem Laboratories Ltd",
-    "Keywords": "Cefpodoxime Proxetil (200mg) + Clavulanic Acid (125mg) ADD",
+    "Keywords": "Cefpodoxime Proxetil (200mg) + Clavulanic Acid (125mg)",
     "quantity": "1" 
   },
   {
@@ -15385,7 +15385,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "packet of 10 ml Ophthalmic Solution",
     "Like2": "Alcon Laboratories",
-    "Keywords": "Polyethylene Glycol (0.4% w/v) + Propylene Glycol (0.3% w/v) ADD",
+    "Keywords": "Polyethylene Glycol (0.4% w/v) + Propylene Glycol (0.3% w/v)",
     "quantity": "1" 
   },
   {
@@ -15396,7 +15396,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "tube of 15 gm Cream",
     "Like2": "Cadila Pharmaceuticals Ltd",
-    "Keywords": "Hydroquinone (2% w/w) + Mometasone (0.1% w/w) + Tretinoin (0.025% w/w) ADD",
+    "Keywords": "Hydroquinone (2% w/w) + Mometasone (0.1% w/w) + Tretinoin (0.025% w/w)",
     "quantity": "1" 
   },
   {
@@ -15407,7 +15407,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 10 capsule sr",
     "Like2": "Sun Pharmaceutical Industries Ltd",
-    "Keywords": "Levosulpiride (75mg) + Esomeprazole (40mg) ADD",
+    "Keywords": "Levosulpiride (75mg) + Esomeprazole (40mg)",
     "quantity": "1" 
   },
   {
@@ -15418,7 +15418,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 15 tablets",
     "Like2": "Torrent Pharmaceuticals Ltd",
-    "Keywords": "Sertraline (25mg) ADD",
+    "Keywords": "Sertraline (25mg)",
     "quantity": "1" 
   },
   {
@@ -15429,7 +15429,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 10 tablets",
     "Like2": "Johnson & Johnson Ltd",
-    "Keywords": "Cinnarizine (20mg) + Dimenhydrinate (40mg) ADD",
+    "Keywords": "Cinnarizine (20mg) + Dimenhydrinate (40mg)",
     "quantity": "1" 
   },
   {
@@ -15440,7 +15440,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "bottle of 60 ml Syrup",
     "Like2": "Ipca Laboratories Ltd",
-    "Keywords": "Chlorpheniramine Maleate (2mg/5ml) + Phenylephrine (5mg/5ml) ADD",
+    "Keywords": "Chlorpheniramine Maleate (2mg/5ml) + Phenylephrine (5mg/5ml)",
     "quantity": "1" 
   },
   {
@@ -15451,7 +15451,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 7 tablets",
     "Like2": "Panacea Biotec Ltd",
-    "Keywords": "Euphorbia Prostrata Extract (100mg) ADD",
+    "Keywords": "Euphorbia Prostrata Extract (100mg)",
     "quantity": "1" 
   },
   {
@@ -15462,7 +15462,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 10 tablets",
     "Like2": "Alkem Laboratories Ltd",
-    "Keywords": "Cefpodoxime Proxetil (200mg) ADD",
+    "Keywords": "Cefpodoxime Proxetil (200mg)",
     "quantity": "1" 
   },
   {
@@ -15473,7 +15473,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 15 tablets",
     "Like2": "Torrent Pharmaceuticals Ltd",
-    "Keywords": "Sertraline (50mg) ADD",
+    "Keywords": "Sertraline (50mg)",
     "quantity": "1" 
   },
   {
@@ -15484,7 +15484,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 10 tablets",
     "Like2": "Sun Pharmaceutical Industries Ltd",
-    "Keywords": "Citicoline (500mg) ADD",
+    "Keywords": "Citicoline (500mg)",
     "quantity": "1" 
   },
   {
@@ -15506,7 +15506,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 15 tablets",
     "Like2": "Wallace Pharmaceuticals Pvt Ltd",
-    "Keywords": "Sulfasalazine (500mg) ADD",
+    "Keywords": "Sulfasalazine (500mg)",
     "quantity": "1" 
   },
   {
@@ -15528,7 +15528,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 30 tablets",
     "Like2": "Dr Reddy's Laboratories Ltd",
-    "Keywords": "Amitriptyline (10mg) ADD",
+    "Keywords": "Amitriptyline (10mg)",
     "quantity": "1" 
   },
   {
@@ -15539,7 +15539,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 30 tablets",
     "Like2": "Glenmark Pharmaceuticals Ltd",
-    "Keywords": "Telmisartan (40mg) ADD",
+    "Keywords": "Telmisartan (40mg)",
     "quantity": "1" 
   },
   {
@@ -15550,7 +15550,7 @@ var products=[
     "Prescription": "",
     "Like1": "tube of 20 gm Ointment",
     "Like2": "Zydus Cadila",
-    "Keywords": "Benzyl Nicotinate (2mg) + Heparin (50IU) ADD",
+    "Keywords": "Benzyl Nicotinate (2mg) + Heparin (50IU)",
     "quantity": "1" 
   },
   {
@@ -15561,7 +15561,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "bottle of 100 ml Liquid",
     "Like2": "Blue Cross Laboratories Ltd",
-    "Keywords": "Phenylephrine (5mg/5ml) + Chlorpheniramine Maleate (2mg/5ml) + Dextromethorphan Hydrobromide (15mg/5ml) ADD",
+    "Keywords": "Phenylephrine (5mg/5ml) + Chlorpheniramine Maleate (2mg/5ml) + Dextromethorphan Hydrobromide (15mg/5ml)",
     "quantity": "1" 
   },
   {
@@ -15572,7 +15572,7 @@ var products=[
     "Prescription": "",
     "Like1": "tube of 5 gm Ointment",
     "Like2": "Glaxo SmithKline Pharmaceuticals Ltd",
-    "Keywords": "Mupirocin (2% w/w) ADD",
+    "Keywords": "Mupirocin (2% w/w)",
     "quantity": "1" 
   },
   {
@@ -15583,7 +15583,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 6 tablets",
     "Like2": "Macleods Pharmaceuticals Pvt Ltd",
-    "Keywords": "Tranexamic Acid (500mg) ADD",
+    "Keywords": "Tranexamic Acid (500mg)",
     "quantity": "1" 
   },
   {
@@ -15594,7 +15594,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 15 tablets",
     "Like2": "Glenmark Pharmaceuticals Ltd",
-    "Keywords": "Telmisartan (40mg) + Amlodipine (5mg) ADD",
+    "Keywords": "Telmisartan (40mg) + Amlodipine (5mg)",
     "quantity": "1" 
   },
   {
@@ -15605,7 +15605,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 10 tablets",
     "Like2": "Mankind Pharma Ltd",
-    "Keywords": "Telmisartan (40mg) ADD",
+    "Keywords": "Telmisartan (40mg)",
     "quantity": "1" 
   },
   {
@@ -15616,7 +15616,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 10 tablets",
     "Like2": "Boehringer Ingelheim",
-    "Keywords": "Linagliptin (5mg) ADD",
+    "Keywords": "Linagliptin (5mg)",
     "quantity": "1" 
   },
   {
@@ -15627,7 +15627,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 15 tablets",
     "Like2": "Glenmark Pharmaceuticals Ltd",
-    "Keywords": "Telmisartan (40mg) + Hydrochlorothiazide (12.5mg) ADD",
+    "Keywords": "Telmisartan (40mg) + Hydrochlorothiazide (12.5mg)",
     "quantity": "1" 
   },
   {
@@ -15638,7 +15638,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 10 tablets",
     "Like2": "Mankind Pharma Ltd",
-    "Keywords": "Telmisartan (40mg) + Amlodipine (5mg) ADD",
+    "Keywords": "Telmisartan (40mg) + Amlodipine (5mg)",
     "quantity": "1" 
   },
   {
@@ -15660,7 +15660,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 15 tablets",
     "Like2": "Lupin Ltd",
-    "Keywords": "Levocetirizine (5mg) + Montelukast (10mg) ADD",
+    "Keywords": "Levocetirizine (5mg) + Montelukast (10mg)",
     "quantity": "1" 
   },
   {
@@ -15671,7 +15671,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 10 tablet dt",
     "Like2": "Blue Cross Laboratories Ltd",
-    "Keywords": "Phenylephrine (5mg) + Chlorpheniramine Maleate (2mg) + Dextromethorphan Hydrobromide (10mg) ADD",
+    "Keywords": "Phenylephrine (5mg) + Chlorpheniramine Maleate (2mg) + Dextromethorphan Hydrobromide (10mg)",
     "quantity": "1" 
   },
   {
@@ -15682,7 +15682,7 @@ var products=[
     "Prescription": "",
     "Like1": "tube of 20 gm Gel",
     "Like2": "Zydus Cadila",
-    "Keywords": "Benzyl Nicotinate (2.0mg) + Heparin (50IU) ADD",
+    "Keywords": "Benzyl Nicotinate (2.0mg) + Heparin (50IU)",
     "quantity": "1" 
   },
   {
@@ -15693,7 +15693,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 15 Tablet pr",
     "Like2": "Sanofi India  Ltd",
-    "Keywords": "Pentoxifylline (400mg) ADD",
+    "Keywords": "Pentoxifylline (400mg)",
     "quantity": "1" 
   },
   {
@@ -15704,7 +15704,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "bottle of 100 ml Syrup",
     "Like2": "Torque Pharmaceuticals Pvt Ltd",
-    "Keywords": "Diphenhydramine (12.5mg/5ml) + Ammonium Chloride (125mg/5ml) + Terpin Hydrate (7.5mg/5ml) + Sodium Citrate (55mg/5ml) ADD",
+    "Keywords": "Diphenhydramine (12.5mg/5ml) + Ammonium Chloride (125mg/5ml) + Terpin Hydrate (7.5mg/5ml) + Sodium Citrate (55mg/5ml)",
     "quantity": "1" 
   },
   {
@@ -15726,7 +15726,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "bottle of 120 tablets",
     "Like2": "Abbott",
-    "Keywords": "Thyroxine (25mcg) ADD",
+    "Keywords": "Thyroxine (25mcg)",
     "quantity": "1" 
   },
   {
@@ -15737,7 +15737,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 15 tablets",
     "Like2": "Aristo Pharmaceuticals Pvt Ltd",
-    "Keywords": "Telmisartan (40mg) ADD",
+    "Keywords": "Telmisartan (40mg)",
     "quantity": "1" 
   },
   {
@@ -15748,7 +15748,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 10 tablets",
     "Like2": "USV Ltd",
-    "Keywords": "Telmisartan (40mg) ADD",
+    "Keywords": "Telmisartan (40mg)",
     "quantity": "1" 
   },
   {
@@ -15759,7 +15759,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 10 tablets",
     "Like2": "Aristo Pharmaceuticals Pvt Ltd",
-    "Keywords": "Telmisartan (40mg) + Amlodipine (5mg) + Hydrochlorothiazide (12.5mg) ADD",
+    "Keywords": "Telmisartan (40mg) + Amlodipine (5mg) + Hydrochlorothiazide (12.5mg)",
     "quantity": "1" 
   },
   {
@@ -15770,7 +15770,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 10 tablets",
     "Like2": "Mankind Pharma Ltd",
-    "Keywords": "Telmisartan (40mg) + Hydrochlorothiazide (12.5mg) ADD",
+    "Keywords": "Telmisartan (40mg) + Hydrochlorothiazide (12.5mg)",
     "quantity": "1" 
   },
   {
@@ -15781,7 +15781,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 15 tablets",
     "Like2": "Glenmark Pharmaceuticals Ltd",
-    "Keywords": "Telmisartan (20mg) ADD",
+    "Keywords": "Telmisartan (20mg)",
     "quantity": "1" 
   },
   {
@@ -15792,7 +15792,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "tube of 30 gm Cream",
     "Like2": "Glaxo SmithKline Pharmaceuticals Ltd",
-    "Keywords": "Clobetasol (0.05% w/w) ADD",
+    "Keywords": "Clobetasol (0.05% w/w)",
     "quantity": "1" 
   },
   {
@@ -15803,7 +15803,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 10 tablets",
     "Like2": "Aristo Pharmaceuticals Pvt Ltd",
-    "Keywords": "Telmisartan (40mg) + Amlodipine (5mg) ADD",
+    "Keywords": "Telmisartan (40mg) + Amlodipine (5mg)",
     "quantity": "1" 
   },
   {
@@ -15814,7 +15814,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 10 tablets",
     "Like2": "Sun Pharmaceutical Industries Ltd",
-    "Keywords": "Levocetirizine (5mg) ADD",
+    "Keywords": "Levocetirizine (5mg)",
     "quantity": "1" 
   },
   {
@@ -15836,7 +15836,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "packet of 5 ml Ophthalmic Solution",
     "Like2": "Sun Pharmaceutical Industries Ltd",
-    "Keywords": "Tobramycin (0.3% w/v) ADD",
+    "Keywords": "Tobramycin (0.3% w/v)",
     "quantity": "1" 
   },
   {
@@ -15847,7 +15847,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 10 tablets",
     "Like2": "Sun Pharmaceutical Industries Ltd",
-    "Keywords": "Tranexamic Acid (500mg) + Mefenamic Acid (250mg) ADD",
+    "Keywords": "Tranexamic Acid (500mg) + Mefenamic Acid (250mg)",
     "quantity": "1" 
   },
   {
@@ -15858,7 +15858,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 30 tablets",
     "Like2": "Dr Reddy's Laboratories Ltd",
-    "Keywords": "Amitriptyline (25mg) ADD",
+    "Keywords": "Amitriptyline (25mg)",
     "quantity": "1" 
   },
   {
@@ -15869,7 +15869,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 10 tablets",
     "Like2": "Lupin Ltd",
-    "Keywords": "Montelukast (10mg) + Fexofenadine (120mg) ADD",
+    "Keywords": "Montelukast (10mg) + Fexofenadine (120mg)",
     "quantity": "1" 
   },
   {
@@ -15880,7 +15880,7 @@ var products=[
     "Prescription": "",
     "Like1": "tube of 30 gm Cream",
     "Like2": "Hegde and Hegde Pharmaceutical LLP",
-    "Keywords": "Tretinoin (0.025% w/w) ADD",
+    "Keywords": "Tretinoin (0.025% w/w)",
     "quantity": "1" 
   },
   {
@@ -15913,7 +15913,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "ampoule of 1 ml Injection",
     "Like2": "Zydus Cadila",
-    "Keywords": "Testosterone (250mg) ADD",
+    "Keywords": "Testosterone (250mg)",
     "quantity": "1" 
   },
   {
@@ -15924,7 +15924,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 14 tablets",
     "Like2": "Torrent Pharmaceuticals Ltd",
-    "Keywords": "Famotidine (20mg) ADD",
+    "Keywords": "Famotidine (20mg)",
     "quantity": "1" 
   },
   {
@@ -15935,7 +15935,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 10 tablets",
     "Like2": "Torrent Pharmaceuticals Ltd",
-    "Keywords": "Spironolactone (25mg) + Torasemide (10mg) ADD",
+    "Keywords": "Spironolactone (25mg) + Torasemide (10mg)",
     "quantity": "1" 
   },
   {
@@ -15946,7 +15946,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 7 tablets",
     "Like2": "Mankind Pharma Ltd",
-    "Keywords": "Terbinafine (250mg) ADD",
+    "Keywords": "Terbinafine (250mg)",
     "quantity": "1" 
   },
   {
@@ -15957,7 +15957,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 10 tablets",
     "Like2": "Boehringer Ingelheim",
-    "Keywords": "Metformin (500mg) + Linagliptin (2.5mg) ADD",
+    "Keywords": "Metformin (500mg) + Linagliptin (2.5mg)",
     "quantity": "1" 
   },
   {
@@ -15968,7 +15968,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "bottle of 100 ml Expectorant",
     "Like2": "Blue Cross Laboratories Ltd",
-    "Keywords": "Ambroxol (15mg/5ml) + Guaifenesin (50mg/5ml) + Terbutaline (1.25mg/5ml) ADD",
+    "Keywords": "Ambroxol (15mg/5ml) + Guaifenesin (50mg/5ml) + Terbutaline (1.25mg/5ml)",
     "quantity": "1" 
   },
   {
@@ -15990,7 +15990,7 @@ var products=[
     "Prescription": "",
     "Like1": "bottle of 10 ml Eye Drop",
     "Like2": "Sun Pharmaceutical Industries Ltd",
-    "Keywords": "Carboxymethylcellulose (5mg/ml) ADD",
+    "Keywords": "Carboxymethylcellulose (5mg/ml)",
     "quantity": "1" 
   },
   {
@@ -16001,7 +16001,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 15 tablets",
     "Like2": "Lupin Ltd",
-    "Keywords": "Atorvastatin (10mg) + Fenofibrate (160mg) ADD",
+    "Keywords": "Atorvastatin (10mg) + Fenofibrate (160mg)",
     "quantity": "1" 
   },
   {
@@ -16012,7 +16012,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 15 tablets",
     "Like2": "Glenmark Pharmaceuticals Ltd",
-    "Keywords": "Telmisartan (40mg) + Chlorthalidone (6.25mg) ADD",
+    "Keywords": "Telmisartan (40mg) + Chlorthalidone (6.25mg)",
     "quantity": "1" 
   },
   {
@@ -16023,7 +16023,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "vial of 5 ml Injection",
     "Like2": "Alkem Laboratories Ltd",
-    "Keywords": "Cefotaxime (1gm) ADD",
+    "Keywords": "Cefotaxime (1gm)",
     "quantity": "1" 
   },
   {
@@ -16034,7 +16034,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "tube of 5 gm Oral Paste",
     "Like2": "Troikaa Pharmaceuticals Ltd",
-    "Keywords": "Triamcinolone (0.1% w/w) ADD",
+    "Keywords": "Triamcinolone (0.1% w/w)",
     "quantity": "1" 
   },
   {
@@ -16045,7 +16045,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "bottle of 120 tablets",
     "Like2": "Abbott",
-    "Keywords": "Thyroxine (50mcg) ADD",
+    "Keywords": "Thyroxine (50mcg)",
     "quantity": "1" 
   },
   {
@@ -16056,7 +16056,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 15 tablets",
     "Like2": "Lupin Ltd",
-    "Keywords": "Atorvastatin (10mg) ADD",
+    "Keywords": "Atorvastatin (10mg)",
     "quantity": "1" 
   },
   {
@@ -16067,7 +16067,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "cartridge of 1 Injection",
     "Like2": "Intas Pharmaceuticals Ltd",
-    "Keywords": "Teriparatide (750mcg) ADD",
+    "Keywords": "Teriparatide (750mcg)",
     "quantity": "1" 
   },
   {
@@ -16078,7 +16078,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 6 tablets",
     "Like2": "Macleods Pharmaceuticals Pvt Ltd",
-    "Keywords": "Tranexamic Acid (500mg) + Mefenamic Acid (250mg) ADD",
+    "Keywords": "Tranexamic Acid (500mg) + Mefenamic Acid (250mg)",
     "quantity": "1" 
   },
   {
@@ -16100,7 +16100,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 10 tablets",
     "Like2": "Novartis India Ltd",
-    "Keywords": "Carbamazepine (200mg) ADD",
+    "Keywords": "Carbamazepine (200mg)",
     "quantity": "1" 
   },
   {
@@ -16111,7 +16111,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 10 tablets",
     "Like2": "Mankind Pharma Ltd",
-    "Keywords": "Telmisartan (40mg) + Amlodipine (5mg) + Hydrochlorothiazide (12.5mg) ADD",
+    "Keywords": "Telmisartan (40mg) + Amlodipine (5mg) + Hydrochlorothiazide (12.5mg)",
     "quantity": "1" 
   },
   {
@@ -16122,7 +16122,7 @@ var products=[
     "Prescription": "",
     "Like1": "bottle of 60 ml Solution",
     "Like2": "Cipla Ltd",
-    "Keywords": "Minoxidil (5% w/v) ADD",
+    "Keywords": "Minoxidil (5% w/v)",
     "quantity": "1" 
   },
   {
@@ -16133,7 +16133,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 10 tablets",
     "Like2": "Mankind Pharma Ltd",
-    "Keywords": "Tranexamic Acid (500mg) + Mefenamic Acid (250mg) ADD",
+    "Keywords": "Tranexamic Acid (500mg) + Mefenamic Acid (250mg)",
     "quantity": "1" 
   },
   {
@@ -16155,7 +16155,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "bottle of 60 ml Syrup",
     "Like2": "Glaxo SmithKline Pharmaceuticals Ltd",
-    "Keywords": "Chlorpheniramine Maleate (2mg/5ml) + Phenylephrine (5mg/5ml) ADD",
+    "Keywords": "Chlorpheniramine Maleate (2mg/5ml) + Phenylephrine (5mg/5ml)",
     "quantity": "1" 
   },
   {
@@ -16166,7 +16166,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 15 tablets",
     "Like2": "Glenmark Pharmaceuticals Ltd",
-    "Keywords": "Telmisartan (40mg) + Amlodipine (5mg) + Hydrochlorothiazide (12.5mg) ADD",
+    "Keywords": "Telmisartan (40mg) + Amlodipine (5mg) + Hydrochlorothiazide (12.5mg)",
     "quantity": "1" 
   },
   {
@@ -16188,7 +16188,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 15 tablets",
     "Like2": "Abbott",
-    "Keywords": "Ursodeoxycholic Acid (300mg) ADD",
+    "Keywords": "Ursodeoxycholic Acid (300mg)",
     "quantity": "1" 
   },
   {
@@ -16199,7 +16199,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 15 tablets",
     "Like2": "Walter Bushnell",
-    "Keywords": "Flavoxate (200mg) ADD",
+    "Keywords": "Flavoxate (200mg)",
     "quantity": "1" 
   },
   {
@@ -16210,7 +16210,7 @@ var products=[
     "Prescription": "",
     "Like1": "strip of 8 capsules",
     "Like2": "Alkem Laboratories Ltd",
-    "Keywords": "Vitamin D3 (60000IU) ADD",
+    "Keywords": "Vitamin D3 (60000IU)",
     "quantity": "1" 
   },
   {
@@ -16221,7 +16221,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 15 tablet mr",
     "Like2": "Cipla Ltd",
-    "Keywords": "Tamsulosin (0.4mg) + Dutasteride (0.5mg) ADD",
+    "Keywords": "Tamsulosin (0.4mg) + Dutasteride (0.5mg)",
     "quantity": "1" 
   },
   {
@@ -16254,7 +16254,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 15 tablets",
     "Like2": "Sun Pharmaceutical Industries Ltd",
-    "Keywords": "Ursodeoxycholic Acid (300mg) ADD",
+    "Keywords": "Ursodeoxycholic Acid (300mg)",
     "quantity": "1" 
   },
   {
@@ -16265,7 +16265,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 10 tablets",
     "Like2": "USV Ltd",
-    "Keywords": "Dapagliflozin (10mg) ADD",
+    "Keywords": "Dapagliflozin (10mg)",
     "quantity": "1" 
   },
   {
@@ -16287,7 +16287,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 15 tablets",
     "Like2": "Abbott",
-    "Keywords": "Ursodeoxycholic Acid (150mg) ADD",
+    "Keywords": "Ursodeoxycholic Acid (150mg)",
     "quantity": "1" 
   },
   {
@@ -16298,7 +16298,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 10 tablets",
     "Like2": "Mankind Pharma Ltd",
-    "Keywords": "Flavoxate (200mg) ADD",
+    "Keywords": "Flavoxate (200mg)",
     "quantity": "1" 
   },
   {
@@ -16309,7 +16309,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 10 tablet cr",
     "Like2": "Modi Mundi Pharma Pvt Ltd",
-    "Keywords": "Theophylline (400mg) ADD",
+    "Keywords": "Theophylline (400mg)",
     "quantity": "1" 
   },
   {
@@ -16320,7 +16320,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 10 tablets",
     "Like2": "Samarth Life Sciences Pvt Ltd",
-    "Keywords": "Bethanechol (25mg) ADD",
+    "Keywords": "Bethanechol (25mg)",
     "quantity": "1" 
   },
   {
@@ -16331,7 +16331,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 10 Sublingual tablet",
     "Like2": "Meyer Organics Pvt Ltd",
-    "Keywords": "Piroxicam (20mg) ADD",
+    "Keywords": "Piroxicam (20mg)",
     "quantity": "1" 
   },
   {
@@ -16342,7 +16342,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "bottle of 200 ml Oral Suspension",
     "Like2": "Alembic Pharmaceuticals Ltd",
-    "Keywords": "Magaldrate (540mg) + Simethicone (50mg) + Oxetacaine (10mg) ADD",
+    "Keywords": "Magaldrate (540mg) + Simethicone (50mg) + Oxetacaine (10mg)",
     "quantity": "1" 
   },
   {
@@ -16353,7 +16353,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 15 tablets",
     "Like2": "Intas Pharmaceuticals Ltd",
-    "Keywords": "Nitrofurantoin (100mg) ADD",
+    "Keywords": "Nitrofurantoin (100mg)",
     "quantity": "1" 
   },
   {
@@ -16364,7 +16364,7 @@ var products=[
     "Prescription": "",
     "Like1": "bottle of 200 ml Oral Suspension",
     "Like2": "Alembic Pharmaceuticals Ltd",
-    "Keywords": "Magaldrate (400mg/5ml) + Simethicone (20mg/5ml) ADD",
+    "Keywords": "Magaldrate (400mg/5ml) + Simethicone (20mg/5ml)",
     "quantity": "1" 
   },
   {
@@ -16375,7 +16375,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 20 capsule mr",
     "Like2": "Cipla Ltd",
-    "Keywords": "Tamsulosin (0.4mg) ADD",
+    "Keywords": "Tamsulosin (0.4mg)",
     "quantity": "1" 
   },
   {
@@ -16386,7 +16386,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 4 tablets",
     "Like2": "Fourrts India Laboratories Pvt Ltd",
-    "Keywords": "Tadalafil (10mg) + Dapoxetine (30mg) ADD",
+    "Keywords": "Tadalafil (10mg) + Dapoxetine (30mg)",
     "quantity": "1" 
   },
   {
@@ -16397,7 +16397,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "tube of 25 gm Cream",
     "Like2": "Leeford Healthcare Ltd",
-    "Keywords": "Hydroquinone (2% w/w) + Mometasone (0.1% w/w) + Tretinoin (0.025% w/w) ADD",
+    "Keywords": "Hydroquinone (2% w/w) + Mometasone (0.1% w/w) + Tretinoin (0.025% w/w)",
     "quantity": "1" 
   },
   {
@@ -16408,7 +16408,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 15 capsules",
     "Like2": "Torrent Pharmaceuticals Ltd",
-    "Keywords": "Rosuvastatin (10mg) + Aspirin (75mg) ADD",
+    "Keywords": "Rosuvastatin (10mg) + Aspirin (75mg)",
     "quantity": "1" 
   },
   {
@@ -16430,7 +16430,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 10 tablet er",
     "Like2": "USV Ltd",
-    "Keywords": "Dapagliflozin (10mg) + Metformin (500mg) ADD",
+    "Keywords": "Dapagliflozin (10mg) + Metformin (500mg)",
     "quantity": "1" 
   },
   {
@@ -16441,7 +16441,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 10 tablets",
     "Like2": "Fourrts India Laboratories Pvt Ltd",
-    "Keywords": "Coenzyme Q10 (30mg) + Levo-carnitine (500mg) ADD",
+    "Keywords": "Coenzyme Q10 (30mg) + Levo-carnitine (500mg)",
     "quantity": "1" 
   },
   {
@@ -16463,7 +16463,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 10 tablets",
     "Like2": "USV Ltd",
-    "Keywords": "Dapagliflozin (10mg) + Sitagliptin (100mg) ADD",
+    "Keywords": "Dapagliflozin (10mg) + Sitagliptin (100mg)",
     "quantity": "1" 
   },
   {
@@ -16474,7 +16474,7 @@ var products=[
     "Prescription": "",
     "Like1": "bottle of 100 ml Oral Solution",
     "Like2": "Mankind Pharma Ltd",
-    "Keywords": "Citric Acid (334mg/5ml) + Potassium Citrate (1100mg/5ml) ADD",
+    "Keywords": "Citric Acid (334mg/5ml) + Potassium Citrate (1100mg/5ml)",
     "quantity": "1" 
   },
   {
@@ -16485,7 +16485,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 15 tablet sr",
     "Like2": "Sun Pharmaceutical Industries Ltd",
-    "Keywords": "Ursodeoxycholic Acid (450mg) ADD",
+    "Keywords": "Ursodeoxycholic Acid (450mg)",
     "quantity": "1" 
   },
   {
@@ -16529,7 +16529,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 10 capsule pr",
     "Like2": "Corona Remedies Pvt Ltd",
-    "Keywords": "Domperidone (30mg) + Pantoprazole (40mg) ADD",
+    "Keywords": "Domperidone (30mg) + Pantoprazole (40mg)",
     "quantity": "1" 
   },
   {
@@ -16540,7 +16540,7 @@ var products=[
     "Prescription": "",
     "Like1": "bottle of 15 ml Oral Drops",
     "Like2": "Alkem Laboratories Ltd",
-    "Keywords": "Vitamin D3 (400IU/0.5ml) ADD",
+    "Keywords": "Vitamin D3 (400IU/0.5ml)",
     "quantity": "1" 
   },
   {
@@ -16551,7 +16551,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 10 tablets",
     "Like2": "Integrace Pvt Ltd",
-    "Keywords": "Bromelain (90mg) + Rutoside (100mg) + Trypsin Chymotrypsin (50000AU) ADD",
+    "Keywords": "Bromelain (90mg) + Rutoside (100mg) + Trypsin Chymotrypsin (50000AU)",
     "quantity": "1" 
   },
   {
@@ -16562,7 +16562,7 @@ var products=[
     "Prescription": "",
     "Like1": "bottle of 100 ml Lotion",
     "Like2": "Percos India Pvt  Ltd",
-    "Keywords": "Clobetasol (0.05% w/v) + Salicylic Acid (3% w/v) + Coal Tar (5% v/v) ADD",
+    "Keywords": "Clobetasol (0.05% w/v) + Salicylic Acid (3% w/v) + Coal Tar (5% v/v)",
     "quantity": "1" 
   },
   {
@@ -16573,7 +16573,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 10 tablets",
     "Like2": "Cadila Pharmaceuticals Ltd",
-    "Keywords": "Ursodeoxycholic Acid (300mg) ADD",
+    "Keywords": "Ursodeoxycholic Acid (300mg)",
     "quantity": "1" 
   },
   {
@@ -16584,7 +16584,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 15 capsule mr",
     "Like2": "Cipla Ltd",
-    "Keywords": "Tamsulosin (0.4mg) + Finasteride (5mg) ADD",
+    "Keywords": "Tamsulosin (0.4mg) + Finasteride (5mg)",
     "quantity": "1" 
   },
   {
@@ -16595,7 +16595,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 10 tablets",
     "Like2": "USV Ltd",
-    "Keywords": "Dapagliflozin (5mg) ADD",
+    "Keywords": "Dapagliflozin (5mg)",
     "quantity": "1" 
   },
   {
@@ -16606,7 +16606,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 10 tablets",
     "Like2": "Zuventus Healthcare Ltd",
-    "Keywords": "Ursodeoxycholic Acid (300mg) ADD",
+    "Keywords": "Ursodeoxycholic Acid (300mg)",
     "quantity": "1" 
   },
   {
@@ -16617,7 +16617,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 15 tablets",
     "Like2": "Sun Pharmaceutical Industries Ltd",
-    "Keywords": "Ursodeoxycholic Acid (150mg) ADD",
+    "Keywords": "Ursodeoxycholic Acid (150mg)",
     "quantity": "1" 
   },
   {
@@ -16628,7 +16628,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 10 capsules",
     "Like2": "Torrent Pharmaceuticals Ltd",
-    "Keywords": "Rosuvastatin (20mg) + Aspirin (75mg) ADD",
+    "Keywords": "Rosuvastatin (20mg) + Aspirin (75mg)",
     "quantity": "1" 
   },
   {
@@ -16639,7 +16639,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "bottle of 30 tablet mr",
     "Like2": "Cipla Ltd",
-    "Keywords": "Tamsulosin (0.4mg) + Dutasteride (0.5mg) ADD",
+    "Keywords": "Tamsulosin (0.4mg) + Dutasteride (0.5mg)",
     "quantity": "1" 
   },
   {
@@ -16650,7 +16650,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 10 tablets",
     "Like2": "Leeford Healthcare Ltd",
-    "Keywords": "Ursodeoxycholic Acid (300mg) ADD",
+    "Keywords": "Ursodeoxycholic Acid (300mg)",
     "quantity": "1" 
   },
   {
@@ -16661,7 +16661,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 10 tablets",
     "Like2": "Alkem Laboratories Ltd",
-    "Keywords": "Ursodeoxycholic Acid (300mg) ADD",
+    "Keywords": "Ursodeoxycholic Acid (300mg)",
     "quantity": "1" 
   },
   {
@@ -16672,7 +16672,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 10 tablets",
     "Like2": "Torrent Pharmaceuticals Ltd",
-    "Keywords": "Ursodeoxycholic Acid (300mg) ADD",
+    "Keywords": "Ursodeoxycholic Acid (300mg)",
     "quantity": "1" 
   },
   {
@@ -16727,7 +16727,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 10 tablets",
     "Like2": "Abbott",
-    "Keywords": "Ursodeoxycholic Acid (450mg) ADD",
+    "Keywords": "Ursodeoxycholic Acid (450mg)",
     "quantity": "1" 
   },
   {
@@ -16738,7 +16738,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 10 tablet er",
     "Like2": "USV Ltd",
-    "Keywords": "Dapagliflozin (10mg) + Metformin (1000mg) ADD",
+    "Keywords": "Dapagliflozin (10mg) + Metformin (1000mg)",
     "quantity": "1" 
   },
   {
@@ -16749,7 +16749,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 10 tablets",
     "Like2": "Cipla Ltd",
-    "Keywords": "Bethanechol (25mg) ADD",
+    "Keywords": "Bethanechol (25mg)",
     "quantity": "1" 
   },
   {
@@ -16760,7 +16760,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "box of 30 capsule mr",
     "Like2": "Cipla Ltd",
-    "Keywords": "Tamsulosin (400mcg) ADD",
+    "Keywords": "Tamsulosin (400mcg)",
     "quantity": "1" 
   },
   {
@@ -16771,7 +16771,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 10 tablets",
     "Like2": "Micro Labs Ltd",
-    "Keywords": "Ursodeoxycholic Acid (300mg) ADD",
+    "Keywords": "Ursodeoxycholic Acid (300mg)",
     "quantity": "1" 
   },
   {
@@ -16815,7 +16815,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 10 tablets",
     "Like2": "Torrent Pharmaceuticals Ltd",
-    "Keywords": "Diethylcarbamazine (250mg) + Chlorpheniramine Maleate (5mg) ADD",
+    "Keywords": "Diethylcarbamazine (250mg) + Chlorpheniramine Maleate (5mg)",
     "quantity": "1" 
   },
   {
@@ -16837,7 +16837,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 2 tablets",
     "Like2": "Pfizer Ltd",
-    "Keywords": "Sildenafil (100mg) ADD",
+    "Keywords": "Sildenafil (100mg)",
     "quantity": "1" 
   },
   {
@@ -16848,7 +16848,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 15 Tablet pr",
     "Like2": "Dr Reddy's Laboratories Ltd",
-    "Keywords": "Diclofenac (100mg) ADD",
+    "Keywords": "Diclofenac (100mg)",
     "quantity": "1" 
   },
   {
@@ -16859,7 +16859,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 4 tablets",
     "Like2": "Zydus Healthcare Limited",
-    "Keywords": "Sildenafil (100mg) ADD",
+    "Keywords": "Sildenafil (100mg)",
     "quantity": "1" 
   },
   {
@@ -16870,7 +16870,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 15 tablets",
     "Like2": "Abbott",
-    "Keywords": "Betahistine (16mg) ADD",
+    "Keywords": "Betahistine (16mg)",
     "quantity": "1" 
   },
   {
@@ -16881,7 +16881,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 14 tablets",
     "Like2": "Novartis India Ltd",
-    "Keywords": "Sacubitril (24mg) + Valsartan (26mg) ADD",
+    "Keywords": "Sacubitril (24mg) + Valsartan (26mg)",
     "quantity": "1" 
   },
   {
@@ -16892,7 +16892,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 2 tablets",
     "Like2": "Pfizer Ltd",
-    "Keywords": "Sildenafil (50mg) ADD",
+    "Keywords": "Sildenafil (50mg)",
     "quantity": "1" 
   },
   {
@@ -16903,7 +16903,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 14 tablets",
     "Like2": "Cadila Pharmaceuticals Ltd",
-    "Keywords": "Caffeine (100mg) + Ergotamine (1mg) + Paracetamol (250mg) + Prochlorperazine (2.5mg) ADD",
+    "Keywords": "Caffeine (100mg) + Ergotamine (1mg) + Paracetamol (250mg) + Prochlorperazine (2.5mg)",
     "quantity": "1" 
   },
   {
@@ -16914,7 +16914,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 15 tablets",
     "Like2": "Abbott",
-    "Keywords": "Betahistine (8mg) ADD",
+    "Keywords": "Betahistine (8mg)",
     "quantity": "1" 
   },
   {
@@ -16925,7 +16925,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 10 tablet dt",
     "Like2": "Mankind Pharma Ltd",
-    "Keywords": "Ondansetron (4mg) ADD",
+    "Keywords": "Ondansetron (4mg)",
     "quantity": "1" 
   },
   {
@@ -16936,7 +16936,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 10 capsules",
     "Like2": "Sun Pharmaceutical Industries Ltd",
-    "Keywords": "Live Freeze Dried Lactic Acid Bacteria and Bifidobacteria (112.5Billion CFU) ADD",
+    "Keywords": "Live Freeze Dried Lactic Acid Bacteria and Bifidobacteria (112.5Billion CFU)",
     "quantity": "1" 
   },
   {
@@ -16947,7 +16947,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 10 capsule sr",
     "Like2": "Torrent Pharmaceuticals Ltd",
-    "Keywords": "Domperidone (30mg) + Rabeprazole (20mg) ADD",
+    "Keywords": "Domperidone (30mg) + Rabeprazole (20mg)",
     "quantity": "1" 
   },
   {
@@ -16958,7 +16958,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 15 tablet mr",
     "Like2": "Intas Pharmaceuticals Ltd",
-    "Keywords": "Tamsulosin (0.4mg) ADD",
+    "Keywords": "Tamsulosin (0.4mg)",
     "quantity": "1" 
   },
   {
@@ -16969,7 +16969,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 10 tablets",
     "Like2": "Procter & Gamble Hygiene and Health Care Ltd",
-    "Keywords": "Caffeine (30mg) + Diphenhydramine (25mg) + Paracetamol (500mg) + Phenylephrine (5mg) ADD",
+    "Keywords": "Caffeine (30mg) + Diphenhydramine (25mg) + Paracetamol (500mg) + Phenylephrine (5mg)",
     "quantity": "1" 
   },
   {
@@ -16980,7 +16980,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 10 tablets",
     "Like2": "Geno Pharmaceuticals Ltd",
-    "Keywords": "Cinnarizine (25mg) ADD",
+    "Keywords": "Cinnarizine (25mg)",
     "quantity": "1" 
   },
   {
@@ -17002,7 +17002,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 14 tablets",
     "Like2": "Novartis India Ltd",
-    "Keywords": "Sacubitril (49mg) + Valsartan (51mg) ADD",
+    "Keywords": "Sacubitril (49mg) + Valsartan (51mg)",
     "quantity": "1" 
   },
   {
@@ -17013,7 +17013,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 10 tablet sr",
     "Like2": "Mankind Pharma Ltd",
-    "Keywords": "Doxofylline (400mg) + Montelukast (10mg) ADD",
+    "Keywords": "Doxofylline (400mg) + Montelukast (10mg)",
     "quantity": "1" 
   },
   {
@@ -17024,7 +17024,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "vial of 10 ml Injection",
     "Like2": "FDC Ltd",
-    "Keywords": "Nicotinamide (200mg/ml) + Folic Acid (15mg/ml) + Cyanocobalamin (500mcg/ml) ADD",
+    "Keywords": "Nicotinamide (200mg/ml) + Folic Acid (15mg/ml) + Cyanocobalamin (500mcg/ml)",
     "quantity": "1" 
   },
   {
@@ -17035,7 +17035,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 15 tablet mr",
     "Like2": "Intas Pharmaceuticals Ltd",
-    "Keywords": "Tamsulosin (0.4mg) + Dutasteride (0.5mg) ADD",
+    "Keywords": "Tamsulosin (0.4mg) + Dutasteride (0.5mg)",
     "quantity": "1" 
   },
   {
@@ -17046,7 +17046,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 15 tablets",
     "Like2": "Torrent Pharmaceuticals Ltd",
-    "Keywords": "Rabeprazole (20mg) ADD",
+    "Keywords": "Rabeprazole (20mg)",
     "quantity": "1" 
   },
   {
@@ -17057,7 +17057,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 15 gelatin coated tablets",
     "Like2": "Dr Reddy's Laboratories Ltd",
-    "Keywords": "Diclofenac (50mg) ADD",
+    "Keywords": "Diclofenac (50mg)",
     "quantity": "1" 
   },
   {
@@ -17068,7 +17068,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "bottle of 30 ml Oral Solution",
     "Like2": "Mankind Pharma Ltd",
-    "Keywords": "Ondansetron (2mg/5ml) ADD",
+    "Keywords": "Ondansetron (2mg/5ml)",
     "quantity": "1" 
   },
   {
@@ -17079,7 +17079,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 4 tablets",
     "Like2": "Zydus Healthcare Limited",
-    "Keywords": "Sildenafil (50mg) ADD",
+    "Keywords": "Sildenafil (50mg)",
     "quantity": "1" 
   },
   {
@@ -17090,7 +17090,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 3 tablets",
     "Like2": "Cipla Ltd",
-    "Keywords": "Valacyclovir (1000mg) ADD",
+    "Keywords": "Valacyclovir (1000mg)",
     "quantity": "1" 
   },
   {
@@ -17101,7 +17101,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "ampoule of 1 ml Injection",
     "Like2": "Dr Reddy's Laboratories Ltd",
-    "Keywords": "Diclofenac (75mg) ADD",
+    "Keywords": "Diclofenac (75mg)",
     "quantity": "1" 
   },
   {
@@ -17112,7 +17112,7 @@ var products=[
     "Prescription": "",
     "Like1": "strip of 10 Chewable Tablets",
     "Like2": "Abbott",
-    "Keywords": "Vitamin A (50000IU) ADD",
+    "Keywords": "Vitamin A (50000IU)",
     "quantity": "1" 
   },
   {
@@ -17134,7 +17134,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "bottle of 5 ml Ophthalmic Solution",
     "Like2": "Alcon Laboratories",
-    "Keywords": "Moxifloxacin (0.5% w/v) ADD",
+    "Keywords": "Moxifloxacin (0.5% w/v)",
     "quantity": "1" 
   },
   {
@@ -17145,7 +17145,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 15 tablets",
     "Like2": "Macleods Pharmaceuticals Pvt Ltd",
-    "Keywords": "Metformin (500mg) + Vildagliptin (50mg) ADD",
+    "Keywords": "Metformin (500mg) + Vildagliptin (50mg)",
     "quantity": "1" 
   },
   {
@@ -17167,7 +17167,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 10 tablet dt",
     "Like2": "Mankind Pharma Ltd",
-    "Keywords": "Betahistine (16mg) ADD",
+    "Keywords": "Betahistine (16mg)",
     "quantity": "1" 
   },
   {
@@ -17178,7 +17178,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "bottle of 100 ml Syrup",
     "Like2": "Dr Reddy's Laboratories Ltd",
-    "Keywords": "Ambroxol (15mg/15ml) + Guaifenesin (50mg/15ml) + Menthol (2.5mg/15ml) + Terbutaline (1.25mg/15ml) ADD",
+    "Keywords": "Ambroxol (15mg/15ml) + Guaifenesin (50mg/15ml) + Menthol (2.5mg/15ml) + Terbutaline (1.25mg/15ml)",
     "quantity": "1" 
   },
   {
@@ -17189,7 +17189,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 10 tablets",
     "Like2": "Sun Pharmaceutical Industries Ltd",
-    "Keywords": "Voglibose (0.3mg) ADD",
+    "Keywords": "Voglibose (0.3mg)",
     "quantity": "1" 
   },
   {
@@ -17211,7 +17211,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 10 tablets",
     "Like2": "Dr Reddy's Laboratories Ltd",
-    "Keywords": "Levocetirizine (5mg) ADD",
+    "Keywords": "Levocetirizine (5mg)",
     "quantity": "1" 
   },
   {
@@ -17222,7 +17222,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 10 tablet dt",
     "Like2": "Dr Reddy's Laboratories Ltd",
-    "Keywords": "Diclofenac (50mg) ADD",
+    "Keywords": "Diclofenac (50mg)",
     "quantity": "1" 
   },
   {
@@ -17244,7 +17244,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 10 tablets",
     "Like2": "Walter Bushnell",
-    "Keywords": "Diosmin (300mg) ADD",
+    "Keywords": "Diosmin (300mg)",
     "quantity": "1" 
   },
   {
@@ -17266,7 +17266,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "bottle of 15 capsules",
     "Like2": "Glenmark Pharmaceuticals Ltd",
-    "Keywords": "Fluticasone Furoate (100mcg) + Vilanterol (25mcg) ADD",
+    "Keywords": "Fluticasone Furoate (100mcg) + Vilanterol (25mcg)",
     "quantity": "1" 
   },
   {
@@ -17277,7 +17277,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 15 tablets",
     "Like2": "Ajanta Pharma Ltd",
-    "Keywords": "Cinnarizine (20mg) + Dimenhydrinate (40mg) ADD",
+    "Keywords": "Cinnarizine (20mg) + Dimenhydrinate (40mg)",
     "quantity": "1" 
   },
   {
@@ -17288,7 +17288,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 15 tablet cr",
     "Like2": "Intas Pharmaceuticals Ltd",
-    "Keywords": "Sodium Valproate (333mg) + Valproic Acid (145mg) ADD",
+    "Keywords": "Sodium Valproate (333mg) + Valproic Acid (145mg)",
     "quantity": "1" 
   },
   {
@@ -17310,7 +17310,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 15 tablets",
     "Like2": "Abbott",
-    "Keywords": "Betahistine (24mg) ADD",
+    "Keywords": "Betahistine (24mg)",
     "quantity": "1" 
   },
   {
@@ -17343,7 +17343,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 10 tablets",
     "Like2": "Mankind Pharma Ltd",
-    "Keywords": "Doxofylline (400mg) + Ambroxol (30mg) ADD",
+    "Keywords": "Doxofylline (400mg) + Ambroxol (30mg)",
     "quantity": "1" 
   },
   {
@@ -17354,7 +17354,7 @@ var products=[
     "Prescription": "",
     "Like1": "bottle of 10 ml Eye Drop",
     "Like2": "Alembic Pharmaceuticals Ltd",
-    "Keywords": "Carboxymethylcellulose (0.5% w/v) ADD",
+    "Keywords": "Carboxymethylcellulose (0.5% w/v)",
     "quantity": "1" 
   },
   {
@@ -17365,7 +17365,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "bottle of 200 ml Oral Solution",
     "Like2": "Sanofi India  Ltd",
-    "Keywords": "Sodium Valproate (200mg/5ml) ADD",
+    "Keywords": "Sodium Valproate (200mg/5ml)",
     "quantity": "1" 
   },
   {
@@ -17376,7 +17376,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 10 tablets",
     "Like2": "J B Chemicals and Pharmaceuticals Ltd",
-    "Keywords": "Acebrophylline (100mg) + Acetylcysteine (600mg) ADD",
+    "Keywords": "Acebrophylline (100mg) + Acetylcysteine (600mg)",
     "quantity": "1" 
   },
   {
@@ -17387,7 +17387,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 7 tablets",
     "Like2": "Novartis India Ltd",
-    "Keywords": "Sacubitril (97mg) + Valsartan (103mg) ADD",
+    "Keywords": "Sacubitril (97mg) + Valsartan (103mg)",
     "quantity": "1" 
   },
   {
@@ -17398,7 +17398,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 10 Tablet pr",
     "Like2": "Dr Reddy's Laboratories Ltd",
-    "Keywords": "Diclofenac (75mg) ADD",
+    "Keywords": "Diclofenac (75mg)",
     "quantity": "1" 
   },
   {
@@ -17409,7 +17409,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 10 tablets",
     "Like2": "Sun Pharmaceutical Industries Ltd",
-    "Keywords": "Levo-carnitine (500mg) ADD",
+    "Keywords": "Levo-carnitine (500mg)",
     "quantity": "1" 
   },
   {
@@ -17420,7 +17420,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 15 tablets",
     "Like2": "Lupin Ltd",
-    "Keywords": "Metformin (500mg) + Vildagliptin (50mg) ADD",
+    "Keywords": "Metformin (500mg) + Vildagliptin (50mg)",
     "quantity": "1" 
   },
   {
@@ -17442,7 +17442,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 10 tablets",
     "Like2": "Micro Labs Ltd",
-    "Keywords": "Metformin (500mg) + Vildagliptin (50mg) ADD",
+    "Keywords": "Metformin (500mg) + Vildagliptin (50mg)",
     "quantity": "1" 
   },
   {
@@ -17453,7 +17453,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 10 tablets",
     "Like2": "Emcure Pharmaceuticals Ltd",
-    "Keywords": "Metformin (500mg) + Vildagliptin (50mg) ADD",
+    "Keywords": "Metformin (500mg) + Vildagliptin (50mg)",
     "quantity": "1" 
   },
   {
@@ -17464,7 +17464,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "ampoule of 2 ml Injection",
     "Like2": "FDC Ltd",
-    "Keywords": "Folic Acid (0.7mg) + Methylcobalamin (2500mcg) + Niacinamide (12mg) + Vitamin C (150mg) ADD",
+    "Keywords": "Folic Acid (0.7mg) + Methylcobalamin (2500mcg) + Niacinamide (12mg) + Vitamin C (150mg)",
     "quantity": "1" 
   },
   {
@@ -17475,7 +17475,7 @@ var products=[
     "Prescription": "",
     "Like1": "strip of 15 tablets",
     "Like2": "Alembic Pharmaceuticals Ltd",
-    "Keywords": "Calcium Carbonate (1250mg) + Vitamin D3 (2000IU) + Methylcobalamin (1500mcg) + L-Methyl Folate Calcium (1mg) + Pyridoxal-5-phosphate (20mg) ADD",
+    "Keywords": "Calcium Carbonate (1250mg) + Vitamin D3 (2000IU) + Methylcobalamin (1500mcg) + L-Methyl Folate Calcium (1mg) + Pyridoxal-5-phosphate (20mg)",
     "quantity": "1" 
   },
   {
@@ -17508,7 +17508,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 15 tablet dt",
     "Like2": "Pfizer Ltd",
-    "Keywords": "Prednisolone (10mg) ADD",
+    "Keywords": "Prednisolone (10mg)",
     "quantity": "1" 
   },
   {
@@ -17519,7 +17519,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "bottle of 60 ml Syrup",
     "Like2": "Alembic Pharmaceuticals Ltd",
-    "Keywords": "Chlorpheniramine Maleate (2mg/5ml) + Phenylephrine (5mg/5ml) + Paracetamol (250mg/5ml) + Sodium Citrate (60mg/5ml) ADD",
+    "Keywords": "Chlorpheniramine Maleate (2mg/5ml) + Phenylephrine (5mg/5ml) + Paracetamol (250mg/5ml) + Sodium Citrate (60mg/5ml)",
     "quantity": "1" 
   },
   {
@@ -17530,7 +17530,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 15 tablet dt",
     "Like2": "Pfizer Ltd",
-    "Keywords": "Prednisolone (5mg) ADD",
+    "Keywords": "Prednisolone (5mg)",
     "quantity": "1" 
   },
   {
@@ -17552,7 +17552,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "bottle of 60 ml Syrup",
     "Like2": "Alembic Pharmaceuticals Ltd",
-    "Keywords": "Chlorpheniramine Maleate (2mg/5ml) + Phenylephrine (5mg/5ml) ADD",
+    "Keywords": "Chlorpheniramine Maleate (2mg/5ml) + Phenylephrine (5mg/5ml)",
     "quantity": "1" 
   },
   {
@@ -17563,7 +17563,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "bottle of 30 ml Oral Suspension",
     "Like2": "Wallace Pharmaceuticals Pvt Ltd",
-    "Keywords": "Colistin Sulphate (12.5mg) ADD",
+    "Keywords": "Colistin Sulphate (12.5mg)",
     "quantity": "1" 
   },
   {
@@ -17574,7 +17574,7 @@ var products=[
     "Prescription": "",
     "Like1": "packet of 10 ml Ear Drop",
     "Like2": "Entod Pharmaceuticals Ltd",
-    "Keywords": "Benzocaine (2.7% w/v) + Chlorbutol (5% w/v) + Paradichlorobenzene (2% w/v) + Turpentine Oil (15% w/v) ADD",
+    "Keywords": "Benzocaine (2.7% w/v) + Chlorbutol (5% w/v) + Paradichlorobenzene (2% w/v) + Turpentine Oil (15% w/v)",
     "quantity": "1" 
   },
   {
@@ -17585,7 +17585,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 15 tablet dt",
     "Like2": "Pfizer Ltd",
-    "Keywords": "Prednisolone (20mg) ADD",
+    "Keywords": "Prednisolone (20mg)",
     "quantity": "1" 
   },
   {
@@ -17596,7 +17596,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 15 tablets",
     "Like2": "Alembic Pharmaceuticals Ltd",
-    "Keywords": "Chlorpheniramine Maleate (2mg) + Paracetamol (500mg) + Phenylephrine (10mg) ADD",
+    "Keywords": "Chlorpheniramine Maleate (2mg) + Paracetamol (500mg) + Phenylephrine (10mg)",
     "quantity": "1" 
   },
   {
@@ -17607,7 +17607,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "bottle of 15 ml Oral Drops",
     "Like2": "Alembic Pharmaceuticals Ltd",
-    "Keywords": "Chlorpheniramine Maleate (1mg) + Paracetamol (125mg) + Phenylephrine (2.5mg) ADD",
+    "Keywords": "Chlorpheniramine Maleate (1mg) + Paracetamol (125mg) + Phenylephrine (2.5mg)",
     "quantity": "1" 
   },
   {
@@ -17618,7 +17618,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "bottle of 60 ml Oral Suspension",
     "Like2": "Alembic Pharmaceuticals Ltd",
-    "Keywords": "Chlorpheniramine Maleate (1mg/5ml) + Paracetamol (125mg/5ml) + Phenylephrine (5mg/5ml) ADD",
+    "Keywords": "Chlorpheniramine Maleate (1mg/5ml) + Paracetamol (125mg/5ml) + Phenylephrine (5mg/5ml)",
     "quantity": "1" 
   },
   {
@@ -17629,7 +17629,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "packet of 5 ml Ophthalmic Solution",
     "Like2": "Sun Pharmaceutical Industries Ltd",
-    "Keywords": "Olopatadine (0.1% w/v) ADD",
+    "Keywords": "Olopatadine (0.1% w/v)",
     "quantity": "1" 
   },
   {
@@ -17651,7 +17651,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 30 tablets",
     "Like2": "Cipla Ltd",
-    "Keywords": "Warfarin (5mg) ADD",
+    "Keywords": "Warfarin (5mg)",
     "quantity": "1" 
   },
   {
@@ -17662,7 +17662,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "bottle of 60 ml Syrup",
     "Like2": "Delcure Life Sciences",
-    "Keywords": "Chlorpheniramine Maleate (2mg/5ml) + Phenylephrine (5mg/5ml) ADD",
+    "Keywords": "Chlorpheniramine Maleate (2mg/5ml) + Phenylephrine (5mg/5ml)",
     "quantity": "1" 
   },
   {
@@ -17695,7 +17695,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "bottle of 15 ml Oral Drops",
     "Like2": "Alembic Pharmaceuticals Ltd",
-    "Keywords": "Chlorpheniramine Maleate (2mg/ml) + Phenylephrine (5mg/ml) ADD",
+    "Keywords": "Chlorpheniramine Maleate (2mg/ml) + Phenylephrine (5mg/ml)",
     "quantity": "1" 
   },
   {
@@ -17717,7 +17717,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 10 tablet dt",
     "Like2": "Alembic Pharmaceuticals Ltd",
-    "Keywords": "Chlorpheniramine Maleate (2mg) + Paracetamol (325mg) + Phenylephrine (5mg) ADD",
+    "Keywords": "Chlorpheniramine Maleate (2mg) + Paracetamol (325mg) + Phenylephrine (5mg)",
     "quantity": "1" 
   },
   {
@@ -17728,7 +17728,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 20 tablets",
     "Like2": "Wallace Pharmaceuticals Pvt Ltd",
-    "Keywords": "Betamethasone (0.5mg) ADD",
+    "Keywords": "Betamethasone (0.5mg)",
     "quantity": "1" 
   },
   {
@@ -17772,7 +17772,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 10 tablets",
     "Like2": "Wings Biotech Ltd",
-    "Keywords": "Cetirizine (5mg) + Paracetamol (325mg) + Phenylephrine (5mg) ADD",
+    "Keywords": "Cetirizine (5mg) + Paracetamol (325mg) + Phenylephrine (5mg)",
     "quantity": "1" 
   },
   {
@@ -17794,7 +17794,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 10 tablets",
     "Like2": "Lincoln Pharmaceuticals Ltd",
-    "Keywords": "Ginkgo Biloba (60mg) + Piracetam (800mg) + Vinpocetine (5mg) ADD",
+    "Keywords": "Ginkgo Biloba (60mg) + Piracetam (800mg) + Vinpocetine (5mg)",
     "quantity": "1" 
   },
   {
@@ -17816,7 +17816,7 @@ var products=[
     "Prescription": "",
     "Like1": "tube of 15 gm Ointment",
     "Like2": "Dr Reddy's Laboratories Ltd",
-    "Keywords": "Povidone Iodine (10% w/w) ADD",
+    "Keywords": "Povidone Iodine (10% w/w)",
     "quantity": "1" 
   },
   {
@@ -17827,7 +17827,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 10 capsules",
     "Like2": "Tas Med India Pvt Ltd",
-    "Keywords": "Mexiletine (150mg) ADD",
+    "Keywords": "Mexiletine (150mg)",
     "quantity": "1" 
   },
   {
@@ -17838,7 +17838,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "bottle of 2.5 ml Ophthalmic Solution",
     "Like2": "Sun Pharmaceutical Industries Ltd",
-    "Keywords": "Olopatadine (7mg/ml) ADD",
+    "Keywords": "Olopatadine (7mg/ml)",
     "quantity": "1" 
   },
   {
@@ -17849,7 +17849,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "bottle of 60 ml Syrup",
     "Like2": "Delcure Life Sciences",
-    "Keywords": "Chlorpheniramine Maleate (1mg/5ml) + Paracetamol (125mg/5ml) + Phenylephrine (5mg/5ml) ADD",
+    "Keywords": "Chlorpheniramine Maleate (1mg/5ml) + Paracetamol (125mg/5ml) + Phenylephrine (5mg/5ml)",
     "quantity": "1" 
   },
   {
@@ -17860,7 +17860,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 10 tablets",
     "Like2": "Sun Pharmaceutical Industries Ltd",
-    "Keywords": "Olopatadine (5mg) ADD",
+    "Keywords": "Olopatadine (5mg)",
     "quantity": "1" 
   },
   {
@@ -17882,7 +17882,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 30 tablets",
     "Like2": "Cipla Ltd",
-    "Keywords": "Warfarin (2mg) ADD",
+    "Keywords": "Warfarin (2mg)",
     "quantity": "1" 
   },
   {
@@ -17893,7 +17893,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "packet of 2.5 ml Ophthalmic Solution",
     "Like2": "Sun Pharmaceutical Industries Ltd",
-    "Keywords": "Olopatadine (0.2% w/v) ADD",
+    "Keywords": "Olopatadine (0.2% w/v)",
     "quantity": "1" 
   },
   {
@@ -17904,7 +17904,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 10 tablet cr",
     "Like2": "Panacea Biotec Ltd",
-    "Keywords": "Aceclofenac (200mg) ADD",
+    "Keywords": "Aceclofenac (200mg)",
     "quantity": "1" 
   },
   {
@@ -17926,7 +17926,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 20 tablets",
     "Like2": "Wings Biotech Ltd",
-    "Keywords": "Chlorzoxazone (250mg) + Diclofenac (50mg) + Paracetamol (325mg) ADD",
+    "Keywords": "Chlorzoxazone (250mg) + Diclofenac (50mg) + Paracetamol (325mg)",
     "quantity": "1" 
   },
   {
@@ -17948,7 +17948,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "packet of 15 ml Oral Drops",
     "Like2": "Delcure Life Sciences",
-    "Keywords": "Chlorpheniramine Maleate (2mg/ml) + Phenylephrine (5mg/ml) ADD",
+    "Keywords": "Chlorpheniramine Maleate (2mg/ml) + Phenylephrine (5mg/ml)",
     "quantity": "1" 
   },
   {
@@ -17959,7 +17959,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "prefilled syringe of 1 ml Injection",
     "Like2": "Wockhardt Ltd",
-    "Keywords": "Recombinant Human Erythropoietin Alfa (10000IU) ADD",
+    "Keywords": "Recombinant Human Erythropoietin Alfa (10000IU)",
     "quantity": "1" 
   },
   {
@@ -17970,7 +17970,7 @@ var products=[
     "Prescription": "",
     "Like1": "bottle of 10 ml Eye Drop",
     "Like2": "Deys Medical",
-    "Keywords": "Carboxymethylcellulose (0.5% w/v) ADD",
+    "Keywords": "Carboxymethylcellulose (0.5% w/v)",
     "quantity": "1" 
   },
   {
@@ -17992,7 +17992,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "bottle of 30 ml Suspension",
     "Like2": "Wallace Pharmaceuticals Pvt Ltd",
-    "Keywords": "Colistin Sulphate (25mg) ADD",
+    "Keywords": "Colistin Sulphate (25mg)",
     "quantity": "1" 
   },
   {
@@ -18003,7 +18003,7 @@ var products=[
     "Prescription": "",
     "Like1": "bottle of 100 ml Gargle",
     "Like2": "Dr Reddy's Laboratories Ltd",
-    "Keywords": "Povidone Iodine (2%) ADD",
+    "Keywords": "Povidone Iodine (2%)",
     "quantity": "1" 
   },
   {
@@ -18025,7 +18025,7 @@ var products=[
     "Prescription": "",
     "Like1": "bottle of 500 ml Solution",
     "Like2": "Dr Reddy's Laboratories Ltd",
-    "Keywords": "Povidone Iodine (10% w/v) ADD",
+    "Keywords": "Povidone Iodine (10% w/v)",
     "quantity": "1" 
   },
   {
@@ -18036,7 +18036,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 30 tablets",
     "Like2": "Cipla Ltd",
-    "Keywords": "Warfarin (3mg) ADD",
+    "Keywords": "Warfarin (3mg)",
     "quantity": "1" 
   },
   {
@@ -18047,7 +18047,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "bottle of 100 ml Syrup",
     "Like2": "Delcure Life Sciences",
-    "Keywords": "Phenylephrine (5mg) + Chlorpheniramine Maleate (2mg) + Dextromethorphan Hydrobromide (10mg) ADD",
+    "Keywords": "Phenylephrine (5mg) + Chlorpheniramine Maleate (2mg) + Dextromethorphan Hydrobromide (10mg)",
     "quantity": "1" 
   },
   {
@@ -18080,7 +18080,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 15 capsule sr",
     "Like2": "Dr Reddy's Laboratories Ltd",
-    "Keywords": "Domperidone (30mg) + Rabeprazole (20mg) ADD",
+    "Keywords": "Domperidone (30mg) + Rabeprazole (20mg)",
     "quantity": "1" 
   },
   {
@@ -18113,7 +18113,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "bottle of 10 ml Paint",
     "Like2": "Leeford Healthcare Ltd",
-    "Keywords": "Podophyllum resin (25% w/v) + Benzoin (10% w/v) + Aloe Vera (2% w/v) + Salicylic Acid (5% w/v) ADD",
+    "Keywords": "Podophyllum resin (25% w/v) + Benzoin (10% w/v) + Aloe Vera (2% w/v) + Salicylic Acid (5% w/v)",
     "quantity": "1" 
   },
   {
@@ -18124,7 +18124,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 10 tablets",
     "Like2": "Wings Biotech Ltd",
-    "Keywords": "Cetirizine (5mg) + Paracetamol (500mg) + Phenylephrine (10mg) ADD",
+    "Keywords": "Cetirizine (5mg) + Paracetamol (500mg) + Phenylephrine (10mg)",
     "quantity": "1" 
   },
   {
@@ -18135,7 +18135,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 10 tablets",
     "Like2": "Waksmed Lifescience Pvt Ltd",
-    "Keywords": "Cefuroxime (500mg) ADD",
+    "Keywords": "Cefuroxime (500mg)",
     "quantity": "1" 
   },
   {
@@ -18146,7 +18146,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "vial of 2 ml Injection",
     "Like2": "Leeford Healthcare Ltd",
-    "Keywords": "Methylcobalamin (1000mcg) + Niacinamide (100mg) + Vitamin B6 (Pyridoxine) (100mg) ADD",
+    "Keywords": "Methylcobalamin (1000mcg) + Niacinamide (100mg) + Vitamin B6 (Pyridoxine) (100mg)",
     "quantity": "1" 
   },
   {
@@ -18157,7 +18157,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 10 tablets",
     "Like2": "Sun Pharmaceutical Industries Ltd",
-    "Keywords": "Cetirizine (5mg) + Paracetamol (325mg) + Phenylephrine (10mg) ADD",
+    "Keywords": "Cetirizine (5mg) + Paracetamol (325mg) + Phenylephrine (10mg)",
     "quantity": "1" 
   },
   {
@@ -18190,7 +18190,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "bottle of 100 ml Syrup",
     "Like2": "Wynclark Pharmaceuticals Private Limited",
-    "Keywords": "Ambroxol (30mg) + Levosalbutamol (1mg) + Guaifenesin (50mg) ADD",
+    "Keywords": "Ambroxol (30mg) + Levosalbutamol (1mg) + Guaifenesin (50mg)",
     "quantity": "1" 
   },
   {
@@ -18201,7 +18201,7 @@ var products=[
     "Prescription": "",
     "Like1": "bottle of 10 ml Ear Drop",
     "Like2": "Lincoln Pharmaceuticals Ltd",
-    "Keywords": "Sodium Bicarbonate (5% w/v) ADD",
+    "Keywords": "Sodium Bicarbonate (5% w/v)",
     "quantity": "1" 
   },
   {
@@ -18245,7 +18245,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 30 tablets",
     "Like2": "Cipla Ltd",
-    "Keywords": "Warfarin (1mg) ADD",
+    "Keywords": "Warfarin (1mg)",
     "quantity": "1" 
   },
   {
@@ -18267,7 +18267,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 10 capsules",
     "Like2": "Tas Med India Pvt Ltd",
-    "Keywords": "Mexiletine (50mg) ADD",
+    "Keywords": "Mexiletine (50mg)",
     "quantity": "1" 
   },
   {
@@ -18322,7 +18322,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 15 capsule sr",
     "Like2": "Dr Reddy's Laboratories Ltd",
-    "Keywords": "Levosulpiride (75mg) + Rabeprazole (20mg) ADD",
+    "Keywords": "Levosulpiride (75mg) + Rabeprazole (20mg)",
     "quantity": "1" 
   },
   {
@@ -18333,7 +18333,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "vial of 1 ml Injection",
     "Like2": "Leeford Healthcare Ltd",
-    "Keywords": "Methylcobalamin (2500mcg) ADD",
+    "Keywords": "Methylcobalamin (2500mcg)",
     "quantity": "1" 
   },
   {
@@ -18344,7 +18344,7 @@ var products=[
     "Prescription": "",
     "Like1": "strip of 10 tablets",
     "Like2": "Sun Pharmaceutical Industries Ltd",
-    "Keywords": "Paracetamol (650mg) ADD",
+    "Keywords": "Paracetamol (650mg)",
     "quantity": "1" 
   },
   {
@@ -18355,7 +18355,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "bottle of 60 ml Syrup",
     "Like2": "Incite",
-    "Keywords": "Ambroxol (15mg/5ml) + Guaifenesin (50mg/5ml) + Menthol (2.5mg/5ml) + Terbutaline (1.25mg/5ml) ADD",
+    "Keywords": "Ambroxol (15mg/5ml) + Guaifenesin (50mg/5ml) + Menthol (2.5mg/5ml) + Terbutaline (1.25mg/5ml)",
     "quantity": "1" 
   },
   {
@@ -18377,7 +18377,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "bottle of 60 tablets",
     "Like2": "Pfizer Ltd",
-    "Keywords": "Tofacitinib (5mg) ADD",
+    "Keywords": "Tofacitinib (5mg)",
     "quantity": "1" 
   },
   {
@@ -18388,7 +18388,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 14 tablets",
     "Like2": "Bayer Zydus Pharma Pvt Ltd",
-    "Keywords": "Rivaroxaban (2.5mg) ADD",
+    "Keywords": "Rivaroxaban (2.5mg)",
     "quantity": "1" 
   },
   {
@@ -18399,7 +18399,7 @@ var products=[
     "Prescription": "",
     "Like1": "bottle of 200 ml Solution",
     "Like2": "Zydus Cadila",
-    "Keywords": "Lidocaine (20mg) ADD",
+    "Keywords": "Lidocaine (20mg)",
     "quantity": "1" 
   },
   {
@@ -18421,7 +18421,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 7 tablet er",
     "Like2": "AstraZeneca",
-    "Keywords": "Dapagliflozin (10mg) + Metformin (1000mg) ADD",
+    "Keywords": "Dapagliflozin (10mg) + Metformin (1000mg)",
     "quantity": "1" 
   },
   {
@@ -18432,7 +18432,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 10 tablets",
     "Like2": "Corona Remedies Pvt Ltd",
-    "Keywords": "Amoxycillin (500mg) + Clavulanic Acid (125mg) ADD",
+    "Keywords": "Amoxycillin (500mg) + Clavulanic Acid (125mg)",
     "quantity": "1" 
   },
   {
@@ -18443,7 +18443,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "bottle of 100 ml Expectorant",
     "Like2": "Alkem Laboratories Ltd",
-    "Keywords": "Ambroxol (30mg/5ml) + Guaifenesin (100mg/5ml) + Menthol (2.5mg/5ml) + Terbutaline (1.25mg/5ml) ADD",
+    "Keywords": "Ambroxol (30mg/5ml) + Guaifenesin (100mg/5ml) + Menthol (2.5mg/5ml) + Terbutaline (1.25mg/5ml)",
     "quantity": "1" 
   },
   {
@@ -18465,7 +18465,7 @@ var products=[
     "Prescription": "",
     "Like1": "bottle of 100 ml Shampoo",
     "Like2": "Mankind Pharma Ltd",
-    "Keywords": "Ketoconazole (2% w/w) ADD",
+    "Keywords": "Ketoconazole (2% w/w)",
     "quantity": "1" 
   },
   {
@@ -18476,7 +18476,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 20 tablets",
     "Like2": "Sun Pharmaceutical Industries Ltd",
-    "Keywords": "Midodrine (2.5mg) ADD",
+    "Keywords": "Midodrine (2.5mg)",
     "quantity": "1" 
   },
   {
@@ -18487,7 +18487,7 @@ var products=[
     "Prescription": "",
     "Like1": "strip of 10 tablets",
     "Like2": "Troikaa Pharmaceuticals Ltd",
-    "Keywords": "Paracetamol (1000mg) ADD",
+    "Keywords": "Paracetamol (1000mg)",
     "quantity": "1" 
   },
   {
@@ -18498,7 +18498,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "bottle of 60 ml Oral Suspension",
     "Like2": "Dr Reddy's Laboratories Ltd",
-    "Keywords": "Levocetirizine (2.5mg/5ml) + Montelukast (4mg/5ml) ADD",
+    "Keywords": "Levocetirizine (2.5mg/5ml) + Montelukast (4mg/5ml)",
     "quantity": "1" 
   },
   {
@@ -18509,7 +18509,7 @@ var products=[
     "Prescription": "",
     "Like1": "tube of 20 gm Cream",
     "Like2": "La Pristine Bioceuticals Pvt Ltd",
-    "Keywords": "Azelaic Acid (10% w/w) + Tretinoin (0.025% w/w) ADD",
+    "Keywords": "Azelaic Acid (10% w/w) + Tretinoin (0.025% w/w)",
     "quantity": "1" 
   },
   {
@@ -18520,7 +18520,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 10 tablets",
     "Like2": "Corona Remedies Pvt Ltd",
-    "Keywords": "Trypsin (48mg) + Bromelain (90mg) + Rutoside (100mg) + Diclofenac (50mg) ADD",
+    "Keywords": "Trypsin (48mg) + Bromelain (90mg) + Rutoside (100mg) + Diclofenac (50mg)",
     "quantity": "1" 
   },
   {
@@ -18531,7 +18531,7 @@ var products=[
     "Prescription": "",
     "Like1": "tube of 15 gm Cream",
     "Like2": "La Pristine Bioceuticals Pvt Ltd",
-    "Keywords": "Azelaic Acid (10% w/w) + Tretinoin (0.05% w/w) ADD",
+    "Keywords": "Azelaic Acid (10% w/w) + Tretinoin (0.05% w/w)",
     "quantity": "1" 
   },
   {
@@ -18542,7 +18542,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "vial of 1 Injection",
     "Like2": "Alkem Laboratories Ltd",
-    "Keywords": "Ceftriaxone (1000mg) + Sulbactam (500mg) ADD",
+    "Keywords": "Ceftriaxone (1000mg) + Sulbactam (500mg)",
     "quantity": "1" 
   },
   {
@@ -18553,7 +18553,7 @@ var products=[
     "Prescription": "",
     "Like1": "bottle of 10 ml Eye Drop",
     "Like2": "Sunways India Pvt Ltd",
-    "Keywords": "Sodium Hyaluronate (0.1% w/v) ADD",
+    "Keywords": "Sodium Hyaluronate (0.1% w/v)",
     "quantity": "1" 
   },
   {
@@ -18575,7 +18575,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 15 tablets",
     "Like2": "Blue Cross Laboratories Ltd",
-    "Keywords": "Telmisartan (40mg) + Hydrochlorothiazide (12.5mg) ADD",
+    "Keywords": "Telmisartan (40mg) + Hydrochlorothiazide (12.5mg)",
     "quantity": "1" 
   },
   {
@@ -18597,7 +18597,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 15 tablets",
     "Like2": "Abbott",
-    "Keywords": "Levocetirizine (5mg) ADD",
+    "Keywords": "Levocetirizine (5mg)",
     "quantity": "1" 
   },
   {
@@ -18619,7 +18619,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 10 tablets",
     "Like2": "Ipca Laboratories Ltd",
-    "Keywords": "Atorvastatin (10mg) + Fenofibrate (160mg) ADD",
+    "Keywords": "Atorvastatin (10mg) + Fenofibrate (160mg)",
     "quantity": "1" 
   },
   {
@@ -18630,7 +18630,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 10 tablets",
     "Like2": "Ipca Laboratories Ltd",
-    "Keywords": "Atorvastatin (40mg) ADD",
+    "Keywords": "Atorvastatin (40mg)",
     "quantity": "1" 
   },
   {
@@ -18641,7 +18641,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 10 Tablet pr",
     "Like2": "Zydus Cadila",
-    "Keywords": "Paroxetine (12.5mg) ADD",
+    "Keywords": "Paroxetine (12.5mg)",
     "quantity": "1" 
   },
   {
@@ -18652,7 +18652,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 10 tablets",
     "Like2": "Sun Pharmaceutical Industries Ltd",
-    "Keywords": "Midodrine (5mg) ADD",
+    "Keywords": "Midodrine (5mg)",
     "quantity": "1" 
   },
   {
@@ -18663,7 +18663,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 10 tablets",
     "Like2": "Ipca Laboratories Ltd",
-    "Keywords": "Atorvastatin (20mg) ADD",
+    "Keywords": "Atorvastatin (20mg)",
     "quantity": "1" 
   },
   {
@@ -18674,7 +18674,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "bottle of 100 ml Syrup",
     "Like2": "Alkem Laboratories Ltd",
-    "Keywords": "Terbutaline (1.25mg) + Ambroxol (15mg) ADD",
+    "Keywords": "Terbutaline (1.25mg) + Ambroxol (15mg)",
     "quantity": "1" 
   },
   {
@@ -18696,7 +18696,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "bottle of 100 ml Expectorant",
     "Like2": "Alkem Laboratories Ltd",
-    "Keywords": "Ambroxol (30mg/5ml) + Levosalbutamol (1mg/5ml) + Guaifenesin (50mg/5ml) ADD",
+    "Keywords": "Ambroxol (30mg/5ml) + Levosalbutamol (1mg/5ml) + Guaifenesin (50mg/5ml)",
     "quantity": "1" 
   },
   {
@@ -18707,7 +18707,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "vial of 10 ml Suspension for Injection",
     "Like2": "Eris Lifesciences Ltd",
-    "Keywords": "Human insulin (40IU) ADD",
+    "Keywords": "Human insulin (40IU)",
     "quantity": "1" 
   },
   {
@@ -18718,7 +18718,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "bottle of 100 ml Syrup",
     "Like2": "Alkem Laboratories Ltd",
-    "Keywords": "Phenylephrine (5mg/5ml) + Chlorpheniramine Maleate (2mg/5ml) + Dextromethorphan Hydrobromide (10mg/5ml) ADD",
+    "Keywords": "Phenylephrine (5mg/5ml) + Chlorpheniramine Maleate (2mg/5ml) + Dextromethorphan Hydrobromide (10mg/5ml)",
     "quantity": "1" 
   },
   {
@@ -18729,7 +18729,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 15 tablets",
     "Like2": "Blue Cross Laboratories Ltd",
-    "Keywords": "Telmisartan (40mg) + Amlodipine (5mg) ADD",
+    "Keywords": "Telmisartan (40mg) + Amlodipine (5mg)",
     "quantity": "1" 
   },
   {
@@ -18740,7 +18740,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "bottle of 6 gm Nasal Spray",
     "Like2": "Dr Reddy's Laboratories Ltd",
-    "Keywords": "Fluticasone Furoate (27.5mcg) ADD",
+    "Keywords": "Fluticasone Furoate (27.5mcg)",
     "quantity": "1" 
   },
   {
@@ -18762,7 +18762,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 10 tablets",
     "Like2": "Roche Products India Pvt Ltd",
-    "Keywords": "Capecitabine (500mg) ADD",
+    "Keywords": "Capecitabine (500mg)",
     "quantity": "1" 
   },
   {
@@ -18773,7 +18773,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 12 tablet sr",
     "Like2": "Torrent Pharmaceuticals Ltd",
-    "Keywords": "Paracetamol (300mg) + Paracetamol (700mg) ADD",
+    "Keywords": "Paracetamol (300mg) + Paracetamol (700mg)",
     "quantity": "1" 
   },
   {
@@ -18784,7 +18784,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 10 tablets",
     "Like2": "Corona Remedies Pvt Ltd",
-    "Keywords": "Cefuroxime (500mg) ADD",
+    "Keywords": "Cefuroxime (500mg)",
     "quantity": "1" 
   },
   {
@@ -18795,7 +18795,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 14 tablets",
     "Like2": "Bayer Zydus Pharma Pvt Ltd",
-    "Keywords": "Rivaroxaban (20mg) ADD",
+    "Keywords": "Rivaroxaban (20mg)",
     "quantity": "1" 
   },
   {
@@ -18817,7 +18817,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "vial of 0.5 ml Injection",
     "Like2": "Sun Pharmaceutical Industries Ltd",
-    "Keywords": "Rabies vaccine, Human (150IU) ADD",
+    "Keywords": "Rabies vaccine, Human (150IU)",
     "quantity": "1" 
   },
   {
@@ -18828,7 +18828,7 @@ var products=[
     "Prescription": "",
     "Like1": "tube of 15 gm Cream",
     "Like2": "Dermajoint India",
-    "Keywords": "Ketoconazole (2% w/w) ADD",
+    "Keywords": "Ketoconazole (2% w/w)",
     "quantity": "1" 
   },
   {
@@ -18839,7 +18839,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "packet of 5 ml Injection",
     "Like2": "Novartis India Ltd",
-    "Keywords": "Omalizumab (150mg) ADD",
+    "Keywords": "Omalizumab (150mg)",
     "quantity": "1" 
   },
   {
@@ -18850,7 +18850,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "vial of 1 Solution for Injection",
     "Like2": "Dr Reddy's Laboratories Ltd",
-    "Keywords": "Denosumab (120mg) ADD",
+    "Keywords": "Denosumab (120mg)",
     "quantity": "1" 
   },
   {
@@ -18861,7 +18861,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 7 tablet er",
     "Like2": "AstraZeneca",
-    "Keywords": "Dapagliflozin (10mg) + Metformin (500mg) ADD",
+    "Keywords": "Dapagliflozin (10mg) + Metformin (500mg)",
     "quantity": "1" 
   },
   {
@@ -18883,7 +18883,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 10 tablets",
     "Like2": "DWD Pharmaceuticals Ltd",
-    "Keywords": "Levocetirizine (5mg) + Montelukast (10mg) ADD",
+    "Keywords": "Levocetirizine (5mg) + Montelukast (10mg)",
     "quantity": "1" 
   },
   {
@@ -18927,7 +18927,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 14 tablet ir",
     "Like2": "AstraZeneca",
-    "Keywords": "Dapagliflozin (5mg) + Metformin (1000mg) ADD",
+    "Keywords": "Dapagliflozin (5mg) + Metformin (1000mg)",
     "quantity": "1" 
   },
   {
@@ -18938,7 +18938,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 10 tablets",
     "Like2": "Alkem Laboratories Ltd",
-    "Keywords": "Cefpodoxime Proxetil (200mg) + Ofloxacin (200mg) ADD",
+    "Keywords": "Cefpodoxime Proxetil (200mg) + Ofloxacin (200mg)",
     "quantity": "1" 
   },
   {
@@ -18960,7 +18960,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 10 tablets",
     "Like2": "Dr Reddy's Laboratories Ltd",
-    "Keywords": "Levocetirizine (10mg) ADD",
+    "Keywords": "Levocetirizine (10mg)",
     "quantity": "1" 
   },
   {
@@ -18971,7 +18971,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "vial of 1 Injection",
     "Like2": "Cipla Ltd",
-    "Keywords": "Colistimethate Sodium (1Million IU) ADD",
+    "Keywords": "Colistimethate Sodium (1Million IU)",
     "quantity": "1" 
   },
   {
@@ -18982,7 +18982,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 10 tablets",
     "Like2": "Corona Remedies Pvt Ltd",
-    "Keywords": "Cefpodoxime Proxetil (200mg) ADD",
+    "Keywords": "Cefpodoxime Proxetil (200mg)",
     "quantity": "1" 
   },
   {
@@ -18993,7 +18993,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 10 tablet sr",
     "Like2": "Torrent Pharmaceuticals Ltd",
-    "Keywords": "Acebrophylline (200mg) ADD",
+    "Keywords": "Acebrophylline (200mg)",
     "quantity": "1" 
   },
   {
@@ -19015,7 +19015,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "bottle of 30 tablets",
     "Like2": "Natco Pharma Ltd",
-    "Keywords": "Exemestane (25mg) ADD",
+    "Keywords": "Exemestane (25mg)",
     "quantity": "1" 
   },
   {
@@ -19037,7 +19037,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 6 tablets",
     "Like2": "Corona Remedies Pvt Ltd",
-    "Keywords": "Cefuroxime (500mg) + Clavulanic Acid (125mg) ADD",
+    "Keywords": "Cefuroxime (500mg) + Clavulanic Acid (125mg)",
     "quantity": "1" 
   },
   {
@@ -19048,7 +19048,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "bottle of 120 tablets",
     "Like2": "Cipla Ltd",
-    "Keywords": "Abiraterone Acetate (250mg) ADD",
+    "Keywords": "Abiraterone Acetate (250mg)",
     "quantity": "1" 
   },
   {
@@ -19059,7 +19059,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 10 tablets",
     "Like2": "Sun Pharmaceutical Industries Ltd",
-    "Keywords": "Safinamide (100mg) ADD",
+    "Keywords": "Safinamide (100mg)",
     "quantity": "1" 
   },
   {
@@ -19081,7 +19081,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 28 capsules",
     "Like2": "Cipla Ltd",
-    "Keywords": "Enzalutamide (40mg) ADD",
+    "Keywords": "Enzalutamide (40mg)",
     "quantity": "1" 
   },
   {
@@ -19092,7 +19092,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 10 Tablet pr",
     "Like2": "Zydus Cadila",
-    "Keywords": "Paroxetine (25mg) ADD",
+    "Keywords": "Paroxetine (25mg)",
     "quantity": "1" 
   },
   {
@@ -19103,7 +19103,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 15 tablets",
     "Like2": "Blue Cross Laboratories Ltd",
-    "Keywords": "Telmisartan (40mg) + Amlodipine (5mg) + Hydrochlorothiazide (12.5mg) ADD",
+    "Keywords": "Telmisartan (40mg) + Amlodipine (5mg) + Hydrochlorothiazide (12.5mg)",
     "quantity": "1" 
   },
   {
@@ -19114,7 +19114,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 10 tablets",
     "Like2": "Torrent Pharmaceuticals Ltd",
-    "Keywords": "Tranexamic Acid (500mg) + Mefenamic Acid (250mg) ADD",
+    "Keywords": "Tranexamic Acid (500mg) + Mefenamic Acid (250mg)",
     "quantity": "1" 
   },
   {
@@ -19125,7 +19125,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 10 tablets",
     "Like2": "Helios Pharmaceuticals",
-    "Keywords": "Diclofenac (100mg) + Paracetamol (400mg) ADD",
+    "Keywords": "Diclofenac (100mg) + Paracetamol (400mg)",
     "quantity": "1" 
   },
   {
@@ -19147,7 +19147,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 21 tablets",
     "Like2": "Bayer Zydus Pharma Pvt Ltd",
-    "Keywords": "Ethinyl Estradiol (0.03mg) + Drospirenone (3mg) ADD",
+    "Keywords": "Ethinyl Estradiol (0.03mg) + Drospirenone (3mg)",
     "quantity": "1" 
   },
   {
@@ -19158,7 +19158,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 21 tablets",
     "Like2": "Lupin Ltd",
-    "Keywords": "Ethinyl Estradiol (0.03mg) + Drospirenone (3mg) ADD",
+    "Keywords": "Ethinyl Estradiol (0.03mg) + Drospirenone (3mg)",
     "quantity": "1" 
   },
   {
@@ -19169,7 +19169,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 10 capsule sr",
     "Like2": "Alkem Laboratories Ltd",
-    "Keywords": "Domperidone (30mg) + Esomeprazole (40mg) ADD",
+    "Keywords": "Domperidone (30mg) + Esomeprazole (40mg)",
     "quantity": "1" 
   },
   {
@@ -19180,7 +19180,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 28 tablets",
     "Like2": "Bayer Zydus Pharma Pvt Ltd",
-    "Keywords": "Ethinyl Estradiol (0.02mg) + Drospirenone (3mg) ADD",
+    "Keywords": "Ethinyl Estradiol (0.02mg) + Drospirenone (3mg)",
     "quantity": "1" 
   },
   {
@@ -19191,7 +19191,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 15 tablets",
     "Like2": "Alkem Laboratories Ltd",
-    "Keywords": "Esomeprazole (40mg) ADD",
+    "Keywords": "Esomeprazole (40mg)",
     "quantity": "1" 
   },
   {
@@ -19202,7 +19202,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 10 tablets",
     "Like2": "Jagsonpal Pharmaceuticals Ltd",
-    "Keywords": "Ulipristal acetate (5mg) ADD",
+    "Keywords": "Ulipristal acetate (5mg)",
     "quantity": "1" 
   },
   {
@@ -19213,7 +19213,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 4 tablets",
     "Like2": "Corona Remedies Pvt Ltd",
-    "Keywords": "Tadalafil (10mg) + Dapoxetine (30mg) ADD",
+    "Keywords": "Tadalafil (10mg) + Dapoxetine (30mg)",
     "quantity": "1" 
   },
   {
@@ -19224,7 +19224,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 24 tablets",
     "Like2": "Lupin Ltd",
-    "Keywords": "Ethinyl Estradiol (0.02mg) + Drospirenone (3mg) ADD",
+    "Keywords": "Ethinyl Estradiol (0.02mg) + Drospirenone (3mg)",
     "quantity": "1" 
   },
   {
@@ -19235,7 +19235,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 10 tablets",
     "Like2": "Corona Remedies Pvt Ltd",
-    "Keywords": "Tadalafil (2.5mg) ADD",
+    "Keywords": "Tadalafil (2.5mg)",
     "quantity": "1" 
   },
   {
@@ -19257,7 +19257,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 10 tablets",
     "Like2": "Corona Remedies Pvt Ltd",
-    "Keywords": "Tadalafil (5mg) ADD",
+    "Keywords": "Tadalafil (5mg)",
     "quantity": "1" 
   },
   {
@@ -19290,7 +19290,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 10 tablets",
     "Like2": "Corona Remedies Pvt Ltd",
-    "Keywords": "Tadalafil (10mg) ADD",
+    "Keywords": "Tadalafil (10mg)",
     "quantity": "1" 
   },
   {
@@ -19323,7 +19323,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 15 tablets",
     "Like2": "HiGlance Laboratories",
-    "Keywords": "Telmisartan (40mg) ADD",
+    "Keywords": "Telmisartan (40mg)",
     "quantity": "1" 
   },
   {
@@ -19356,7 +19356,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 10 tablet er",
     "Like2": "HiGlance Laboratories",
-    "Keywords": "Glimepiride (2mg) + Metformin (500mg) ADD",
+    "Keywords": "Glimepiride (2mg) + Metformin (500mg)",
     "quantity": "1" 
   },
   {
@@ -19422,7 +19422,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 15 tablets",
     "Like2": "HiGlance Laboratories",
-    "Keywords": "Telmisartan (40mg) + Amlodipine (5mg) ADD",
+    "Keywords": "Telmisartan (40mg) + Amlodipine (5mg)",
     "quantity": "1" 
   },
   {
@@ -19488,7 +19488,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 10 tablets",
     "Like2": "La Med India",
-    "Keywords": "Fexofenadine (180mg) ADD",
+    "Keywords": "Fexofenadine (180mg)",
     "quantity": "1" 
   },
   {
@@ -19532,7 +19532,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 10 tablet er",
     "Like2": "HiGlance Laboratories",
-    "Keywords": "Metoprolol Succinate (23.75mg) ADD",
+    "Keywords": "Metoprolol Succinate (23.75mg)",
     "quantity": "1" 
   },
   {
@@ -19554,7 +19554,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "bottle of 170 ml Syrup",
     "Like2": "Benatural Health Care Pvt Ltd",
-    "Keywords": "Oxetacaine (10mg) + Aluminium Hydroxide (291mg) + Magnesium (98mg) ADD",
+    "Keywords": "Oxetacaine (10mg) + Aluminium Hydroxide (291mg) + Magnesium (98mg)",
     "quantity": "1" 
   },
   {
@@ -19565,7 +19565,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 10 tablet sr",
     "Like2": "HiGlance Laboratories",
-    "Keywords": "Glimepiride (2mg) + Metformin (500mg) + Voglibose (0.2mg) ADD",
+    "Keywords": "Glimepiride (2mg) + Metformin (500mg) + Voglibose (0.2mg)",
     "quantity": "1" 
   },
   {
@@ -19576,7 +19576,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "vial of 1 Injection",
     "Like2": "Alkem Laboratories Ltd",
-    "Keywords": "Esomeprazole (40mg) ADD",
+    "Keywords": "Esomeprazole (40mg)",
     "quantity": "1" 
   },
   {
@@ -19598,7 +19598,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 15 tablets",
     "Like2": "HiGlance Laboratories",
-    "Keywords": "Telmisartan (40mg) + Hydrochlorothiazide (12.5mg) ADD",
+    "Keywords": "Telmisartan (40mg) + Hydrochlorothiazide (12.5mg)",
     "quantity": "1" 
   },
   {
@@ -19631,7 +19631,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 10 tablets",
     "Like2": "Man Serve Pharma",
-    "Keywords": "Etoricoxib (60mg) + Thiocolchicoside (4mg) ADD",
+    "Keywords": "Etoricoxib (60mg) + Thiocolchicoside (4mg)",
     "quantity": "1" 
   },
   {
@@ -19664,7 +19664,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "bottle of 60 ml Syrup",
     "Like2": "Syndicate Life Sciences Pvt Ltd",
-    "Keywords": "Levocetirizine (2.5mg/5ml) + Montelukast (4mg/5ml) ADD",
+    "Keywords": "Levocetirizine (2.5mg/5ml) + Montelukast (4mg/5ml)",
     "quantity": "1" 
   },
   {
@@ -19675,7 +19675,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 10 tablet er",
     "Like2": "HiGlance Laboratories",
-    "Keywords": "Metoprolol Succinate (47.5mg) ADD",
+    "Keywords": "Metoprolol Succinate (47.5mg)",
     "quantity": "1" 
   },
   {
@@ -19686,7 +19686,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 15 tablets",
     "Like2": "HiGlance Laboratories",
-    "Keywords": "Rosuvastatin (20mg) ADD",
+    "Keywords": "Rosuvastatin (20mg)",
     "quantity": "1" 
   },
   {
@@ -19708,7 +19708,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 10 tablets",
     "Like2": "Alkem Laboratories Ltd",
-    "Keywords": "Esomeprazole (40mg) ADD",
+    "Keywords": "Esomeprazole (40mg)",
     "quantity": "1" 
   },
   {
@@ -19730,7 +19730,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 15 tablets",
     "Like2": "HiGlance Laboratories",
-    "Keywords": "Glimepiride (1mg) + Metformin (1000mg) ADD",
+    "Keywords": "Glimepiride (1mg) + Metformin (1000mg)",
     "quantity": "1" 
   },
   {
@@ -19796,7 +19796,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "vial of 1 Injection",
     "Like2": "Janssen Pharmaceuticals",
-    "Keywords": "Trabectedin (1mg) ADD",
+    "Keywords": "Trabectedin (1mg)",
     "quantity": "1" 
   },
   {
@@ -19818,7 +19818,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 10 tablets",
     "Like2": "Caldern Pharmaceuticals Ltd",
-    "Keywords": "Ethamsylate (250mg) ADD",
+    "Keywords": "Ethamsylate (250mg)",
     "quantity": "1" 
   },
   {
@@ -19939,7 +19939,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 3 tablets",
     "Like2": "Yash Pharma Laboratories Pvt Ltd",
-    "Keywords": "Azithromycin (500mg) ADD",
+    "Keywords": "Azithromycin (500mg)",
     "quantity": "1" 
   },
   {
@@ -19961,7 +19961,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 10 tablets",
     "Like2": "Walnut Lifesciences",
-    "Keywords": "Pregabalin (75mg) + Nortriptyline (10mg) ADD",
+    "Keywords": "Pregabalin (75mg) + Nortriptyline (10mg)",
     "quantity": "1" 
   },
   {
@@ -20038,7 +20038,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 15 tablets",
     "Like2": "HiGlance Laboratories",
-    "Keywords": "Rosuvastatin (40mg) ADD",
+    "Keywords": "Rosuvastatin (40mg)",
     "quantity": "1" 
   },
   {
@@ -20060,7 +20060,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 10 tablet sr",
     "Like2": "HiGlance Laboratories",
-    "Keywords": "Glimepiride (1mg) + Metformin (500mg) + Voglibose (0.2mg) ADD",
+    "Keywords": "Glimepiride (1mg) + Metformin (500mg) + Voglibose (0.2mg)",
     "quantity": "1" 
   },
   {
@@ -20093,7 +20093,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "bottle of 15 ml Syrup",
     "Like2": "Yash Pharma Laboratories Pvt Ltd",
-    "Keywords": "Azithromycin (100mg/5ml) ADD",
+    "Keywords": "Azithromycin (100mg/5ml)",
     "quantity": "1" 
   },
   {
@@ -20104,7 +20104,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 10 tablets",
     "Like2": "Syndicate Life Sciences Pvt Ltd",
-    "Keywords": "Thiocolchicoside (4mg) + Aceclofenac (100mg) + Paracetamol (325mg) ADD",
+    "Keywords": "Thiocolchicoside (4mg) + Aceclofenac (100mg) + Paracetamol (325mg)",
     "quantity": "1" 
   },
   {
@@ -20126,7 +20126,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "bottle of 30 ml Oral Suspension",
     "Like2": "Shine Pharmaceuticals Ltd",
-    "Keywords": "Cefpodoxime Proxetil (100mg) ADD",
+    "Keywords": "Cefpodoxime Proxetil (100mg)",
     "quantity": "1" 
   },
   {
@@ -20159,7 +20159,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "bottle of 100 ml Syrup",
     "Like2": "Vibcare Pharma Pvt Ltd",
-    "Keywords": "Ambroxol (15mg) + Guaifenesin (50mg) + Menthol (1mg) + Terbutaline (1.25mg) ADD",
+    "Keywords": "Ambroxol (15mg) + Guaifenesin (50mg) + Menthol (1mg) + Terbutaline (1.25mg)",
     "quantity": "1" 
   },
   {
@@ -20170,7 +20170,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 15 tablets",
     "Like2": "HiGlance Laboratories",
-    "Keywords": "Glimepiride (2mg) + Metformin (1000mg) ADD",
+    "Keywords": "Glimepiride (2mg) + Metformin (1000mg)",
     "quantity": "1" 
   },
   {
@@ -20192,7 +20192,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 10 tablets",
     "Like2": "Yew Biotech",
-    "Keywords": "Aceclofenac (100mg) + Thiocolchicoside (4mg) ADD",
+    "Keywords": "Aceclofenac (100mg) + Thiocolchicoside (4mg)",
     "quantity": "1" 
   },
   {
@@ -20214,7 +20214,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 10 tablets",
     "Like2": "Mankind Pharma Ltd",
-    "Keywords": "Ofloxacin (200mg) + Ornidazole (500mg) ADD",
+    "Keywords": "Ofloxacin (200mg) + Ornidazole (500mg)",
     "quantity": "1" 
   },
   {
@@ -20225,7 +20225,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "bottle of 100 ml Syrup",
     "Like2": "Dr Reddy's Laboratories Ltd",
-    "Keywords": "Chlorpheniramine Maleate (2mg) + Dextromethorphan Hydrobromide (10mg) ADD",
+    "Keywords": "Chlorpheniramine Maleate (2mg) + Dextromethorphan Hydrobromide (10mg)",
     "quantity": "1" 
   },
   {
@@ -20236,7 +20236,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 10 tablets",
     "Like2": "FDC Ltd",
-    "Keywords": "Cefixime (200mg) + Clavulanic Acid (125mg) ADD",
+    "Keywords": "Cefixime (200mg) + Clavulanic Acid (125mg)",
     "quantity": "1" 
   },
   {
@@ -20247,7 +20247,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 10 tablets",
     "Like2": "Glaxo SmithKline Pharmaceuticals Ltd",
-    "Keywords": "Allopurinol (100mg) ADD",
+    "Keywords": "Allopurinol (100mg)",
     "quantity": "1" 
   },
   {
@@ -20269,7 +20269,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 10 tablets",
     "Like2": "Alkem Laboratories Ltd",
-    "Keywords": "Cefuroxime (500mg) ADD",
+    "Keywords": "Cefuroxime (500mg)",
     "quantity": "1" 
   },
   {
@@ -20280,7 +20280,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 1 Chewable Tablet",
     "Like2": "Glaxo SmithKline Pharmaceuticals Ltd",
-    "Keywords": "Albendazole (400mg) ADD",
+    "Keywords": "Albendazole (400mg)",
     "quantity": "1" 
   },
   {
@@ -20313,7 +20313,7 @@ var products=[
     "Prescription": "",
     "Like1": "tube of 10 ml Dental Gel",
     "Like2": "Raptakos Brett & Co Ltd",
-    "Keywords": "Choline Salicylate (9% w/v) ADD",
+    "Keywords": "Choline Salicylate (9% w/v)",
     "quantity": "1" 
   },
   {
@@ -20324,7 +20324,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "bottle of 10 ml Oral Suspension",
     "Like2": "Glaxo SmithKline Pharmaceuticals Ltd",
-    "Keywords": "Albendazole (400mg) ADD",
+    "Keywords": "Albendazole (400mg)",
     "quantity": "1" 
   },
   {
@@ -20335,7 +20335,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 10 tablets",
     "Like2": "Mankind Pharma Ltd",
-    "Keywords": "Ofloxacin (200mg) + Flavoxate (200mg) ADD",
+    "Keywords": "Ofloxacin (200mg) + Flavoxate (200mg)",
     "quantity": "1" 
   },
   {
@@ -20346,7 +20346,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 10 tablets",
     "Like2": "Ipca Laboratories Ltd",
-    "Keywords": "Drotaverine (80mg) + Aceclofenac (100mg) ADD",
+    "Keywords": "Drotaverine (80mg) + Aceclofenac (100mg)",
     "quantity": "1" 
   },
   {
@@ -20357,7 +20357,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 5 tablets",
     "Like2": "Mankind Pharma Ltd",
-    "Keywords": "Azithromycin (500mg) ADD",
+    "Keywords": "Azithromycin (500mg)",
     "quantity": "1" 
   },
   {
@@ -20368,7 +20368,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 6 tablets",
     "Like2": "Alkem Laboratories Ltd",
-    "Keywords": "Cefuroxime (500mg) + Clavulanic Acid (125mg) ADD",
+    "Keywords": "Cefuroxime (500mg) + Clavulanic Acid (125mg)",
     "quantity": "1" 
   },
   {
@@ -20379,7 +20379,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 10 tablets",
     "Like2": "FDC Ltd",
-    "Keywords": "Cefixime (200mg) + Ofloxacin (200mg) ADD",
+    "Keywords": "Cefixime (200mg) + Ofloxacin (200mg)",
     "quantity": "1" 
   },
   {
@@ -20390,7 +20390,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 10 tablet cr",
     "Like2": "Ipca Laboratories Ltd",
-    "Keywords": "Aceclofenac (200mg) ADD",
+    "Keywords": "Aceclofenac (200mg)",
     "quantity": "1" 
   },
   {
@@ -20401,7 +20401,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 10 tablet dt",
     "Like2": "Sun Pharmaceutical Industries Ltd",
-    "Keywords": "Ondansetron (4mg) ADD",
+    "Keywords": "Ondansetron (4mg)",
     "quantity": "1" 
   },
   {
@@ -20412,7 +20412,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 10 tablets",
     "Like2": "Sun Pharmaceutical Industries Ltd",
-    "Keywords": "Ofloxacin (200mg) ADD",
+    "Keywords": "Ofloxacin (200mg)",
     "quantity": "1" 
   },
   {
@@ -20423,7 +20423,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "tube of 15 gm Ointment",
     "Like2": "Sun Pharmaceutical Industries Ltd",
-    "Keywords": "Fluocinolone acetonide (0.01% w/w) + Miconazole (2% w/w) ADD",
+    "Keywords": "Fluocinolone acetonide (0.01% w/w) + Miconazole (2% w/w)",
     "quantity": "1" 
   },
   {
@@ -20434,7 +20434,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "vial of 1.5 gm Injection",
     "Like2": "Zuventus Healthcare Ltd",
-    "Keywords": "Cefoperazone (1000mg) + Sulbactam (500mg) ADD",
+    "Keywords": "Cefoperazone (1000mg) + Sulbactam (500mg)",
     "quantity": "1" 
   },
   {
@@ -20445,7 +20445,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 10 tablets",
     "Like2": "Mankind Pharma Ltd",
-    "Keywords": "Ofloxacin (200mg) ADD",
+    "Keywords": "Ofloxacin (200mg)",
     "quantity": "1" 
   },
   {
@@ -20456,7 +20456,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 10 tablets",
     "Like2": "Zuventus Healthcare Ltd",
-    "Keywords": "Cefditoren (200mg) ADD",
+    "Keywords": "Cefditoren (200mg)",
     "quantity": "1" 
   },
   {
@@ -20467,7 +20467,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 10 capsules",
     "Like2": "Torrent Pharmaceuticals Ltd",
-    "Keywords": "Racecadotril (100mg) ADD",
+    "Keywords": "Racecadotril (100mg)",
     "quantity": "1" 
   },
   {
@@ -20478,7 +20478,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 10 tablets",
     "Like2": "Macleods Pharmaceuticals Pvt Ltd",
-    "Keywords": "Cefpodoxime Proxetil (200mg) ADD",
+    "Keywords": "Cefpodoxime Proxetil (200mg)",
     "quantity": "1" 
   },
   {
@@ -20489,7 +20489,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 3 tablets",
     "Like2": "FDC Ltd",
-    "Keywords": "Fluconazole (150mg) ADD",
+    "Keywords": "Fluconazole (150mg)",
     "quantity": "1" 
   },
   {
@@ -20500,7 +20500,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 20 Tablet pr",
     "Like2": "Intas Pharmaceuticals Ltd",
-    "Keywords": "Glimepiride (1mg) + Metformin (500mg) ADD",
+    "Keywords": "Glimepiride (1mg) + Metformin (500mg)",
     "quantity": "1" 
   },
   {
@@ -20511,7 +20511,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "bottle of 30 ml Oral Suspension",
     "Like2": "FDC Ltd",
-    "Keywords": "Cefixime (100mg/5ml) ADD",
+    "Keywords": "Cefixime (100mg/5ml)",
     "quantity": "1" 
   },
   {
@@ -20522,7 +20522,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "bottle of 100 ml Syrup",
     "Like2": "Dr Reddy's Laboratories Ltd",
-    "Keywords": "Cetirizine (2.5mg/5ml) + Ambroxol (30mg/5ml) ADD",
+    "Keywords": "Cetirizine (2.5mg/5ml) + Ambroxol (30mg/5ml)",
     "quantity": "1" 
   },
   {
@@ -20533,7 +20533,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "bottle of 100 ml Syrup",
     "Like2": "Alembic Pharmaceuticals Ltd",
-    "Keywords": "Diphenhydramine (10mg/5ml) + Ammonium Chloride (100mg/5ml) + Sodium Citrate (60mg/5ml) ADD",
+    "Keywords": "Diphenhydramine (10mg/5ml) + Ammonium Chloride (100mg/5ml) + Sodium Citrate (60mg/5ml)",
     "quantity": "1" 
   },
   {
@@ -20544,7 +20544,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "bottle of 100 ml Syrup",
     "Like2": "Aristo Pharmaceuticals Pvt Ltd",
-    "Keywords": "Ambroxol (30mg/5ml) + Levosalbutamol (1mg/5ml) + Guaifenesin (50mg/5ml) ADD",
+    "Keywords": "Ambroxol (30mg/5ml) + Levosalbutamol (1mg/5ml) + Guaifenesin (50mg/5ml)",
     "quantity": "1" 
   },
   {
@@ -20555,7 +20555,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 4 tablets",
     "Like2": "FDC Ltd",
-    "Keywords": "Fluconazole (150mg) + Azithromycin (1000mg) + Secnidazole (1000mg) ADD",
+    "Keywords": "Fluconazole (150mg) + Azithromycin (1000mg) + Secnidazole (1000mg)",
     "quantity": "1" 
   },
   {
@@ -20588,7 +20588,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 10 tablets",
     "Like2": "Sun Pharmaceutical Industries Ltd",
-    "Keywords": "Ofloxacin (200mg) + Ornidazole (500mg) ADD",
+    "Keywords": "Ofloxacin (200mg) + Ornidazole (500mg)",
     "quantity": "1" 
   },
   {
@@ -20599,7 +20599,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 10 tablets",
     "Like2": "Ipca Laboratories Ltd",
-    "Keywords": "Aceclofenac (100mg) + Thiocolchicoside (8mg) ADD",
+    "Keywords": "Aceclofenac (100mg) + Thiocolchicoside (8mg)",
     "quantity": "1" 
   },
   {
@@ -20610,7 +20610,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 5 tablets",
     "Like2": "FDC Ltd",
-    "Keywords": "Azithromycin (500mg) ADD",
+    "Keywords": "Azithromycin (500mg)",
     "quantity": "1" 
   },
   {
@@ -20632,7 +20632,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "bottle of 60 ml Oral Suspension",
     "Like2": "Aristo Pharmaceuticals Pvt Ltd",
-    "Keywords": "Levocloperastine (20mg/5ml) ADD",
+    "Keywords": "Levocloperastine (20mg/5ml)",
     "quantity": "1" 
   },
   {
@@ -20643,7 +20643,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 10 tablets",
     "Like2": "Zydus Cadila",
-    "Keywords": "Colchicine (0.5mg) ADD",
+    "Keywords": "Colchicine (0.5mg)",
     "quantity": "1" 
   },
   {
@@ -20654,7 +20654,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 10 tablets",
     "Like2": "Zydus Cadila",
-    "Keywords": "Metolazone (5mg) ADD",
+    "Keywords": "Metolazone (5mg)",
     "quantity": "1" 
   },
   {
@@ -20665,7 +20665,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "bottle of 100 ml Syrup",
     "Like2": "Dr Reddy's Laboratories Ltd",
-    "Keywords": "Phenylephrine (5mg/5ml) + Chlorpheniramine Maleate (2mg/5ml) + Dextromethorphan Hydrobromide (10mg/5ml) ADD",
+    "Keywords": "Phenylephrine (5mg/5ml) + Chlorpheniramine Maleate (2mg/5ml) + Dextromethorphan Hydrobromide (10mg/5ml)",
     "quantity": "1" 
   },
   {
@@ -20676,7 +20676,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 10 tablet sr",
     "Like2": "Eris Lifesciences Ltd",
-    "Keywords": "Dapagliflozin (10mg) + Vildagliptin (100mg) ADD",
+    "Keywords": "Dapagliflozin (10mg) + Vildagliptin (100mg)",
     "quantity": "1" 
   },
   {
@@ -20687,7 +20687,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 10 tablet dt",
     "Like2": "FDC Ltd",
-    "Keywords": "Cefixime (100mg) ADD",
+    "Keywords": "Cefixime (100mg)",
     "quantity": "1" 
   },
   {
@@ -20698,7 +20698,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 10 tablets",
     "Like2": "Ipca Laboratories Ltd",
-    "Keywords": "Thiocolchicoside (4mg) + Aceclofenac (100mg) + Paracetamol (325mg) ADD",
+    "Keywords": "Thiocolchicoside (4mg) + Aceclofenac (100mg) + Paracetamol (325mg)",
     "quantity": "1" 
   },
   {
@@ -20709,7 +20709,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "bottle of 30 ml Oral Suspension",
     "Like2": "FDC Ltd",
-    "Keywords": "Cefixime (50mg/5ml) ADD",
+    "Keywords": "Cefixime (50mg/5ml)",
     "quantity": "1" 
   },
   {
@@ -20720,7 +20720,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 20 Tablet pr",
     "Like2": "Intas Pharmaceuticals Ltd",
-    "Keywords": "Glimepiride (2mg) + Metformin (500mg) ADD",
+    "Keywords": "Glimepiride (2mg) + Metformin (500mg)",
     "quantity": "1" 
   },
   {
@@ -20731,7 +20731,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 10 tablets",
     "Like2": "Sun Pharmaceutical Industries Ltd",
-    "Keywords": "Sertraline (50mg) ADD",
+    "Keywords": "Sertraline (50mg)",
     "quantity": "1" 
   },
   {
@@ -20742,7 +20742,7 @@ var products=[
     "Prescription": "",
     "Like1": "tube of 10 ml Dental Gel",
     "Like2": "Raptakos Brett & Co Ltd",
-    "Keywords": "Choline Salicylate (NA) ADD",
+    "Keywords": "Choline Salicylate (NA)",
     "quantity": "1" 
   },
   {
@@ -20753,7 +20753,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 10 tablets",
     "Like2": "Macleods Pharmaceuticals Pvt Ltd",
-    "Keywords": "Cefpodoxime Proxetil (200mg) + Clavulanic Acid (125mg) ADD",
+    "Keywords": "Cefpodoxime Proxetil (200mg) + Clavulanic Acid (125mg)",
     "quantity": "1" 
   },
   {
@@ -20764,7 +20764,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 10 tablets",
     "Like2": "Alkem Laboratories Ltd",
-    "Keywords": "Montelukast (10mg) + Fexofenadine (120mg) ADD",
+    "Keywords": "Montelukast (10mg) + Fexofenadine (120mg)",
     "quantity": "1" 
   },
   {
@@ -20775,7 +20775,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "bottle of 30 ml Lotion",
     "Like2": "KLM Laboratories Pvt Ltd",
-    "Keywords": "Beclometasone (0.025% w/v) + Clotrimazole (1% w/v) ADD",
+    "Keywords": "Beclometasone (0.025% w/v) + Clotrimazole (1% w/v)",
     "quantity": "1" 
   },
   {
@@ -20797,7 +20797,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 10 tablets",
     "Like2": "Mankind Pharma Ltd",
-    "Keywords": "Cefixime (200mg) + Ofloxacin (200mg) ADD",
+    "Keywords": "Cefixime (200mg) + Ofloxacin (200mg)",
     "quantity": "1" 
   },
   {
@@ -20808,7 +20808,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 10 tablets",
     "Like2": "Alkem Laboratories Ltd",
-    "Keywords": "Cefuroxime (250mg) ADD",
+    "Keywords": "Cefuroxime (250mg)",
     "quantity": "1" 
   },
   {
@@ -20819,7 +20819,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 10 tablets",
     "Like2": "Glaxo SmithKline Pharmaceuticals Ltd",
-    "Keywords": "Acyclovir (400mg) ADD",
+    "Keywords": "Acyclovir (400mg)",
     "quantity": "1" 
   },
   {
@@ -20830,7 +20830,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 10 tablets",
     "Like2": "Dr Reddy's Laboratories Ltd",
-    "Keywords": "Cetirizine (5mg) + Ambroxol (60mg) ADD",
+    "Keywords": "Cetirizine (5mg) + Ambroxol (60mg)",
     "quantity": "1" 
   },
   {
@@ -20841,7 +20841,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "tube of 10 gm Cream",
     "Like2": "Sun Pharmaceutical Industries Ltd",
-    "Keywords": "Ozenoxacin (1% w/w) ADD",
+    "Keywords": "Ozenoxacin (1% w/w)",
     "quantity": "1" 
   },
   {
@@ -20852,7 +20852,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 2 tablets",
     "Like2": "FDC Ltd",
-    "Keywords": "Fluconazole (200mg) ADD",
+    "Keywords": "Fluconazole (200mg)",
     "quantity": "1" 
   },
   {
@@ -20863,7 +20863,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 10 tablets",
     "Like2": "Intas Pharmaceuticals Ltd",
-    "Keywords": "Metformin (500mg) + Vildagliptin (50mg) ADD",
+    "Keywords": "Metformin (500mg) + Vildagliptin (50mg)",
     "quantity": "1" 
   },
   {
@@ -20874,7 +20874,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "vial of 1 Injection",
     "Like2": "Pfizer Ltd",
-    "Keywords": "Ceftazidime (2gm) + Avibactam (0.5mg) ADD",
+    "Keywords": "Ceftazidime (2gm) + Avibactam (0.5mg)",
     "quantity": "1" 
   },
   {
@@ -20896,7 +20896,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 10 tablets",
     "Like2": "FDC Ltd",
-    "Keywords": "Cefpodoxime Proxetil (200mg) ADD",
+    "Keywords": "Cefpodoxime Proxetil (200mg)",
     "quantity": "1" 
   },
   {
@@ -20907,7 +20907,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "bottle of 100 ml Oral Suspension",
     "Like2": "Glaxo SmithKline Pharmaceuticals Ltd",
-    "Keywords": "Acyclovir (400mg) ADD",
+    "Keywords": "Acyclovir (400mg)",
     "quantity": "1" 
   },
   {
@@ -20918,7 +20918,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 10 tablets",
     "Like2": "Glaxo SmithKline Pharmaceuticals Ltd",
-    "Keywords": "Allopurinol (300mg) ADD",
+    "Keywords": "Allopurinol (300mg)",
     "quantity": "1" 
   },
   {
@@ -20929,7 +20929,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 15 tablet er",
     "Like2": "Glenmark Pharmaceuticals Ltd",
-    "Keywords": "Metformin (500mg) + Teneligliptin (20mg) ADD",
+    "Keywords": "Metformin (500mg) + Teneligliptin (20mg)",
     "quantity": "1" 
   },
   {
@@ -20940,7 +20940,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "bottle of 100 ml Lotion",
     "Like2": "KLM Laboratories Pvt Ltd",
-    "Keywords": "Beclometasone (0.05% w/v) ADD",
+    "Keywords": "Beclometasone (0.05% w/v)",
     "quantity": "1" 
   },
   {
@@ -20951,7 +20951,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 5 tablets",
     "Like2": "Macleods Pharmaceuticals Pvt Ltd",
-    "Keywords": "Azithromycin (500mg) ADD",
+    "Keywords": "Azithromycin (500mg)",
     "quantity": "1" 
   },
   {
@@ -20962,7 +20962,7 @@ var products=[
     "Prescription": "",
     "Like1": "tube of 50 gm Cream",
     "Like2": "Glaxo SmithKline Pharmaceuticals Ltd",
-    "Keywords": "Oxiconazole (1% w/w) ADD",
+    "Keywords": "Oxiconazole (1% w/w)",
     "quantity": "1" 
   },
   {
@@ -20973,7 +20973,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 10 tablets",
     "Like2": "Mankind Pharma Ltd",
-    "Keywords": "Flunarizine (10mg) ADD",
+    "Keywords": "Flunarizine (10mg)",
     "quantity": "1" 
   },
   {
@@ -20984,7 +20984,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 10 tablets",
     "Like2": "Mankind Pharma Ltd",
-    "Keywords": "Metformin (500mg) + Vildagliptin (50mg) ADD",
+    "Keywords": "Metformin (500mg) + Vildagliptin (50mg)",
     "quantity": "1" 
   },
   {
@@ -20995,7 +20995,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 10 tablets",
     "Like2": "Ajanta Pharma Ltd",
-    "Keywords": "Griseofulvin (500mg) ADD",
+    "Keywords": "Griseofulvin (500mg)",
     "quantity": "1" 
   },
   {
@@ -21006,7 +21006,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "bottle of 100 ml Syrup",
     "Like2": "Dr Reddy's Laboratories Ltd",
-    "Keywords": "Chlorpheniramine Maleate (2mg) + Dextromethorphan Hydrobromide (10mg) ADD",
+    "Keywords": "Chlorpheniramine Maleate (2mg) + Dextromethorphan Hydrobromide (10mg)",
     "quantity": "1" 
   },
   {
@@ -21017,7 +21017,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 10 tablets",
     "Like2": "Zuventus Healthcare Ltd",
-    "Keywords": "Dydrogesterone (10mg) ADD",
+    "Keywords": "Dydrogesterone (10mg)",
     "quantity": "1" 
   },
   {
@@ -21028,7 +21028,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 7 tablets",
     "Like2": "Glaxo SmithKline Pharmaceuticals Ltd",
-    "Keywords": "Terbinafine (250mg) ADD",
+    "Keywords": "Terbinafine (250mg)",
     "quantity": "1" 
   },
   {
@@ -21039,7 +21039,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 10 tablets",
     "Like2": "Mankind Pharma Ltd",
-    "Keywords": "Azithromycin (250mg) ADD",
+    "Keywords": "Azithromycin (250mg)",
     "quantity": "1" 
   },
   {
@@ -21050,7 +21050,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "bottle of 60 ml Syrup",
     "Like2": "Dr Reddy's Laboratories Ltd",
-    "Keywords": "Cetirizine (5mg/5ml) ADD",
+    "Keywords": "Cetirizine (5mg/5ml)",
     "quantity": "1" 
   },
   {
@@ -21061,7 +21061,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 10 tablets",
     "Like2": "Sun Pharmaceutical Industries Ltd",
-    "Keywords": "Methylprednisolone (8mg) ADD",
+    "Keywords": "Methylprednisolone (8mg)",
     "quantity": "1" 
   },
   {
@@ -21072,7 +21072,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 10 tablets",
     "Like2": "Intas Pharmaceuticals Ltd",
-    "Keywords": "Oxcarbazepine (300mg) ADD",
+    "Keywords": "Oxcarbazepine (300mg)",
     "quantity": "1" 
   },
   {
@@ -21083,7 +21083,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 10 tablet sr",
     "Like2": "Ipca Laboratories Ltd",
-    "Keywords": "Aceclofenac (200mg) + Pregabalin (75mg) ADD",
+    "Keywords": "Aceclofenac (200mg) + Pregabalin (75mg)",
     "quantity": "1" 
   },
   {
@@ -21094,7 +21094,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 10 Tablet pr",
     "Like2": "Sun Pharmaceutical Industries Ltd",
-    "Keywords": "Carbamazepine (200mg) ADD",
+    "Keywords": "Carbamazepine (200mg)",
     "quantity": "1" 
   },
   {
@@ -21105,7 +21105,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 10 tablets",
     "Like2": "Rapross Pharmaceuticals Pvt Ltd",
-    "Keywords": "Diclofenac (50mg) + Serratiopeptidase (10mg) ADD",
+    "Keywords": "Diclofenac (50mg) + Serratiopeptidase (10mg)",
     "quantity": "1" 
   },
   {
@@ -21116,7 +21116,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 10 tablets",
     "Like2": "FDC Ltd",
-    "Keywords": "Cefuroxime (500mg) ADD",
+    "Keywords": "Cefuroxime (500mg)",
     "quantity": "1" 
   },
   {
@@ -21127,7 +21127,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 15 tablets",
     "Like2": "Micro Labs Ltd",
-    "Keywords": "Dapagliflozin (10mg) ADD",
+    "Keywords": "Dapagliflozin (10mg)",
     "quantity": "1" 
   },
   {
@@ -21138,7 +21138,7 @@ var products=[
     "Prescription": "",
     "Like1": "packet of 10 ml Eye/Ear Drops",
     "Like2": "Mankind Pharma Ltd",
-    "Keywords": "Ofloxacin (0.3% w/v) ADD",
+    "Keywords": "Ofloxacin (0.3% w/v)",
     "quantity": "1" 
   },
   {
@@ -21149,7 +21149,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 10 tablets",
     "Like2": "Sun Pharmaceutical Industries Ltd",
-    "Keywords": "Sertraline (25mg) ADD",
+    "Keywords": "Sertraline (25mg)",
     "quantity": "1" 
   },
   {
@@ -21160,7 +21160,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 15 Tablet pr",
     "Like2": "Intas Pharmaceuticals Ltd",
-    "Keywords": "Glimepiride (2mg) + Metformin (1000mg) ADD",
+    "Keywords": "Glimepiride (2mg) + Metformin (1000mg)",
     "quantity": "1" 
   },
   {
@@ -21171,7 +21171,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 15 tablet er",
     "Like2": "Glenmark Pharmaceuticals Ltd",
-    "Keywords": "Metformin (500mg) + Teneligliptin (20mg) ADD",
+    "Keywords": "Metformin (500mg) + Teneligliptin (20mg)",
     "quantity": "1" 
   },
   {
@@ -21182,7 +21182,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 5 tablets",
     "Like2": "Glaxo SmithKline Pharmaceuticals Ltd",
-    "Keywords": "Acyclovir (800mg) ADD",
+    "Keywords": "Acyclovir (800mg)",
     "quantity": "1" 
   },
   {
@@ -21193,7 +21193,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 15 tablets",
     "Like2": "Med Manor Organics Pvt Ltd",
-    "Keywords": "Chlorpheniramine Maleate (2mg) + Paracetamol (500mg) + Phenylephrine (10mg) ADD",
+    "Keywords": "Chlorpheniramine Maleate (2mg) + Paracetamol (500mg) + Phenylephrine (10mg)",
     "quantity": "1" 
   },
   {
@@ -21204,7 +21204,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 10 tablets",
     "Like2": "Ipca Laboratories Ltd",
-    "Keywords": "Aceclofenac (100mg) + Serratiopeptidase (15mg) ADD",
+    "Keywords": "Aceclofenac (100mg) + Serratiopeptidase (15mg)",
     "quantity": "1" 
   },
   {
@@ -21215,7 +21215,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "vial of 1 Injection",
     "Like2": "Natco Pharma Ltd",
-    "Keywords": "Zoledronic acid (4mg) ADD",
+    "Keywords": "Zoledronic acid (4mg)",
     "quantity": "1" 
   },
   {
@@ -21226,7 +21226,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 10 tablets",
     "Like2": "Aristo Pharmaceuticals Pvt Ltd",
-    "Keywords": "Trypsin (48mg) + Bromelain (90mg) + Rutoside (100mg) + Diclofenac (50mg) ADD",
+    "Keywords": "Trypsin (48mg) + Bromelain (90mg) + Rutoside (100mg) + Diclofenac (50mg)",
     "quantity": "1" 
   },
   {
@@ -21237,7 +21237,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 7 tablets",
     "Like2": "Intas Pharmaceuticals Ltd",
-    "Keywords": "Endoxifen (8mg) ADD",
+    "Keywords": "Endoxifen (8mg)",
     "quantity": "1" 
   },
   {
@@ -21248,7 +21248,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 10 tablets",
     "Like2": "Mankind Pharma Ltd",
-    "Keywords": "Vildagliptin (50mg) ADD",
+    "Keywords": "Vildagliptin (50mg)",
     "quantity": "1" 
   },
   {
@@ -21259,7 +21259,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 10 tablets",
     "Like2": "FDC Ltd",
-    "Keywords": "Azithromycin (250mg) ADD",
+    "Keywords": "Azithromycin (250mg)",
     "quantity": "1" 
   },
   {
@@ -21270,7 +21270,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 15 tablets",
     "Like2": "Glenmark Pharmaceuticals Ltd",
-    "Keywords": "Teneligliptin (20mg) ADD",
+    "Keywords": "Teneligliptin (20mg)",
     "quantity": "1" 
   },
   {
@@ -21281,7 +21281,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 10 tablets",
     "Like2": "FDC Ltd",
-    "Keywords": "Cefixime (200mg) + Cloxacillin (500mg) + Lactobacillus (90Million spores) ADD",
+    "Keywords": "Cefixime (200mg) + Cloxacillin (500mg) + Lactobacillus (90Million spores)",
     "quantity": "1" 
   },
   {
@@ -21292,7 +21292,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 10 tablets",
     "Like2": "Dr Reddy's Laboratories Ltd",
-    "Keywords": "Cetirizine (10mg) ADD",
+    "Keywords": "Cetirizine (10mg)",
     "quantity": "1" 
   },
   {
@@ -21314,7 +21314,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "bottle of 60 ml Syrup",
     "Like2": "Dr Reddy's Laboratories Ltd",
-    "Keywords": "Chlorpheniramine Maleate (0.5mg/5ml) + Paracetamol (125mg/5ml) + Phenylephrine (5mg/5ml) + Sodium Citrate (60mg/5ml) + Menthol (1mg/5ml) ADD",
+    "Keywords": "Chlorpheniramine Maleate (0.5mg/5ml) + Paracetamol (125mg/5ml) + Phenylephrine (5mg/5ml) + Sodium Citrate (60mg/5ml) + Menthol (1mg/5ml)",
     "quantity": "1" 
   },
   {
@@ -21336,7 +21336,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 15 tablets",
     "Like2": "Glenmark Pharmaceuticals Ltd",
-    "Keywords": "Teneligliptin (20mg) ADD",
+    "Keywords": "Teneligliptin (20mg)",
     "quantity": "1" 
   },
   {
@@ -21358,7 +21358,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 10 tablets",
     "Like2": "Sun Pharmaceutical Industries Ltd",
-    "Keywords": "Cefixime (200mg) + Ofloxacin (200mg) ADD",
+    "Keywords": "Cefixime (200mg) + Ofloxacin (200mg)",
     "quantity": "1" 
   },
   {
@@ -21380,7 +21380,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 15 tablets",
     "Like2": "Intas Pharmaceuticals Ltd",
-    "Keywords": "Glimepiride (1mg) ADD",
+    "Keywords": "Glimepiride (1mg)",
     "quantity": "1" 
   },
   {
@@ -21391,7 +21391,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "bottle of 30 ml Oral Suspension",
     "Like2": "Alkem Laboratories Ltd",
-    "Keywords": "Cefuroxime (125mg) ADD",
+    "Keywords": "Cefuroxime (125mg)",
     "quantity": "1" 
   },
   {
@@ -21402,7 +21402,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 10 tablets",
     "Like2": "FDC Ltd",
-    "Keywords": "Cefuroxime (250mg) ADD",
+    "Keywords": "Cefuroxime (250mg)",
     "quantity": "1" 
   },
   {
@@ -21413,7 +21413,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 10 tablets",
     "Like2": "Leeford Healthcare Ltd",
-    "Keywords": "Acyclovir (800mg) ADD",
+    "Keywords": "Acyclovir (800mg)",
     "quantity": "1" 
   },
   {
@@ -21424,7 +21424,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 6 tablets",
     "Like2": "Alkem Laboratories Ltd",
-    "Keywords": "Cefuroxime (250mg) + Clavulanic Acid (125mg) ADD",
+    "Keywords": "Cefuroxime (250mg) + Clavulanic Acid (125mg)",
     "quantity": "1" 
   },
   {
@@ -21435,7 +21435,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 10 tablets",
     "Like2": "Ipca Laboratories Ltd",
-    "Keywords": "Thiocolchicoside (8mg) + Aceclofenac (100mg) + Paracetamol (325mg) ADD",
+    "Keywords": "Thiocolchicoside (8mg) + Aceclofenac (100mg) + Paracetamol (325mg)",
     "quantity": "1" 
   },
   {
@@ -21446,7 +21446,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 15 tablet md",
     "Like2": "Intas Pharmaceuticals Ltd",
-    "Keywords": "Betahistine (16mg) ADD",
+    "Keywords": "Betahistine (16mg)",
     "quantity": "1" 
   },
   {
@@ -21457,7 +21457,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 10 tablets",
     "Like2": "Jenburkt Pharmaceuticals Ltd",
-    "Keywords": "Aceclofenac (100mg) + Thiocolchicoside (4mg) ADD",
+    "Keywords": "Aceclofenac (100mg) + Thiocolchicoside (4mg)",
     "quantity": "1" 
   },
   {
@@ -21468,7 +21468,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 10 tablet sr",
     "Like2": "Micro Labs Ltd",
-    "Keywords": "Dapagliflozin (10mg) + Metformin (500mg) ADD",
+    "Keywords": "Dapagliflozin (10mg) + Metformin (500mg)",
     "quantity": "1" 
   },
   {
@@ -21490,7 +21490,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 15 tablets",
     "Like2": "Eris Lifesciences Ltd",
-    "Keywords": "Metformin (500mg) + Vildagliptin (50mg) ADD",
+    "Keywords": "Metformin (500mg) + Vildagliptin (50mg)",
     "quantity": "1" 
   },
   {
@@ -21501,7 +21501,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "tube of 10 gm Eye Ointment",
     "Like2": "FDC Ltd",
-    "Keywords": "Ciprofloxacin (0.3% w/w) ADD",
+    "Keywords": "Ciprofloxacin (0.3% w/w)",
     "quantity": "1" 
   },
   {
@@ -21512,7 +21512,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "bottle of 30 ml Dry Syrup",
     "Like2": "Cipla Ltd",
-    "Keywords": "Cefixime (100mg/5ml) ADD",
+    "Keywords": "Cefixime (100mg/5ml)",
     "quantity": "1" 
   },
   {
@@ -21523,7 +21523,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 5 tablet er",
     "Like2": "Sun Pharmaceutical Industries Ltd",
-    "Keywords": "Ofloxacin (400mg) ADD",
+    "Keywords": "Ofloxacin (400mg)",
     "quantity": "1" 
   },
   {
@@ -21567,7 +21567,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "packet of 1 Powder for Injection",
     "Like2": "Zydus Cadila",
-    "Keywords": "Recombinant Human Erythropoietin Alfa (4000IU) ADD",
+    "Keywords": "Recombinant Human Erythropoietin Alfa (4000IU)",
     "quantity": "1" 
   },
   {
@@ -21578,7 +21578,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 10 tablets",
     "Like2": "Torrent Pharmaceuticals Ltd",
-    "Keywords": "Cetirizine (10mg) ADD",
+    "Keywords": "Cetirizine (10mg)",
     "quantity": "1" 
   },
   {
@@ -21600,7 +21600,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 10 tablets",
     "Like2": "Mankind Pharma Ltd",
-    "Keywords": "Dapagliflozin (10mg) + Vildagliptin (100mg) ADD",
+    "Keywords": "Dapagliflozin (10mg) + Vildagliptin (100mg)",
     "quantity": "1" 
   },
   {
@@ -21611,7 +21611,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 10 tablets",
     "Like2": "Rapross Pharmaceuticals Pvt Ltd",
-    "Keywords": "Diclofenac (50mg) + Paracetamol (325mg) + Serratiopeptidase (10mg) ADD",
+    "Keywords": "Diclofenac (50mg) + Paracetamol (325mg) + Serratiopeptidase (10mg)",
     "quantity": "1" 
   },
   {
@@ -21622,7 +21622,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 10 tablets",
     "Like2": "Sun Pharmaceutical Industries Ltd",
-    "Keywords": "Methylprednisolone (4mg) ADD",
+    "Keywords": "Methylprednisolone (4mg)",
     "quantity": "1" 
   },
   {
@@ -21633,7 +21633,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 15 tablets",
     "Like2": "Mankind Pharma Ltd",
-    "Keywords": "Metformin (500mg) + Vildagliptin (50mg) ADD",
+    "Keywords": "Metformin (500mg) + Vildagliptin (50mg)",
     "quantity": "1" 
   },
   {
@@ -21644,7 +21644,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "bottle of 60 ml Oral Solution",
     "Like2": "Sun Pharmaceutical Industries Ltd",
-    "Keywords": "Ofloxacin (100mg/5ml) ADD",
+    "Keywords": "Ofloxacin (100mg/5ml)",
     "quantity": "1" 
   },
   {
@@ -21666,7 +21666,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 10 tablets",
     "Like2": "Sun Pharmaceutical Industries Ltd",
-    "Keywords": "Methylprednisolone (16mg) ADD",
+    "Keywords": "Methylprednisolone (16mg)",
     "quantity": "1" 
   },
   {
@@ -21677,7 +21677,7 @@ var products=[
     "Prescription": "",
     "Like1": "tube of 10 ml Dental Gel",
     "Like2": "Raptakos Brett & Co Ltd",
-    "Keywords": "Choline Salicylate (9% w/w) + Lidocaine (2% w/w) ADD",
+    "Keywords": "Choline Salicylate (9% w/w) + Lidocaine (2% w/w)",
     "quantity": "1" 
   },
   {
@@ -21688,7 +21688,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 10 tablets",
     "Like2": "Glenmark Pharmaceuticals Ltd",
-    "Keywords": "Garenoxacin (200mg) ADD",
+    "Keywords": "Garenoxacin (200mg)",
     "quantity": "1" 
   },
   {
@@ -21699,7 +21699,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 10 tablets",
     "Like2": "FDC Ltd",
-    "Keywords": "Cefpodoxime Proxetil (200mg) + Clavulanic Acid (125mg) ADD",
+    "Keywords": "Cefpodoxime Proxetil (200mg) + Clavulanic Acid (125mg)",
     "quantity": "1" 
   },
   {
@@ -21710,7 +21710,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 10 capsules",
     "Like2": "Zydus Cadila",
-    "Keywords": "Celecoxib (200mg) ADD",
+    "Keywords": "Celecoxib (200mg)",
     "quantity": "1" 
   },
   {
@@ -21721,7 +21721,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "packet of 1 gm Sachet",
     "Like2": "Torrent Pharmaceuticals Ltd",
-    "Keywords": "Racecadotril (10mg) ADD",
+    "Keywords": "Racecadotril (10mg)",
     "quantity": "1" 
   },
   {
@@ -21732,7 +21732,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 10 Tablet pr",
     "Like2": "Sun Pharmaceutical Industries Ltd",
-    "Keywords": "Carbamazepine (300mg) ADD",
+    "Keywords": "Carbamazepine (300mg)",
     "quantity": "1" 
   },
   {
@@ -21743,7 +21743,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "bottle of 30 tablets",
     "Like2": "Zydus Cadila",
-    "Keywords": "Hydroxychloroquine (200mg) ADD",
+    "Keywords": "Hydroxychloroquine (200mg)",
     "quantity": "1" 
   },
   {
@@ -21754,7 +21754,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 15 tablet sr",
     "Like2": "Intas Pharmaceuticals Ltd",
-    "Keywords": "Glimepiride (2mg) + Metformin (500mg) + Voglibose (0.2mg) ADD",
+    "Keywords": "Glimepiride (2mg) + Metformin (500mg) + Voglibose (0.2mg)",
     "quantity": "1" 
   },
   {
@@ -21776,7 +21776,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 10 tablets",
     "Like2": "FDC Ltd",
-    "Keywords": "Ciprofloxacin (500mg) ADD",
+    "Keywords": "Ciprofloxacin (500mg)",
     "quantity": "1" 
   },
   {
@@ -21787,7 +21787,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "tube of 15 gm Ointment",
     "Like2": "Sun Pharmaceutical Industries Ltd",
-    "Keywords": "Miconazole (2% w/w) ADD",
+    "Keywords": "Miconazole (2% w/w)",
     "quantity": "1" 
   },
   {
@@ -21798,7 +21798,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "tube of 5 gm Cream",
     "Like2": "Leeford Healthcare Ltd",
-    "Keywords": "Acyclovir (5% w/w) ADD",
+    "Keywords": "Acyclovir (5% w/w)",
     "quantity": "1" 
   },
   {
@@ -21809,7 +21809,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 15 tablets",
     "Like2": "Eris Lifesciences Ltd",
-    "Keywords": "Vildagliptin (50mg) ADD",
+    "Keywords": "Vildagliptin (50mg)",
     "quantity": "1" 
   },
   {
@@ -21820,7 +21820,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 10 tablets",
     "Like2": "Mankind Pharma Ltd",
-    "Keywords": "Naproxen (250mg) + Domperidone (10mg) ADD",
+    "Keywords": "Naproxen (250mg) + Domperidone (10mg)",
     "quantity": "1" 
   },
   {
@@ -21831,7 +21831,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 10 tablets",
     "Like2": "Jenburkt Pharmaceuticals Ltd",
-    "Keywords": "Trypsin (50000AU) + Rutoside (100mg) + Bromelain (90mg) + Aceclofenac (100mg) ADD",
+    "Keywords": "Trypsin (50000AU) + Rutoside (100mg) + Bromelain (90mg) + Aceclofenac (100mg)",
     "quantity": "1" 
   },
   {
@@ -21853,7 +21853,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "bottle of 100 ml Syrup",
     "Like2": "Alembic Pharmaceuticals Ltd",
-    "Keywords": "Phenylephrine (5mg/5ml) + Chlorpheniramine Maleate (2mg/5ml) + Dextromethorphan Hydrobromide (10mg/5ml) ADD",
+    "Keywords": "Phenylephrine (5mg/5ml) + Chlorpheniramine Maleate (2mg/5ml) + Dextromethorphan Hydrobromide (10mg/5ml)",
     "quantity": "1" 
   },
   {
@@ -21886,7 +21886,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "vial of 2 ml Injection",
     "Like2": "Sun Pharmaceutical Industries Ltd",
-    "Keywords": "Ondansetron (2mg/ml) ADD",
+    "Keywords": "Ondansetron (2mg/ml)",
     "quantity": "1" 
   },
   {
@@ -21897,7 +21897,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "box of 1 Tablet",
     "Like2": "FDC Ltd",
-    "Keywords": "Fluconazole (150mg) + Tinidazole (1000mg) ADD",
+    "Keywords": "Fluconazole (150mg) + Tinidazole (1000mg)",
     "quantity": "1" 
   },
   {
@@ -21919,7 +21919,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "bottle of 100 ml Syrup",
     "Like2": "Aristo Pharmaceuticals Pvt Ltd",
-    "Keywords": "Chlorpheniramine Maleate (2mg/5ml) + Dextromethorphan Hydrobromide (10mg/5ml) ADD",
+    "Keywords": "Chlorpheniramine Maleate (2mg/5ml) + Dextromethorphan Hydrobromide (10mg/5ml)",
     "quantity": "1" 
   },
   {
@@ -21930,7 +21930,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 10 tablet er",
     "Like2": "Intas Pharmaceuticals Ltd",
-    "Keywords": "Carbamazepine (200mg) ADD",
+    "Keywords": "Carbamazepine (200mg)",
     "quantity": "1" 
   },
   {
@@ -21941,7 +21941,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 15 Tablet pr",
     "Like2": "Intas Pharmaceuticals Ltd",
-    "Keywords": "Glimepiride (1mg) + Metformin (1000mg) ADD",
+    "Keywords": "Glimepiride (1mg) + Metformin (1000mg)",
     "quantity": "1" 
   },
   {
@@ -21952,7 +21952,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 10 tablets",
     "Like2": "Sun Pharmaceutical Industries Ltd",
-    "Keywords": "Sertraline (100mg) ADD",
+    "Keywords": "Sertraline (100mg)",
     "quantity": "1" 
   },
   {
@@ -21963,7 +21963,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 10 tablets",
     "Like2": "Sun Pharmaceutical Industries Ltd",
-    "Keywords": "Carbamazepine (200mg) ADD",
+    "Keywords": "Carbamazepine (200mg)",
     "quantity": "1" 
   },
   {
@@ -21996,7 +21996,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "bottle of 10 ml Oral Suspension",
     "Like2": "FDC Ltd",
-    "Keywords": "Cefixime (25mg/ml) ADD",
+    "Keywords": "Cefixime (25mg/ml)",
     "quantity": "1" 
   },
   {
@@ -22007,7 +22007,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 10 tablet sr",
     "Like2": "La Renon Healthcare Pvt Ltd",
-    "Keywords": "Propranolol (40mg) + Flunarizine (10mg) ADD",
+    "Keywords": "Propranolol (40mg) + Flunarizine (10mg)",
     "quantity": "1" 
   },
   {
@@ -22018,7 +22018,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "bottle of 30 ml Syrup",
     "Like2": "Mankind Pharma Ltd",
-    "Keywords": "Azithromycin (200mg) ADD",
+    "Keywords": "Azithromycin (200mg)",
     "quantity": "1" 
   },
   {
@@ -22029,7 +22029,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 10 tablets",
     "Like2": "Aristo Pharmaceuticals Pvt Ltd",
-    "Keywords": "Bromelain (90mg) + Trypsin (48mg) + Rutoside (100mg) ADD",
+    "Keywords": "Bromelain (90mg) + Trypsin (48mg) + Rutoside (100mg)",
     "quantity": "1" 
   },
   {
@@ -22040,7 +22040,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 10 tablets",
     "Like2": "FDC Ltd",
-    "Keywords": "Atorvastatin (10mg) ADD",
+    "Keywords": "Atorvastatin (10mg)",
     "quantity": "1" 
   },
   {
@@ -22051,7 +22051,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "bottle of 30 ml Oral Suspension",
     "Like2": "Macleods Pharmaceuticals Pvt Ltd",
-    "Keywords": "Cefpodoxime Proxetil (100mg/5ml) ADD",
+    "Keywords": "Cefpodoxime Proxetil (100mg/5ml)",
     "quantity": "1" 
   },
   {
@@ -22062,7 +22062,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "tube of 15 gm Cream",
     "Like2": "Apex Laboratories Pvt Ltd",
-    "Keywords": "Clobetasol (0.05% w/w) + Miconazole (2% w/w) + Neomycin (0.5% w/w) ADD",
+    "Keywords": "Clobetasol (0.05% w/w) + Miconazole (2% w/w) + Neomycin (0.5% w/w)",
     "quantity": "1" 
   },
   {
@@ -22095,7 +22095,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 4 tablet dt",
     "Like2": "FDC Ltd",
-    "Keywords": "Fluconazole (50mg) ADD",
+    "Keywords": "Fluconazole (50mg)",
     "quantity": "1" 
   },
   {
@@ -22106,7 +22106,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 10 tablets",
     "Like2": "Biochem Pharmaceutical Industries",
-    "Keywords": "Aceclofenac (100mg) + Paracetamol (325mg) + Trypsin Chymotrypsin (150000AU) ADD",
+    "Keywords": "Aceclofenac (100mg) + Paracetamol (325mg) + Trypsin Chymotrypsin (150000AU)",
     "quantity": "1" 
   },
   {
@@ -22117,7 +22117,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "packet of 15 ml Oral Drops",
     "Like2": "Aristo Pharmaceuticals Pvt Ltd",
-    "Keywords": "Ambroxol (7.5mg/ml) + Levosalbutamol (0.25mg/ml) + Guaifenesin (12.5mg/ml) ADD",
+    "Keywords": "Ambroxol (7.5mg/ml) + Levosalbutamol (0.25mg/ml) + Guaifenesin (12.5mg/ml)",
     "quantity": "1" 
   },
   {
@@ -22128,7 +22128,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "tube of 5 gm Eye Ointment",
     "Like2": "Ajanta Pharma Ltd",
-    "Keywords": "Azithromycin (1% w/w) ADD",
+    "Keywords": "Azithromycin (1% w/w)",
     "quantity": "1" 
   },
   {
@@ -22139,7 +22139,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 10 tablets",
     "Like2": "Intas Pharmaceuticals Ltd",
-    "Keywords": "Rifaximin (400mg) ADD",
+    "Keywords": "Rifaximin (400mg)",
     "quantity": "1" 
   },
   {
@@ -22150,7 +22150,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "bottle of 10 ml Oral Drops",
     "Like2": "Dr Reddy's Laboratories Ltd",
-    "Keywords": "Cetirizine (10mg/ml) ADD",
+    "Keywords": "Cetirizine (10mg/ml)",
     "quantity": "1" 
   },
   {
@@ -22161,7 +22161,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 15 tablet er",
     "Like2": "Glenmark Pharmaceuticals Ltd",
-    "Keywords": "Metformin (1000mg) + Teneligliptin (20mg) ADD",
+    "Keywords": "Metformin (1000mg) + Teneligliptin (20mg)",
     "quantity": "1" 
   },
   {
@@ -22172,7 +22172,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 15 tablets",
     "Like2": "Glenmark Pharmaceuticals Ltd",
-    "Keywords": "Dapagliflozin (10mg) + Teneligliptin (20mg) ADD",
+    "Keywords": "Dapagliflozin (10mg) + Teneligliptin (20mg)",
     "quantity": "1" 
   },
   {
@@ -22194,7 +22194,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 1 Tablet",
     "Like2": "Sun Pharmaceutical Industries Ltd",
-    "Keywords": "Albendazole (400mg) ADD",
+    "Keywords": "Albendazole (400mg)",
     "quantity": "1" 
   },
   {
@@ -22205,7 +22205,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "vial of 10 ml Injection",
     "Like2": "Macleods Pharmaceuticals Pvt Ltd",
-    "Keywords": "Cefoperazone (1000mg) + Sulbactam (500mg) ADD",
+    "Keywords": "Cefoperazone (1000mg) + Sulbactam (500mg)",
     "quantity": "1" 
   },
   {
@@ -22227,7 +22227,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "vial of 1 Powder for Injection",
     "Like2": "Zydus Cadila",
-    "Keywords": "Recombinant Human Erythropoietin Alfa (10000IU) ADD",
+    "Keywords": "Recombinant Human Erythropoietin Alfa (10000IU)",
     "quantity": "1" 
   },
   {
@@ -22282,7 +22282,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "bottle of 15 ml Oral Suspension",
     "Like2": "Macleods Pharmaceuticals Pvt Ltd",
-    "Keywords": "Azithromycin (200mg/5ml) ADD",
+    "Keywords": "Azithromycin (200mg/5ml)",
     "quantity": "1" 
   },
   {
@@ -22293,7 +22293,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 10 tablets",
     "Like2": "Torrent Pharmaceuticals Ltd",
-    "Keywords": "Aceclofenac (100mg) + Thiocolchicoside (4mg) ADD",
+    "Keywords": "Aceclofenac (100mg) + Thiocolchicoside (4mg)",
     "quantity": "1" 
   },
   {
@@ -22304,7 +22304,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 10 tablets",
     "Like2": "Ipca Laboratories Ltd",
-    "Keywords": "Azelnidipine (8mg) ADD",
+    "Keywords": "Azelnidipine (8mg)",
     "quantity": "1" 
   },
   {
@@ -22315,7 +22315,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "vial of 1 Injection",
     "Like2": "Alkem Laboratories Ltd",
-    "Keywords": "Cefuroxime (1500mg) ADD",
+    "Keywords": "Cefuroxime (1500mg)",
     "quantity": "1" 
   },
   {
@@ -22337,7 +22337,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "bottle of 30 ml Dry Syrup",
     "Like2": "Zuventus Healthcare Ltd",
-    "Keywords": "Cefditoren (100mg) ADD",
+    "Keywords": "Cefditoren (100mg)",
     "quantity": "1" 
   },
   {
@@ -22359,7 +22359,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 10 tablets",
     "Like2": "Intas Pharmaceuticals Ltd",
-    "Keywords": "Oxcarbazepine (150mg) ADD",
+    "Keywords": "Oxcarbazepine (150mg)",
     "quantity": "1" 
   },
   {
@@ -22370,7 +22370,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 15 tablets",
     "Like2": "Intas Pharmaceuticals Ltd",
-    "Keywords": "Glimepiride (2mg) ADD",
+    "Keywords": "Glimepiride (2mg)",
     "quantity": "1" 
   },
   {
@@ -22392,7 +22392,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "bottle of 30 ml Dry Syrup",
     "Like2": "Alkem Laboratories Ltd",
-    "Keywords": "Cefuroxime (125mg) + Clavulanic Acid (31.25mg) ADD",
+    "Keywords": "Cefuroxime (125mg) + Clavulanic Acid (31.25mg)",
     "quantity": "1" 
   },
   {
@@ -22425,7 +22425,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 15 tablets",
     "Like2": "Zydus Cadila",
-    "Keywords": "Metolazone (2.5mg) ADD",
+    "Keywords": "Metolazone (2.5mg)",
     "quantity": "1" 
   },
   {
@@ -22436,7 +22436,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "packet of 5 ml Eye Drop",
     "Like2": "Allergan India Pvt Ltd",
-    "Keywords": "Gatifloxacin (3mg) + Loteprednol etabonate (5mg) ADD",
+    "Keywords": "Gatifloxacin (3mg) + Loteprednol etabonate (5mg)",
     "quantity": "1" 
   },
   {
@@ -22458,7 +22458,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 10 tablets",
     "Like2": "Eris Lifesciences Ltd",
-    "Keywords": "Remogliflozin Etabonate (100mg) + Vildagliptin (50mg) ADD",
+    "Keywords": "Remogliflozin Etabonate (100mg) + Vildagliptin (50mg)",
     "quantity": "1" 
   },
   {
@@ -22469,7 +22469,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 6 tablets",
     "Like2": "FDC Ltd",
-    "Keywords": "Cefuroxime (250mg) + Clavulanic Acid (62.5mg) ADD",
+    "Keywords": "Cefuroxime (250mg) + Clavulanic Acid (62.5mg)",
     "quantity": "1" 
   },
   {
@@ -22480,7 +22480,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 10 tablet dt",
     "Like2": "FDC Ltd",
-    "Keywords": "Cefixime (100mg) + Clavulanic Acid (62.5mg) ADD",
+    "Keywords": "Cefixime (100mg) + Clavulanic Acid (62.5mg)",
     "quantity": "1" 
   },
   {
@@ -22491,7 +22491,7 @@ var products=[
     "Prescription": "",
     "Like1": "tube of 15 gm Gel",
     "Like2": "Zydus Cadila",
-    "Keywords": "Clindamycin (1% w/w) ADD",
+    "Keywords": "Clindamycin (1% w/w)",
     "quantity": "1" 
   },
   {
@@ -22502,7 +22502,7 @@ var products=[
     "Prescription": "",
     "Like1": "bottle of 10 ml Dental Gel",
     "Like2": "Raptakos Brett & Co Ltd",
-    "Keywords": "Choline Salicylate (9% w/v) ADD",
+    "Keywords": "Choline Salicylate (9% w/v)",
     "quantity": "1" 
   },
   {
@@ -22524,7 +22524,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 10 tablet dt",
     "Like2": "Cipla Ltd",
-    "Keywords": "Cefixime (200mg) ADD",
+    "Keywords": "Cefixime (200mg)",
     "quantity": "1" 
   },
   {
@@ -22535,7 +22535,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 5 tablets",
     "Like2": "Alkem Laboratories Ltd",
-    "Keywords": "Azithromycin (500mg) ADD",
+    "Keywords": "Azithromycin (500mg)",
     "quantity": "1" 
   },
   {
@@ -22568,7 +22568,7 @@ var products=[
     "Prescription": "",
     "Like1": "bottle of 15 ml Oral Drops",
     "Like2": "FDC Ltd",
-    "Keywords": "Zinc Gluconate (20mg) ADD",
+    "Keywords": "Zinc Gluconate (20mg)",
     "quantity": "1" 
   },
   {
@@ -22590,7 +22590,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "tube of 20 gm Cream",
     "Like2": "KLM Laboratories Pvt Ltd",
-    "Keywords": "Beclometasone (0.025% w/w) + Clotrimazole (1% w/w) ADD",
+    "Keywords": "Beclometasone (0.025% w/w) + Clotrimazole (1% w/w)",
     "quantity": "1" 
   },
   {
@@ -22601,7 +22601,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 10 tablets",
     "Like2": "Leeford Healthcare Ltd",
-    "Keywords": "Diclofenac (50mg) + Paracetamol (325mg) + Serratiopeptidase (10mg) ADD",
+    "Keywords": "Diclofenac (50mg) + Paracetamol (325mg) + Serratiopeptidase (10mg)",
     "quantity": "1" 
   },
   {
@@ -22612,7 +22612,7 @@ var products=[
     "Prescription": "Prescription Required",
     "Like1": "strip of 10 tablets",
     "Like2": "Ipca Laboratories Ltd",
-    "Keywords": "Azelnidipine (16mg) ADD",
+    "Keywords": "Azelnidipine (16mg)",
     "quantity": "1" 
   },
   {
