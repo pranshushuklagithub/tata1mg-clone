@@ -257,74 +257,7 @@ color: aliceblue;
 
 
 
-  /* for footer section code is here */
   
-/* .footDivs{
-  text-align: center;
-  margin-top: 5%;
-  box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
-}
-
-  #footDivs {
-    display: flex;
-    justify-content: space-evenly;
-    width: 70%;
-    gap: 50px;
-    margin: auto;
-  }
-
-  
-  #heading {
-    font-size: x-large;
-  }
-  #send-link-btn :hover{
-    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
-  }
-
-  #send-link-btn {
-    cursor: pointer;
-  }
-  
-  .final-foot-div {
-    display: grid;
-    grid-template-columns: repeat(5,1fr);
-    gap: 10%;
-    margin-bottom: 5%;
-  }
-
-  .footer-para {
-    font-size: large;
-    color: rgb(81, 78, 78);
-  }
-  .general > p{
-    margin-bottom: -3%;
-    cursor: pointer;
-  }
-  .connects {
-    display: flex;
-    justify-content: space-evenly;
-  }
-  
-  .lower-footer-1 {
-    display: grid;
-    grid-template-columns: repeat(3,1fr);
-    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
-  }
-  .lower-footer-1 > div {
-    width: 70%;
-    display: flex;
-    align-items: center;
-    margin: auto;
-  }
-
-  .lower-footer-1 > div > div{
-    justify-content: space-between;
-  }
-  .lower-footer-2 {
-    margin-top: 5%;
-    align-items: center;
-    text-align: center;
-  } */
 
     
 @media  all and (min-width :489px) and (max-width:800px) {
@@ -351,11 +284,11 @@ color: aliceblue;
 
 }
 
-@media  all and (min-width :799px) and (max-width:1200px) {
+@media  all and (min-width :600px) and (max-width:1200px) {
 
   
   #parent-container > div {
-    grid-template-columns: repeat(5,1fr);
+    grid-template-columns: repeat(4,1fr);
     width: 100%;
   }
   #parent-container > div > div {
@@ -374,11 +307,11 @@ color: aliceblue;
   }
 
 }
-@media  all and (min-width :299px) and (max-width:500px) {
+@media  all and (min-width :299px) and (max-width:400px) {
 
   
   #parent-container > div {
-    grid-template-columns: repeat(2,1fr);
+    grid-template-columns: repeat(3,1fr);
     width: 100%;
   }
   #parent-container > div > div {

@@ -345,6 +345,8 @@ Displayprod2(product2,0,5);
 
 }
 
+
+
 // By this function the slide is getting changed
 function changeSlide(n) {
     if(n==1) {
