@@ -1,73 +1,91 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>All Medicine Page</title>
     <link
       rel="shortcut icon"
       href="https://www.1mg.com/apple-touch-icon-180x180.png"
       type="image/png"
     />
-    <link rel="stylesheet" href="products.css">
-</head>
-<body>
-    <div id="navbar">
-
-    </div>
+    <link rel="stylesheet" href="products.css" />
+  </head>
+  <body>
+    <div id="navbar"></div>
 
     <div id="mindex">
-        <h1 id="mind">Medicine Index starting with - A</h1>
-        <div><p>Medicines can only be ordered…<img src="https://www.1mg.com/images/unavailable-drug-info.svg" alt=""></p></div>
+      <h1 id="mind">Medicine Index starting with - A</h1>
+      <div>
+        <p>
+          Medicines can only be ordered…<img
+            id="dailogbox"
+            src="https://www.1mg.com/images/unavailable-drug-info.svg"
+            alt=""
+          />
+        </p>
+      </div>
+      <div class="modal">
+        <div class="modal-content">
+          <img
+            src="https://onemg.gumlet.io/cross_without_bg_xqbozq.svg"
+            class="close-btn"
+            alt=""
+          />
+          <p>Medicines can only be ordered...</p>
+          <ul>
+            <li>If it's mentioned on the prescription</li>
+            <li>OR If the doctor has prescribed the salt</li>
+          </ul>
+        </div>
+      </div>
     </div>
     <div id="alpha">
-        <div>
-            <button class="filter active" id="filter-A">A</button>
-            <button class="filter" id="filter-B">B</button>
-            <button class="filter" id="filter-C">C</button>
-            <button class="filter" id="filter-D">D</button>
-            <button class="filter" id="filter-E">E</button>
-            <button class="filter" id="filter-F">F</button>
-            <button class="filter" id="filter-G">G</button>
-            <button class="filter" id="filter-I">I</button>
-            <button class="filter" id="filter-J">J</button>
-            <button class="filter" id="filter-K">K</button>
-            <button class="filter" id="filter-L">L</button>
-            <button class="filter" id="filter-M">M</button>
-            <button class="filter" id="filter-N">N</button>
-            <button class="filter" id="filter-O">O</button>
-            <button class="filter" id="filter-P">P</button>
-            <button class="filter" id="filter-Q">Q</button>
-            <button class="filter" id="filter-R">R</button>
-            <button class="filter" id="filter-S">S</button>
-            <button class="filter" id="filter-T">T</button>
-            <button class="filter" id="filter-U">U</button>
-            <button class="filter" id="filter-V">V</button>
-            <button class="filter" id="filter-W">W</button>
-            <button class="filter" id="filter-X">X</button>
-            <button class="filter" id="filter-Y">Y</button>
-            <button class="filter" id="filter-Z">Z</button>
-        </div>
+      <div>
+        <button class="filter active" id="filter-A">A</button>
+        <button class="filter" id="filter-B">B</button>
+        <button class="filter" id="filter-C">C</button>
+        <button class="filter" id="filter-D">D</button>
+        <button class="filter" id="filter-E">E</button>
+        <button class="filter" id="filter-F">F</button>
+        <button class="filter" id="filter-G">G</button>
+        <button class="filter" id="filter-I">I</button>
+        <button class="filter" id="filter-J">J</button>
+        <button class="filter" id="filter-K">K</button>
+        <button class="filter" id="filter-L">L</button>
+        <button class="filter" id="filter-M">M</button>
+        <button class="filter" id="filter-N">N</button>
+        <button class="filter" id="filter-O">O</button>
+        <button class="filter" id="filter-P">P</button>
+        <button class="filter" id="filter-Q">Q</button>
+        <button class="filter" id="filter-R">R</button>
+        <button class="filter" id="filter-S">S</button>
+        <button class="filter" id="filter-T">T</button>
+        <button class="filter" id="filter-U">U</button>
+        <button class="filter" id="filter-V">V</button>
+        <button class="filter" id="filter-W">W</button>
+        <button class="filter" id="filter-X">X</button>
+        <button class="filter" id="filter-Y">Y</button>
+        <button class="filter" id="filter-Z">Z</button>
+      </div>
     </div>
 
     <div id="results">
-        <p>Showing <span id="sindex"></span>-<span id="eindex"></span> of <span id="tlength"></span> results</p>
+      <p>
+        Showing <span id="sindex"></span>-<span id="eindex"></span> of
+        <span id="tlength"></span> results
+      </p>
     </div>
 
     <div id="prodcontainer">
-        <div id="gridcon">
-
-        </div>
+      <div id="gridcon"></div>
     </div>
     <div id="pages">
-        <button id="prev">< Previous</button>
-        <div id="pageno"></div>
-        <button id="next">Next ></button>
+      <button id="prev">< Previous</button>
+      <div id="pageno"></div>
+      <button id="next">Next ></button>
     </div>
-
-</body>
+  </body>
 </html>
-<script type="module" src="./product.js">
-
-</script>
+<script type="module" src="./product.js"></script>

@@ -6,7 +6,17 @@ var elemperpage=15;
 var pagenum=1;
 var totalpages=2;
 filterProd("A");
-  
+
+var dialogbox=document.querySelector("#dailogbox");
+var modal=document.querySelector(".modal");
+var closeBtn =document.querySelector(".close-btn");
+dialogbox.addEventListener("click",()=>{
+  modal.style.display = "flex";
+});
+closeBtn.addEventListener("click",()=>{
+  modal.style.display = "none";
+});
+
 function filterProd(alphabet){
     elemperpage=15;
     pagenum=1;
@@ -76,8 +86,6 @@ function DisplayData(){
                     add.textContent="ADD";
                 },1500);
             },1500);
-            
-            //Addcart(data);
         });
         add.textContent="ADD";
         div3.append(price,add);
@@ -112,7 +120,6 @@ filters.forEach((filter)=>{
         }
         filter.classList.add("active");
         filterProd(alphabet);
-        // DisplayData();
     });
 });
 function Addcart(elem){
@@ -131,5 +138,4 @@ next.addEventListener("click",()=>{
     pagenum++;
     window.scrollTo(0, 0);
     DisplayData();
-
 });
