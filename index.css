@@ -9,15 +9,16 @@
 
   
   #flexBox-1 {
-    display: flex;
+    display: grid;
+    grid-template-columns: repeat(2,1fr);
     width: 100%;
     margin-top: 5%;
   }
 
   #slider {
     /* display: flex; */
-    width: 75%;
-    background-color: aqua;
+    width: 135%;
+    height: 100%;
     cursor: pointer;
   }
   #slider > img {
@@ -30,7 +31,8 @@
   }
   #fixedImage {
     margin-left: auto;
-    width: 30%;
+    width: 70%;
+    height: 100%;
   }
   #page {
     display: flex;
@@ -46,7 +48,7 @@
 
   #page > div {
     width: 2%;
-    height: 8px;
+    height: 6px;
     background-color: rgb(158, 160, 160);
     margin-top: -10%;
     border-radius: 100%;
@@ -150,6 +152,40 @@
     cursor: pointer;
     box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
   }
+.product {
+    display: grid;
+    width: 96%;
+    grid-template-columns: repeat(6,1fr);
+    align-items: center;
+    text-align: center;
+    padding: 2%;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+}
+.product > div {
+  width: 100%;
+  margin-left: 40%;
+  align-items: center;
+}
+.product > div > img {
+  width: 100%;
+}
+
+.product > div >  button {
+  font-weight: 600;
+  background-color: #ff6f61;
+  color: aliceblue;
+
+}
+.product > div > button:hover{
+  font-size: larger;
+  font-weight: 500;
+}
+.product > div >  button.active{
+  font-weight: 600;
+  background-color: #ff6f61;
+  color: aliceblue;
+}
+
 
 
 
@@ -223,6 +259,76 @@
   }
 
     
+@media  all and (min-width :489px) and (max-width:800px) {
+
+  
+  #parent-container > div {
+    grid-template-columns: repeat(3,1fr);
+    width: 100%;
+  }
+  #parent-container > div > div {
+    margin: auto;
+    text-align: justify;
+  }
+  h2 {
+    font-size: 12px;
+  }
+  #flexBox-1 {
+    display: flex;
+  }
+  #care-plan {
+    
+  margin: auto;
+  }
+
+}
+
+@media  all and (min-width :799px) and (max-width:1200px) {
+
+  
+  #parent-container > div {
+    grid-template-columns: repeat(5,1fr);
+    width: 100%;
+  }
+  #parent-container > div > div {
+    margin: auto;
+    text-align: justify;
+  }
+  h2 {
+    font-size: 18px;
+  }
+  #flexBox-1 {
+    display: flex;
+  }
+  #care-plan {
+    
+  margin: auto;
+  }
+
+}
+@media  all and (min-width :299px) and (max-width:500px) {
+
+  
+  #parent-container > div {
+    grid-template-columns: repeat(2,1fr);
+    width: 100%;
+  }
+  #parent-container > div > div {
+    margin: auto;
+    text-align: justify;
+  }
+  h2 {
+    font-size: 10px;
+  }
+  #flexBox-1 {
+    display: flex;
+  }
+  #care-plan {
+    
+  margin: auto;
+  }
+
+}
 
   
   
