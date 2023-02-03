@@ -5,6 +5,8 @@
 }
 .navbar{
     position: sticky;
+    top: 0;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
 }
 .navbar a{
     text-decoration: none;
@@ -106,6 +108,7 @@
     line-height: 35px;
     box-shadow: rgba(0, 0, 0, 0.02) 0px 1px 3px 0px, rgba(27, 31, 35, 0.15) 0px 0px 0px 1px;
     background-color:RGB(255, 255, 255);
+    margin-bottom: 0;
 }
 .second_div>.z1{
     display: flex;
@@ -163,17 +166,20 @@
     margin-left: 15px;
 }
 .third_div{
-    margin: 10px auto;
+    /* margin: 10px auto; */
    padding: 0 6%;
-   /* display: flex; */
    background-color:RGB(255, 255, 255);
+   display: flex;
+   flex-wrap: wrap;
+   box-shadow: rgba(0, 0, 0, 0.02) 0px 1px 3px 0px, rgba(27, 31, 35, 0.15) 0px 0px 0px 1px;
 }
 .third_div>div{
     margin: 5px 5px;
-    /* align-items: center; */
-    display:flex;
+    /* display:flex; */
+    /* flex-direction: column-reverse; */
+    /* width: 100%; */
     /* flex-wrap: wrap; */
-    float: left;
+    /* float: left; */
     align-items: center;
     /* width: 200px; */
     line-height: 25px;
@@ -195,8 +201,11 @@
 }
 .third_div>div>.m1{
     position: absolute;
+    /* top: 0; */
+    left: 100px;
     display: none;
-    margin-top: 120px;
+    margin-top: 20px;
+    /* margin-left: 0; */
     padding: 10px;
     font-size: 12px;
     font-family: Arial, Helvetica, sans-serif;
@@ -211,7 +220,7 @@
 .m2{
     position: absolute;
     display: none;
-    margin-top: 370px;
+    margin-top: 0;
     padding: 10px;
     font-size: 12px;
     font-family: Arial, Helvetica, sans-serif;
@@ -231,7 +240,7 @@
 .m3{
     position: absolute;
     display: none;
-    margin-top: 300px;
+    margin-top: 0;
     padding: 10px;
     font-size: 12px;
     font-family: Arial, Helvetica, sans-serif;
@@ -248,9 +257,9 @@
     position: absolute;
     display: none;
     /* top: 150px; */
-    margin-top: 300px;
-    margin-right: 100px;
-    right: 20px;
+    margin-top: 0;
+    /* margin-right: 100px; */
+    /* right: 20px; */
     padding: 10px;
     font-size: 12px;
     font-family: Arial, Helvetica, sans-serif;
@@ -261,14 +270,15 @@
 .third_div>div:hover>.m4{
     display: initial;
     display: flex;
-    margin-right: 10px;
-    padding: 20px;
+    /* margin-right: 10px; */
+    /* padding: 20px; */
     
 }
+
 .m5{
     position: absolute;
     display: none;
-    margin-top: 220px;
+    margin-top: 0;
     padding: 10px;
     font-size: 12px;
     font-family: Arial, Helvetica, sans-serif;
@@ -278,6 +288,7 @@
 }
 .third_div>div:hover>.m5{
     display: initial;
+    display: block;
     
 }
 

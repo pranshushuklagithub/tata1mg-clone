@@ -130,7 +130,7 @@ export default  function navbar_export(){
                     <a href="product.html">Blood Glucose Monitors</a><br>
                     <a href="product.html">Test Strips & Lancets</a><br>
                     <a href="product.html">Syringes & Pens</a><br> <br>
-                    <h4><a href="product.html">Sugar Free</a></h4><br>
+                    <h4><a href="product.html">Sugar Free</a></h4>
                     <h4><a href="product.html">Diabetic Medicines</a></h4>
                     <a href="product.html">Vitamins, Minerals & Antioxidants</a><br>
                     <a href="product.html">Homeopathy Medicine</a><br>
