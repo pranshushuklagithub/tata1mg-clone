@@ -2,17 +2,21 @@
 display: flex;
 background-color: #FEF7EF;
 padding-left: 20%;
+margin-top: -1%;
 }
 #conchild3{
     display: flex;
     justify-content: space-around;
+}
+#conchild2{
+  margin-top: 1%;
 }
 #conchild1>img{
 width: 80%;
 height: 80%;
 margin-top: 15px;
 }
-#conchild3 >p{
+#conchild3 >a{
     color: #903E38;
 }
 #conparent2{

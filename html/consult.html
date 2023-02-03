@@ -6,8 +6,10 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>online-doctor-consultation India</title>
     <link rel="stylesheet" href="/css/consult.css">
+    <link rel="stylesheet" href="/css/navbar.css">
 </head>
 <body>
+    <div id="navbar"></div>
     <div id="conparent1">
         <div id="conchild1">
        <img src="http://onemg.gumlet.io/marketing/5e7341e1-0637-4703-a7dc-aa8ea920769b.png" alt="image">
@@ -17,7 +19,8 @@
              <p>Free consultation and more benefits with Care Plan membership.</p>
           </div>
           <div id="conchild3">
-              <p id="car">Care Plan</p>
+              <!-- <p id="car"  >Care Plan</p> -->
+              <a href="./careplan.html" id="car">Care Plan</a>
               <p>Join Now!</p>
           </div>
         </div>
@@ -254,3 +257,8 @@
             </footer>
 </body>
 </html>
+<script type="module">
+
+    import navbar from "/scripts/navbar.js";
+    document.getElementById("navbar").innerHTML=navbar();
+    </script>
