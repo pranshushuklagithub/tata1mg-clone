@@ -6,6 +6,10 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
     <link rel="stylesheet" href="index.css">
+    <link rel="stylesheet" href="navbar.css">
+    <link rel="stylesheet" href="footer.css">
+
+    <!-- <link rel="stylesheet" href="footer.css"> -->
     <title> Online Pharmacy India | Buy Medicines from India's Trusted Medicine Store: 1mg.com</title>
 </head>
 <body>
@@ -28,10 +32,10 @@
 
                 <!-- dot clicks on sliding pages -->
                 <div id="page">
-                    <div id="spn-1" onclick="changeSlide(1)"></div>
-                    <div id="spn-2" onclick="changeSlide(2)"></div>
-                    <div id="spn-3" onclick="changeSlide(3)"></div>
-                    <div id="spn-4" onclick="changeSlide(4)"></div>
+                    <div id="spn-1"></div>
+                    <div id="spn-2" ></div>
+                    <div id="spn-3" ></div>
+                    <div id="spn-4" ></div>
                 </div>
 
                 
@@ -54,7 +58,7 @@
         <!-- <marquee behavior="" direction="left">Hello</marquee> -->
 
         <div id="gridBox-1">
-            <h2  id="left-Scroll" onclick=scrollRight(0) style="width: 0%;height: 0%;text-align: center;border-radius: 40%;; text-align: center; font-size: 1%; cursor: pointer; position: absolute;"> <i style="font-size: xx-large;" class="material-icons">&#xe5cb;</i></h2>
+            <h2  id="left-Scroll" style="width: 0%;height: 0%;text-align: center;border-radius: 40%;; text-align: center; font-size: 1%; cursor: pointer; position: absolute;"> <i style="font-size: xx-large;" class="material-icons">&#xe5cb;</i></h2>
             <div id="option-first">
                 <a href=""><img width="100%"src="https://onemg.gumlet.io/a_ignore,w_150,h_150,c_fit,q_auto,f_auto/c2a0598f-483c-48ff-9783-71e402aa28d3.png" alt=""></a>
                     <p>Diabetes Care</p>
@@ -110,7 +114,7 @@
         <!-- grid 2nd -->
         
         <div id="gridBox-2">
-            <h2 id="left-Scroll-flex3" onclick=scrollRightflex(0)  style="width: 0%;height: 0%;text-align: center;border-radius: 40%;; text-align: center; font-size: 1%; cursor: pointer; position: absolute;"> <i style="font-size: xx-large;" class="material-icons">&#xe5cb;</i></h2>
+            <h2 id="left-Scroll-flex3"   style="width: 0%;height: 0%;text-align: center;border-radius: 40%;; text-align: center; font-size: 1%; cursor: pointer; position: absolute;"> <i style="font-size: xx-large;" class="material-icons">&#xe5cb;</i></h2>
             <div id="option-first-flex3">
                 <a href=""><img width="100%"src="https://onemg.gumlet.io/a_ignore,w_150,h_150,c_fit,q_auto,f_auto/532e32d3-6e8f-462b-9d5e-fbd0e05ba571.png" alt=""></a>
                 <p>Dabur</p>
@@ -164,7 +168,7 @@
 
         <div style="display: flex; justify-content: space-between; align-items: center; width: 100%; margin-top: 2%;" ><p style="font-size: x-large; margin-left: 10%;" >Popular categories</p> <div class="see-all"><a href="" style="color: aliceblue;"></a>SEE ALL</div></div>
         <div class="product-slider">
-            <h2 id="left-Scroll-grid" onclick=scrollRightgrid(0)  style="width: 0%;height: 0%;text-align: center;border-radius: 40%;; text-align: center; font-size: 1%; cursor: pointer; position: absolute;"> <i style="font-size: xx-large;" class="material-icons">&#xe5cb;</i></h2>
+            <h2 id="left-Scroll-grid"  style="width: 0%;height: 0%;text-align: center;border-radius: 40%;; text-align: center; font-size: 1%; cursor: pointer; position: absolute;"> <i style="font-size: xx-large;" class="material-icons">&#xe5cb;</i></h2>
             <div id="option-first-grid">
                 <a href=""><img width="100%"src="https://onemg.gumlet.io/a_ignore,w_150,h_150,c_fit,q_auto,f_auto/d66c6eaf-94dd-447f-b3b5-085b02fd391d.png" alt=""></a>
                 <p>Top Deals</p>
@@ -210,59 +214,19 @@
                 <p>Sexual Wellness</p>
             </div>
 
-            <h2 id="right-Scroll-grid" onclick=scroll(1) style="width: 0%;height: 0%;text-align: center;border-radius: 40%;; text-align: center; font-size: 1%; cursor: pointer;margin: 40%; position: relative;"> <i style="font-size: xx-large;" class="material-icons">&#xe5cc;</i></h2>
+            <h2 id="right-Scroll-grid" onclick=scrollRightgrid(1) style="width: 0%;height: 0%;text-align: center;border-radius: 40%;; text-align: center; font-size: 1%; cursor: pointer;margin: 40%; position: relative;"> <i style="font-size: xx-large;" class="material-icons">&#xe5cc;</i></h2>
         </div>
 
 
         <div style="display: flex; justify-content: space-between; align-items: center; width: 100%; margin-top: 2%;" ><p style="font-size: x-large; margin-left: 10%;" >Popular Deals</p> <div class="see-all"><a href="" style="color: aliceblue;"></a>SEE ALL</div></div>
         <div class="product">
-            <h2 id="left-Scroll-prod1" onclick=scrollRightprod1(0)  style="width: 0%;height: 0%;text-align: center;border-radius: 40%;; text-align: center; font-size: 1%; cursor: pointer; position: absolute;"> <i style="font-size: xx-large;" class="material-icons">&#xe5cb;</i></h2>
-            <!-- <div id="option-first-flex3">
-                <a href=""><img width="100%"src="https://onemg.gumlet.io/a_ignore,w_150,h_150,c_fit,q_auto,f_auto/532e32d3-6e8f-462b-9d5e-fbd0e05ba571.png" alt=""></a>
-                <p>Dabur</p>
-            </div>
+            
+            <h2 class="product-link-right-arrow"> <a href="product.html" style="color: black;"><i style="font-size: xx-large;" class="material-icons">&#xe5cc;</i></a></h2>
+        </div>
 
-            <div id="option-second-flex3">
-                <a href=""><img width="100%"src="https://onemg.gumlet.io/a_ignore,w_150,h_150,c_fit,q_auto,f_auto/23b02b04-ab87-4ebd-88ea-f0d60e8c768b.png" alt=""></a>
-                <p>Accu-Chek</p>
-            </div>
-
-            <div>
-                <a href=""><img width="100%"src="https://onemg.gumlet.io/a_ignore,w_150,h_150,c_fit,q_auto,f_auto/aea8db2c-3816-4f29-95df-2d5b39cf1cbc.png" alt=""></a>
-                <p>Dr. Morepen</p>
-            </div>
-
-            <div>
-                <a href=""><img width="100%"src="https://onemg.gumlet.io/a_ignore,w_150,h_150,c_fit,q_auto,f_auto/01255cad-46a6-44ba-a646-cd15aa7dd112.png" alt=""></a>
-                <p>Colgate</p>
-            </div>
-
-            <div>
-                <a href=""><img width="100%" src="https://onemg.gumlet.io/a_ignore,w_150,h_150,c_fit,q_auto,f_auto/79eea361-8474-4cbf-9f44-687ffeffccbd.png" alt=""></a>
-                <p>Zandu</p>
-            </div>
-
-            <div>
-                <a href=""><img width="100%"src="https://onemg.gumlet.io/a_ignore,w_150,h_150,c_fit,q_auto,f_auto/1aabcf90-a9d8-4337-a3fd-7c69fb3b6716.png" alt=""></a>
-                <p>Organic India</p>
-            </div>
-
-            <div>
-                <a href=""><img width="100%"src="https://onemg.gumlet.io/a_ignore,w_150,h_150,c_fit,q_auto,f_auto/4a02ca49-4abb-4943-a36d-8732acf04e31.png" alt=""></a>
-                <p>Dr. Willmar Schwabe India</p>
-            </div>
-
-            <div id="option-2ndlast-flex3">
-                <a href=""><img  width="100%"src="https://onemg.gumlet.io/a_ignore,w_150,h_150,c_fit,q_auto,f_auto/fd33c0e8-f88c-48d2-8411-46d221e8428e.png" alt=""></a>
-                <p>Tejasya Ayurveda-Tata 1mg</p>
-            </div>
-
-            <div id="option-last-flex3">
-                <a href=""><img width="100%"src="https://onemg.gumlet.io/a_ignore,w_150,h_150,c_fit,q_auto,f_auto/10330e7c-4796-413c-b2d9-716d446f063e.png" alt=""></a>
-                <p>Tata 1mg Health Products</p>
-            </div> -->
-
-            <h2 id="right-Scroll-prod1" onclick=scrollRightprod1(1) style="width: 0%;height: 0%;text-align: center;border-radius: 40%;; text-align: center; font-size: 1%; cursor: pointer;margin: 50%; position: relative;"> <i style="font-size: xx-large;" class="material-icons">&#xe5cc;</i></h2>
+        <div class="product">
+            
+            <h2 class="product-link-right-arrow"> <a href="product.html" style="color: black;"><i style="font-size: xx-large;" class="material-icons">&#xe5cc;</i></a></h2>
         </div>
 
 
@@ -270,159 +234,12 @@
 
 
 <!-- footer is starting here.. -->
+<footer class="footer"> </footer>
 
-<footer class="footer">
-    <h2>Stay Healthy with Tata 1mg: Your Favourite Online Pharmacy and Healthcare Platform</h2>
-        <h3 style="margin-top: 2%;">We Bring Care to Health.</h3>
-        <p class="footer-para">Tata 1mg is India's leading digital healthcare platform. From doctor consultations on chat to online pharmacy and lab tests at home: we have it all covered for you. Having delivered over 25 million orders in 1000+ cities till date, we are on a mission to bring "care" to "health" to give you a flawless healthcare experience.</p>
-        <h3 style="margin-top: 2%;">Tata 1mg: Your Favourite Online Pharmacy!</h3>
-
-        <p class="footer-para" style="margin-top: 1%;">Tata 1mg is India's leading online chemist with over 2 lakh medicines available at the best prices. We are your one-stop destination for other healthcare products as well, such as over the counter pharmaceuticals, healthcare devices and homeopathy and ayurveda medicines.</p>
-
-            <p class="footer-para" style="margin-top: 1%;">With Tata 1mg, you can buy medicines online and get them delivered at your doorstep anywhere in India! But, is ordering medicines online a difficult process? Not at all! Simply search for the products you want to buy, add to cart and checkout. Now all you need to do is sit back as we get your order delivered to you.</p>
-            
-            <p class="footer-para" style="margin-top: 1%;">In case you need assistance, just give us a call and we will help you complete your order.</p>
-            
-            <p class="footer-para" style="margin-top: 1%;">And there is more! At Tata 1mg, you can buy health products and medicines online at best discounts.</p>
-            
-            <p class="footer-para" style="margin-top: 1%;">Now, isn't that easy? Why go all the way to the medicine store and wait in line, when you have Tata 1mg Pharmacy at your service.</p>
-
-            <h3 style="margin-top: 2%;">The Feathers in Our Cap</h3>
-
-            <p class="footer-para">At Tata 1mg, our goal is to make healthcare understandable, accessible and affordable in India. We set out on our journey in 2015, and have come a long way since then. Along the way, we have been conferred with prestigious titles like <span style="font-weight: bold;">BML Munjal Award for 'Business Excellence through Learning and Development', Best Online Pharmacy in India Award</span> and <span style="font-weight: bold;">Top 50 venture in The Smart CEO-Startup50 India.</span> We have been selected as the only company from across the globe for <span style="font-weight: bold;">SD#3 "Health & Well Being for all" by Unreasonable group, US State Department.</span> In 2019 alone we received three awards including the <span style="font-weight: bold;">BMW Simply Unstoppable Award.</span></p>
-
-            <h3 style="margin-top: 2%;">The Services We Offer</h3>
-
-            <p class="footer-para" style="margin-top: 1%;">Tata 1mg is India's leading digital healthcare platform, where you can buy medicines online with discount. Buy medicine online in Delhi, Mumbai, Bangalore, Hyderabad, Pune, Gurgaon, Noida, Kolkata, Chennai, Ahmedabad, Lucknow and around a 1000 more cities. Besides delivering your online medicine order at your doorstep, we provide accurate, authoritative & trustworthy information on medicines and help people use their medicines effectively and safely.</p>
-
-            <p class="footer-para" style="margin-top: 1%;">We also facilitate lab tests at home. You can avail over 2,000 tests and get tested by 120+ top and verified labs at the best prices. Need to consult a doctor? On our platform, you can talk to over 20 kinds of specialists in just a few clicks.</p>
-
-            <p class="footer-para" style="margin-top: 1%;">Customer centricity is the core of our values. Our team of highly trained and experienced doctors, phlebotomists and pharmacists looks into each order to give you a fulfilling experience.</p>
-
-            <p class="footer-para" style="margin-top: 1%;">We’ve made healthcare accessible to millions by giving them quality care at affordable prices. Customer centricity is the core of our values. Our team of highly trained and experienced doctors, phlebotomists and pharmacists looks into each order to give you a fulfilling experience.</p>
-
-            <p class="footer-para" style="margin-top: 1%;">Visit our online medical store now, and avail online medicine purchase at a discount.Stay Healthy!</p>
-        
-            
-            <div class="footDivs">
-                <p id="heading">INDIA’S LARGEST HEALTHCARE PLATFORM</p>
-                <div id="footDivs">
-                <div> 
-                    <h1>260m+</h1>
-                    <p>Visitors</p>
-                </div>
-                <div>
-                    <h1>31m+</h1>
-                    <p>Orders Delivered</p>
-                </div>
-                <div>
-                    <h1>1800+</h1>
-                    <p>Cities</p>
-                </div>
-            </div>
-            </div>
-
-            <div style="display: flex;margin: auto;align-items: center;font-size: x-large; width: 50%;">
-                <p>Get the Link to Download the App</p> <div style="margin-left: 2%; display: flex;"><input type="text" placeholder="Enter Phone Number"> <div id="send-link-btn" style="font-size:medium; width: 100%; color: aliceblue; background-color: #ff6f61; margin-left: 2%; text-align: center;border-radius: 10%;">Send</div></div>
-            </div>
-
-            <div class="final-foot-div"> 
-                <div>
-                    <p style="font-size: larger;">Know Us</p>
-                    <div class="general">
-                        <p>About Us</p>
-                        <p>Contact Us</p>
-                        <p>Press Coverage</p>
-                        <p>Careers</p>
-                        <p>Business Partnership</p>
-                        <p>Become a Health Partner</p>
-                        <p>Corporate Governance</p>
-                    </div>
-                </div>
-                <div>
-                    <p style="font-size: larger;">Our Policies</p>
-                    <div class="general">
-                        <p>Privacy Policy</p>
-                        <p>Terms and Conditions</p>
-                        <p>Editorial Policy</p>
-                        <p>Return Policy</p>
-                        <p>IP Policy</p>
-                        <p>Grievance Redressal Policy</p>
-                        <p>Fake Jobs and Fraud Disclaimer</p>
-                    </div>
-                </div>
-                <div>
-                    <p style="font-size: larger;">Our Services</p>
-                    <div class="general">
-                        <p>Privacy Policy</p>
-                        <p>Terms and Conditions</p>
-                        <p>Editorial Policy</p>
-                        <p>Return Policy</p>
-                        <p>IP Policy</p>
-                        <p>Grievance Redressal Policy</p>
-                        <p>Fake Jobs and Fraud Disclaimer</p>
-                    </div>
-                </div>
-                <div>
-                    <p style="font-size: larger;">Connects</p>
-                    <p style="font-size: large;">Social Links</p>
-
-                    <div class="connects">
-                        <div style="border-radius: 5%;width: 15%;" ><a href="https://www.instagram.com/" style="width: 100%;"><img width="100%" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzLfW-8spJF3MWL99CrmWzN5VLsBTjCp3edQ&usqp=CAU" alt=""></a></div>
-                        <div style="border-radius: 5%;width: 15%;"><a href="https://www.facebook.com/" style="width: 100%;"><img width="100%"src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsqH8D5CIm4-D3XELTRnvxRoBEBNhOlNHJ2Q&usqp=CAU" alt=""></a></div>
-                        <div style="border-radius: 5%;width: 15%;"><a href="https://twitter.com/" style="width: 100%;"><img width="100%"src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhzP6sDGnUNrzggLfPjeCP8aO_9fiqwa38Qw&usqp=CAU" alt=""></a></div>
-                        <div style="border-radius: 5%;width: 15%;"><a href="https://youtube.com/" style="width: 100%;"><img width="100%"src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBg-UDE1-Nwj-PaBDdlHlNWHHAm6Im6NhVRw&usqp=CAU" alt=""></a></div>
-                        <div style="border-radius: 5%;width: 15%;"><a href="https://www.linkedin.com" style="width: 100%;"><img width="100%"src="data:image/png;base64,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" alt=""></a></div>
-                    </div>
-                </div>
-
-                <div>
-                    <h3>Download App</h3>
-                    <a href="https://play.google.com/store/apps/details?id=com.aranoah.healthkart.plus&pli=1"><img width="70%"src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEUz724rlinWjdkvLuAojmnhsd_7UxAwGunQ&usqp=CAU" alt=""></a>
-                    <a href="https://apps.apple.com/in/app/1mg/id554578419"><img width="70%" src="data:image/png;base64,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" alt=""></a>
-                </div>
-                <div>
-                </div>
-            </div>
-
-            <div class="lower-footer-1">
-                <div>
-                    <div><img width="90%"src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDAwBgaR0RYDbYf2uDUG2X-eV8ocNYYGy5yO14g0epsw3ojglyvktc5JGUSfgslENtueY&usqp=CAU" alt=""></div>
-                    <div>
-                        <h1>Reliable</h1>
-                        <p>All products displayed on Tata 1mg are procured from verified and licensed pharmacies. All labs listed on the platform are accredited</p>
-                    </div>
-                </div>
-                <div>
-                    <div><img width="100%" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSyesbAjt8QtdNEQQPZmAZ9Cir8aaKbcWQtRQ&usqp=CAU" alt=""></div>
-                    <div>
-                        <h1>Secure</h1>
-                        <p>Tata 1mg uses Secure Sockets Layer (SSL) 128-bit encryption and is Payment Card Industry Data Security Standard (PCI DSS) compliant</p>
-                    </div>
-                </div>
-                <div>
-                    <div><img width="100%" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbqwnteYZiPgMU3AwjMhU5WLZWapJ5vRdk8w&usqp=CAU" alt=""></div>
-                    <div>
-                        <h1>Affordable</h1>
-                        <p>Find affordable medicine substitutes, save up to 50% on health products, up to 80% off on lab tests and free doctor consultations</p>
-                    </div>
-                </div>
-            </div>
-
-            <div class="lower-footer-2">
-                <div style="width: 20%; border-radius: 20%; display: flex; margin: auto;">
-                    <img width="100%" src="https://static.legitscript.com/seals/729605.png" alt="">
-                    <img width="100%" src="https://onemg.gumlet.io/URS_ebgmxc.png" alt="">
-                </div>
-
-                <h3>India's only LegitScript and ISO/ IEC 27001 certified online healthcare platform</h3>
-                <a href="1mg.com"><h3 style="text-align: left; color: black; cursor: pointer;">Know more about Tata 1mg</h3></a> 
-            </div>
-            <p style="text-align: center;color: rgb(81, 78, 78);">© 2023 Tata 1mg. All rights reserved. In compliance with Drugs and Cosmetics Act, 1940 and Drugs and Cosmetics Rules, 1945, we don't process requests for Schedule X and other habit forming drugs.</p>
-        </footer>
     
 </body>
 
 
-    <script src="index.js"></script>
+    <script type="module" src="index.js"></script>
+    
 </html>

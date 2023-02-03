@@ -1,5 +1,6 @@
 * {
   font-family: "Clear Sans","Helvetica Neue", Helvetica,Arial, Helvetica, sans-serif;
+  margin: 20px;
 }
   #parent-container {
     height: 100%;
@@ -55,7 +56,7 @@
   }
 
   #care-plan {
-    width: 80%;
+    width: 100%;
     padding: 5% 10% 5% 10%;
     margin-top: -2%;
   }
@@ -65,7 +66,7 @@
 
   #gridBox-1 {
     display: grid;
-    width: 96%;
+    width: 100%;
     grid-template-columns: repeat(8,1fr);
     align-items: center;
     text-align: center;
@@ -93,7 +94,7 @@
 
   #gridBox-2 {
     display: grid;
-    width: 96%;
+    width: 100%;
     grid-template-columns: repeat(8,1fr);
     align-items: center;
     text-align: center;
@@ -133,7 +134,7 @@
 
   .product-slider {
     display: grid;
-    width: 96%;
+    width: 100%;
     grid-template-columns: repeat(8,1fr);
     align-items: center;
     text-align: center;
@@ -154,7 +155,7 @@
   }
 .product {
     display: grid;
-    width: 96%;
+    width: 100%;
     grid-template-columns: repeat(6,1fr);
     align-items: center;
     text-align: center;
@@ -186,12 +187,23 @@
   color: aliceblue;
 }
 
+.product-link-right-arrow {
+  width: 0%;
+  height: 0%;
+  text-align: center;
+  border-radius: 40%; 
+  text-align: center; 
+  font-size: 1%; 
+  cursor: pointer;
+  margin: 50%; 
+  position: relative;
+}
 
 
 
   /* for footer section code is here */
   
-.footDivs{
+/* .footDivs{
   text-align: center;
   margin-top: 5%;
   box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
@@ -256,7 +268,7 @@
     margin-top: 5%;
     align-items: center;
     text-align: center;
-  }
+  } */
 
     
 @media  all and (min-width :489px) and (max-width:800px) {

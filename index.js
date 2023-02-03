@@ -1,3 +1,10 @@
+import {footer} from"./footer.js"
+import navbar_export from "./navbar.js";
+
+document.getElementById("navbar").innerHTML = navbar_export();
+document.querySelector(".footer").innerHTML = footer();
+
+
 //product Array and display product Fun
 
 var products=[
@@ -105,7 +112,7 @@ var products=[
 
 
 
-let sliderElements= [
+let sliderElements = [
     {img : "https://onemg.gumlet.io/be7fddf1-7bd4-4907-8b75-0eae061fbdff_1673621085.png?w=1013&h=250&format=auto"},
     {img : "https://onemg.gumlet.io/a_ignore,w_1013,h_250,c_fit,q_auto,f_auto/87994cde-265b-49ab-8663-170351e6b51f.png"},
     {img: "https://onemg.gumlet.io/a_ignore,w_1013,h_250,c_fit,q_auto,f_auto/f8c7424c-ed6d-43a6-9ce7-a8227d7a9bc3.png"},
@@ -113,6 +120,41 @@ let sliderElements= [
 ]
 
 var flag = 0;
+
+document.getElementById("spn-1").addEventListener("click",function() {
+    changeSlide(1);
+});
+document.getElementById("spn-2").addEventListener("click",function() {
+    changeSlide(2);
+});
+document.getElementById("spn-3").addEventListener("click",function() {
+    changeSlide(3);
+});
+document.getElementById("spn-4").addEventListener("click",function() {
+    changeSlide(4);
+});
+
+document.getElementById("left-Scroll").addEventListener("click",function() {
+    scrollRight(0);
+});
+document.getElementById("right-Scroll").addEventListener("click",function() {
+    scrollRight(1);
+});
+
+document.getElementById("left-Scroll-flex3").addEventListener("click",function() {
+    scrollRightflex(0);
+});
+document.getElementById("right-Scroll-flex3").addEventListener("click",function() {
+    scrollRightflex(1);
+});
+
+document.getElementById("left-Scroll-grid").addEventListener("click",function() {
+    scrollRightgrid(0);
+});
+
+document.getElementById("right-Scroll-grid").addEventListener("click",function() {
+    scrollRightgrid(1);
+});
 window.onload = function() {
 
 document.getElementById("slide-1").style.display = "block";
@@ -138,7 +180,7 @@ document.getElementById("option-last-grid").style.display = "none";
 document.getElementById("option-2ndlast-grid").style.display = "none";
 document.getElementById("left-Scroll-grid").style.display = "none";
 
-document.getElementById("left-Scroll-prod1").style.display = "none";
+// document.getElementById("left-Scroll-prod1").style.display = "none";
 
 
 // interval slide show 
@@ -425,9 +467,6 @@ function scrollRightflex(x) {
 
 function Displayprod(products,ind,lastIndex){
 
-    if(flag == 1) {
-        document.querySelector(".product").append(document.querySelector("#left-Scroll-prod1"));
-    }else {
         for(var i = ind; i < lastIndex; i++) {
             // console.log(products[i].Title,i);
     
@@ -465,11 +504,7 @@ function Displayprod(products,ind,lastIndex){
             document.querySelector(".product").append(productDiv);
         }
         
-        document.querySelector(".product").append(document.querySelector("#right-Scroll-prod1"));
-        flag = 0;
-    }
-    
-    
+        document.querySelector(".product").append(document.querySelector(".product-link-right-arrow"));
 }
 
 function scrollRightprod1(x) {
