@@ -1,5 +1,6 @@
 
 
+
 export default  function navbar_export(){
     return `<div class="navbar">
     <div class="first_div">
