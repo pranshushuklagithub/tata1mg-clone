@@ -1,0 +1,145 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Payment Page</title>
+    <link rel="stylesheet" href="payment.css">
+</head>
+
+<body>
+    <div id="navbar">
+        <div>
+            <!-- image div -->
+            <a href=""><img class="logo" src="https://www.1mg.com/images/tata_1mg_logo.svg"
+                    alt="" /></a>
+        </div>
+        <div>
+            <!-- need help div -->
+            <p>Need Help?</p>
+        </div>
+    </div>
+    <div id="parentPayment">
+        <div id="paymentMethods">
+            <div class="individualPaymentMethod">
+                <img src="https://onemg.gumlet.io/marketing/ff180498-8b1b-4d29-8a21-dff2c383b6ae.jpg" alt="wallet">
+                <p>WALLETS</p>
+            </div>
+            <div style="background-color: white;" class="individualPaymentMethod">
+                <img id="upi" src="https://onemg.gumlet.io/image/upload/zf0de2srckrhx3fk8blm.png" alt="upi">
+                <p>UPI</p>
+            </div>
+            <div class="individualPaymentMethod">
+                <img src="https://onemg.gumlet.io/marketing/9b1695ca-b1a9-4893-9157-963047689acb.jpg" alt="cards">
+                <p>CARDS</p>
+            </div>
+            <div class="individualPaymentMethod">
+                <img src="https://onemg.gumlet.io/marketing/4ae5f982-bd28-4af5-b363-fd2bebe80f43.jpg" alt="net banking">
+                <p>NET BANKING</p>
+            </div>
+            <div class="individualPaymentMethod">
+                <img src="https://onemg.gumlet.io/marketing/280ca862-d1ae-4025-999a-b37d0ef5b430.jpg" alt="pod">
+                <p>PAY ON DELIVERY</p>
+            </div>
+        </div>
+        <div id="secondChild">
+            <div id="otherOption">
+                <h3>Transfer money from your bank account using your UPI app</h3>
+                <div id="imgdiv">
+                    <p>We accept</p>
+                    <img src="https://onemg.gumlet.io/marketing/140bf394-083b-49ca-b41b-39d5dc65b14d.jpg"
+                        alt="bhim upi">
+                    <img src="https://onemg.gumlet.io/marketing/c7aa5b0a-cef3-42ff-8cd0-ebed6c37f289.jpg" alt="Gpay">
+                    <img src="https://onemg.gumlet.io/marketing/6bd3a028-294a-4653-847f-617c34425055.jpg"
+                        alt="phone Pay">
+                    <img src="https://onemg.gumlet.io/marketing/b8b0b68a-d09a-4289-9c66-e0efda248259.jpg" alt="paytm">
+                </div>
+                <!-- <hr> -->
+            </div>
+            <div id="AccountDetails">
+                <h3>Saved UPI ID</h3>
+                <p>Pay via new UPI ID</p>
+                <input type="text" id="" placeholder="Ex: mobilenumber@upi">
+                <p style="font-size: small;">The UPI ID is in the format of name/phone number@bankname</p>
+                <input type="checkbox" id="checkbox">
+                <label for="checkbox">Securely save this VPA for faster checkout next time</label>
+                <div id="verifybtn"><button>VERIFY & PAY</button></div>
+            </div>
+        </div>
+    </div>
+    <!-- second container -->
+    <div id="second-container">
+        <div>
+            <img src="https://res.cloudinary.com/du8msdgbj/image/upload/v1609235175/rwfhtgwtk8zmnbwdvfme.png" alt="" />
+            <p>
+                Pay with Mobikwik and get up to ₹500 cashback on allopathy
+                medicines. Get assured cashback of
+            </p>
+        </div>
+
+        <!-- <div>
+          <div>
+            <img
+              src="https://res.cloudinary.com/du8msdgbj/image/upload/v1607414999/marketing/cvtnx1zh5we6atn3m7i0.svg"
+              alt=""
+            />
+            Apply Coupon
+          </div>
+          <div><i class="fa-solid fa-circle-chevron-right"></i></div>
+        </div> -->
+        <div id="price-details">
+            <div>
+                <p>Item Total(MRP)</p>
+                <p id="total-mrp">₹ <span class="prod-mrp">0</span></p>
+            </div>
+            <div>
+                <p>Price Discount</p>
+                <p>₹-<span id="prod-discount">0.00</span></p>
+            </div>
+            <div>
+                <p>Shipping Fee</p>
+                <p>₹0</p>
+            </div>
+            <div>
+                <h5>To be paid</h5>
+                <h5>₹ <span class="prod-price">0</span></h5>
+            </div>
+            <div>
+                <p>Total Savings</p>
+                <h5>₹<span id="savings">0</span></h5>
+            </div>
+        </div>
+        <div id="checkout">
+            <div id="checkout-btn">
+                <p>PLACE ORDER</p>
+            </div>
+        </div>
+
+        <div class="footer-text">
+            <hr />
+            <p>
+                *NeuCoins will be credited 7 days after your complete order is
+                delivered in case of Products and in case of Lab Services NeuCoins
+                will be credited within 24 hours from the time of generation of test
+                report. NeuCoins will not be credited in case a return request is
+                initiated for the order. NeuCoins are rounded to the nearest integer
+                and the value of NeuCoins earned may change if total order value
+                changes.
+                <br /><br />**Coupon Discount value may change if the total order
+                value changes. <br /><br />
+                ***Items in your cart will always reflect the most recent price as
+                compared to the prices in their product detail page.
+            </p>
+        </div>
+    </div>
+    </div>
+</body>
+
+</html>
+<script src="https://kit.fontawesome.com/7e4208235c.js" crossorigin="anonymous"></script>
+<script src="payment-page.js"></script>
+</body>
+
+</html>

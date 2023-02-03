@@ -1,16 +1,68 @@
+#navbar {
+  /* border: 1px solid red; */
+  /* box-shadow: rgba(0, 0, 0, 0.15) 1.95px 1.95px 2  .6px; */
+  height: 40px;
+  display: flex;
+  background-color: white;
+  margin: 0;
+}
+#navbar > div:nth-child(1) {
+  /* border: 1px solid green; */
+  width: 112px;
+  margin-left: 10px;
+  margin-right: 10px;
+}
+.logo {
+  width: 95px;
+  margin-top: 3%;
+  margin-left: 5%;
+}
+#navbar > div:nth-child(2) {
+  width: 50%;
+}
+#navbar > div:nth-child(2) > div {
+  /* border: 1px solid yellow; */
+  background-color: #f1f4f6;
+  margin-top: 5px;
+  height: 30px;
+  width: 600px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+#navbar > div:nth-child(2) > div input {
+  /* color: #a3a3a3;
+  font-size: small;
+  margin-left: 20px; */
+  padding: 4px 30px 4px 0px;
+  border-style: none;
+}
+#navbar > div:nth-child(2) > div > i {
+  color: #a3a3a3;
+  font-size: small;
+  margin-right: 20px;
+}
+#navbar > div:nth-child(3) {
+  margin-left: 32%;
+}
+#navbar > div:nth-child(3) > p {
+  font-size: 12px;
+}
 #AddToCartBody {
     font-family: "Clear Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
     font-size: 14px;
     /* line-height: 1.42857143; */
     color: #333;
     background-color: #fff;
+    display: flex;
+    /* margin-top: 100px; */
 }
 
-#rightpart {
-    position: absolute;
+#rightpart { 
+     position: absolute;
     right: 0px;
-    margin-top: 80px;
     margin-right: 100px;
+    margin-top: 0px;
 }
 
 #rightpart>div {
@@ -20,13 +72,14 @@
     
 }
 
-#rightpart div:nth-child(1) {
+#FirstChild {
     height: 200px;
     line-height: 5px;
     /* padding: 5px; */
-    box-shadow: rgba(0, 0, 0, 0.1) 0px 1px 2px 0px;
+    border: 1px solid rgb(238, 231, 231);
+    background-color:white
 }
-#rightpart button{
+.FirstDivBtn{
     padding: 6px 60px 6px 60px;
     margin-left: 12px;
     color: #ff6f61;
@@ -35,72 +88,80 @@
     cursor: pointer;
 }
 
-#rightpart #applyCoupon{
+#applyCoupon{
     display: flex;
     align-items: center;
     margin: 10px 10px 2px 5px ;
 }
 
-#rightpart div:nth-child(1) #CarePlan{
+#CarePlan{
     width: 22%;
     height: 12%;
 }
-#rightpart div:nth-child(1) p{
+#FirstChild p{
     text-align: left;
     padding: 5px;
 }
 
-#rightpart div:nth-child(1) div {
+#FirstChild div {
     display: flex;
     margin-top: -10px;
 }
 
-#rightpart div:nth-child(1) div div {
+#FirstChild div div {
     position: absolute;
     right: 50px;
     margin-top: 15px;
 }
 
-#rightpart div:nth-child(2) {
+#SecondChild {
     height: 146px;
     line-height: 12px;
-    box-shadow: rgba(0, 0, 0, 0.1) 0px 1px 2px 0px;
-    
+    border: 1px solid rgb(238, 231, 231);
+    background-color:white
 }
-#rightpart div:nth-child(2) p{
+#SecondChild p{
     padding-left: 15px;
     text-align: left;
 }
-#rightpart div:nth-child(3) {
+#ThirdChild {
     height: 175px;
     line-height: 10px;
     padding-left: 10px;
-    box-shadow: rgba(0, 0, 0, 0.1) 0px 1px 2px 0px;
+    border: 1px solid rgb(238, 231, 231);
+    background-color:white
 }
 
 #logoOfToBePaid {
     display: flex;
     justify-content: space-between;
 }
-#rightpart div:nth-child(3) h2{
+#ThirdChild h2{
     margin-top: 30px;
     font-size: 15px;
     color: #ff6f61;
     cursor: pointer;
 }
 
-#rightpart div:nth-child(3)>hr {
-    margin-top: -150px;
+#ThirdChild>hr {
+    margin-top: 0px;
 }
 #logoOfToBePaid div{
     padding-top: 15px;
+    display: flex;
 }
-#logoOfToBePaid img {
-    width: 23%;
-    height: 18%;
-}
+
 #logoOfToBePaid p{
     margin-top: 10px;
+}
+#NeuCoinsEarned div{
+  height: 20px;
+  width: 260px;
+  background-color: #d8b4b0;
+  font-size: 12px;
+}
+#NeuCoinsEarned div p{
+  padding: 5px;
 }
 /* #rightpart div:nth-child(4) {
     height: 175px;
@@ -115,26 +176,10 @@
 /* } */
 
 #price-details {
-    /* border: 1px solid seagreen; */
-    height: 95px;
-    width: 420px;
-    margin-top: 5%;
-    position: absolute;
-    right: 33px;
-    bottom: -250px;
-    margin-top: 80px;
-    margin-right: 100px;
+  border: 1px solid rgb(238, 231, 231);
+  background-color:white
   }
-  /* #checkout{
-    height: 95px;
-    width: 420px;
-    margin-top: 5%;
-    position: absolute;
-    right: 33px;
-    bottom: -250px;
-    margin-top: 80px;
-    margin-right: 100px;
-  } */
+ 
   #price-details p {
     font-size: 12px;
     color: #333;
@@ -162,18 +207,11 @@
   #price-details > div:last-child > h5 {
     color: rgb(26, 171, 42);
   }
-  #checkout {
-    /* border: 1px solid red; */
-    width: 420px;
-    height: 95px;
-    margin-top: 4%;
-    background-color: white;
-    padding-bottom: 3%;
-    position: absolute;
-    right: 33px;
-    bottom: -500px;
-    margin-right: 100px;
+  #checkout{
+    border: 1px solid rgb(238, 231, 231);
+    background-color:white
   }
+  
   #checkout > div:nth-child(1) > p {
     color: #757575;
     font-size: 14px;
@@ -209,4 +247,107 @@
   #checkout > div:nth-child(2) p {
     display: inline;
   }
-  
+  /* this is for javascript code */
+  #leftPart{
+    margin: 0px 0px 0px 130px;
+    width: 550px;
+    height: auto;
+    /* box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px; */
+    padding: 15px; 
+    background: #f8f8f8;
+  }
+  #totalLeftPart{
+    padding: 25px;
+  }
+ /* #PriceDiv{
+  width: 50px;
+  height: 50px; */
+  /* border: 1px solid crimson; */
+  /* float: right;
+ } */
+ /* .fa-circle-plus{
+  display: flex;
+  align-items: right;
+ } */
+ #last-min-div {
+  background-color: white;
+  /* box-shadow: rgba(0, 0, 0, 0.15) 1.95px 1.95px 2.6px; */
+  box-shadow: rgba(0, 0, 0, 0.1) 0px 1px 2px 0px;
+  height: 300px;
+  width: 560px;
+  /* border: 1px solid red; */
+  margin-top: auto;
+  padding: 2%;
+  display: flex;
+  margin-left: 120px;
+}
+.last-min-cards {
+  width: 180px;
+  height: auto;
+  /* border: 1px solid green; */
+  padding: 2%;
+  margin: 10px
+
+}
+.last-min-cards img {
+  width: 50%;
+  height: 100px;
+  margin: 10px 27px 30px 27px
+  /* margin-left: 25%; */
+  /* margin-bottom: 30%; */
+}
+.last-min-cards > img + p {
+  color: #2b2b2b;
+  font-size: 14px;
+  margin: 0;
+}
+.last-min-cards > img + p + p {
+  color: #767676;
+  font-size: 12px;
+  margin: 0;
+  margin-top: 3px;
+}
+.last-min-cards p + div {
+  display: flex;
+  align-items: center;
+  height: 20px;
+  margin-top: 5%;
+}
+.last-min-cards p + div > div {
+  background-color: rgb(26, 171, 42);
+  width: 40px;
+  height: 20px;
+  display: flex;
+  padding-left: 5px;
+  align-items: center;
+}
+.last-min-cards h5 {
+  margin: 0;
+  color: white;
+}
+.last-min-cards p + div > p {
+  font-size: 12px;
+  margin-left: 3%;
+  color: #767676;
+}
+.last-min-cards p + div + div {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  height: 30px;
+}
+.last-min-cards p + div + div > p {
+  font-size: 14px;
+}
+.last-min-cards p + div + div > h4 {
+  font-size: 14px;
+  color: #ff6f61;
+}
+.footer-text {
+  /* border: 1px solid red; */
+  width: 580px;
+  margin: 20px 0px 0px 130px ;
+  font-size: 10px;
+  color: #757575;
+  line-height: 1.42857143;
+}
