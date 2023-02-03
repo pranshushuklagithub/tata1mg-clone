@@ -8,10 +8,10 @@ export default  function navbar_export(){
         </div>
         <div class="f2">
             <div><a style="color: red;" href="product.html">MEDICINES</a></div>
-            <div><a href="labtests.html">LAB TESTS</a></div>
+            <div><a href="product.html">LAB TESTS</a></div>
             <div><a href="consult.html">CONSULT DOCTORS</a></div>
             <div><a href="covid.html">COVID-19</a></div>
-            <div><a href="ayurveda.html">AYURVEDA</a></div>
+            <div><a href="product.html">AYURVEDA</a></div>
             <div><a href="careplan.html">CARE PLAN</a></div>
         </div>
         <div class="f3">
