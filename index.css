@@ -1,9 +1,11 @@
 * {
   font-family: "Clear Sans","Helvetica Neue", Helvetica,Arial, Helvetica, sans-serif;
+  margin: 20px;
 }
   #parent-container {
     height: 100%;
     width: 100%;
+    margin-top: -5%;
   }
   
 
@@ -55,7 +57,7 @@
   }
 
   #care-plan {
-    width: 80%;
+    width: 100%;
     padding: 5% 10% 5% 10%;
     margin-top: -2%;
   }
@@ -65,7 +67,7 @@
 
   #gridBox-1 {
     display: grid;
-    width: 96%;
+    width: 100%;
     grid-template-columns: repeat(8,1fr);
     align-items: center;
     text-align: center;
@@ -93,7 +95,7 @@
 
   #gridBox-2 {
     display: grid;
-    width: 96%;
+    width: 100%;
     grid-template-columns: repeat(8,1fr);
     align-items: center;
     text-align: center;
@@ -133,7 +135,7 @@
 
   .product-slider {
     display: grid;
-    width: 96%;
+    width: 100%;
     grid-template-columns: repeat(8,1fr);
     align-items: center;
     text-align: center;
@@ -154,7 +156,7 @@
   }
 .product {
     display: grid;
-    width: 96%;
+    width: 100%;
     grid-template-columns: repeat(6,1fr);
     align-items: center;
     text-align: center;
@@ -185,78 +187,77 @@
   background-color: #ff6f61;
   color: aliceblue;
 }
-
-
-
-
-  /* for footer section code is here */
-  
-.footDivs{
-  text-align: center;
-  margin-top: 5%;
-  box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+.pcard {
+align-items: center;
+width: 60%;
+text-align: center;
 }
 
-  #footDivs {
-    display: flex;
-    justify-content: space-evenly;
-    width: 70%;
-    gap: 50px;
-    margin: auto;
-  }
+.product-link-right-arrow {
+  width: 0%;
+  height: 0%;
+  text-align: center;
+  border-radius: 40%; 
+  text-align: center; 
+  font-size: 1%; 
+  cursor: pointer;
+  margin: 50%; 
+  position: relative;
+}
+
+
+
+
+
+.product-1 {
+  display: grid;
+  width: 100%;
+  grid-template-columns: repeat(6,1fr);
+  align-items: center;
+  text-align: center;
+  padding: 2%;
+  box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+}
+.product-1 > div {
+width: 100%;
+margin-left: 40%;
+align-items: center;
+}
+.product-1 > div > img {
+width: 100%;
+}
+
+.product-1 > div >  button {
+font-weight: 600;
+background-color: #ff6f61;
+color: aliceblue;
+
+}
+.product-1 > div > button:hover{
+font-size: larger;
+font-weight: 500;
+}
+.product-1 > div >  button.active{
+font-weight: 600;
+background-color: #ff6f61;
+color: aliceblue;
+}
+
+.product-link-right {
+  width: 0%;
+  height: 0%;
+  text-align: center;
+  border-radius: 40%; 
+  text-align: center; 
+  font-size: 1%; 
+  cursor: pointer;
+  margin: 50%; 
+  position: relative;
+}
+
+
 
   
-  #heading {
-    font-size: x-large;
-  }
-  #send-link-btn :hover{
-    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
-  }
-
-  #send-link-btn {
-    cursor: pointer;
-  }
-  
-  .final-foot-div {
-    display: grid;
-    grid-template-columns: repeat(5,1fr);
-    gap: 10%;
-    margin-bottom: 5%;
-  }
-
-  .footer-para {
-    font-size: large;
-    color: rgb(81, 78, 78);
-  }
-  .general > p{
-    margin-bottom: -3%;
-    cursor: pointer;
-  }
-  .connects {
-    display: flex;
-    justify-content: space-evenly;
-  }
-  
-  .lower-footer-1 {
-    display: grid;
-    grid-template-columns: repeat(3,1fr);
-    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
-  }
-  .lower-footer-1 > div {
-    width: 70%;
-    display: flex;
-    align-items: center;
-    margin: auto;
-  }
-
-  .lower-footer-1 > div > div{
-    justify-content: space-between;
-  }
-  .lower-footer-2 {
-    margin-top: 5%;
-    align-items: center;
-    text-align: center;
-  }
 
     
 @media  all and (min-width :489px) and (max-width:800px) {
@@ -283,11 +284,11 @@
 
 }
 
-@media  all and (min-width :799px) and (max-width:1200px) {
+@media  all and (min-width :600px) and (max-width:1200px) {
 
   
   #parent-container > div {
-    grid-template-columns: repeat(5,1fr);
+    grid-template-columns: repeat(4,1fr);
     width: 100%;
   }
   #parent-container > div > div {
@@ -306,11 +307,11 @@
   }
 
 }
-@media  all and (min-width :299px) and (max-width:500px) {
+@media  all and (min-width :299px) and (max-width:400px) {
 
   
   #parent-container > div {
-    grid-template-columns: repeat(2,1fr);
+    grid-template-columns: repeat(3,1fr);
     width: 100%;
   }
   #parent-container > div > div {

@@ -1,0 +1,83 @@
+.footer {
+  margin: 5%;
+  justify-content: center;
+}
+
+.footDivs{
+    text-align: center;
+    margin-top: 5%;
+    height: 200px;
+    margin-bottom: 5%;
+  }
+  
+    #footDivs {
+      display: flex;
+      justify-content: space-evenly;
+      width: 70%;
+      gap: 50px;
+      margin: auto;
+      margin-top: 5%;
+    }
+  
+    
+    #heading {
+      font-size: x-large;
+      margin-top: 2%;
+    }
+  
+    #send-link-btn {
+      cursor: pointer;
+    }
+    
+    
+    .final-foot-div {
+      display: grid;
+      grid-template-columns: repeat(5,1fr);
+      gap: 10%;
+      margin-bottom: 3%;
+      margin-top: 3%;
+    }
+    .final-foot-div >  div > div >p {
+      margin-top: 5%;
+    }
+  
+    .footer-para {
+      font-size: large;
+      color: rgb(81, 78, 78);
+      margin-top: 1%;
+    }
+    .general > p{
+      margin-bottom: -3%;
+      cursor: pointer;
+    }
+    .connects {
+      display: flex;
+      justify-content: space-evenly;
+    }
+    
+    .lower-footer-1 {
+      display: grid;
+      grid-template-columns: repeat(3,1fr);
+      gap: 5%;
+      justify-content: space-evenly;
+    }
+    .lower-footer-1 > div {
+      width: 70%;
+      display: flex;
+      align-items: center;
+      margin: auto;
+      gap: 10%;
+      text-align: left;
+    }
+    .lower-footer-1 > div > h1 {
+      margin-bottom: 10%;
+    }
+  
+    .lower-footer-1 > div > div{
+      justify-content: space-between;
+    }
+    .lower-footer-2 {
+      margin-top: 5%;
+      align-items: center;
+      text-align: center;
+    }

@@ -9,14 +9,14 @@ export default  function navbar_export(){
         <div class="f2">
             <div><a style="color: red;" href="product.html">MEDICINES</a></div>
             <div><a href="product.html">LAB TESTS</a></div>
-            <div><a href="consult.html">CONSULT DOCTORS</a></div>
-            <div><a href="covid.html">COVID-19</a></div>
+            <div><a href="./html/consult.html">CONSULT DOCTORS</a></div>
+            <div><a href="./html/covid.html">COVID-19</a></div>
             <div><a href="product.html">AYURVEDA</a></div>
-            <div><a href="careplan.html">CARE PLAN</a></div>
+            <div><a href="./html/careplan.html">CARE PLAN</a></div>
         </div>
         <div class="f3">
             <div>
-                <span id="login" onclick="login()">Login | Sign Up</span>
+                <a href = "./html/login.html"><span id="login">Login | Sign Up</span><a/>
             </div>
             <div>
                 <span>Offers</span>
@@ -33,7 +33,7 @@ export default  function navbar_export(){
                     </div>
                     <hr>
                     <div>
-                        <a id="proceed_to_cart" href="AddToCart.html">PROCEED TO CART</a>
+                        <a id="proceed_to_cart" href="./AddToCart/AddToCart.html">PROCEED TO CART</a>
                     </div>
                 </div>
             </div>
