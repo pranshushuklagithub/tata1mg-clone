@@ -1,0 +1,338 @@
+* {
+  font-family: "Clear Sans","Helvetica Neue", Helvetica,Arial, Helvetica, sans-serif;
+}
+  #parent-container {
+    height: 100%;
+    width: 100%;
+  }
+  
+
+  
+  #flexBox-1 {
+    display: grid;
+    grid-template-columns: repeat(2,1fr);
+    width: 100%;
+    margin-top: 5%;
+  }
+
+  #slider {
+    /* display: flex; */
+    width: 135%;
+    height: 100%;
+    cursor: pointer;
+  }
+  #slider > img {
+    width: 100%;
+    height: 100%;
+  }
+  #fixedImage > img{
+    width: 100%;
+    height: 100%;
+  }
+  #fixedImage {
+    margin-left: auto;
+    width: 70%;
+    height: 100%;
+  }
+  #page {
+    display: flex;
+    width: 30%;
+    justify-content: space-evenly;
+    margin: auto;
+  }
+  #page > div :hover{
+    background-color: black;
+    cursor: pointer;
+    box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
+  }
+
+  #page > div {
+    width: 2%;
+    height: 6px;
+    background-color: rgb(158, 160, 160);
+    margin-top: -10%;
+    border-radius: 100%;
+  }
+
+  #care-plan {
+    width: 80%;
+    padding: 5% 10% 5% 10%;
+    margin-top: -2%;
+  }
+  #care-plan > img {
+    width: 100%;
+  }
+
+  #gridBox-1 {
+    display: grid;
+    width: 96%;
+    grid-template-columns: repeat(8,1fr);
+    align-items: center;
+    text-align: center;
+    padding: 2%;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+  }
+
+  #gridBox-1 > div {
+    width: 60%;
+    height: 170px;
+    text-align: center;
+    margin-top: 2%;
+    margin-left: 60%;
+  }
+
+ 
+
+  #gridBox-1 > div:hover{
+    cursor: pointer;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+  }
+  
+
+  
+
+  #gridBox-2 {
+    display: grid;
+    width: 96%;
+    grid-template-columns: repeat(8,1fr);
+    align-items: center;
+    text-align: center;
+    padding: 2%;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+  }
+
+  #gridBox-2 > div {
+    width: 60%;
+    height: 170px;
+    text-align: center;
+    margin-top: 2%;
+    margin-left: 60%;
+  }
+
+  
+
+  #gridBox-2 > div:hover{
+    cursor: pointer;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+  }
+  
+
+  .see-all {
+    background-color: #ff6f61;
+    color: white;
+    border-radius: 5px;
+    width: 5%;
+    margin-right: 3%;
+  }
+
+  .see-all {
+    text-align: center;
+    cursor: pointer;
+  }
+
+
+  .product-slider {
+    display: grid;
+    width: 96%;
+    grid-template-columns: repeat(8,1fr);
+    align-items: center;
+    text-align: center;
+    padding: 2%;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+  }
+
+  .product-slider > div {
+    width: 60%;
+    height: 170px;
+    text-align: center;
+    margin-top: 2%;
+    margin-left: 60%;
+  }
+  .product-slider > div:hover{
+    cursor: pointer;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+  }
+.product {
+    display: grid;
+    width: 96%;
+    grid-template-columns: repeat(6,1fr);
+    align-items: center;
+    text-align: center;
+    padding: 2%;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+}
+.product > div {
+  width: 100%;
+  margin-left: 40%;
+  align-items: center;
+}
+.product > div > img {
+  width: 100%;
+}
+
+.product > div >  button {
+  font-weight: 600;
+  background-color: #ff6f61;
+  color: aliceblue;
+
+}
+.product > div > button:hover{
+  font-size: larger;
+  font-weight: 500;
+}
+.product > div >  button.active{
+  font-weight: 600;
+  background-color: #ff6f61;
+  color: aliceblue;
+}
+
+
+
+
+  /* for footer section code is here */
+  
+.footDivs{
+  text-align: center;
+  margin-top: 5%;
+  box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+}
+
+  #footDivs {
+    display: flex;
+    justify-content: space-evenly;
+    width: 70%;
+    gap: 50px;
+    margin: auto;
+  }
+
+  
+  #heading {
+    font-size: x-large;
+  }
+  #send-link-btn :hover{
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+  }
+
+  #send-link-btn {
+    cursor: pointer;
+  }
+  
+  .final-foot-div {
+    display: grid;
+    grid-template-columns: repeat(5,1fr);
+    gap: 10%;
+    margin-bottom: 5%;
+  }
+
+  .footer-para {
+    font-size: large;
+    color: rgb(81, 78, 78);
+  }
+  .general > p{
+    margin-bottom: -3%;
+    cursor: pointer;
+  }
+  .connects {
+    display: flex;
+    justify-content: space-evenly;
+  }
+  
+  .lower-footer-1 {
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+  }
+  .lower-footer-1 > div {
+    width: 70%;
+    display: flex;
+    align-items: center;
+    margin: auto;
+  }
+
+  .lower-footer-1 > div > div{
+    justify-content: space-between;
+  }
+  .lower-footer-2 {
+    margin-top: 5%;
+    align-items: center;
+    text-align: center;
+  }
+
+    
+@media  all and (min-width :489px) and (max-width:800px) {
+
+  
+  #parent-container > div {
+    grid-template-columns: repeat(3,1fr);
+    width: 100%;
+  }
+  #parent-container > div > div {
+    margin: auto;
+    text-align: justify;
+  }
+  h2 {
+    font-size: 12px;
+  }
+  #flexBox-1 {
+    display: flex;
+  }
+  #care-plan {
+    
+  margin: auto;
+  }
+
+}
+
+@media  all and (min-width :799px) and (max-width:1200px) {
+
+  
+  #parent-container > div {
+    grid-template-columns: repeat(5,1fr);
+    width: 100%;
+  }
+  #parent-container > div > div {
+    margin: auto;
+    text-align: justify;
+  }
+  h2 {
+    font-size: 18px;
+  }
+  #flexBox-1 {
+    display: flex;
+  }
+  #care-plan {
+    
+  margin: auto;
+  }
+
+}
+@media  all and (min-width :299px) and (max-width:500px) {
+
+  
+  #parent-container > div {
+    grid-template-columns: repeat(2,1fr);
+    width: 100%;
+  }
+  #parent-container > div > div {
+    margin: auto;
+    text-align: justify;
+  }
+  h2 {
+    font-size: 10px;
+  }
+  #flexBox-1 {
+    display: flex;
+  }
+  #care-plan {
+    
+  margin: auto;
+  }
+
+}
+
+  
+  
+  
+  
+
+  
