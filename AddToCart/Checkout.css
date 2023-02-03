@@ -1,0 +1,105 @@
+#CheckoutParent {
+    height: 500px;
+    width: 585px;
+    /* border: 1px solid crimson; */
+    margin: 120px 0px 30px 150px;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+    padding: 15px;
+}
+
+.CheckBox {
+    height: 15px;
+    width: 15px;
+    border-radius: 100%;
+}
+
+#Flat_Number {
+    padding: 5px 400px 45px 10px;
+    margin-bottom: 22px;
+    border-radius: 5px;
+    border: 1px solid rgb(230, 213, 213);
+}
+
+#Landmark {
+    padding: 5px 400px 5px 10px;
+    margin-bottom: 22px;
+    border-radius: 5px;
+    border: 1px solid  rgb(230, 213, 213);
+}
+
+#Pincode {
+    padding: 5px 400px 5px 10px;
+    margin-bottom: 22px;
+    border-radius: 5px;
+    border: 1px solid  rgb(230, 213, 213);
+}
+
+#Locality {
+    padding: 5px 400px 5px 10px;
+    margin-bottom: 22px;
+    border-radius: 5px;
+    border: 1px solid  rgb(230, 213, 213);
+}
+
+#City {
+    padding: 5px 400px 5px 10px;
+    margin-bottom: 22px;
+    border-radius: 5px;
+    border: 1px solid  rgb(230, 213, 213);
+}
+
+#State {
+    padding: 5px 400px 5px 10px;
+    margin-bottom: 22px;
+    border-radius: 5px;
+    border: 1px solid  rgb(230, 213, 213);
+}
+
+#Customer_Name {
+    padding: 5px 400px 5px 10px;
+    margin-bottom: 22px;
+    border-radius: 5px;
+    border: 1px solid  rgb(230, 213, 213);
+}
+
+#Mobile_Number {
+    padding: 5px 400px 5px 10px;
+    margin-bottom: 22px;
+    border-radius: 5px;
+    border: 1px solid  rgb(230, 213, 213);
+}
+#CancelAndSave{
+    display: flex;
+    justify-content: right;
+    gap: 10px;
+    
+}
+.CanAndSaveBtn{
+    padding: 10px 30px 10px 30px;
+    font-size:large;
+    border: none;
+    cursor: pointer;
+}
+#CheckOutFooter{
+    height: 220px;
+    width: 585px;
+    padding: 10px;
+    display: flex;
+    gap: 20px;
+    /* border: 1px solid crimson; */
+    margin: 10px 0px 0px 150px;
+}
+#CheckOutFooter :nth-child(1){
+    height: auto;
+    width: 290px;
+    /* border: 1px solid coral; */
+}
+#CheckOutFooter :nth-child(2){
+    height: auto;
+    width: 220px;
+}
+.FooterPara{
+    font-size: 11px;
+    line-height: 15px;
+    color: rgb(142, 134, 134);
+}

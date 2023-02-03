@@ -1,0 +1,212 @@
+#AddToCartBody {
+    font-family: "Clear Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 14px;
+    /* line-height: 1.42857143; */
+    color: #333;
+    background-color: #fff;
+}
+
+#rightpart {
+    position: absolute;
+    right: 0px;
+    margin-top: 80px;
+    margin-right: 100px;
+}
+
+#rightpart>div {
+    width: 420px;
+    /* border: 1px solid red; */
+    margin: 30px;
+    
+}
+
+#rightpart div:nth-child(1) {
+    height: 200px;
+    line-height: 5px;
+    /* padding: 5px; */
+    box-shadow: rgba(0, 0, 0, 0.1) 0px 1px 2px 0px;
+}
+#rightpart button{
+    padding: 6px 60px 6px 60px;
+    margin-left: 12px;
+    color: #ff6f61;
+    border-radius: 6px;
+    border: 1px solid  #ff6f61;
+    cursor: pointer;
+}
+
+#rightpart #applyCoupon{
+    display: flex;
+    align-items: center;
+    margin: 10px 10px 2px 5px ;
+}
+
+#rightpart div:nth-child(1) #CarePlan{
+    width: 22%;
+    height: 12%;
+}
+#rightpart div:nth-child(1) p{
+    text-align: left;
+    padding: 5px;
+}
+
+#rightpart div:nth-child(1) div {
+    display: flex;
+    margin-top: -10px;
+}
+
+#rightpart div:nth-child(1) div div {
+    position: absolute;
+    right: 50px;
+    margin-top: 15px;
+}
+
+#rightpart div:nth-child(2) {
+    height: 146px;
+    line-height: 12px;
+    box-shadow: rgba(0, 0, 0, 0.1) 0px 1px 2px 0px;
+    
+}
+#rightpart div:nth-child(2) p{
+    padding-left: 15px;
+    text-align: left;
+}
+#rightpart div:nth-child(3) {
+    height: 175px;
+    line-height: 10px;
+    padding-left: 10px;
+    box-shadow: rgba(0, 0, 0, 0.1) 0px 1px 2px 0px;
+}
+
+#logoOfToBePaid {
+    display: flex;
+    justify-content: space-between;
+}
+#rightpart div:nth-child(3) h2{
+    margin-top: 30px;
+    font-size: 15px;
+    color: #ff6f61;
+    cursor: pointer;
+}
+
+#rightpart div:nth-child(3)>hr {
+    margin-top: -150px;
+}
+#logoOfToBePaid div{
+    padding-top: 15px;
+}
+#logoOfToBePaid img {
+    width: 23%;
+    height: 18%;
+}
+#logoOfToBePaid p{
+    margin-top: 10px;
+}
+/* #rightpart div:nth-child(4) {
+    height: 175px;
+
+} */
+
+/* #rightpart div:nth-child(5)
+ { */
+    /* height: 95px; */
+    /* margin: auto; */
+    /* position: relative; */
+/* } */
+
+#price-details {
+    /* border: 1px solid seagreen; */
+    height: 95px;
+    width: 420px;
+    margin-top: 5%;
+    position: absolute;
+    right: 33px;
+    bottom: -250px;
+    margin-top: 80px;
+    margin-right: 100px;
+  }
+  /* #checkout{
+    height: 95px;
+    width: 420px;
+    margin-top: 5%;
+    position: absolute;
+    right: 33px;
+    bottom: -250px;
+    margin-top: 80px;
+    margin-right: 100px;
+  } */
+  #price-details p {
+    font-size: 12px;
+    color: #333;
+  }
+  #price-details h5 {
+    color: #767676;
+    font-size: 16px;
+    font-weight: 700;
+    margin-bottom: 10px;
+    margin-top: 10px;
+  }
+  #price-details > div {
+    /* border: 1px solid seagreen; */
+    background-color: white;
+    box-shadow: rgba(0, 0, 0, 0.1) 0px 1px 2px 0px;
+    display: flex;
+    justify-content: space-between;
+    padding-left: 2%;
+    padding-right: 2%;
+    height: auto;
+  }
+  #price-details > div:last-child {
+    background-color: #e4f6e7;
+  }
+  #price-details > div:last-child > h5 {
+    color: rgb(26, 171, 42);
+  }
+  #checkout {
+    /* border: 1px solid red; */
+    width: 420px;
+    height: 95px;
+    margin-top: 4%;
+    background-color: white;
+    padding-bottom: 3%;
+    position: absolute;
+    right: 33px;
+    bottom: -500px;
+    margin-right: 100px;
+  }
+  #checkout > div:nth-child(1) > p {
+    color: #757575;
+    font-size: 14px;
+  }
+  #checkout > div > p + p,
+  #checkout i {
+    color: #ff6f61;
+    font-size: 12px;
+    font-weight: 700;
+  }
+  
+  #checkout > div:nth-child(1) {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 90%;
+    margin: auto;
+  }
+  
+  #checkout > div:nth-child(2) {
+    background-color: #ff6f61;
+    color: white;
+    font-size: 15px;
+    font-weight: 500;
+    /* height: 45px; */
+    width: 90%;
+    margin: auto;
+    padding: 15px 0px 15px 0px;
+    text-align: center;
+    border-radius: 2px;
+    cursor: pointer;
+  }
+  #checkout > div:nth-child(2) p {
+    display: inline;
+  }
+  
