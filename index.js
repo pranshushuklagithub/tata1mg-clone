@@ -30,6 +30,54 @@ document.getElementById("option-last-grid").style.display = "none";
 document.getElementById("option-2ndlast-grid").style.display = "none";
 document.getElementById("left-Scroll-grid").style.display = "none";
 
+var x = 0;
+setInterval(() => {
+    if(x==1) {
+        document.getElementById("slide-1").style.display = "block";
+        document.getElementById("slide-2").style.display = "none";
+        document.getElementById("slide-3").style.display = "none";
+        document.getElementById("slide-4").style.display = "none";
+        document.getElementById("spn-1").style.backgroundColor = "black";
+        document.getElementById("spn-2").style.backgroundColor = "rgb(158, 160, 160)";
+        document.getElementById("spn-3").style.backgroundColor = "rgb(158, 160, 160)";
+        document.getElementById("spn-4").style.backgroundColor = "rgb(158, 160, 160)";
+    }
+    else if(x==2) {
+        document.getElementById("slide-1").style.display = "none";
+        document.getElementById("slide-2").style.display = "block";
+        document.getElementById("slide-3").style.display = "none";
+        document.getElementById("slide-4").style.display = "none";
+        document.getElementById("spn-2").style.backgroundColor = "black";
+        document.getElementById("spn-1").style.backgroundColor = "rgb(158, 160, 160)";
+        document.getElementById("spn-3").style.backgroundColor = "rgb(158, 160, 160)";
+        document.getElementById("spn-4").style.backgroundColor = "rgb(158, 160, 160)";
+    }
+    else if(x==3) {
+        document.getElementById("slide-1").style.display = "none";
+        document.getElementById("slide-2").style.display = "none";
+        document.getElementById("slide-3").style.display = "block";
+        document.getElementById("slide-4").style.display = "none";
+        document.getElementById("spn-3").style.backgroundColor = "black";
+        document.getElementById("spn-1").style.backgroundColor = "rgb(158, 160, 160)";
+        document.getElementById("spn-2").style.backgroundColor = "rgb(158, 160, 160)";
+        document.getElementById("spn-4").style.backgroundColor = "rgb(158, 160, 160)";
+       
+    }
+    else if(x==4) {
+        document.getElementById("slide-1").style.display = "none";
+        document.getElementById("slide-2").style.display = "none";
+        document.getElementById("slide-3").style.display = "none";
+        document.getElementById("slide-4").style.display = "block";
+        document.getElementById("spn-4").style.backgroundColor = "black";
+        document.getElementById("spn-1").style.backgroundColor = "rgb(158, 160, 160)";
+        document.getElementById("spn-2").style.backgroundColor = "rgb(158, 160, 160)";
+        document.getElementById("spn-3").style.backgroundColor = "rgb(158, 160, 160)";
+    }else {
+        x = 0;
+    }
+    x++;
+}, 2000);
+
 }
 
 // By this function the slide is getting changed

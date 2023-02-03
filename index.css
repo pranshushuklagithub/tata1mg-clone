@@ -1,4 +1,6 @@
-
+* {
+  font-family: "Clear Sans","Helvetica Neue", Helvetica,Arial, Helvetica, sans-serif;
+}
   #parent-container {
     height: 100%;
     width: 100%;
@@ -152,6 +154,7 @@
 
 
   /* for footer section code is here */
+  
 .footDivs{
   text-align: center;
   margin-top: 5%;
