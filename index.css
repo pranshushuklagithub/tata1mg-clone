@@ -5,6 +5,7 @@
   #parent-container {
     height: 100%;
     width: 100%;
+    margin-top: -5%;
   }
   
 
@@ -186,8 +187,63 @@
   background-color: #ff6f61;
   color: aliceblue;
 }
+.pcard {
+align-items: center;
+width: 60%;
+text-align: center;
+}
 
 .product-link-right-arrow {
+  width: 0%;
+  height: 0%;
+  text-align: center;
+  border-radius: 40%; 
+  text-align: center; 
+  font-size: 1%; 
+  cursor: pointer;
+  margin: 50%; 
+  position: relative;
+}
+
+
+
+
+
+.product-1 {
+  display: grid;
+  width: 100%;
+  grid-template-columns: repeat(6,1fr);
+  align-items: center;
+  text-align: center;
+  padding: 2%;
+  box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+}
+.product-1 > div {
+width: 100%;
+margin-left: 40%;
+align-items: center;
+}
+.product-1 > div > img {
+width: 100%;
+}
+
+.product-1 > div >  button {
+font-weight: 600;
+background-color: #ff6f61;
+color: aliceblue;
+
+}
+.product-1 > div > button:hover{
+font-size: larger;
+font-weight: 500;
+}
+.product-1 > div >  button.active{
+font-weight: 600;
+background-color: #ff6f61;
+color: aliceblue;
+}
+
+.product-link-right {
   width: 0%;
   height: 0%;
   text-align: center;
