@@ -1,0 +1,79 @@
+#four,
+#five,
+#six,
+#seven,
+#eight,
+#nine,
+#ten,
+#eleven,
+#twelve {
+  width: 100%;
+  margin-top: 30px;
+}
+ 
+.footDivs{
+  text-align: center;
+  margin-top: 5%;
+  box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+}
+
+  #footDivs {
+    display: flex;
+    justify-content: space-evenly;
+    width: 70%;
+    gap: 50px;
+    margin: auto;
+  }
+
+  
+  #heading {
+    font-size: x-large;
+  }
+  #send-link-btn :hover{
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+  }
+
+  #send-link-btn {
+    cursor: pointer;
+  }
+  
+  .final-foot-div {
+    display: grid;
+    grid-template-columns: repeat(5,1fr);
+    gap: 10%;
+    margin-bottom: 5%;
+  }
+
+  .footer-para {
+    font-size: large;
+    color: rgb(81, 78, 78);
+  }
+  .general > p{
+    margin-bottom: -3%;
+    cursor: pointer;
+  }
+  .connects {
+    display: flex;
+    justify-content: space-evenly;
+  }
+  
+  .lower-footer-1 {
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+  }
+  .lower-footer-1 > div {
+    width: 70%;
+    display: flex;
+    align-items: center;
+    margin: auto;
+  }
+
+  .lower-footer-1 > div > div{
+    justify-content: space-between;
+  }
+  .lower-footer-2 {
+    margin-top: 5%;
+    align-items: center;
+    text-align: center;
+  }
