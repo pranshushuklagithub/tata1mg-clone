@@ -21,6 +21,7 @@ body{
     box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
     display: flex;
     flex-direction: column;
+    /* position:fixed; */
 }
 #overview>button{
     display: flex;
@@ -78,7 +79,6 @@ button.active{
     display: flex;
     align-items: center;
     margin-bottom: 0;
-    
 }
 #presdiv>img{
     height: 20px;
@@ -86,4 +86,92 @@ button.active{
 #div4{
     display: flex;
     justify-content: space-between;
+}
+#pricediv{
+    border-radius: 10px;
+    overflow: hidden;
+    box-shadow: rgba(0, 0, 0, 0.16) 0px 10px 36px 0px, rgba(0, 0, 0, 0.06) 0px 0px 0px 1px;
+}
+#pricediv>p{
+    /* padding-left:3%; */
+    /* height: 20px; */
+    top:0;
+    width: 100%;
+    background-color: rgb(237,249,238);
+    padding: 10px;
+    margin-top: -0px;
+    /* border-radius: 10px; */
+}
+#disprice{
+    margin-left: 3%;
+    gap:30px;
+}
+#disprice>div>input{
+    width: 20px;
+    height: 20px;
+    /* display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center; */
+}
+#disprice>div>input:checked{
+    /* color: #ff6f61; */
+    border: 5px solid #0DFF92;
+}
+#disprice>div{
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+    /* flex-wrap: wrap; */
+    text-align: left;
+    gap: 10px;
+    /* width: 90%; */
+}
+
+/* #disprice>div>p{
+    display: flex;
+    margin-top: 10%;
+    flex-wrap: wrap;
+    line-height: 1.5;
+} */
+
+#disprice>div img{
+    align-self: center;
+    margin-left: 0;
+    height: 15px;
+}
+#disprice>p{
+    margin-left: 10px;
+    color: #666;
+}
+#strip{
+    margin-left: 10px;
+    color: #666;
+}
+#strip>select{
+    padding: 7px 25px;
+    border: 1px solid #e2e2e2;
+    border-radius: 5px;
+    color: #666;
+}
+#cartbutton{
+    margin-left: 10px;
+    width: 95%;
+    padding: 10px;
+    margin-bottom: 20px;
+    border-radius: 5px;
+    border: 1px solid;
+    background-color: #ff6f61;
+    color: white;
+    text-align: center;
+    font:600;
+    font-size: large;
+    margin-bottom: 0;
+}
+#off{
+    background-color: rgb(224, 241, 224);
+    color: #1aab2a;
+}
+#strikeprice{
+    text-decoration: line-through;
 }

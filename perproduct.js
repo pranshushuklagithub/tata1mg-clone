@@ -15,9 +15,26 @@ scrollbtn.forEach((scrol)=>{
 
 Displayprod(ProdData);
 DisplayDes();
+var add=document.querySelector("#cartbutton");
+add.addEventListener("click",()=>{
+    add.textContent="ADDING..."
+    setTimeout(()=>{
+        Addcart(ProdData);
+        add.textContent="✔ ADDED";
+        setTimeout(()=>{
+            add.textContent="ADD TO CART";
+        },1500);
+    },1500);
+});
+function Addcart(elem){
+    localStorage.setItem("1mg-cart",JSON.stringify(elem));
+}
+document.querySelector("#strikeprice").textContent=ProdData.Price;
+document.querySelector("#price").textContent=ProdData.Price;
 //var 
 function Displayprod(ProdData){
     console.log(ProdData.Title);
+    document.querySelector("title").textContent=ProdData.Title;
     var div1=document.createElement("div");
     div1.setAttribute("id","ptitle");
     var title=document.createElement("h2");
