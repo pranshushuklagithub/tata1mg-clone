@@ -1,3 +1,4 @@
+
 var slideIndex = 1;
 
 var myTimer;
@@ -243,6 +244,7 @@ document
        }
       
    }
+   
 
    function home(){
     window.location.href="index.html";
