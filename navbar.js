@@ -79,7 +79,7 @@ export default  function navbar_export(){
             <div class="m2">
                 <div>
                     <h4><a href="product.html">Vitamins</a></h4>
-                    <a href="product.html">Multivitamins</a><br>
+                    <a href="index.html">Multivitamins</a><br>
                     <a href="product.html">Vitamins A-Z</a><br>
                     <a href="product.html">Mineral Supplements</a><br>
                     <a href="product.html">Vitamin B12 & B Complex</a><br>
