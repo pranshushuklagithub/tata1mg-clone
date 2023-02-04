@@ -5,8 +5,13 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Payment Page</title>
+    <title>Cart | 1mg</title>
     <link rel="stylesheet" href="payment.css">
+    <link
+    rel="shortcut icon"
+    href="https://www.1mg.com/apple-touch-icon-180x180.png"
+    type="image/png"
+  />
 </head>
 
 <body>
@@ -61,7 +66,7 @@
             <div id="AccountDetails">
                 <h3>Saved UPI ID</h3>
                 <p>Pay via new UPI ID</p>
-                <input type="text" id="" placeholder="Ex: mobilenumber@upi">
+                <input type="text" id="upinumber" placeholder="Ex: mobilenumber@upi">
                 <p style="font-size: small;">The UPI ID is in the format of name/phone number@bankname</p>
                 <input type="checkbox" id="checkbox">
                 <label for="checkbox">Securely save this VPA for faster checkout next time</label>
@@ -100,7 +105,7 @@
             </div>
             <div>
                 <p>Shipping Fee</p>
-                <p>₹0</p>
+                <p>₹50</p>
             </div>
             <div>
                 <h5>To be paid</h5>
@@ -115,6 +120,7 @@
             <div id="checkout-btn">
                 <p>PLACE ORDER</p>
             </div>
+            <div style="padding: 20px; color: rgb(5, 138, 5);" id = "result"></div>
         </div>
 
         <div class="footer-text">
@@ -139,7 +145,8 @@
 
 </html>
 <script src="https://kit.fontawesome.com/7e4208235c.js" crossorigin="anonymous"></script>
-<script src="payment-page.js"></script>
+<script src="payment.js"></script>
 </body>
 
 </html>
+<script src="payment.js"></script>
