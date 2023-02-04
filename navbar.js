@@ -7,7 +7,7 @@ export default  function navbar_export(){
             <img src="https://www.1mg.com/images/tata_1mg_logo.svg" alt="">
         </div>
         <div class="f2">
-            <div><a style="color: red;" href="product.html">MEDICINES</a></div>
+            <div><a style="color: red;" href="index.html">MEDICINES</a></div>
             <div><a href="product.html">LAB TESTS</a></div>
             <div><a href="./html/consult.html">CONSULT DOCTORS</a></div>
             <div><a href="./html/covid.html">COVID-19</a></div>
@@ -24,7 +24,7 @@ export default  function navbar_export(){
             <div class="c1">
                 <img class="cart" src="https://www.freeiconspng.com/thumbs/cart-icon/cart-icon-14.png" alt="">
                 <div class="cart_hovar">
-                    <div>
+                    <div id="x12">
                         <p>Order Summary</p>
                         <p>
                             <p>0</p>
