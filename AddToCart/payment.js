@@ -19,7 +19,7 @@ function CheckUpi(){
         document.getElementById("result").innerHTML = "Your Order has succesfully placed"
         setTimeout(()=>{
             // add.textContent="ADD";
-            window.location = "index.html";
+            window.location.href = "../index.html";
         },1500);
     }
 }
