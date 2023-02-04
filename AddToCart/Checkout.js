@@ -16,7 +16,7 @@ document.querySelector("#SaveAddress").addEventListener("click", saveAddress);
         // if (obj.flat.length != 0 && obj.Pincode.length != 0
         //     && obj.Locality.length != 0 && obj.City.length != 0 && obj.State.length != 0
         //     && obj.Customer_Name.length != 0 )   {
-            // address.push(obj);
+        //     address.push(obj);
             // window.location.href = "varify.html";
             localStorage.setItem("add", JSON.stringify(obj));
             window.location = "varify.html";
