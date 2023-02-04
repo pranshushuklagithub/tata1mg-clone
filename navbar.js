@@ -12,11 +12,11 @@ export default  function navbar_export(){
             <div><a href="./html/consult.html">CONSULT DOCTORS</a></div>
             <div><a href="./html/covid.html">COVID-19</a></div>
             <div><a href="product.html">AYURVEDA</a></div>
-            <div><a href="./html/careplan.html">CARE PLAN</a></div>
+            <div><a href="./careplan.html">CARE PLAN</a></div>
         </div>
         <div class="f3">
             <div>
-                <a href = "./html/login.html"><span id="login">Login | Sign Up</span><a/>
+                <a href = "signup.html"><span id="login">Login | Sign Up</span><a/>
             </div>
             <div>
                 <span>Offers</span>
