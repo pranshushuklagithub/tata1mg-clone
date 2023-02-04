@@ -1,11 +1,11 @@
-* {
-  font-family: "Clear Sans","Helvetica Neue", Helvetica,Arial, Helvetica, sans-serif;
-  margin: 20px;
-}
-  #parent-container {
+
+#parent-container {
+    font-family: "Clear Sans","Helvetica Neue", Helvetica,Arial, Helvetica, sans-serif;
     height: 100%;
     width: 100%;
-    margin-top: -5%;
+    /* margin: auto; */
+    /* margin-top: -5%; */
+    overflow: hidden;
   }
   
 
@@ -56,18 +56,26 @@
     border-radius: 100%;
   }
 
+  #x12{
+      width: 95%
+      /* height:250px */
+      /* border: 2px solid #000; */
+    }
   #care-plan {
     width: 100%;
-    padding: 5% 10% 5% 10%;
+    padding: 5% 5% 5% 5%;
+    /* border: 2px solid #000; */
     margin-top: -2%;
   }
   #care-plan > img {
-    width: 100%;
+    /* border: 2px solid #000; */
+    width: 100%
   }
 
   #gridBox-1 {
     display: grid;
-    width: 100%;
+    /* width: 90%; */
+    margin: auto;
     grid-template-columns: repeat(8,1fr);
     align-items: center;
     text-align: center;
@@ -95,7 +103,8 @@
 
   #gridBox-2 {
     display: grid;
-    width: 100%;
+    /* width: 90%; */
+    margin: auto;
     grid-template-columns: repeat(8,1fr);
     align-items: center;
     text-align: center;
@@ -135,7 +144,8 @@
 
   .product-slider {
     display: grid;
-    width: 100%;
+    /* width: 100%; */
+    margin: auto;
     grid-template-columns: repeat(8,1fr);
     align-items: center;
     text-align: center;
@@ -156,7 +166,8 @@
   }
 .product {
     display: grid;
-    width: 100%;
+    /* width: 100%; */
+    margin: auto;
     grid-template-columns: repeat(6,1fr);
     align-items: center;
     text-align: center;
@@ -211,7 +222,8 @@ text-align: center;
 
 .product-1 {
   display: grid;
-  width: 100%;
+  /* width: 100%; */
+  margin: auto;
   grid-template-columns: repeat(6,1fr);
   align-items: center;
   text-align: center;
@@ -262,7 +274,9 @@ color: aliceblue;
     
 @media  all and (min-width :489px) and (max-width:800px) {
 
-  
+  #parent-container{
+    overflow: hidden;
+  }
   #parent-container > div {
     grid-template-columns: repeat(3,1fr);
     width: 100%;
@@ -285,7 +299,9 @@ color: aliceblue;
 }
 
 @media  all and (min-width :600px) and (max-width:1200px) {
-
+  #parent-container{
+    overflow: hidden;
+  }
   
   #parent-container > div {
     grid-template-columns: repeat(4,1fr);
@@ -308,12 +324,15 @@ color: aliceblue;
   }
 
 }
-@media  all and (min-width :299px) and (max-width:400px) {
+@media  screen and (max-width:400px) {
 
   
   #parent-container > div {
     grid-template-columns: repeat(3,1fr);
-    width: 100%;
+    /* width: 100%; */
+    
+    text-align: center;
+    margin: auto;
   }
   #parent-container > div > div {
     margin: auto;
