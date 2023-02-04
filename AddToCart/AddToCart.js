@@ -18,11 +18,17 @@ function displayCartArr(cartarr) {
   cartarr.forEach(function (ele, index) {
     var div = document.createElement("div");
     div.setAttribute("id", "leftPart");
+
+    var leftdiv = document.createElement("div");
+
     var title = document.createElement("h4");
     title.textContent = ele.Title;
 
     var Prescription = document.createElement("p");
     Prescription.textContent = ele.Prescription;
+    
+    // var image = document.createElement("img");
+    // image.setAttribute("src",ele.Image);
 
     var quantity = document.createElement("p");
     quantity.textContent = ele.Like1;
@@ -48,8 +54,13 @@ function displayCartArr(cartarr) {
     // var dec = document.createElement("div");
     // dec.setAttribute("class","fa-solid fa-circle-minus");
     // quan.appendChild(inc,dec);
+    var imgdiv = document.createElement("div");
+    var image = document.createElement("img");
+    image.setAttribute("src",ele.Image);
+    imgdiv.appendChild(image);
     priceDiv.append(price);
-    div.append(priceDiv, title, Prescription, quantity, btn);
+    leftdiv.append(title,Prescription,quantity,priceDiv,btn);
+    div.append(leftdiv,imgdiv);
     document.getElementById("CartItems").append(div);
 
   })

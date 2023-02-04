@@ -249,12 +249,26 @@
   }
   /* this is for javascript code */
   #leftPart{
-    margin: 0px 0px 0px 130px;
+    margin: 0px 0px 20px 130px;
     width: 550px;
     height: auto;
-    /* box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px; */
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+    border: 1px solid rgb(233, 227, 227);
     padding: 15px; 
     background: #f8f8f8;
+    display: flex;
+    
+  }
+  #leftPart img{
+    width: 40%;
+    float: right;
+    
+  }
+  .fa-trash-can{
+    border-style: none;
+    font-size: 20px;
+    margin: 10px;
+    cursor: pointer;
   }
   #totalLeftPart{
     padding: 25px;
