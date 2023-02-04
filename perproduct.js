@@ -1,4 +1,8 @@
+// import {footer} from"./footer.js"
+import navbar_export from "./navbar.js";
 
+document.getElementById("navbar").innerHTML = navbar_export();
+// document.querySelector(".footer").innerHTML = footer();
 
 var ProdData=JSON.parse(localStorage.getItem("1mg-prod"))||[];
 
