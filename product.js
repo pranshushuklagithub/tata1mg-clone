@@ -1,3 +1,9 @@
+import {footer} from"./footer.js"
+import navbar_export from "./navbar.js";
+
+document.getElementById("navbar").innerHTML = navbar_export();
+document.querySelector(".footer").innerHTML = footer();
+
 import {products} from "./products.js";
 
 var filtersData=products;

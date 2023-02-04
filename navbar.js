@@ -27,7 +27,7 @@ export default  function navbar_export(){
                     <div id="x12">
                         <p>Order Summary</p>
                         <p>
-                            <p>0</p>
+                            <p id="quantity">0</p>
                             <p>item</p>
                         </p>
                     </div>
