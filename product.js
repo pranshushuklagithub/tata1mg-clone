@@ -13,6 +13,11 @@ var pagenum=1;
 var totalpages=2;
 filterProd("A");
 
+var quantity=document.querySelector("#quantity");
+
+var ct=0;
+quantity.textContent=ct;
+
 var dialogbox=document.querySelector("#dailogbox");
 var modal=document.querySelector(".modal");
 var closeBtn =document.querySelector(".close-btn");
@@ -132,6 +137,8 @@ function Addcart(elem){
     Dataobj=JSON.parse(localStorage.getItem("1mg-cart"))||[];
     Dataobj.push(elem);
     localStorage.setItem("1mg-cart",JSON.stringify(Dataobj));
+    ct++;
+    quantity.textContent=ct;
 }
 var previous=document.querySelector("#prev");
 var next=document.querySelector("#next");
