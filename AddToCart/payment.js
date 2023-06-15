@@ -19,6 +19,7 @@ function CheckUpi(){
         document.getElementById("result").innerHTML = "Your Order has succesfully placed"
         setTimeout(()=>{
             // add.textContent="ADD";
+
             window.location = "index.html";
         },1500);
     }

@@ -4,7 +4,9 @@ import navbar_export from "./navbar.js";
 document.getElementById("navbar").innerHTML = navbar_export();
 document.querySelector(".footer").innerHTML = footer();
 
-
+document.querySelector(".quick_order").addEventListener('click', ()=>{
+    location.href="./AddToCart/AddToCart.html"
+})
 //product Array and display product Fun
 
 var product2=[

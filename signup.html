@@ -4,11 +4,11 @@
     <meta charset="UTF-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Login | 1mg.com</title>
-    <link rel="stylesheet" href="/css/login.css" />
+    <title>Sign Up | 1mg.com</title>
+    <link rel="stylesheet" href="./signup.css" />
     <!-- <link rel="stylesheet" href="styles/navbar.css" /> -->
     <!-- <link rel="stylesheet" href="styles/footer.css" /> -->
-    <link rel="stylesheet" href="/css/mdcn.css" />
+    <link rel="stylesheet" href="./mdcn.css">
   </head>
   <body>
     <div id="container">
@@ -88,13 +88,16 @@
             <span class="dot" onclick="currentSlide(5)"></span>
           </div>
         </div>
+
+        <!-- ........................................................................................... -->
+
         <div id="account_1">
           <h1>
             Sign Up
             <!-- <span class="close">[x]</span> -->
           </h1>
           <p>
-            Please enter your Mobile number to receive One Time Password (OTP)
+            Please enter your Mobile number .
           </p>
           <form>
             <input
@@ -116,7 +119,7 @@
               Have an account?
               <span class="a_orange" id="login_span">Login</span>
             </p>
-           
+            
 
             <p id="terms">
               By signing up, you agree to our
@@ -125,6 +128,9 @@
             </p>
           </div>
         </div>
+
+
+        <!-- .......................................................................................... -->
         <div id="account_2">
           <h1>
             Login
@@ -164,29 +170,29 @@
             </p>
           </div>
         </div>
+
+        <!-- ..................................................................................................... -->
         <div id="verify_otp">
           <h1>
             Verify OTP
             <!-- <span class="close">[x]</span> -->
           </h1>
           <p>
-            Provide OTP sent to <span id="user_mobile"></span>
-            <span class="a_orange" id="edit_button">Edit</span>
+            Provide OTP <span id="user_mobile"></span>
+            <span class="a_orange" id="edit_button"></span>
           </p>
           <form>
             <input
               type="password"
               placeholder="One Time Password"
               id="one_time_p"
+            
               minlength="8"
               maxlength="12"
             />
           </form>
           <p id="wrong_otp">Please enter a valid OTP.</p>
-          <p id="error">
-            <span class="a_orange" id="otp_sms">Get OTP on SMS</span> |
-            <span class="a_orange" id="otp_call">Get OTP on Call</span>
-          </p>
+          
           <button id="done">DONE</button>
           <div>
             <p>
@@ -195,7 +201,7 @@
           </div>
         </div>
 
-
+        
         <div id="email_id_new">
           <h1>
             Enter your email id
@@ -209,7 +215,7 @@
             <input type="email" placeholder="Enter Email ID" id="email_new" />
           </form>
           <p id="invalid_email">Please enter a valid email ID.</p>
-          <button id="email_continue" onclick="login()">CONTINUE</button>
+          <button id="email_continue" onclick="Register()">CONTINUE</button>
           <div>
             <p id="terms">
               By logging up, you agree to our
@@ -226,10 +232,11 @@
     </div>
   </body>
 </html>
-<script src="/scripts/login_signup.js"></script>
+<script src="./login_signup.js"></script>
 <!-- <script type="module">
-  import footer from "./script/footer.js";
-  document.getElementById("footer").innerHTML = footer();
+  
   import navbar from "./script/navbar.js";
   document.getElementById("navbar").innerHTML = navbar();
+
+
 </script> -->
