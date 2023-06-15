@@ -5,7 +5,11 @@ document.getElementById("navbar").innerHTML = navbar_export();
 // document.querySelector(".footer").innerHTML = footer();
 
 var ProdData=JSON.parse(localStorage.getItem("1mg-prod"))||[];
+var Dataobj=JSON.parse(localStorage.getItem("1mg-cart"))||[];
+var quantity=document.querySelector("#quantity");
 
+var ct=0;
+quantity.textContent=ct;
 console.log(ProdData);
 
 var scrollbtn=document.querySelectorAll(".scrolls");
@@ -31,10 +35,20 @@ add.addEventListener("click",()=>{
     },1500);
 });
 function Addcart(elem){
+    // var len=localStorage.getItem("1mg-cart");
     localStorage.setItem("1mg-cart",JSON.stringify(elem));
+    ct=ct+1;
+    quantity.textContent=ct;
+    // document.querySelector("#quantity").textContent=Dataobj.length;
+    // console.log(len);
+    // console.log(Dataobj.length);
 }
 document.querySelector("#strikeprice").textContent=ProdData.Price;
-document.querySelector("#price").textContent=ProdData.Price;
+var discountedPrice = parseInt(ProdData.Price - (ProdData.Price * 0.15));
+document.querySelector("#price").textContent=discountedPrice;
+document.querySelector("#neuprice").textContent=discountedPrice-25;
+// document.querySelector("#quantity").textContent=Dataobj.length;
+// console.log(Dataobj.length);
 //var 
 function Displayprod(ProdData){
     console.log(ProdData.Title);
